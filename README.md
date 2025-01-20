@@ -45,7 +45,7 @@
 | 38  | CS-4443                                                   | Web-Based Software Development                         | 3       |
 |     | **Free Electives (23 credits at least)**                  |                                                        |         |
 | 39  | [MTH-1112 (required)]                                       | Pre-Calculus Algebra                                   | 3       |
-| 40  | MTH-1114 (required)                                       | Pre-Algebra Trigonometry                               | 3       |
+| 40  | [MTH-1114 (required)]                                       | Pre-Algebra Trigonometry                               | 3       |
 | 41  | MGT-3300                                                  | Principles of Management                               | 3       |
 | 42  | LAW-2241                                                  | Legal Environment                                      | 3       |
 | 43  | IS-2241                                                   | Computer Concepts & Applications                       | 3       |
@@ -56,6 +56,6 @@
 
 [MTH-1112 (required)]: ./MTH-1112/DoanDuyTrung-MTH112-20211-Tuesday.pdf
 
-[MTH-1112 (required)]: ./MTH-1112/DoanDuyTrung-MTH112-20211-Tuesday.pdf
+[MTH-1114 (required)]: ./MTH-1114/MTH114-2022Spring.doc
 
 [HIS-1122]: ./HIS-1122/World%20History%20to%201500%20(HIS122)-ThuyPV.doc

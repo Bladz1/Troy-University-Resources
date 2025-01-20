@@ -8,7 +8,7 @@
 | 3   | ART-1133                                                  | Visual Art                                             | 3       |
 | 4   | HIS-1122                                                  | World History to 1500                                  | 3       |
 | 5   | BIO/L1100                                                 | Principles of Biology & Lab                            | 4       |
-| 6   | HIS-1122                                                  | World History after 1500                               | 3       |
+| 6   | [HIS-1122]                                                  | World History to 1500                               | 3       |
 | 7   | MUS-1131                                                  | Music Appreciation                                     | 3       |
 | 8   | SPH-2241/COM-2241                                         | Fundamentals of Speech                                 | 3       |
 | 9   | ENG-1102                                                  | Composition and Modern English II                      | 3       |
@@ -53,3 +53,5 @@
 | 45  | MKT-3361                                                  | Principles of Marketing                                | 3       |
 | 46  | SCI/L-2233                                                | Physical Science and Lab                               | 3       |
 | 47  | MGT-4460                                                  | Project Management                                     | 3       |
+
+[HIS-1122]: ./HIS-1122/World%20History%20to%201500%20(HIS122)-ThuyPV.doc

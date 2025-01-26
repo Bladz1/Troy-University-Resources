@@ -33,7 +33,7 @@
 | 27  | CS-3372                                                   | Formal Languages and the Theory of Computation         | 3       |
 | 28  | CS-4420                                                   | Introduction to Database Systems                       | 3       |
 | 29  | CS-4445                                                   | Data Communication and Networking                      | 3       |
-| 30  | CS-4448                                                   | Operating Systems                                      | 3       |
+| 30  | [CS-4448]                                                   | Operating Systems                                      | 3       |
 | 31  | MTH-2210                                                  | Applied Statistics                                     | 3       |
 | 32  | MTH-2213                                                  | Applied Discrete Mathematics                           | 3       |
 |     | **Major Electives (Choose two of the following courses)** |                                                        |         |
@@ -59,3 +59,5 @@
 [MTH-1114 (required)]: ./MTH-1114/MTH114-2022Spring.doc
 
 [HIS-1122]: ./HIS-1122/World%20History%20to%201500%20(HIS122)-ThuyPV.doc
+
+[CS-4448]: ./CS4448/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf

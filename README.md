@@ -60,7 +60,7 @@
 
 [HIS-1122]: ./HIS-1122/World%20History%20to%201500%20(HIS122)-ThuyPV.doc
 
-[CS-3365]: ./CS365/CS365%Syllabus%-%Spring%2024-%Dr%Trung.docx
+[CS-3365]: ./CS365/CS365%20Syllabus%20-%20Spring%202024.docx
 
 [CS-4445]: ./CS4445/Data%20communication%20and%20Networking%20Syllabus%202024.doc
 

@@ -28,7 +28,7 @@
 | 22  | CS-3329                                                   | Analysis of Algorithms                                 | 3       |
 | 23  | CS-3332                                                   | Software Engineering I                                 | 3       |
 | 24  | CS-3360                                                   | Concepts of Object-Oriented Programming                | 3       |
-| 25  | CS-3365                                                   | Introduction to Computer Organization and Architecture | 3       |
+| 25  | [CS-3365]                                                   | Introduction to Computer Organization and Architecture | 3       |
 | 26  | CS-3370                                                   | Nature of Programming Languages                        | 3       |
 | 27  | CS-3372                                                   | Formal Languages and the Theory of Computation         | 3       |
 | 28  | CS-4420                                                   | Introduction to Database Systems                       | 3       |
@@ -59,6 +59,8 @@
 [MTH-1114 (required)]: ./MTH-1114/MTH114-2022Spring.doc
 
 [HIS-1122]: ./HIS-1122/World%20History%20to%201500%20(HIS122)-ThuyPV.doc
+
+[CS-3365]: ./CS365/CS365%20Syllabus%20-%20Spring%202024.docx
 
 [CS-4445]: ./CS4445/Data%20communication%20and%20Networking%20Syllabus%202024.doc
 

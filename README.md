@@ -19,8 +19,8 @@
 | 14  | CHM/L1142                                                 | General Chemistry and Lab I                            | 4       |
 | 15  | CHM/L1143                                                 | General Chemistry and Lab II                           | 4       |
 |     | **Required Major Courses**                                |                                                        |         |
-| 16  | MTH-1125                                                  | Calculus I                                             | 4       |
-| 17  | MTH-1126                                                  | Calculus II                                            | 4       |
+| 16  | [MTH-1125]                                                  | Calculus I                                             | 4       |
+| 17  | [MTH-1126]                                                  | Calculus II                                            | 4       |
 | 18  | CS-2250                                                   | Computer Science I                                     | 3       |
 | 19  | CS-2255                                                   | Computer Science II                                    | 3       |
 | 20  | CS-3310                                                   | Foundations of Computer Science                        | 3       |
@@ -57,6 +57,10 @@
 [MTH-1112 (required)]: ./MTH-1112/DoanDuyTrung-MTH112-20211-Tuesday.pdf
 
 [MTH-1114 (required)]: ./MTH-1114/MTH114-2022Spring.doc
+
+[MTH-1125]: ./Calculus/MTH%201126_syllabus.doc
+
+[MTH-1126]: ./Calculus/MTH%201126_syllabus.doc
 
 [HIS-1122]: ./HIS-1122/World%20History%20to%201500%20(HIS122)-ThuyPV.doc
 

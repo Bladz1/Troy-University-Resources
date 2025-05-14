@@ -54,7 +54,7 @@
 | 46  | SCI/L-2233                                                | Physical Science and Lab                               | 3       |
 | 47  | MGT-4460                                                  | Project Management                                     | 3       |
 
-[ENG-1102]: ./ENG1102/SYLLABUS%ENG1102%MS%HUONG..docx
+[ENG-1102]: ./ENG1102/SYLLABUS%20ENG1102%20MS%20HUONG..docx
 
 [MTH-1112 (required)]: ./MTH-1112/DoanDuyTrung-MTH112-20211-Tuesday.pdf
 

@@ -11,7 +11,7 @@
 | 6   | [HIS-1122]                                                  | World History to 1500                               | 3       |
 | 7   | MUS-1131                                                  | Music Appreciation                                     | 3       |
 | 8   | SPH-2241/COM-2241                                         | Fundamentals of Speech                                 | 3       |
-| 9   | ENG-1102                                                  | Composition and Modern English II                      | 3       |
+| 9   | [ENG-1102]                                                  | Composition and Modern English II                      | 3       |
 | 10  | ENG-2205                                                  | World Literature I                                     | 3       |
 | 11  | ENG-2206                                                  | World Literature II                                    | 3       |
 | 12  | ECO-2251                                                  | Macroeconomics                                         | 3       |
@@ -53,6 +53,8 @@
 | 45  | MKT-3361                                                  | Principles of Marketing                                | 3       |
 | 46  | SCI/L-2233                                                | Physical Science and Lab                               | 3       |
 | 47  | MGT-4460                                                  | Project Management                                     | 3       |
+
+[ENG-1102]: ./ENG1102/SYLLABUS%20ENG1102%20MS%20HUONG..docx
 
 [MTH-1112 (required)]: ./MTH-1112/DoanDuyTrung-MTH112-20211-Tuesday.pdf
 

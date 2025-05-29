@@ -35,7 +35,7 @@
 | 28  | CS-4420                                                   | Introduction to Database Systems                       | 3       | CS 3323              |
 | 29  | [CS-4445]                                                 | Data Communication and Networking                      | 3       | CS 3323              |
 | 30  | [CS-4448]                                                 | Operating Systems                                      | 3       | CS 3323              |
-| 31  | MTH-2210                                                  | Applied Statistics                                     | 3       | MTH 1112 with C      |
+| 31  | [MTH-2210]                                                | Applied Statistics                                     | 3       | MTH 1112 with C      |
 | 32  | [MTH-2215]                                                | Applied Discrete Mathematics                           | 3       | MTH 1112 with C      |
 |     | **Major Electives (Choose two of the following courses)** |                                                        |         |                      |
 | 33  | CS-4447                                                   | Systems Analysis and Design                            | 3       | CS 3323              |
@@ -76,3 +76,5 @@
 [TROY-1101]: ./TROY101/
 
 [MTH-2215]: ./MTH2215/
+
+[MTH-2210]: ./MTH210/

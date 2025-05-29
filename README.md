@@ -1,11 +1,11 @@
 # Troy-University-Resources
 
 | No. | Code                                                      | Course Title                                           | Credits | Prerequisite    |
-| --- | --------------------------------------------------------- | ------------------------------------------------------ | ------- | --------------- |
+|:---:| --------------------------------------------------------- |:------------------------------------------------------ |:-------:|:---------------:|
 |     | **General studies**                                       |                                                        |         |                 |
-| 1   | TROY-1101                                                 | University Orientation                                 | 1       | o               |
-| 2   | ENG-1101                                                  | English Composition I                                  | 3       | No              |
-| 3   | ART-1133                                                  | Visual Art                                             | 3       | No              |
+| 1   | TROY-1101                                                 | University Orientation                                 | 1       |                 |
+| 2   | ENG-1101                                                  | English Composition I                                  | 3       |                 |
+| 3   | ART-1133                                                  | Visual Art                                             | 3       |                 |
 | 4   | HIS-1122                                                  | World History to 1500                                  | 3       |                 |
 | 5   | BIO/L1100                                                 | Principles of Biology & Lab                            | 4       |                 |
 | 6   | [HIS-1122]                                                | World History to 1500                                  | 3       |                 |
@@ -55,20 +55,20 @@
 | 46  | SCI/L-2233                                                | Physical Science and Lab                               | 3       |                 |
 | 47  | MGT-4460                                                  | Project Management                                     | 3       |                 |
 
-[ENG-1102]: ./ENG1102/SYLLABUS%20ENG1102%20MS%20HUONG..docx
+[ENG-1102]: ./ENG1102/
 
-[MTH-1112 (required)]: ./MTH-1112/DoanDuyTrung-MTH112-20211-Tuesday.pdf
+[MTH-1112 (required)]: ./MTH1112/
 
-[MTH-1114 (required)]: ./MTH-1114/MTH114-2022Spring.doc
+[MTH-1114 (required)]: ./MTH1114/
 
-[MTH-1125]: ./Calculus/MTH%201126_syllabus.doc
+[MTH-1125]: ./MTH1125-1126-Calculus/
 
-[MTH-1126]: ./Calculus/MTH%201126_syllabus.doc
+[MTH-1126]: ./MTH1125-1126-Calculus/
 
-[HIS-1122]: ./HIS-1122/World%20History%20to%201500%20(HIS122)-ThuyPV.doc
+[HIS-1122]: ./HIS1122/
 
-[CS-3365]: ./CS365/CS365%20Syllabus%20-%20Spring%202024.docx
+[CS-3365]: ./CS365/
 
-[CS-4445]: ./CS4445/Data%20communication%20and%20Networking%20Syllabus%202024.doc
+[CS-4445]: ./CS4445/
 
-[CS-4448]: ./CS4448/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf
+[CS-4448]: ./CS4448/

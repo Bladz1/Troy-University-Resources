@@ -3,7 +3,7 @@
 | No. | Code                                                      | Course Title                                           | Credits | Prerequisite    |
 |:---:| --------------------------------------------------------- |:------------------------------------------------------ |:-------:|:---------------:|
 |     | **General studies**                                       |                                                        |         |                 |
-| 1   | TROY-1101                                                 | University Orientation                                 | 1       |                 |
+| 1   | [TROY-1101]                                               | University Orientation                                 | 1       |                 |
 | 2   | ENG-1101                                                  | English Composition I                                  | 3       |                 |
 | 3   | ART-1133                                                  | Visual Art                                             | 3       |                 |
 | 4   | HIS-1122                                                  | World History to 1500                                  | 3       |                 |
@@ -36,7 +36,7 @@
 | 29  | [CS-4445]                                                 | Data Communication and Networking                      | 3       |                 |
 | 30  | [CS-4448]                                                 | Operating Systems                                      | 3       |                 |
 | 31  | MTH-2210                                                  | Applied Statistics                                     | 3       |                 |
-| 32  | MTH-2213                                                  | Applied Discrete Mathematics                           | 3       |                 |
+| 32  | [MTH-2215]                                                | Applied Discrete Mathematics                           | 3       |                 |
 |     | **Major Electives (Choose two of the following courses)** |                                                        |         |                 |
 | 33  | CS-4447                                                   | Systems Analysis and Design                            | 3       |                 |
 | 34  | CS-4451                                                   | Computer Security and Reliability                      | 3       |                 |
@@ -72,3 +72,7 @@
 [CS-4445]: ./CS4445/
 
 [CS-4448]: ./CS4448/
+
+[TROY-1101]: ./TROY101/
+
+[MTH-2215]: ./MTH2215/

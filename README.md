@@ -11,7 +11,7 @@
 | 6  | [HIS-1122]                                                | World History to 1500                                   | 3       |                      |
 | 7  | MUS-1131                                                  | Music Appreciation                                      | 3       |                      |
 | 8  | SPH-2241/COM-2241                                         | Fundamentals of Speech                                  | 3       |                      |
-| 9  | [ENG-1102]                                                | Composition and Modern English II                       | 3       | ENG 1101 with C      |
+| 9  | [ENG-1102]                                                | Composition and Modern English II                        | 3       | ENG 1101 with C      |
 | 10 | ENG-2205                                                  | World Literature I                                      | 3       | ENG 1102 with C      |
 | 11 | ENG-2206                                                  | World Literature II                                     | 3       | ENG 1102 with C      |
 | 12 | ECO-2251                                                  | Macroeconomics                                          | 3       |                      |

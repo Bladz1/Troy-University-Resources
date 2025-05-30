@@ -4,8 +4,8 @@
 |:---:| --------------------------------------------------------- | ------------------------------------------------------ |:-------:|:--------------------:|
 |     | **General studies**                                       |                                                        |         |                      |
 | 1   | [TROY-1101]                                               | University Orientation                                 | 1       |                      |
-| 2   | ENG-1101                                                  | English Composition I                                  | 3       |                      |
-| 3   | ART-1133                                                  | Visual Art                                             | 3       |                      |
+| 2   | [ENG-1101]                                                | English Composition I                                  | 3       |                      |
+| 3   | [ART-1133]                                                | Visual Art                                             | 3       |                      |
 | 4   | HIS-1122                                                  | World History to 1500                                  | 3       |                      |
 | 5   | BIO/L1100                                                 | Principles of Biology & Lab                            | 4       |                      |
 | 6   | [HIS-1122]                                                | World History to 1500                                  | 3       |                      |
@@ -84,3 +84,7 @@
 [CHM/L1142]: ./CHML142/
 
 [CS-2255]: ./CS256/
+
+[ART-1133]: ./ART133/
+
+[ENG-1101]: ./ENG1101/

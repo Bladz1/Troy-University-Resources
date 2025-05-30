@@ -14,7 +14,7 @@
 | 9   | [ENG-1102]                                                | English Composition II                                 | 3       | ENG 1101 with C      |
 | 10  | ENG-2205                                                  | World Literature I                                     | 3       | ENG 1102 with C      |
 | 11  | ENG-2206                                                  | World Literature II                                    | 3       | ENG 1102 with C      |
-| 12  | ECO-2251                                                  | Macroeconomics                                         | 3       |                      |
+| 12  | [ECO-2251]                                                | Macroeconomics                                         | 3       |                      |
 | 13  | ECO-2252                                                  | Microeconomics                                         | 3       |                      |
 | 14  | [CHM/L1142]                                               | General Chemistry and Lab I                            | 4       |                      |
 | 15  | CHM/L1143                                                 | General Chemistry and Lab II                           | 4       |                      |
@@ -90,3 +90,5 @@
 [ENG-1101]: ./ENG1101/
 
 [MUS-1131]: ./MUS131/
+
+[ECO-2251]: ./ECO251/

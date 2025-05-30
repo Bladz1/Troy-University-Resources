@@ -24,7 +24,7 @@
 | 18  | CS 2220                                                   | Numerical Methods in Computing                         | 3       | MTH 1112 with C      |
 | 19  | CS-2250                                                   | Computer Science I                                     | 3       | MTH 1112 with C      |
 | 20  | [CS-2255]                                                 | Computer Science II                                    | 3       | CS 2250              |
-| 21  | CS-3310                                                   | Foundations of Computer Science                        | 3       | MTH 1112 with C      |
+| 21  | [CS-3310]                                                 | Foundations of Computer Science                        | 3       | MTH 1112 with C      |
 | 22  | CS-3323                                                   | Data Structures                                        | 3       | CS 2255 and MTH 1125 |
 | 23  | CS-3329                                                   | Analysis of Algorithms                                 | 3       | CS 2255              |
 | 24  | CS-3332                                                   | Software Engineering I                                 | 3       | CS 2255              |
@@ -92,3 +92,5 @@
 [MUS-1131]: ./MUS131/
 
 [ECO-2251]: ./ECO251/
+
+[CS-3310]: ./CS310/

@@ -1,0 +1,1 @@
+Môn này là môn học về thuyết trình, nhưng quyết định được A hay không không phải là nhờ thuyết trình, mà phải vượt qua bài thi lí thuyết giấy, càng viết được nhiều (dĩ nhiên phải sát kiến thức trong slide), thì càng được điểm cao, các khóa gần đây chỉ có 1 con A là nhiều nhất.

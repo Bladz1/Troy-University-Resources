@@ -23,7 +23,7 @@
 | 17  | [MTH-1126]                                                | Calculus II                                            | 4       | MTH 1125             |
 |     | CS 2220                                                   | Numerical Methods in Computing                         | 3       | MTH 1112 with C      |
 | 18  | CS-2250                                                   | Computer Science I                                     | 3       | MTH 1112 with C      |
-| 19  | CS-2255                                                   | Computer Science II                                    | 3       | CS 2250              |
+| 19  | [CS-2255]                                                 | Computer Science II                                    | 3       | CS 2250              |
 | 20  | CS-3310                                                   | Foundations of Computer Science                        | 3       | MTH 1112 with C      |
 | 21  | CS-3323                                                   | Data Structures                                        | 3       | CS 2255 and MTH 1125 |
 | 22  | CS-3329                                                   | Analysis of Algorithms                                 | 3       | CS 2255              |
@@ -82,3 +82,5 @@
 [SPH-2241/COM-2241]: ./SPH241/
 
 [CHM/L1142]: ./CHML142/
+
+[CS-2255]: ./CS256/

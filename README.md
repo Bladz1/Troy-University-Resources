@@ -9,7 +9,7 @@
 | 4   | HIS-1123                                                  | World History from 1500                                | 3       |                      |
 | 5   | BIO/L1100                                                 | Principles of Biology & Lab                            | 4       |                      |
 | 6   | [HIS-1122]                                                | World History to 1500                                  | 3       |                      |
-| 7   | MUS-1131                                                  | Music Appreciation                                     | 3       |                      |
+| 7   | [MUS-1131]                                                | Music Appreciation                                     | 3       |                      |
 | 8   | [SPH-2241/COM-2241]                                       | Fundamentals of Speech                                 | 3       |                      |
 | 9   | [ENG-1102]                                                | English Composition II                                 | 3       | ENG 1101 with C      |
 | 10  | ENG-2205                                                  | World Literature I                                     | 3       | ENG 1102 with C      |
@@ -88,3 +88,5 @@
 [ART-1133]: ./ART133/
 
 [ENG-1101]: ./ENG1101/
+
+[MUS-1131]: ./MUS131/

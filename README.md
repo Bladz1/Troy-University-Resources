@@ -21,7 +21,7 @@
 |     | **Required Major Courses**                                |                                                        |         |                      |
 | 16  | [MTH-1125]                                                | Calculus I                                             | 4       | MTH 1114 with C      |
 | 17  | [MTH-1126]                                                | Calculus II                                            | 4       | MTH 1125             |
-| 18  | CS 2220                                                   | Numerical Methods in Computing                         | 3       | MTH 1112 with C      |
+| 18  | [CS-2220]                                                 | Numerical Methods in Computing                         | 3       | MTH 1112 with C      |
 | 19  | [CS-2250]                                                 | Computer Science I                                     | 3       | MTH 1112 with C      |
 | 20  | [CS-2255]                                                 | Computer Science II                                    | 3       | CS 2250              |
 | 21  | [CS-3310]                                                 | Foundations of Computer Science                        | 3       | MTH 1112 with C      |
@@ -96,3 +96,5 @@
 [CS-3310]: ./CS310/
 
 [CS-2250]: ./CS255/
+
+[CS-2220]: ./CS2220/

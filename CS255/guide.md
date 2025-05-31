@@ -14,7 +14,7 @@ Xin chào, đây là môn học đầu tiên trong chương trình học CS củ
 
 - K68 thì đệ của Mai Anh là tay Kiều Giang Biên, Mai Anh nhặt được hắn ở trong lab nên kéo về trợ giảng, học IT2, có lẽ do IT2 và ngành ta có cái 'khoảng cách vô hình' mà hắn cực kì thái độ với anh em chúng ta, nhất là đoạn thi cuối kì, anh em đang vất vả làm bài hắn vừa đi vừa liếc, 'nhìn đểu', hết giờ bắt đầu hét lớn 'TẤT CẢ LÀM SAI BÀI GIẢI THUẬT RỒI NHÉ!!!', 1 giọng điệu khó chịu, thiếu hòa đồng, bẩn thỉu, con hàng bựa nhất trong các thể loại, để dùng 1 icon tả gương mặt hắn thì là 😏 Vâng! Đúng là khuôn mặt đấy, 1 thằng khốn nạn!! 
 
-- Một lời khuyên cho anh chị em là cố gắng, đoàn kết, Mai Anh là cơn sóng đầu tiên, không chỉ để lại những điểm C khốn nạn, mà còn những bài học để ứng phó tốt hơn trong các môn tương lai, đến đây chắc mọi người cũng hình dung ra tại sao môn này lại bù trừ cho CS-3310 rồi.
+- Một lời khuyên cho anh chị em là cố gắng, đoàn kết, Mai Anh là cơn bão lớn, không chỉ để lại những điểm C khốn nạn, mà còn là bài học để chúng ta ứng phó tốt hơn trong các môn tương lai, đến đây chắc mọi người cũng hình dung ra tại sao môn này lại bù trừ cho CS-3310 rồi.
   
   > Tại sao tên phụ nữ lại hay được đặt cho những cơn bão lớn?
   > 

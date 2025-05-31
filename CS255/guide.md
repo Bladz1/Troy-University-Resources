@@ -16,6 +16,6 @@ Xin chào, đây là môn học đầu tiên trong chương trình học CS củ
 
 - Một lời khuyên cho anh chị em là cố gắng, đoàn kết, Mai Anh là cơn sóng đầu tiên, không chỉ để lại những điểm C khốn nạn, mà còn những bài học để ứng phó tốt hơn trong các môn tương lai, đến đây chắc mọi người cũng hình dung ra tại sao môn này lại bù trừ cho CS-3310 rồi.
   
-  > Tại sao tên phụ nữ hay được đặt cho những cơn bão lớn?
+  > Tại sao tên phụ nữ lại hay được đặt cho những cơn bão lớn?
   > 
-  > -> Bão đi quét sạch tài sản, nhà cửa, thậm chí là cả TÍNH MẠNG!!
+  > -> Bão đi qua quét sạch tài sản, nhà cửa, thậm chí là cả TÍNH MẠNG!!

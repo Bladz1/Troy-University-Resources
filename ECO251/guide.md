@@ -10,7 +10,7 @@ Môn này chỉ có 1 giảng viên dạy, thầy [Nguyễn Tài Vượng][link]
   
   > Không học thì sao không tìm 1 cái ngành nào mà chỉ đóng tiền có điểm ấy.
 
-- Luyên thuyên 1 hồi vậy, giờ đến câu hỏi quan trọng nhất, vậy không học thì thi như nào? À đến thi thực ra anh không trông chặt vì biết cái bọn này mà chặt thì làm gì có kiến thức mà thi? Vậy nên anh thả cho dùng điện thoại, thậm chí 2 ngày thi xa nhau của 2 lớp còn không đổi đề, tóm lại chép hết sức đi, lấy tạm A sau còn gây dựng nền kinh tế 💸.
+- Luyên thuyên 1 hồi vậy, giờ đến câu hỏi quan trọng nhất, vậy không học thì thi như nào? À đến thi thực ra anh không trông chặt vì biết cái bọn này mà chặt thì làm gì có kiến thức mà thi? Vậy nên anh thả cho dùng điện thoại, thậm chí 2 ngày thi xa nhau của 2 lớp còn không đổi đề, tóm lại chép hết sức đi, lấy tạm A sau còn gây dựng nền kinh tế 💸
 
 [link]: https://sem.hust.edu.vn/lecturers/ths-nguyen-tai-vuong
 

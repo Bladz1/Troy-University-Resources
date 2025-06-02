@@ -1,5 +1,7 @@
 # Troy-University-Resources
 
+[INTRODUCTION]
+
 | No. | Code                                                      | Course Title                                           | Credits | Prerequisite         |
 |:---:| --------------------------------------------------------- | ------------------------------------------------------ |:-------:|:--------------------:|
 |     | **General studies**                                       |                                                        |         |                      |
@@ -54,6 +56,8 @@
 | 46  | MKT-3361                                                  | Principles of Marketing                                | 3       |                      |
 | 47  | SCI/L-2233                                                | Physical Science and Lab                               | 3       |                      |
 | 48  | MGT-4460                                                  | Project Management                                     | 3       | MGT 3330             |
+
+[INTRODUCTION]: ./introduction.md/
 
 [ENG-1102]: ./ENG1102/
 

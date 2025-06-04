@@ -8,7 +8,7 @@
 | 1   | [TROY-1101]                                               | University Orientation                                 | 1       |                      |
 | 2   | [ENG-1101]                                                | English Composition I                                  | 3       |                      |
 | 3   | [ART-1133]                                                | Visual Art                                             | 3       |                      |
-| 4   | HIS-1123                                                  | World History from 1500                                | 3       |                      |
+| 4   | [HIS-1123]                                                | World History from 1500                                | 3       |                      |
 | 5   | BIO/L1100                                                 | Principles of Biology & Lab                            | 4       |                      |
 | 6   | [HIS-1122]                                                | World History to 1500                                  | 3       |                      |
 | 7   | [MUS-1131]                                                | Music Appreciation                                     | 3       |                      |
@@ -69,7 +69,7 @@
 
 [MTH-1126]: ./MTH1125-1126-Calculus/
 
-[HIS-1122]: ./HIS1122/
+[HIS-1122]: ./HIS1122-1123/
 
 [CS-3365]: ./CS365/
 
@@ -102,3 +102,5 @@
 [CS-2250]: ./CS255/
 
 [CS-2220]: ./CS2220/
+
+[HIS-1123]: ./HIS1122-1123/

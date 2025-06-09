@@ -12,4 +12,4 @@ Môn này là môn giới thiệu về thế giới CNTT từ tự cổ chí kim
 
 - Môn này với lí do là môn 'Foundations' nên anh không cho thi mà cho thuyết trình lấy điểm, khá dị, phần nào liên tưởng chúng ta đến với môn SPH241, tuy nhiên nếu thuyết trình ngon thì A khá rủng rỉnh, nhiều A là đằng khác, vậy đầu tiên hãy cố ngoan trong lớp anh trước nhé!! 🍀
 
-- Về giảng viên còn lại là dành cho lớp B, khá ít thông tin nhưng có vẻ thi đơn giản chép được, nói chung một môn Foundations thoải mái, trong cái kì chắc sẽ được đính kèm CS2250, KHÁ KHOAII.
+- Về giảng viên còn lại là dành cho lớp B, khá ít thông tin nhưng có vẻ thi đơn giản chép được, nói chung một môn Foundations thoải mái, trong cái kì chắc sẽ được đính kèm CS-2250, KHÁ KHOAII.

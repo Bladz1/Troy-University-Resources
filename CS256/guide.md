@@ -1,4 +1,4 @@
-Đây là môn tiếp theo của môn CS1 (CS255), tập trung học về OOP trong C++, một số cấu trúc dữ liệu cơ bản, đệ quy. Có 2 thầy dạy, nhưng cơ bản dạy chính vẫn là thầy [Nguyễn Đình Văn][link].
+Đây là môn tiếp theo của môn CS1 (CS-2250), tập trung học về OOP trong C++, một số cấu trúc dữ liệu cơ bản, đệ quy. Có 2 thầy dạy, nhưng cơ bản dạy chính vẫn là thầy [Nguyễn Đình Văn][link].
 
 ---
 

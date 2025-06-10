@@ -2,6 +2,12 @@
 
 [INTRODUCTION]
 
+<p align="center">
+  <img src="the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image4.jpeg" alt="image4.jpeg">
+  <br>
+  <em>Chụp tại D7, từng là mái nhà chung của viện quốc tế (SIE).</em>
+</p>
+
 | No. | Code                                                      | Course Title                                           | Credits | Prerequisite                             |
 |:---:| --------------------------------------------------------- | ------------------------------------------------------ |:-------:|:----------------------------------------:|
 |     | **General studies**                                       |                                                        |         |                                          |

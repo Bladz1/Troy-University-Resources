@@ -64,7 +64,7 @@
 | 48  | MGT-3300                                                  | Principles of Management                               | 3       |                                          |
 | 49  | LAW-2241                                                  | Legal Environment                                      | 3       |                                          |
 | 50  | IS-2241                                                   | Computer Concepts & Applications                       | 3       |                                          |
-| 51  | MKT-3361                                                  | Principles of Marketing                                | 3       |                                          |
+| 51  | MKT-3300                                                  | Principles of Marketing                                | 3       |                                          |
 | 52  | SCI/L-2233                                                | Physical Science and Lab                               | 3       |                                          |
 
 [INTRODUCTION]: ./introduction.md/

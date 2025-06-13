@@ -18,7 +18,7 @@
 | 2   | [ENG-1101]                                                | English Composition I                                  | 3       |                                          |
 | 3   | [ART-1133]                                                | Visual Art                                             | 3       |                                          |
 | 4   | [HIS-1123]                                                | World History from 1500                                | 3       |                                          |
-| 5   | BIO/L1100                                                 | Principles of Biology & Lab                            | 4       |                                          |
+| 5   | BIO/L-1100                                                | Principles of Biology & Lab                            | 4       |                                          |
 | 6   | [HIS-1122]                                                | World History to 1500                                  | 3       |                                          |
 | 7   | [MUS-1131]                                                | Music Appreciation                                     | 3       |                                          |
 | 8   | [SPH-2241/COM-2241]                                       | Fundamentals of Speech                                 | 3       |                                          |
@@ -27,7 +27,7 @@
 | 11  | ENG-2206                                                  | World Literature II                                    | 3       | ENG 1102 with C                          |
 | 12  | [ECO-2251]                                                | Macroeconomics                                         | 3       |                                          |
 | 13  | ECO-2252                                                  | Microeconomics                                         | 3       |                                          |
-| 14  | [CHM/L1142]                                               | General Chemistry and Lab I                            | 4       |                                          |
+| 14  | [CHM/L-1142]                                              | General Chemistry and Lab I                            | 4       |                                          |
 | 15  | PHY/L-2252                                                | General Physics and Lab I         		           | 4       |                                          |
 |     | **Required Major Courses**                                |                                                        |         |                                          |
 | 16  | [MTH-1125]                                                | Calculus I                                             | 4       | MTH 1114 with C                          |
@@ -98,7 +98,7 @@
 
 [SPH-2241/COM-2241]: ./SPH241/
 
-[CHM/L1142]: ./CHML142/
+[CHM/L-1142]: ./CHML142/
 
 [CS-2255]: ./CS256/
 

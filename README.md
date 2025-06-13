@@ -2,7 +2,7 @@
 
 [INTRODUCTION]
 
-> Thời điểm tốt nhất để học ở một nơi ‘tốt’ là đừng tìm hiểu ngành Troy.\
+> Thời điểm tốt nhất để học ở một nơi ‘tốt’ là trước khi bạn biết ngành Troy tồn tại.\
 > Thời điểm tốt thứ hai là khi bạn quyết định bấm vào repo này.
 
 <p align="center">

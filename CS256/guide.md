@@ -14,6 +14,8 @@
   > 祸必重来
   > Họa vô đơn chí
   
-  ![image2.png](../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image2.png)
+  <p align="center">
+    <img src="../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image2.png" alt="image2.png">
+  </p>
 
 [link]: https://fed.hust.edu.vn/vi/bo-mon/giang-vien-dac-biet/danh-sach-can-bo-293941.html

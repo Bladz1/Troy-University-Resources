@@ -28,7 +28,7 @@
 | 12  | [ECO-2251]                                                | Macroeconomics                                         | 3       |                                          |
 | 13  | ECO-2252                                                  | Microeconomics                                         | 3       |                                          |
 | 14  | [CHM/L1142]                                               | General Chemistry and Lab I                            | 4       |                                          |
-| 15  | CHM/L1143                                                 | General Chemistry and Lab II                           | 4       |                                          |
+| 15  | PHY/L-2252                                                | General Physics and Lab I         		           | 4       |                                          |
 |     | **Required Major Courses**                                |                                                        |         |                                          |
 | 16  | [MTH-1125]                                                | Calculus I                                             | 4       | MTH 1114 with C                          |
 | 17  | [MTH-1126]                                                | Calculus II                                            | 4       | MTH 1125                                 |

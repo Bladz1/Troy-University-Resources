@@ -48,7 +48,7 @@
 | 31  | [CS-4448]                                                 | Operating Systems                                      | 3       | CS 3323                                  |
 | 32  | [MTH-2210]                                                | Applied Statistics                                     | 3       | MTH 1112 with C                          |
 | 33  | [MTH-2215]                                                | Applied Discrete Mathematics                           | 3       | MTH 1112 with C                          |
-|     | **Major Electives (Choose two of the following courses)** |                                                        |         |                                          |
+|     | **Major Electives (Choose two of the following courses)** | # Thực chất là không được chọn mà offer gì học cái đấy                                                      |
 | 34  | CS-4447                                                   | Systems Analysis and Design                            | 3       | CS 3323                                  |
 | 35  | CS-4451                                                   | Computer Security and Reliability                      | 3       | CS 3323                                  |
 | 36  | CS-3320                                                   | Business System Programming                            | 3       | CS 2255                                  |

@@ -28,7 +28,9 @@ Còn về mặt quản lý, thì sau khi tôi tốt nghiệp và dặn dò đầ
 
 # iii. inspirations from Marx.
 
-![image.png](the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image.png)
+<p align="center">
+  <img src="the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image.png" alt="image.png">
+</p>
 
 Dòng dưới tạm dịch là:
 

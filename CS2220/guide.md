@@ -13,6 +13,8 @@ Có thể là môn đầu tiên chúng ta được học một 'giảng viên M�
 
 - Tôi không hi vọng gì nhiều về tính cách người Mĩ, ban đầu tôi nghĩ thầy là người khó gần, có thể nói là dạy hơi 'chill' quá mức, tuy vậy càng về sau, mới thấy thầy là người tận tụy và cái quan trọng là "He's not American" về cả nghĩa đen và nghĩa bóng. Thầy là một người Châu Á (Hàn Quốc) tình cảm, chưa Mĩ quá mức, gần gũi, có thể nói là khá 'Eastern cultures'. Thầy để lại ấn tượng là sự **chính xác**, **kỹ lưỡng**, và **tôn trọng sinh viên**. Thầy không có chuyện giận dỗi, tỏ ra thái độ 'thượng đẳng' như một số 'giảng viên Tây' tại một số trường quốc tế khác, nhưng cũng không bỏ qua cái sai. Với thầy, **teaching is not a job, it's his character**. Có lẽ **“tính cách Mĩ” không nhất thiết phải đi kèm sự lạnh lùng**. Và rằng, đôi khi **một người không hoàn toàn thuộc về một nền văn hóa**, lại có thể trở thành cầu nối giữa các lục địa.
 
-<img title="" src="../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image3.jpeg" alt="image3.jpeg" data-align="center">
+  <p align="center">
+    <img src="../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image3.jpeg" alt="image3.jpeg">
+  </p>
 
 I LOVE Prof. CHANGGGGG!!!!!! ❤️

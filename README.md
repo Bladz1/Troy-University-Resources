@@ -2,6 +2,9 @@
 
 [INTRODUCTION]
 
+> Thời điểm tốt nhất để học ở một nơi ‘tốt’ là đừng tìm hiểu ngành Troy.\
+> Thời điểm tốt thứ hai là khi bạn quyết định bấm vào repo này.
+
 <p align="center">
   <img src="the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image4.jpeg" alt="image4.jpeg">
   <br>
@@ -45,7 +48,7 @@
 | 31  | [CS-4448]                                                 | Operating Systems                                      | 3       | CS 3323                                  |
 | 32  | [MTH-2210]                                                | Applied Statistics                                     | 3       | MTH 1112 with C                          |
 | 33  | [MTH-2215]                                                | Applied Discrete Mathematics                           | 3       | MTH 1112 with C                          |
-|     | **Major Electives (Choose two of the following courses)** |                                                        |         |                                          |
+|     | **Major Electives (Choose two of the following courses)** | **# Thực chất là không được chọn mà offer gì học cái đấy**                                                  |
 | 34  | CS-4447                                                   | Systems Analysis and Design                            | 3       | CS 3323                                  |
 | 35  | CS-4451                                                   | Computer Security and Reliability                      | 3       | CS 3323                                  |
 | 36  | CS-3320                                                   | Business System Programming                            | 3       | CS 2255                                  |
@@ -58,16 +61,14 @@
 | 43  | CS-4461                                                   | Software Engineering II                                | 3       | CS 3332                                  |
 | 44  | CS-4462                                                   | Special Topics in Object Oriented                      | 3       | CS 3361                                  |
 | 45  | CS-4495                                                   | Special Topics in Computer Science                     | 3       | Senior Standing or consent of instructor |
-|     | **Free Electives (23 credits at least)**                  |                                                        |         |                                          |
+|     | **Free Electives (19 credits at least)**                  |                                                        |         |                                          |
 | 46  | [MTH-1112]                                                | Pre-Calculus Algebra                                   | 3       |                                          |
 | 47  | [MTH-1114]                                                | Pre-Algebra Trigonometry                               | 3       | MTH 1112 with C                          |
 | 48  | MGT-3300                                                  | Principles of Management                               | 3       |                                          |
 | 49  | LAW-2241                                                  | Legal Environment                                      | 3       |                                          |
 | 50  | IS-2241                                                   | Computer Concepts & Applications                       | 3       |                                          |
-| 51  | MGT-4471                                                  | Leadership and Change                                  | 3       | MGT 3330                                 |
-| 52  | MKT-3361                                                  | Principles of Marketing                                | 3       |                                          |
-| 53  | SCI/L-2233                                                | Physical Science and Lab                               | 3       |                                          |
-| 54  | MGT-4460                                                  | Project Management                                     | 3       | MGT 3330                                 |
+| 51  | MKT-3300                                                  | Principles of Marketing                                | 3       |                                          |
+| 52  | SCI/L-2233                                                | Physical Science and Lab                               | 3       |                                          |
 
 [INTRODUCTION]: ./introduction.md/
 

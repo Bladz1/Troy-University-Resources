@@ -66,7 +66,7 @@
 |  47   | LAW-2241                                                  | Legal Environment                                          |    3    |                                          |
 |  48   | IS-2241                                                   | Computer Concepts & Applications                           |    3    |                                          |
 |  49   | MKT-3300                                                  | Principles of Marketing                                    |    3    |                                          |
-|  50   | SCI/L-2233                                                | Physical Science and Lab                                   |    3    |                                          |
+|  50   | SCI/L-2233                                                | Physical Science and Lab                                   |    4    |                                          |
 |  51   | BIO/L-1100                                                | Principles of Biology & Lab                                |    4    |                                          |
 |  52   | ENG-2206                                                  | World Literature II                                        |    3    |             ENG 1102 with C              |
 |       | **5 môn Triết**                                           |                                                            |         |              **Thứ tự học**              |

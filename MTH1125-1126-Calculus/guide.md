@@ -1,8 +1,8 @@
 Như mọi môn Toán ở sever Troy BK, có 2 thầy thường dạy GT1 và GT2:
 
-1. Thầy Vũ Thế Khôi
+1. Thầy [Vũ Thế Khôi](http://math.ac.vn/vi/component/staff/?task=getProfile&staffID=33)
 
-2. Thầy Hồ Minh Toàn
+2. Thầy [Hồ Minh Toàn](http://math.ac.vn/vi/component/staff/?task=getProfile&staffID=60)
 
 ---
 

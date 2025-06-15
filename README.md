@@ -59,7 +59,7 @@
 |  41   | CS-4461                                                   | Software Engineering II                                    |    3    |                 CS 3332                  |
 |  42   | CS-4462                                                   | Special Topics in Object Oriented                          |    3    |                 CS 3361                  |
 |  43   | CS-4495                                                   | Special Topics in Computer Science                         |    3    | Senior Standing or consent of instructor |
-|       | **Free Electives (19 credits at least)**                  | **Có thể học khoaản từ 6 môn đến**                         |         |                                          |
+|       | **Free Electives (19 credits at least)**                  | **Có thể học khoảng từ 6 đến 7 môn tùy phương án**         |         |                                          |
 |  44   | [MTH-1112]                                                | Pre-Calculus Algebra                                       |    3    |                                          |
 |  45   | [MTH-1114]                                                | Pre-Algebra Trigonometry                                   |    3    |             MTH 1112 with C              |
 |  46   | MGT-3300                                                  | Principles of Management                                   |    3    |                                          |

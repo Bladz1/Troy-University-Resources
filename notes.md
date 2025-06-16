@@ -4,11 +4,11 @@
 
 - Về khối lượng học của Troy và BK:
   
-  |                   | Troy                                                                  | BK                                                                                      |
-  |:-----------------:|:---------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
-  | Tính chất môn học | Chủ yếu là lý thuyết                                                  | Hầu hết các môn quan trọng đều có project (Required Major Courses)                      |
-  | Đồ án tốt nghiệp  | Không, thay vào đó là các project xuyên suốt, học đủ tín là ra trường | Có, đồ án chính là một phần mà các đại học VN chịu ảnh hưởng từ nền giáo dục Liên Xô    |
-  | Điểm 'qua môn'    | Thường là 6 hoặc 7 điểm tổng                                          | Thường là 3 điểm cuối kì đổ lên (mức 3 điểm cuối kì ở Troy coi như chả qua được môn gì) |
+  |                   |                                 Troy                                  |                                           BK                                            |
+  | :---------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
+  | Tính chất môn học |  Hầu hết các môn quan trọng đều có project (Required Major Courses)   |                                  Chủ yếu là lý thuyết                                   |
+  | Đồ án tốt nghiệp  | Không, thay vào đó là các project xuyên suốt, học đủ tín là ra trường |  Có, đồ án chính là một phần mà các đại học VN chịu ảnh hưởng từ nền giáo dục Liên Xô   |
+  |  Điểm 'qua môn'   |                     Thường là 6 hoặc 7 điểm tổng                      | Thường là 3 điểm cuối kì đổ lên (mức 3 điểm cuối kì ở Troy coi như chả qua được môn gì) |
 
 - Về vấn đề điểm đầu vào của Troy: có lẽ do hệ thống các ngành quá đa dạng và học phí thấp hơn rất nhiều của BK mà Troy có phần lạc lõng trong danh sách điểm chuẩn các ngành hằng năm (xếp cuối nơi mọi người ít quan tâm), kèm theo đó ở giai đoạn trước điều kiện IELTS cũng là một điều kiện khó khăn đối với học sinh cấp 3, khá khó, ít người dám vào. Những năm gần đây do bùng nổ xét tuyển chứng chỉ ngoại ngữ quốc tế mà càng nhiều học sinh có chứng IELTS hơn thành ra cũng đông người chọn ngành Troy hơn, tuy vậy, việc điểm đã thấp từ trước do ít người vào đã tạo thành một **tiền lệ xấu** nên sau này điểm cứ thấp theo dòng thời gian, nhiều SV Troy vào Troy vì đây là 'lốp dự phòng', một điều đáng buồn!! Một lí do nữa có thể kể tới là việc Troy không được đẩy mạnh quảng bá nên ít người biết về sự tồn tại của Troy BK.
   

@@ -1,6 +1,6 @@
 # Troy-University-Resources
 
-[INTRODUCTION] | [NOTES]
+[INTRODUCTION] | [NOTES] | [Course Descriptions]
 
 > Thời điểm tốt nhất để học ở một nơi ‘tốt’ là trước khi bạn biết ngành Troy tồn tại.\
 > Thời điểm tốt thứ hai là khi bạn quyết định bấm vào repo này.
@@ -63,18 +63,21 @@
 |  44   | [MTH-1112]                                                | Pre-Calculus Algebra                                       |    3    |                                          |
 |  45   | [MTH-1114]                                                | Pre-Algebra Trigonometry                                   |    3    |             MTH 1112 with C              |
 |  46   | MGT-3300                                                  | Principles of Management                                   |    3    |                                          |
-|  47   | LAW-2241                                                  | Legal Environment                                          |    3    |                                          |
-|  48   | IS-2241                                                   | Computer Concepts & Applications                           |    3    |                                          |
-|  49   | MKT-3300                                                  | Principles of Marketing                                    |    3    |                                          |
-|  50   | SCI/L-2233                                                | Physical Science and Lab                                   |    4    |                                          |
-|  51   | BIO/L-1100                                                | Principles of Biology & Lab                                |    4    |                                          |
-|  52   | ENG-2206                                                  | World Literature II                                        |    3    |             ENG 1102 with C              |
+|  47   | IS-2241                                                   | Computer Concepts & Applications                           |    3    |                                          |
+|  48   | ENG-2206                                                  | World Literature II                                        |    3    |             ENG 1102 with C              |
+|  49   | LAW-2221                                                  | Legal Environment                                          |    3    |                                          |
+|  50   | MKT-3300                                                  | Principles of Marketing                                    |    3    |                                          |
+|  51   | ACT-2291                                                  | Principles of Accounting I                                 |    3    |                                          |
+|  52   | QM-2241                                                   | Business Statistics and Data Analytics                     |    3    |           MTH 1112 and IS 2241           |
+|  53   | MTH-2201                                                  | Calculus and its Applications                              |    3    |         MTH 1112 or 1114 with C          |
+|  54   | SCI/L-2233                                                | Physical Science and Lab                                   |    4    |                                          |
+|  55   | BIO/L-1100                                                | Principles of Biology & Lab                                |    4    |                                          |
 |       | **5 môn Triết**                                           |                                                            |         |              **Thứ tự học**              |
-|  53   | SSH1111Q                                                  | Triết học Mác - Lênin                                      |    3    |                    1                     |
-|  54   | SSH1121Q                                                  | Kinh tế chính trị Mác - Lênin                              |    2    |                    2                     |
-|  55   | SSH1131Q                                                  | Chủ nghĩa xã hội khoa học                                  |    2    |                    3                     |
-|  56   | SSH1141Q                                                  | Lịch sử Đảng Cộng sản Việt Nam                             |    2    |                    4                     |
-|  57   | SSH1151Q                                                  | Tư tưởng Hồ Chí Minh                                       |    2    |                    5                     |
+|  56   | SSH1111Q                                                  | Triết học Mác - Lênin                                      |    3    |                    1                     |
+|  57   | SSH1121Q                                                  | Kinh tế chính trị Mác - Lênin                              |    2    |                    2                     |
+|  58   | SSH1131Q                                                  | Chủ nghĩa xã hội khoa học                                  |    2    |                    3                     |
+|  59   | SSH1141Q                                                  | Lịch sử Đảng Cộng sản Việt Nam                             |    2    |                    4                     |
+|  60   | SSH1151Q                                                  | Tư tưởng Hồ Chí Minh                                       |    2    |                    5                     |
 
 [INTRODUCTION]: ./introduction.md/
 
@@ -131,3 +134,5 @@
 [PHY/L-2252]: ./PHYL252/
 
 [NOTES]: ./notes.md/
+
+[Course Descriptions]: ./Course-Descriptions/

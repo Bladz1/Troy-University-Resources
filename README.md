@@ -1,6 +1,6 @@
 # Troy-University-Resources
 
-[INTRODUCTION]
+[INTRODUCTION] | [NOTES]
 
 > Thời điểm tốt nhất để học ở một nơi ‘tốt’ là trước khi bạn biết ngành Troy tồn tại.\
 > Thời điểm tốt thứ hai là khi bạn quyết định bấm vào repo này.
@@ -129,3 +129,5 @@
 [CS-3360]: ./CS360/
 
 [PHY/L-2252]: ./PHYL252/
+
+[NOTES]: ./notes.md/

@@ -1,6 +1,6 @@
 # Troy-University-Resources
 
-[INTRODUCTION] | [NOTES]
+[INTRODUCTION] | [NOTES] | [Course Descriptions]
 
 > Thời điểm tốt nhất để học ở một nơi ‘tốt’ là trước khi bạn biết ngành Troy tồn tại.\
 > Thời điểm tốt thứ hai là khi bạn quyết định bấm vào repo này.
@@ -131,3 +131,5 @@
 [PHY/L-2252]: ./PHYL252/
 
 [NOTES]: ./notes.md/
+
+[Course Descriptions]: ./Course-Descriptions/

@@ -63,7 +63,7 @@
 | 44  | [MTH-1112]                                                | Pre-Calculus Algebra                                       | 3       |                                          |
 | 45  | [MTH-1114]                                                | Pre-Algebra Trigonometry                                   | 3       | MTH 1112 with C                          |
 | 46  | [MGT-3300]                                                | Principles of Management                                   | 3       |                                          |
-| 47  | IS-2241                                                   | Computer Concepts & Applications                           | 3       |                                          |
+| 47  | [IS-2241]                                                 | Computer Concepts & Applications                           | 3       |                                          |
 | 48  | ENG-2206                                                  | World Literature II                                        | 3       | ENG 1102 with C                          |
 | 49  | LAW-2221                                                  | Legal Environment                                          | 3       |                                          |
 | 50  | MKT-3300                                                  | Principles of Marketing                                    | 3       |                                          |
@@ -134,6 +134,8 @@
 [PHY/L-2252]: ./PHYL252/
 
 [MGT-3300]: ./MGT371/
+
+[IS-2241]: ./IS241/
 
 [NOTES]: ./notes.md/
 

@@ -1,6 +1,6 @@
 # about networking course.
 
-Môn này sẽ được dạy bởi thầy [Dư Đình Viên](https://www.haui.edu.vn/vn/tin-tuc/trao-quyet-dinh-bo-nhiem-vien-chuc-quan-ly-va-cong-bo-quyet-dinh-bo-nhiem-chuc-danh-pho-giao-su/63947) - giám đốc Trung tâm Đào tạo Sau đại học của Đại học Công nghiệp, hoặc có thể là thầy Cao Tuấn Dũng bên SoICT. Tuy nhiên, trong chừng mực trải nghiệm của chúng tôi, cũng như khóa gần đây nhất, thì người tiếp quản môn này rất có khả năng là thầy Viên.
+Môn này sẽ được dạy bởi thầy [Dư Đình Viên](https://scholar.google.com/citations?user=Ha8t9c4AAAAJ&hl=en) - giám đốc Trung tâm Đào tạo Sau đại học của Đại học Công nghiệp, hoặc có thể là thầy Cao Tuấn Dũng bên SoICT. Tuy nhiên, trong chừng mực trải nghiệm của chúng tôi, cũng như khóa gần đây nhất, thì người tiếp quản môn này rất có khả năng là thầy Viên.
 
 ---
 

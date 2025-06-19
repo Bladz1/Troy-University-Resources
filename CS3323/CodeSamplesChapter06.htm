@@ -1,0 +1,1007 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Figure 12</title>
+</head>
+
+<body bgcolor="#FFFFCC">
+
+<p align="center"><font face="Arial">Nyhoff, ADTs, Data Structures and Problem Solving with C++, Second Edition,&nbsp;<br>
+ © 2005 Pearson Education, Inc. All rights reserved. 0-13-140909-3&nbsp;</font> </p>
+<p align="center">&nbsp; </p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 6.1A List.h Using Static Array">Figure
+        6.1A </a> </font><a name="Figure 6.1A List.h Using Static Array"><font color="#0000FF" face="Courier New"><b>List.h</b></font><font color="#FF0000">
+        Using Static Array </font></a></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/*-- List.h ---------------------------------------------------------------
+ 
+  This header file defines the data type List for processing lists.
+  Basic operations are:
+     Constructor
+     empty:    Check if list is empty
+     insert:   Insert an item
+     erase:    Remove an item
+     display:  Output the list
+     &lt;&lt;, &gt;&gt; :  input and output operators
+-------------------------------------------------------------------------*/
+
+#include &lt;iostream&gt;
+
+#ifndef LIST
+#define LIST
+
+const int CAPACITY = 1024;
+typedef int ElementType;
+
+class List
+{
+ public:
+ /******** Function Members ********/
+   /***** Class constructor *****/
+   List();
+   /*----------------------------------------------------------------------
+     Construct a List object.
+
+     Precondition:  None
+     Postcondition: An empty List object has been constructed;
+         mySize is 0.
+   -----------------------------------------------------------------------*/
+
+   /***** empty operation *****/
+   bool empty() const;
+   /*----------------------------------------------------------------------
+     Check if a list is empty.
+
+     Precondition:  None
+     Postcondition: true is returned if the list is empty, 
+         false if not.
+   -----------------------------------------------------------------------*/
+
+   /***** insert and erase *****/
+   void insert(ElementType item, int pos);
+   /*----------------------------------------------------------------------
+     Insert a value into the list at a given position.
+
+     Precondition:  item is the value to be inserted; there is room in 
+         the array (mySize &lt; CAPACITY); and the position satisfies
+         0 &lt;= pos &lt;= mySize. 
+     Postcondition: item has been inserted into the list at the position
+         determined by pos (provided there is room and pos is a legal
+         position).
+   -----------------------------------------------------------------------*/
+
+   void erase(int pos);
+   /*----------------------------------------------------------------------
+     Remove a value from the list at a given position.
+
+     Precondition:  The list is not empty and the position satisfies
+         0 &lt;= pos &lt; mySize.
+     Postcondition: element at the position determined by pos has been
+         removed (provided pos is a legal position).
+   ----------------------------------------------------------------------*/
+
+   /***** output *****/
+   void display(ostream &amp; out) const;
+   /*----------------------------------------------------------------------
+     Display a list.
+
+     Precondition:  out is a reference parameter 
+     Postcondition: The list represented by this List object has been
+         inserted into ostream out. 
+   -----------------------------------------------------------------------*/
+
+ private:
+ /******** Data Members ********/
+   int mySize;                     // current size of list stored in myArray
+   ElementType myArray[CAPACITY];  // array to store list elements
+
+}; //--- end of List class
+
+//------ Prototype of output operator
+ostream &amp; operator&lt;&lt; (ostream &amp; out, const List &amp; aList);
+
+#endif&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 6.1B">Figure
+        6.1B</a> </font><font face="Courier New" color="#0000FF"><b>List.cpp</b></font><font color="#FF0000">
+        Using Static Array</font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/*-- List.cpp------------------------------------------------------------
+ 
+   This file implements List member functions.
+
+-------------------------------------------------------------------------*/
+
+#include &lt;cassert&gt;
+using namespace std;
+
+#include &quot;List.h&quot;
+
+//--- Definition of class constructor
+List::List()                 
+: mySize(0)
+{
+}
+
+//--- Definition of empty()
+bool List::empty() const
+{
+   return mySize == 0;
+}
+
+//--- Definition of display()
+void List::display(ostream &amp; out) const
+{
+   for (int i = 0; i &lt; mySize; i++)
+     out &lt;&lt; myArray[i] &lt;&lt; &quot;  &quot;;
+}
+
+//--- Definition of output operator
+ostream &amp; operator&lt;&lt; (ostream &amp; out, const List &amp; aList)
+{
+   aList.display(out);
+   return out;
+}
+
+//--- <span style="background-color: #FFFF00"><a name="Definition of insert()">Definition of insert()</a></span>
+void List::insert(ElementType item, int pos)
+{
+   if (mySize == CAPACITY)
+   {
+      cerr &lt;&lt; &quot;*** No space for list element -- terminating &quot;
+              &quot;execution ***\n&quot;;
+      exit(1);
+   }
+   if (pos &lt; 0 || pos &gt; mySize)
+   {
+      cerr &lt;&lt; &quot;*** Illegal location to insert -- &quot; &lt;&lt; pos 
+           &lt;&lt; &quot;.  List unchanged. ***\n&quot;;
+      return;
+   }
+
+   // First shift array elements right to make room for item
+
+   for(int i = mySize; i &gt; pos; i--)
+      myArray[i] = myArray[i - 1];
+
+   // Now insert item at position pos and increase list size  
+   myArray[pos] = item;
+   mySize++;
+}
+
+// <span style="background-color: #FFFF00"><a name="Definition of erase()">Definition of erase()</a></span>
+void List::erase(int pos)
+{
+   if (mySize == 0)
+   {
+      cerr &lt;&lt; &quot;*** List is empty ***\n&quot;;
+      return;
+   }
+  if (pos &lt; 0 || pos &gt;= mySize)
+   {
+      cerr &lt;&lt; &quot;Illegal location to delete -- &quot; &lt;&lt; pos
+           &lt;&lt; &quot;.  List unchanged. ***\n&quot;;
+      return;
+   }
+
+   // Shift array elements left to close the gap
+   for(int i = pos; i &lt; mySize; i++)
+       myArray[i] = myArray[i + 1];
+
+   // Decrease list size
+    mySize--;
+}&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 6.1C">Figure
+        6.1C</a> List Test Program</font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><b><font color="#0000FF">//--- Program to test List class.
+
+#include &lt;iostream&gt;
+using namespace std;
+
+#include &quot;List.h&quot;
+
+int main()
+{
+   // Test the class constructor
+   List intList;
+   cout &lt;&lt; &quot;Constructing intList\n&quot;;
+
+   // Test empty() and output of empty list
+   if (intList.empty())
+      cout &lt;&lt; &quot;Empty List: \n&quot;
+           &lt;&lt; intList &lt;&lt; endl;       // Test output of empty list
+
+   // Test insert()
+   for (int i = 0; i &lt; 9; i++)
+   {
+      cout &lt;&lt; &quot;Inserting &quot; &lt;&lt; i &lt;&lt; &quot; at position &quot; &lt;&lt; i/2 &lt;&lt; endl;
+      intList.insert(i, i/2);       //  -- Insert i at position i/2
+      //Test output
+      cout &lt;&lt; intList &lt;&lt; endl;
+   }
+   cout &lt;&lt; &quot;List empty? &quot; &lt;&lt; (intList.empty() ? &quot;Yes&quot; : &quot;No&quot;) &lt;&lt; endl;
+
+   cout &lt;&lt; &quot;\nTry to insert at position -1&quot; &lt;&lt; endl;
+   intList.insert(0, -1);
+   cout &lt;&lt; &quot;\nTry to insert at position 10&quot; &lt;&lt; endl;
+   intList.insert(0, 10);
+
+   // Test erase
+   int index;
+   cout &lt;&lt; endl;
+   while (!intList.empty())
+   {
+      cout &lt;&lt; &quot;Give an index of a list element to remove: &quot;;
+      cin &gt;&gt; index;
+      intList.erase(index);
+      cout &lt;&lt; intList &lt;&lt; endl;
+   }
+   cout &lt;&lt; &quot;List is empty&quot; &lt;&lt; endl;
+
+   cout &lt;&lt; &quot;\nInserting &quot; &lt;&lt; CAPACITY&lt;&lt; &quot; integers\n&quot;;
+   for (int i = 0; i &lt; CAPACITY; i++)
+     intList.insert(i, i);
+   cout &lt;&lt; &quot;Attempting to insert one more integer:\n&quot;;
+   intList.insert(-1, 0);
+
+   return 0;
+}&nbsp;</font></b></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 6.2A">Figure
+        6.2A</a> </font><font face="Courier New" color="#0000FF"><b>List.h </b></font><font color="#FF0000">With
+        Dynamic Allocation </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><b><font color="#0000FF">/*-- List.h ---------------------------------------------------------------
+ 
+  This header file defines the data type List for processing lists.
+  Basic operations are:
+     Constructor
+     Destructor
+     Copy constructor
+     Assignment operator
+     empty:    Check if list is empty
+     insert:   Insert an item
+     erase:    Remove an item
+     display:  Output the list
+     &lt;&lt; :      Output operator
+-------------------------------------------------------------------------*/
+
+#include &lt;iostream&gt;
+
+#ifndef LIST
+#define LIST
+
+typedef int ElementType;
+class List
+{
+ public:
+ /******** Function Members ********/
+   /***** Class constructor *****/
+   List(int maxSize = 1024);
+   /*----------------------------------------------------------------------
+     Construct a List object.
+
+     Precondition:  maxSize is a positive integer with default value 1024.
+     Postcondition: An empty List object is constructed; myCapacity ==
+         maxSize (default value 1024); myArrayPtr points to a run-time
+         array with myCapacity as its capacity; and mySize is 0.
+   -----------------------------------------------------------------------*/
+
+
+   /***** Class destructor *****/
+   ~List();
+   /*----------------------------------------------------------------------
+     Destroys a List object.
+
+     Precondition:  The life of a List object is over.
+     Postcondition: The memory dynamically allocated by the constructor
+         for the array pointed to by myArrayPtr has been returned to 
+         the heap.
+     ------------------------------------------------------------------*/
+
+   /***** Copy constructor *****/
+   List(const List &amp; origList);
+   /*----------------------------------------------------------------------
+     Construct a copy of a List object.
+
+     Precondition:  A copy of origList is needed; origList is a const
+         reference parameter. 
+     Postcondition: A copy of origList has been constructed.
+   -----------------------------------------------------------------------*/
+
+   /***** Assignment operator *****/
+   List &amp; operator=(const List &amp; origList);
+   /*----------------------------------------------------------------------
+     Assign a copy of a List object to the current object.
+
+     Precondition: none 
+     Postcondition: A copy of origList has been assigned to this
+          object.  A reference to this list is returned.
+   -----------------------------------------------------------------------*/
+
+   /***** empty operation *****/
+   bool empty() const;
+   /*----------------------------------------------------------------------
+     Check if a list is empty.
+
+     Precondition:  None
+     Postcondition: true is returned if the list is empty, 
+         false if not.
+   -----------------------------------------------------------------------*/
+
+   /***** insert and erase *****/
+   void insert(ElementType item, int pos);
+   /*----------------------------------------------------------------------
+     Insert a value into the list at a given position.
+
+     Precondition:  item is the value to be inserted; there is room in 
+         the array (mySize &lt; CAPACITY); and the position satisfies
+         0 &lt;= pos &lt;= mySize. 
+     Postcondition: item has been inserted into the list at the position
+         determined by pos (provided there is room and pos is a legal
+         position).
+   -----------------------------------------------------------------------*/
+
+   void erase(int pos);
+   /*----------------------------------------------------------------------
+     Remove a value from the list at a given position.
+
+     Precondition:  The list is not empty and the position satisfies
+         0 &lt;= pos &lt; mySize.
+     Postcondition: element at the position determined by pos has been
+         removed (provided pos is a legal position).
+   ----------------------------------------------------------------------*/
+
+   /***** output *****/
+   void display(ostream &amp; out) const;
+   /*----------------------------------------------------------------------
+     Display a list.
+
+     Precondition:  The ostream out is open. 
+     Postcondition: The list represented by this List object has been
+         inserted into out. 
+   -----------------------------------------------------------------------*/
+
+ private:
+ /******** Data Members ********/
+   int mySize;                // current size of list stored in array
+   int myCapacity;            // capacity of array
+   ElementType * myArrayPtr;  // pointer to dynamically-allocated array
+
+}; //--- end of List class
+
+//------ Prototype of output operator
+ostream &amp; operator&lt;&lt; (ostream &amp; out, const List &amp; aList);
+
+#endif&nbsp;</font></b></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 6.2B">Figure
+        6.2B</a> </font><font face="Courier New" color="#0000FF"><b>List.cpp </b></font><font color="#FF0000">With
+        Dynamic Allocation </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/*-- List.cpp------------------------------------------------------------
+ 
+   This file implements List member functions.
+
+-------------------------------------------------------------------------*/
+
+#include &lt;cassert&gt;
+#include &lt;new&gt;
+using namespace std;
+
+#include &quot;List.h&quot;
+
+//--- Definition of class constructor
+List::List(int maxSize)
+: mySize(0), myCapacity(maxSize)
+{
+   myArrayPtr = new(nothrow) ElementType[maxSize];
+   assert(myArrayPtr != 0);
+}
+
+//--- <span style="background-color: #FFFF00"><a name="Definition of class destructor">Definition of class destructor</a></span>
+List::~List()
+{
+   delete [] myArrayPtr;
+}
+
+//--- <a name="Definition of the copy constructor"><span style="background-color: #FFFF00">Definition of the copy constructor</span></a>
+List::List(const List &amp; origList)
+: mySize(origList.mySize), myCapacity(origList.myCapacity)
+
+{
+  //--- Get new array for copy
+   myArrayPtr = new(nothrow) ElementType[myCapacity];
+
+   if (myArrayPtr != 0)                 // check if memory available
+      //--- Copy origList's array into this new array
+      for(int i = 0; i &lt; myCapacity; i++)
+         myArrayPtr[i] = origList.myArrayPtr[i];
+   else
+   {
+      cerr &lt;&lt; &quot;*Inadequate memory to allocate stack ***\n&quot;;
+      exit(1);
+   }
+}
+
+//--- <span style="background-color: #FFFF00"><a name="Definition of the assignment operator">Definition of the assignment operator</a></span>
+List &amp; List::operator=(const List &amp; origList)
+{
+   if (this != &amp;origList)    // check for list = list
+   {
+      mySize = origList.mySize;
+      myCapacity = origList.myCapacity;
+
+      //-- Allocate a new array if necessary
+      if (myCapacity != origList.myCapacity) 
+      {
+         delete[] myArrayPtr;
+         myArrayPtr = new(nothrow) ElementType[myCapacity];
+
+         if (myArrayPtr == 0)   // check if memory available
+         {
+            cerr &lt;&lt; &quot;*Inadequate memory to allocate stack ***\n&quot;;
+            exit(1);
+         }
+      }
+      //--- Copy origList's array into this new array
+      for(int i = 0; i &lt; myCapacity; i++)
+         myArrayPtr[i] = origList.myArrayPtr[i];
+   }
+   return *this;
+}
+
+//--- Definition of empty()
+bool List::empty() const
+{
+   return mySize == 0;
+}
+
+//--- Definition of display()
+void List::display(ostream &amp; out) const
+{
+   for (int i = 0; i &lt; mySize; i++)
+     out &lt;&lt; myArrayPtr[i] &lt;&lt; &quot;  &quot;;
+}
+
+//--- Definition of output operator
+ostream &amp; operator&lt;&lt; (ostream &amp; out, const List &amp; aList)
+{
+   aList.display(out);
+   return out;
+}
+
+//--- Definition of insert()
+void List::insert(ElementType item, int pos)
+{
+   if (mySize == myCapacity)
+   {
+      cerr &lt;&lt; &quot;*** No space for list element -- terminating &quot;
+              &quot;execution ***\n&quot;;
+      exit(1);
+   }
+   if (pos &lt; 0 || pos &gt; mySize)
+   {
+      cerr &lt;&lt; &quot;*** Illegal location to insert -- &quot; &lt;&lt; pos 
+           &lt;&lt; &quot;.  List unchanged. ***\n&quot;;
+      return;
+   }
+
+   // First shift array elements right to make room for item
+
+   for(int i = mySize; i &gt; pos; i--)
+      myArrayPtr[i] = myArrayPtr[i - 1];
+
+   // Now insert item at position pos and increase list size  
+   myArrayPtr[pos] = item;
+   mySize++;
+}
+
+//--- Definition of erase()
+void List::erase(int pos)
+{
+   if (mySize == 0)
+   {
+      cerr &lt;&lt; &quot;*** List is empty ***\n&quot;;
+      return;
+   }
+  if (pos &lt; 0 || pos &gt;= mySize)
+   {
+      cerr &lt;&lt; &quot;Illegal location to delete -- &quot; &lt;&lt; pos
+           &lt;&lt; &quot;.  List unchanged. ***\n&quot;;
+      return;
+   }
+
+   // Shift array elements left to close the gap
+   for(int i = pos; i &lt; mySize; i++)
+       myArrayPtr[i] = myArrayPtr[i + 1];
+
+   // Decrease list size
+    mySize--;
+}&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 6.2C">Figure
+        6.2C</a> List Testing Program </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/* listtester.cpp is a program for testing class List. */
+
+#include &lt;iostream&gt;
+using namespace std;
+
+#include &quot;List.h&quot;
+                                  // f() is a function with 
+void f(List aList)                // List value parameter
+{                                 // to test the copy constructor
+  for (int i = 1; i &lt; 5; i++)
+  {
+     aList.insert(100*i, i);      // insert into the copy
+     cout &lt;&lt; aList &lt;&lt; endl;       // output the copy
+  }
+}
+
+int main()
+{
+   // Test the class constructor
+   List intList;
+   cout &lt;&lt; &quot;Constructing intList\n&quot;;
+
+   // Test empty() and output of empty list
+   if (intList.empty())
+      cout &lt;&lt; &quot;Empty List: \n&quot;
+           &lt;&lt; intList &lt;&lt; endl;       // Test output of empty list
+
+
+   // Test insert()
+   for (int i = 0; i &lt; 9; i++)
+   {
+      intList.insert(i, i/2);       //  -- Insert i at position i/2
+      //Test output
+      cout &lt;&lt; intList &lt;&lt; endl;
+   }
+   cout &lt;&lt; &quot;List empty? &quot; &lt;&lt; (intList.empty() ? &quot;Yes&quot; : &quot;No&quot;) &lt;&lt; endl;
+
+
+   // Test destructor
+   {
+      List anotherList;
+      for (int i = 0; i &lt; 10; i++)
+         anotherList.insert(100*i, i);
+      cout &lt;&lt; &quot;\nHere's another list:\n&quot; &lt;&lt; anotherList &lt;&lt; endl;
+      cout &lt;&lt; &quot;Now destroying this list\n&quot;;
+   }
+
+   // Test the copy constructor
+   cout &lt;&lt; &quot;\n\n&quot;;
+   f(intList);
+
+   cout &lt;&lt; &quot;\n\nOriginal list:&quot;;      // Output the original to make 
+   cout &lt;&lt; intList&lt;&lt; endl;            //  sure it hasn't been changed
+
+   // Test erase
+   int index;
+   while (!intList.empty())
+   {
+      cout &lt;&lt; &quot;Give an index of list element to remove: &quot;;
+      cin &gt;&gt; index;
+      intList.erase(index);
+      cout &lt;&lt; intList &lt;&lt; endl;
+   }
+   cout &lt;&lt; &quot;List is empty&quot; &lt;&lt; endl;
+}&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 6.3 Calls to Constructors and Destructor">Figure
+        6.3 Calls to Constructors and Destructor</a></font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/*-------------------------------------------------------------------------
+   This program demonstrates how often a class's constructor,
+   destructor, and copy constructor can get called automatically
+   by the compiler.  It uses the List class from Fig. 4.2 but with
+   output statements inserted into the constructor, destructor, 
+   and copy constructor to trace when they are called.
+-------------------------------------------------------------------------*/
+
+#include &lt;iostream&gt;
+using namespace std;
+
+#include &quot;List.h&quot;
+
+void print (List aList)
+/*-------------------------------------------------------------------------
+   Function to print a list.
+
+   Precondition:  aList is a value parameter
+   Postcondition: Contents of aList have been displayed
+-------------------------------------------------------------------------*/
+{
+   cout &lt;&lt; aList &lt;&lt; endl;
+}
+
+int main()
+{
+   int listLimit;
+   cout &lt;&lt; &quot;Enter maximum number of list elements: &quot;;
+   cin &gt;&gt; listLimit;
+
+   cout &lt;&lt; &quot;\n*** Next Statement:  List list1(listLimit);\n&quot;;
+   List list1(listLimit);
+   for (int i = 0; i &lt;= 4; i++)
+   {
+      cout &lt;&lt; &quot;*** Next Statement:  list1.insert(i, i);\n&quot;;
+      list1.insert(i, i);
+   }
+   cout &lt;&lt; &quot;\n*** Next Statement:  List list2 = list1;\n&quot;;
+   List list2 = list1;
+   cout &lt;&lt; &quot;\n*** Next Statement:  print(list2);\n&quot;;
+   print(list2);
+   cout &lt;&lt; &quot;\n*** Next Statement:  List list3;\n&quot;;
+   List list3;
+   cout &lt;&lt; &quot;\n*** Next Statement:  list3 = list2;\n&quot;;
+   list3 = list2;
+   cout &lt;&lt; &quot;\n*** Next Statement:  print(list3);\n&quot;;
+   print(list3);
+
+   cout &lt;&lt; &quot;\n*** Next Statement:  return 0;\n&quot;;
+   return 0;
+}&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000">Figure </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre>&nbsp;</pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000">Figure </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre>&nbsp;</pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000">Figure </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre>&nbsp;</pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000">Figure </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre>&nbsp;</pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000">Figure </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre>&nbsp;</pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000">Figure </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre>&nbsp;</pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000">Figure </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre>&nbsp;</pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000">Figure </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre>&nbsp;</pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000">Figure </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre>&nbsp;</pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000">Figure </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre>&nbsp;</pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000">Figure </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre>&nbsp;</pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000">Figure </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre>&nbsp;</pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+</body>
+
+</html>

@@ -34,8 +34,8 @@
 | 17  | [CS-2250]                                                 | Computer Science I                                         | 3       | MTH 1112 with C                          |
 | 18  | [CS-2255]                                                 | Computer Science II                                        | 3       | CS 2250                                  |
 | 19  | [CS-3310]                                                 | Foundations of Computer Science                            | 3       | MTH 1112 with C                          |
-| 20  | CS-3323                                                   | Data Structures                                            | 3       | CS 2255 and MTH 1125                     |
-| 21  | CS-3329                                                   | Analysis of Algorithms                                     | 3       | CS 2255                                  |
+| 20  | [CS-3323]                                                 | Data Structures                                            | 3       | CS 2255 and MTH 1125                     |
+| 21  | [CS-3329]                                                 | Analysis of Algorithms                                     | 3       | CS 2255                                  |
 | 22  | [CS-3332]                                                 | Software Engineering I                                     | 3       | CS 2255                                  |
 | 23  | [CS-3360]                                                 | Concepts of Object-Oriented Programming                    | 3       | CS 2255                                  |
 | 24  | [CS-3365]                                                 | Introduction to Computer Organization and Architecture     | 3       | CS 3310                                  |
@@ -142,6 +142,10 @@
 [CS-3370]: ./CS370/
 
 [CS-3372]: ./CS372/
+
+[CS-3323]: ./CS3323/
+
+[CS-3329]: ./CS3329/
 
 [NOTES]: ./notes.md/
 

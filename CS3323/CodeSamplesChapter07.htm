@@ -1,0 +1,1311 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Figure 12</title>
+</head>
+
+<body bgcolor="#FFFFCC">
+
+<p align="center"><font face="Arial">Nyhoff, ADTs, Data Structures and Problem Solving with C++, Second Edition,&nbsp;<br>
+ © 2005 Pearson Education, Inc. All rights reserved. 0-13-140909-3&nbsp;</font> </p>
+<p align="center">&nbsp; </p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 7.2">Figure 7.2</a>
+        Conversion from Base Ten to Base Two </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/*--------------------------------------------------------------
+   This program uses a stack to convert the base-ten representation 
+   of a positive integer entered as input to base two, which is
+   then output.
+---------------------------------------------------------------------*/
+
+#include &lt;iostream&gt;
+using namespace std;
+#include &quot;Stack.h&quot;          // our own -- &lt;stack&gt; for STL version
+
+int main()
+{
+  unsigned number,         // the number to be converted
+           remainder;      // remainder when number is divided by 2
+  Stack stackOfRemainders; // stack of remainders
+  char response;           // user response
+  do
+  {
+    cout &lt;&lt; &quot;Enter positive integer to convert: &quot;;
+    cin &gt;&gt; number;
+    while (number != 0)
+      {
+	remainder = number % 2;
+	stackOfRemainders.push(remainder);
+	number /= 2;
+      }
+    cout &lt;&lt; &quot;Base-two representation: &quot;;
+
+    while ( !stackOfRemainders.empty() )
+    {
+      remainder = stackOfRemainders.top();
+      stackOfRemainders.pop();
+      cout &lt;&lt; remainder;
+    }
+    cout &lt;&lt; endl;
+    cout &lt;&lt; &quot;\nMore (Y or N)? &quot;;
+    cin &gt;&gt; response;
+  }
+  while (response == 'Y' || response == 'y');
+}&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 7.3">Figure 7.3</a>
+        Class Declaration for a </font><font face="Courier New" color="#0000FF">Stack</font><font color="#FF0000">
+        Type </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/*-- Stack.h ---------------------------------------------------
+ 
+  This header file defines a Stack data type.
+  Basic operations:
+    constructor:  Constructs an empty stack
+    empty:        Checks if a stack is empty
+    push:         Modifies a stack by adding a value at the top
+    top:          Accesses the top stack value; leaves stack
+                    unchanged
+    pop:          Modifies stack by removing the value at the
+                    top
+    display:      Displays all the stack elements
+
+  Class Invariant:
+    1. The stack elements (if any) are stored in positions
+       0, 1, . . ., myTop of myArray.
+    2. -1 &lt;= myTop &lt; STACK_CAPACITY 
+
+--------------------------------------------------------------*/
+
+#include &lt;iostream&gt;
+using namespace std;
+
+#ifndef STACK
+#define STACK
+
+const int STACK_CAPACITY = 128;
+typedef int StackElement;
+
+class Stack
+{
+ public:
+  /***** Function Members *****/
+
+ private:
+  /***** Data Members *****/
+  StackElement myArray[STACK_CAPACITY];
+  int myTop;
+}; 
+
+#endif&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 7.4A">Figure
+        7.4A</a> Completed </font><font face="Courier New" color="#0000FF"><b>Stack.h</b></font><font color="#FF0000">
+        File</font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/*-- Stack.h ---------------------------------------------------
+ 
+  This header file defines a Stack data type.
+  Basic operations:
+    constructor:  Constructs an empty stack
+    empty:        Checks if a stack is empty
+    push:         Modifies a stack by adding a value at the top
+    top:          Retrieves the top stack value; leaves stack unchanged
+    pop:          Modifies stack by removing the value at the top
+    display:      Displays all the stack elements
+
+  Class Invariant:
+    1. The stack elements (if any) are stored in positions
+       0, 1, . . ., myTop of myArray.
+    2. -1 &lt;= myTop &lt; STACK_CAPACITY 
+--------------------------------------------------------------*/
+
+#include &lt;iostream&gt;
+
+#ifndef STACK
+#define STACK
+
+const int STACK_CAPACITY = 128;
+typedef int StackElement;
+
+class Stack
+{
+ public:
+  /***** Function Members *****/
+  /***** Constructor *****/
+  Stack();
+  /*----------------------------------------------------------
+    Construct a Stack object.
+
+    Precondition:  None.
+    Postcondition: An empty Stack object has been constructed
+        (myTop is initialized to -1 and myArray is an array
+        with STACK_CAPACITY elements of type StackElement).
+   -----------------------------------------------------------*/
+
+  bool empty() const;
+  /*-----------------------------------------------------------
+    Check if stack is empty.
+    Precondition: None
+    Postcondition: Returns true if stack is empty and 
+        false otherwise.
+   -----------------------------------------------------------*/
+
+  void push(const StackElement &amp; value);
+  /*-----------------------------------------------------------
+    Add a value to a stack.
+
+    Precondition: value is to be added to this stack
+    Postcondition: value is added at top of stack provided 
+        there is space; otherwise, a stack-full message is 
+        displayed and execution is terminated.
+   -----------------------------------------------------------*/
+
+  void display(ostream &amp; out) const;
+  /*-----------------------------------------------------------
+    Display values stored in the stack. 
+
+    Precondition:  ostream out is open.
+    Postcondition: Stack's contents, from top down, have
+        been output to out.
+   -----------------------------------------------------------*/
+
+  StackElement top() const;
+  /*-----------------------------------------------------------
+    Retrieve value at top of stack (if any).
+
+    Precondition:  Stack is nonempty
+    Postcondition: Value at top of stack is returned, unless
+        the stack is empty; in that case, an error message is
+        displayed and a &quot;garbage value&quot; is returned.
+   ----------------------------------------------------------*/
+
+  void pop();
+  /*-----------------------------------------------------------
+    Remove value at top of stack (if any).
+
+    Precondition:  Stack is nonempty.
+    Postcondition: Value at top of stack has been removed, 
+        unless the stack is empty; in that case, an error 
+        message is displayed and execution allowed to proceed.
+   ----------------------------------------------------------*/ 
+
+ private:
+  /***** Data Members *****/
+  StackElement myArray[STACK_CAPACITY];
+  int myTop;
+}; // end of class declaration
+
+#endif&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 7.4B">Figure
+        7.4B</a> </font><b><font face="Courier New" color="#0000FF">Stack.cpp</font></b><font color="#FF0000">
+        File</font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><b><font color="#0000FF">/*-- Stack.cpp-----------------------------------------------------------
+ 
+   This file implements Stack member functions.
+
+-------------------------------------------------------------------------*/
+
+#include &lt;iostream&gt;
+using namespace std;
+
+#include &quot;Stack.h&quot;
+
+//--- Definition of Stack constructor
+Stack::Stack()
+: myTop(-1)
+{}
+
+//--- Definition of empty()
+bool Stack::empty() const
+{ 
+   return (myTop == -1); 
+}
+
+//--- Definition of push()
+void Stack::push(const StackElement &amp; value)
+{
+   if (myTop &lt; STACK_CAPACITY - 1) //Preserve stack invariant
+   { 
+      ++myTop;
+      myArray[myTop] = value;
+   }
+   else
+   {
+      cerr &lt;&lt; &quot;*** Stack full -- can't add new value ***\n&quot;
+              &quot;Must increase value of STACK_CAPACITY in Stack.h\n&quot;;
+      exit(1);
+   }
+}
+
+//--- Definition of display()
+void Stack::display(ostream &amp; out) const
+{
+   for (int i = myTop; i &gt;= 0; i--) 
+      out &lt;&lt; myArray[i] &lt;&lt; endl;
+}
+
+//--- Definition of top()
+StackElement Stack::top() const
+{
+   if ( !empty() ) 
+      return (myArray[myTop]);
+   else
+   {
+      cerr &lt;&lt; &quot;*** Stack is empty &quot;
+              &quot; -- returning garbage value ***\n&quot;;
+      return *(new StackElement);
+   }
+}
+
+//--- Definition of pop()
+void Stack::pop()
+{
+   if ( !empty() )
+      myTop--;
+   else
+      cerr &lt;&lt; &quot;*** Stack is empty -- &quot;
+              &quot;can't remove a value ***\n&quot;;
+}&nbsp;</font></b></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 7.5">Figure 7.5</a>&nbsp;
+        Stack Test Program</font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/*---------------------------------------------------------------------
+                  Driver program to test the Stack class.
+  ----------------------------------------------------------------------*/
+
+#include &lt;iostream&gt;
+#include &lt;iomanip&gt;
+using namespace std;
+	
+#include &quot;Stack.h&quot;
+
+int main()
+{
+   Stack s;
+   cout &lt;&lt; &quot;Stack created.  Empty? &quot; &lt;&lt; boolalpha &lt;&lt; s.empty() &lt;&lt; endl;
+
+   cout &lt;&lt; &quot;How many elements to add to the stack? &quot;;
+   int numItems;
+   cin &gt;&gt; numItems;
+   for (int i = 1; i &lt;= numItems; i++) s.push(i);	
+
+   cout &lt;&lt; &quot;Stack contents:\n&quot;;
+   s.display(cout);	
+   cout &lt;&lt; &quot;Stack empty? &quot; &lt;&lt; s.empty() &lt;&lt; endl;
+
+   cout &lt;&lt; &quot;Top value: &quot; &lt;&lt; s.top() &lt;&lt; endl;
+
+   while (!s.empty())
+   {
+     cout &lt;&lt; &quot;Popping &quot; &lt;&lt; s.top() &lt;&lt; endl;
+     s.pop();
+   }
+   cout &lt;&lt; &quot;Stack empty? &quot; &lt;&lt; s.empty() &lt;&lt; endl;
+   cout &lt;&lt; &quot;Top value: &quot; &lt;&lt; s.top() &lt;&lt; endl;
+   cout &lt;&lt; &quot;Trying to pop: &quot; &lt;&lt; endl;
+   s.pop();
+}&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 7.6A">Figure
+        7.6A</a> </font><font color="#0000FF" face="Courier New">DStack.h</font><font color="#FF0000">
+        File </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><b><font color="#0000FF">/*-- DStack.h ---------------------------------------------------
+ 
+  This header file defines a Stack data type.
+  Basic operations:
+    </font><a href="#/***** Constructors *****/"><font color="#00FF00">constructor</font></a><font color="#0000FF">:  Constructs an empty stack
+    empty:        Checks if a stack is empty
+    push:         Modifies a stack by adding a value at the top
+    top:          Accesses the top stack value; leaves stack
+                    unchanged
+    pop:          Modifies stack by removing the value at the
+                    top
+    display:      Displays all the stack elements
+
+  Class Invariant:
+    1. The stack elements (if any) are stored in positions
+       0, 1, . . ., myTop of myArray.
+    2. -1 &lt;= myTop &lt; myCapacity 
+
+--------------------------------------------------------------*/
+
+#include &lt;iostream&gt;
+using namespace std;
+
+#ifndef DSTACK
+#define DSTACK
+
+typedef int StackElement;
+
+class Stack
+{
+ public:
+  /***** Function Members *****/
+  <span style="background-color: #FFFF00"><a name="/***** Constructors *****/">/***** Constructors *****/</a></span>
+  Stack(int numElements = 128);
+  /*----------------------------------------------------------
+    Construct a Stack object.
+
+    Precondition:  None.
+    Postcondition: An empty Stack object has been constructed
+        (myTop is initialized to -1 and myArray is an array
+        with numElements (default 128) elements of type 
+        StackElement).
+  -----------------------------------------------------------*/
+
+  Stack(const Stack &amp; original);
+  /*----------------------------------------------------------
+    <span style="background-color: #FFFF00"><a name="Copy Constructor" href="#Definition of Stack copy constructor">Copy Constructor </a></span>
+
+    Precondition:  original is the stack to be copied and 
+        is received as a const reference parameter.
+    Postcondition: A copy of original has been constructed.
+  -----------------------------------------------------------*/
+
+ <a name="/***** Destructor *****/" href="#Definition of Stack destructor"><span style="background-color: #FFFF00">/***** Destructor *****/</span></a>
+  ~Stack(); 
+  /*----------------------------------------------------------
+    Class destructor 
+
+    Precondition:  None
+    Postcondition: The dynamic array in the stack has been 
+      deallocated.
+  -----------------------------------------------------------*/
+
+  <span style="background-color: #FFFF00"><a name="/***** Assignment *****/" href="#Definition of assignment operator">/***** Assignment *****/</a></span>
+  Stack &amp; operator= (const Stack &amp; original);
+  /*----------------------------------------------------------
+    Assignment Operator 
+
+   Precondition:  original is the stack to be assigned and 
+       is received as a const reference parameter.
+   Postcondition: The current stack becomes a copy of 
+       original and a reference to it is returned.
+  -----------------------------------------------------------*/
+
+  bool empty() const;
+  /*-----------------------------------------------------------
+    Check if stack is empty.
+    Precondition: None
+    Postcondition: Returns true if stack is empty and 
+        false otherwise.
+   -----------------------------------------------------------*/
+
+  void push(const StackElement &amp; value);
+  /*-----------------------------------------------------------
+    Add a value to a stack.
+
+    Precondition:  value is to be added to this stack
+    Postcondition: value is added at top of stack provided 
+        there is space; otherwise, a stack-full message is 
+        displayed and execution is terminated.
+   -----------------------------------------------------------*/
+
+  void display(ostream &amp; out) const;
+  /*-----------------------------------------------------------
+    Display values stored in the stack. 
+
+    Precondition:  ostream out is open.
+    Postcondition: Stack's contents, from top down, have
+        been output to out.
+   -----------------------------------------------------------*/
+
+  StackElement top() const;
+  /*-----------------------------------------------------------
+    Retrieve value at top of stack (if any).
+
+    Precondition:  Stack is nonempty
+    Postcondition: Value at top of stack is returned, unless
+        the stack is empty; in that case, an error message is
+        displayed and a &quot;garbage value&quot; is returned.
+   ----------------------------------------------------------*/
+
+  void pop();
+  /*-----------------------------------------------------------
+    Remove value at top of stack (if any).
+
+    Precondition:  Stack is nonempty.
+    Postcondition: Value at top of stack has been removed, 
+        unless the stack is empty; in that case, an error 
+        message is displayed and execution allowed to proceed.
+   ----------------------------------------------------------*/ 
+
+ private:
+ /<a name="DStack Data Members">***** Data Members *****</a>/
+<span style="background-color: #00FFFF">  int myCapacity,           // capacity of stack
+      myTop;                // top of stack
+  StackElement * myArray;   // dynamic array to store elements</span>
+
+}; // end of class declaration
+
+#endif&nbsp;</font></b></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 7.6B">Figure
+        7.6B</a> </font><font color="#0000FF" face="Courier New">DStack.cpp</font><font color="#FF0000">
+        File </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/*-- DStack.cpp----------------------------------------------------------
+ 
+   This file implements Stack member functions.
+
+-------------------------------------------------------------------------*/
+ 
+#include &lt;iostream&gt;
+#include &lt;cassert&gt;
+#include &lt;new&gt;
+using namespace std;
+
+#include &quot;DStack.h&quot;
+
+<span style="background-color: #FFFF00"><a name="//--- Definition of Stack constructor">//--- Definition of Stack constructor</a></span>
+Stack::Stack(int numElements)
+{
+   assert (numElements &gt; 0);  // check precondition
+   myCapacity = numElements;  // set stack capacity
+                     // allocate array of this capacity
+   myArray = new(nothrow) StackElement[myCapacity];
+   if (myArray != 0)          // memory available
+      myTop = -1;
+   else
+   {
+      cerr &lt;&lt; &quot;Inadequate memory to allocate stack \n&quot;
+              &quot; -- terminating execution\n&quot;;
+      exit(1);
+   }               // or assert(myArray != 0);
+}
+
+//--- <span style="background-color: #FFFF00"><a name="Definition of Stack copy constructor">Definition of Stack copy constructor</a></span>
+Stack::Stack(const Stack &amp; original)
+: myCapacity(original.myCapacity), myTop(original.myTop)
+{
+   //--- Get new array for copy
+   myArray = new(nothrow) StackElement[myCapacity];   
+                                     // allocate array in copy
+
+   if (myArray != 0)                 // check if memory available
+      // copy original's array member into this new array
+      for (int pos = 0; pos &lt; myCapacity; pos++) 
+         myArray[pos] = original.myArray[pos];
+   else
+   {
+      cerr &lt;&lt; &quot;*Inadequate memory to allocate stack ***\n&quot;;
+      exit(1);
+   }
+}
+
+//--- <span style="background-color: #FFFF00"><a name="Definition of Stack destructor">Definition of Stack destructor</a></span>
+Stack::~Stack()
+{ 
+   delete [] myArray;
+}
+
+//---<span style="background-color: #FFFF00"><a name="Definition of assignment operator"> Definition of assignment operator</a></span>
+Stack &amp; Stack::operator=(const Stack &amp; original)
+{
+  if (this != &amp;original)                   // check that not st = st
+   {
+     //-- Allocate a new array if necessary
+      if (myCapacity != original.myCapacity) 
+      {
+	delete[] myArray;                  // destroy previous array
+
+	myCapacity = original.myCapacity;  // copy myCapacity
+         myArray = new StackElement[myCapacity]; 
+         if (myArray == 0)                  // check if memory available
+         {
+	   cerr &lt;&lt; &quot;*** Inadequate memory ***\n&quot;;
+            exit(1);
+         }
+       }
+      //--- Copy original's array into this myArray
+      for (int pos = 0; pos &lt; myCapacity; pos++) 
+         myArray[pos] = original.myArray[pos];
+
+      myTop = original.myTop;              // copy myTop member
+   }
+   return *this;
+}
+
+//--- Definition of empty()
+bool Stack::empty() const
+{ 
+   return (myTop == -1); 
+}
+
+//--- Definition of push()
+void Stack::push(const StackElement &amp; value)
+{
+   if (myTop &lt; myCapacity - 1) //Preserve stack invariant
+   { 
+      ++myTop;
+      myArray[myTop] = value;
+   }
+   else
+   {
+      cerr &lt;&lt; &quot;*** Stack full -- can't add new value ***\n&quot;
+              &quot;Must increase value of STACK_CAPACITY in Stack.h\n&quot;;
+      exit(1);
+   }
+}
+
+//--- Definition of display()
+void Stack::display(ostream &amp; out) const
+{
+   for (int i = myTop; i &gt;= 0; i--) 
+      out &lt;&lt; myArray[i] &lt;&lt; endl;
+}
+
+//--- Definition of top()
+StackElement Stack::top() const
+{
+   if ( !empty() ) 
+      return (myArray[myTop]);
+   else
+   {
+      cerr &lt;&lt; &quot;*** Stack is empty &quot;
+              &quot; -- returning garbage value ***\n&quot;;
+      return *(new StackElement);
+   }
+}
+
+//--- Definition of pop()
+void Stack::pop()
+{
+   if ( !empty() )
+      myTop--;
+   else
+      cerr &lt;&lt; &quot;*** Stack is empty -- &quot;
+              &quot;can't remove a value ***\n&quot;;
+}&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 7.10 Test Program for DStack Class">Figure
+        7.10 Test Program for </a></font><a name="Figure 7.10 Test Program for DStack Class"><font face="Courier New" color="#0000FF"><b>DStack</b></font><font color="#FF0000">
+        Class</font></a></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/*---------------------------------------------------------------------
+                  Driver program to test the Stack class.
+  ----------------------------------------------------------------------*/
+
+#include &lt;iostream&gt;
+#include &lt;iomanip&gt;
+using namespace std;
+	
+#include &quot;DStack.h&quot;
+
+void print(Stack st)
+{ st.display(cout); }
+
+int main()
+{
+   int cap;
+   cout &lt;&lt; &quot;Enter stack capacity: &quot;;
+   cin &gt;&gt; cap;
+
+   Stack s(cap);
+   cout &lt;&lt; &quot;Stack created.  Empty? &quot; &lt;&lt; boolalpha &lt;&lt; s.empty() &lt;&lt; endl;
+
+   cout &lt;&lt; &quot;How many elements to add to the stack? &quot;;
+   int numItems;
+   cin &gt;&gt; numItems;
+   for (int i = 1; i &lt;= numItems; i++) 
+      s.push(i);
+   cout &lt;&lt; &quot;Stack empty? &quot; &lt;&lt; s.empty() &lt;&lt; endl;
+
+   cout &lt;&lt; &quot;Contents of stack s (via  print):\n&quot;;
+   print(s); cout &lt;&lt; endl;
+   cout &lt;&lt; &quot;Check that the stack wasn't modified by print:\n&quot;;
+   s.display(cout); cout &lt;&lt; endl;
+
+   Stack t, u;
+   t = u = s;
+   cout &lt;&lt; &quot;Contents of stacks t and u after t = u = s (via  print):\n&quot;;
+   cout &lt;&lt; &quot;u:\n&quot;; print(u); cout &lt;&lt; endl;
+   cout &lt;&lt; &quot;t:\n&quot;; print(t); cout &lt;&lt; endl;
+
+   cout &lt;&lt; &quot;Top value in t: &quot; &lt;&lt; t.top() &lt;&lt; endl;
+
+   while (!t.empty())
+   {
+     cout &lt;&lt; &quot;Popping t:  &quot; &lt;&lt; t.top() &lt;&lt; endl;
+     t.pop();
+   }
+   cout &lt;&lt; &quot;Stack t empty? &quot; &lt;&lt; t.empty() &lt;&lt; endl;
+   cout &lt;&lt; &quot;\nNow try to retrieve top value from t.&quot; &lt;&lt; endl;
+   cout &lt;&lt; &quot;Top value in t: &quot; &lt;&lt; t.top() &lt;&lt; endl;
+   cout &lt;&lt; &quot;\nTrying to pop t: &quot; &lt;&lt; endl;
+   t.pop();
+}&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 7.11">Figure
+        7.11</a> Linked-List-Based&nbsp;<br>
+        Declaration for </font><font color="#0000FF" face="Courier New">Stack</font><font color="#FF0000">
+        Class</font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>class Stack
+{
+ public:
+ /***** Function Members *****/
+ // Prototypes same as in preceding section
+
+ private:
+    /*** Node class ***/
+   class Node
+   {
+    public:
+      StackElement data;
+      Node * next;
+      //--- Node constructor
+      Node(StackElement value, Node * link = 0)
+      /*------------------------------------------------------
+        Precondition:  value is received
+        Postcondition: A Node has been constructed with value
+            in its data part and itb next part set to link
+            (default 0).
+       ------------------------------------------------------*/
+      { data = value; next = link; }
+
+  };
+
+  typedef Node * NodePointer;
+
+  /***** Data Members *****/
+  NodePointer myTop;      // pointer to top of stack
+
+}; // end of class declaration&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 7.12 LStack.cpp Implementation">Figure
+        7.12 </a> </font><a name="Figure 7.12 LStack.cpp Implementation"><font color="#0000FF" face="Courier New">LStack.cpp
+        </font><font color="#FF0000">Implementation </font></a></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>//--- LStack.cpp -------------------------------------------------
+ 
+#include &lt;new&gt;
+using namespace std;
+
+<a name="Constructor &amp; Copy Constructor">#include &quot;LStack.h&quot;</a>
+
+<span style="background-color: #FFFF00">//--- Definition of Stack constructor</span>
+Stack::Stack()
+: myTop(0)
+{}
+
+<span style="background-color: #FFFF00">//--- Definition of Stack copy constructor</span>
+Stack::Stack(const Stack &amp; original)
+{
+   myTop = 0;
+   if (!original.empty())
+   {
+      // Copy first node
+      myTop = new Stack::Node(original.top());
+
+      // Set pointers to run through the stack's linked lists
+      Stack::NodePointer lastPtr = myTop,
+                         origPtr = original.myTop-&gt;next;
+
+      while (origPtr != 0)
+      {
+         lastPtr-&gt;next = new Stack::Node(origPtr-&gt;data);
+         lastPtr = lastPtr-&gt;next;
+         origPtr = origPtr-&gt;next;
+      }
+   }
+}
+
+<span style="background-color: #FFFF00">//--- Definition of Stack destructor</span>
+Stack::~Stack()
+{     
+   // Set pointers to run through the stack
+   Stack::NodePointer currPtr = myTop,  // node to be deallocated
+                      nextPtr;          // its successor
+   while (currPtr != 0)
+   {
+      nextPtr = currPtr-&gt;next;
+      delete currPtr;
+      currPtr = nextPtr;
+   }
+}
+
+<span style="background-color: #FFFF00">//--- Definition of assignment operator</span>
+Stack &amp; Stack::operator=(const Stack &amp; original)
+{
+   myTop = 0;
+   if (original.empty()) return *this;
+
+   if (this != &amp;original)     // check that not st = st
+   {
+      this-&gt;~Stack();         // destroy current linked list
+ 
+      // Copy first node
+      myTop = new Stack::Node(original.top());
+
+      // Set pointers to run through the stacks' linked lists
+      Stack::NodePointer lastPtr = myTop,
+                         origPtr = original.myTop-&gt;next;
+
+      while (origPtr != 0)
+        {
+          lastPtr-&gt;next = new Stack::Node(origPtr-&gt;data);
+          lastPtr = lastPtr-&gt;next;
+          origPtr = origPtr-&gt;next;
+        } 
+   }
+   return *this;
+}
+
+<span style="background-color: #FFFF00">//--- Definition of empty()</span>
+bool Stack::empty() const
+{ 
+   return (myTop == 0); 
+}
+
+<span style="background-color: #FFFF00">//--- Definition of push()</span>
+void Stack::push(const StackElement &amp; value)
+{
+   myTop = new Stack::Node(value, myTop);
+}
+
+<span style="background-color: #FFFF00">//--- Definition of display()</span>
+void Stack::display(ostream &amp; out) const
+{
+   Stack::NodePointer ptr;
+   for (ptr = myTop; ptr != 0; ptr = ptr-&gt;next)
+      out &lt;&lt; ptr-&gt;data &lt;&lt; endl;
+}
+
+<span style="background-color: #FFFF00">//--- Definition of top()</span>
+StackElement Stack::top() const
+{
+   if (!empty())
+      return (myTop-&gt;data);
+   else
+   {
+      cerr &lt;&lt; &quot;*** Stack is empty &quot;
+              &quot; -- returning garbage ***\n&quot;;
+      return *(new StackElement);   // &quot;Garbage&quot; value
+   }
+}
+
+<span style="background-color: #FFFF00">//--- Definition of pop()</span>
+void Stack::pop()
+{
+   if (!empty())
+   {
+      Stack::NodePointer ptr = myTop;
+      myTop = myTop-&gt;next;
+      delete ptr;
+   }   
+   else
+      cerr &lt;&lt; &quot;*** Stack is empty -- can't remove a value ***\n&quot;;
+}&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 7.12C Driver Program">Figure
+        7.12C Driver Program</a> for Linked List Implementation of Stack</font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/*---------------------------------------------------------------------
+                  Driver program to test the Stack class.
+  ----------------------------------------------------------------------*/
+
+#include &lt;iostream&gt;
+using namespace std;
+	
+#include &quot;LStack.h&quot;
+
+void print(Stack st)
+{ st.display(cout); }
+
+int main()
+{
+   Stack s;
+   cout &lt;&lt; &quot;Stack created.  Empty? &quot; &lt;&lt; boolalpha &lt;&lt; s.empty() &lt;&lt; endl;
+
+   cout &lt;&lt; &quot;How many elements to add to the stack? &quot;;
+   int numItems;
+   cin &gt;&gt; numItems;
+   for (int i = 1; i &lt;= numItems; i++) 
+      s.push(i);	
+   cout &lt;&lt; &quot;Stack empty? &quot; &lt;&lt; s.empty() &lt;&lt; endl;
+
+   cout &lt;&lt; &quot;Contents of stack s (via  print):\n&quot;;
+   print(s); cout &lt;&lt; endl;
+   cout &lt;&lt; &quot;Check that the stack wasn't modified by print:\n&quot;;
+   s.display(cout); cout &lt;&lt; endl;
+
+   Stack t, u;
+   t = u = s;
+   cout &lt;&lt; &quot;Contents of stacks t and u after t = u = s (via  print):\n&quot;;
+   cout &lt;&lt; &quot;u:\n&quot;; print(u); cout &lt;&lt; endl;
+   cout &lt;&lt; &quot;t:\n&quot;; print(t); cout &lt;&lt; endl;
+
+   cout &lt;&lt; &quot;Top value in t: &quot; &lt;&lt; t.top() &lt;&lt; endl;
+
+   while (!t.empty())
+   {
+     cout &lt;&lt; &quot;Popping t:  &quot; &lt;&lt; t.top() &lt;&lt; endl;
+     t.pop();
+   }
+   cout &lt;&lt; &quot;Stack t empty? &quot; &lt;&lt; t.empty() &lt;&lt; endl;
+   cout &lt;&lt; &quot;\nNow try to retrieve top value from t.&quot; &lt;&lt; endl;
+   cout &lt;&lt; &quot;Top value in t: &quot; &lt;&lt; t.top() &lt;&lt; endl;
+   cout &lt;&lt; &quot;\nTrying to pop t: &quot; &lt;&lt; endl;
+   t.pop();
+}&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 7.15 Converting Infix to Postfix">Figure
+        7.15 Converting Infix to Postfix</a></font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/*--------------------------------------------------------------------------
+   Convert infix expressions to postfix.
+ 
+   Input:  An infix expression and user responses
+   Output: The postfix expression
+--------------------------------------------------------------------------*/
+
+#include &lt;iostream&gt;	  // &lt;&lt;, &gt;&gt;, cout, cin
+#include &lt;string&gt;         // string, ==, find, npos
+#include &lt;cassert&gt;        // assert()
+#include &lt;cctype&gt;         // alnum()
+using namespace std;
+#include &quot;DStack.h&quot;       // Stack class with StackElement = char
+
+string postfix(string exp);
+
+int main()
+{
+   string exp;            // infix expression
+   cout &lt;&lt; &quot;NOTE: Enter # for infix expression to stop.\n&quot;;
+   for (;;)
+   {
+      cout &lt;&lt; &quot;\nInfix expression? &quot;;
+      getline(cin, exp);
+
+      if (exp == &quot;#&quot;) break;
+
+      cout &lt;&lt; &quot;Postfix expression is &quot; &lt;&lt; postfix(exp) &lt;&lt; endl;
+   }
+}
+
+string postfix(string exp)
+/*-------------------------------------------------------------------------
+   Function to convert an infix expression exp to postfix.
+
+   Precondition:  exp is received
+   Postcondition: postfix expression corresponding to exp is returned
+       or an error message displayed if an error was found in exp.
+-------------------------------------------------------------------------*/
+{
+   char token,                   // character in exp
+        topToken;                // token on top of opStack
+   Stack opStack;                // stack of operators
+   string RPNexp;                // postfix expression
+   const string BLANK = &quot; &quot;;
+   for (int i = 0; i &lt; exp.length(); i++)
+   {
+      token = exp[i];
+      switch(token)
+      {
+         case ' ' : break;       // do nothing -- skip blanks
+         case '(' : opStack.push(token);
+                    break;
+         case ')' : for (;;)
+                    {
+                       assert (!opStack.empty());
+                       topToken = opStack.top();
+                       opStack.pop();
+                       if (topToken == '(') break;
+                       RPNexp.append(BLANK + topToken);
+                    }
+                    break;
+         case '+' : case '-' :
+         case '*' : case '/': case'%':
+                    for (;;)
+                    {
+                       if (opStack.empty() ||
+                           opStack.top() == '(' ||
+                           (token == '*' || token == '/' || token == '%') &amp;&amp;
+                           (opStack.top() == '+' || opStack.top() == '-'))
+                       {
+                          opStack.push(token);
+                          break;
+                       }
+                       else
+                       {
+                          topToken = opStack.top();
+                          opStack.pop();
+                          RPNexp.append(BLANK + topToken);
+                       }
+                    }
+                    break;
+         default :  // operand
+  	            RPNexp.append(BLANK + token);
+                    for(;;)
+		    {
+                       if ( !isalnum(exp[i+1]) ) break;  // end of identifier
+		       i++;
+		       token = exp[i];
+		       RPNexp.append(1, token);
+		    }
+      }
+   }
+   // Pop remaining operators on the stack
+   for (;;)
+   {
+      if (opStack.empty()) break;
+      topToken = opStack.top();
+      opStack.pop();
+      if (topToken != '(')
+      {
+         RPNexp.append(BLANK + topToken);
+      }
+      else
+      {
+         cout &lt;&lt; &quot; *** Error in infix expression ***\n&quot;;
+         break;
+      }
+   }
+   return RPNexp;
+}&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000">Figure </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre>&nbsp;</pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000">Figure </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre>&nbsp;</pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000">Figure </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre>&nbsp;</pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000">Figure </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre>&nbsp;</pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000">Figure </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre>&nbsp;</pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000">Figure </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre>&nbsp;</pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000">Figure </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre>&nbsp;</pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+</body>
+
+</html>

@@ -1,0 +1,646 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Figure 12</title>
+</head>
+
+<body bgcolor="#FFFFCC">
+
+<p align="center"><font face="Arial">Nyhoff, ADTs, Data Structures and Problem
+Solving with C++, Second Edition,&nbsp;<br>
+© 2005 Pearson Education, Inc. All rights reserved. 0-13-140909-3&nbsp;</font> </p>
+<p align="center">&nbsp; </p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 12.1&amp; 7">Figure
+        12.1&amp; 7</a> Binary Search Tree Class Template</font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/* BST.h contains the declaration of class template BST.
+   Basic operations:
+     Constructor: Constructs an empty BST
+     empty:       Checks if a BST is empty
+     search:      Search a BST for an item
+     insert:      Inserts a value into a BST
+     remove:      Removes a value from a BST
+     inorder:     Inorder traversal of a BST -- output the data values
+     graph:       Output a grapical representation of a BST
+   Private utility helper operations:
+     search2:     Used by delete
+     inorderAux:  Used by inorder
+     graphAux:    Used by graph
+  Other operations described in the exercises:
+     destructor
+     copy constructor
+     assignment operator
+     preorder, postorder, and level-by-level traversals
+     level finder
+--------------------------------------------------------------------------*/
+
+#include &lt;iostream&gt;
+
+#ifndef BINARY_SEARCH_TREE
+#define BINARY_SEARCH_TREE
+
+template &lt;typename DataType&gt;
+class BST
+{
+ private:
+  /***** Node structure *****/
+  class BinNode 
+  {
+   public:
+    DataType data;
+    BinNode * left;
+    BinNode *  right;
+
+    // BinNode constructors
+    // Default -- data part undefined; both links null
+    BinNode()
+    : left(0), right(0)
+    {}
+
+    // Explicit Value -- data part contains item; both links null
+    BinNode(DataType item)
+    : data(item), left(0), right(0)
+    {}
+  };
+
+  typedef BinNode * BinNodePointer; 
+
+ public:
+  /***** Function Members *****/
+  BST();
+  /*------------------------------------------------------------------------
+    Construct a BST object.
+
+    Precondition:  None.
+    Postcondition: An empty BST has been constructed.
+   -----------------------------------------------------------------------*/
+
+  bool empty() const;
+  /*------------------------------------------------------------------------
+    Check if BST is empty.
+
+    Precondition: None.
+    Postcondition: Returns true if BST is empty and false otherwise.
+   -----------------------------------------------------------------------*/
+
+  bool search(const DataType &amp; item) const; 
+  /*------------------------------------------------------------------------
+    Search the BST for item.
+
+    Precondition:  None.
+    Postcondition: Returns true if item found, and false otherwise.
+   -----------------------------------------------------------------------*/
+
+   void insert(const DataType &amp; item);
+  /*------------------------------------------------------------------------
+    Insert item into BST.
+
+    Precondition:  None.
+    Postcondition: BST has been modified with item inserted at proper 
+        position to maintain BST property. 
+  ------------------------------------------------------------------------*/
+
+  void remove(const DataType &amp; item);
+  /*------------------------------------------------------------------------
+    Remove item from BST.
+
+    Precondition:  None.
+    Postcondition: BST has been modified with item removed (if present);
+        BST property is maintained.
+    Note: remove uses auxiliary function search2() to locate the node
+          containing item and its parent.
+ ------------------------------------------------------------------------*/
+
+  void inorder(ostream &amp; out);
+  /*------------------------------------------------------------------------
+    Inorder traversal of BST.
+
+    Precondition:  ostream out is open.
+    Postcondition: BST has been inorder traversed and values in nodes 
+        have been output to out.
+    Note: inorder uses private auxiliary function inorderAux().
+ ------------------------------------------------------------------------*/
+
+  void graph(ostream &amp; out);
+  /*------------------------------------------------------------------------
+    Graphic output of BST.
+
+    Precondition:  ostream out is open.
+    Postcondition: Graphical representation of BST has been output to out.
+    Note: inorder uses private auxiliary function graphAux().
+ ------------------------------------------------------------------------*/
+
+ private:
+  /***** Private Function Members *****/
+  void search2(const DataType &amp; item, bool &amp; found,
+               BinNodePointer &amp; locptr, BinNodePointer &amp; parent);
+ /*------------------------------------------------------------------------
+   Locate a node containing item and its parent.
+ 
+   Precondition: None.
+   Postcondition: locptr points to node containing item or is null if 
+       not found, and parent points to its parent
+ ------------------------------------------------------------------------*/
+
+  void inorderAux(ostream &amp; out, BinNodePointer subtreePtr);
+  /*------------------------------------------------------------------------
+    Inorder traversal auxiliary function.
+
+    Precondition:  ostream out is open; subtreePtr points to a subtree 
+        of this BST.
+    Postcondition: Subtree of this BST with subtreePtr as root has been
+        output to out.
+ ------------------------------------------------------------------------*/
+
+  void graphAux(ostream &amp; out, int indent, BinNodePointer subtreeRoot);
+  /*------------------------------------------------------------------------
+    Graph auxiliary function.
+
+    Precondition:  ostream out is open; subtreePtr points to a subtree 
+        of this BST.
+    Postcondition: Graphical representation of subtree of this BST with 
+        subtreePtr as root has been output to out, indented indent spaces.
+ ------------------------------------------------------------------------*/
+
+ /***** Data Members *****/
+  BinNodePointer myRoot; 
+
+}; // end of class template declaration
+
+//--- Definition of constructor
+template &lt;typename DataType&gt;
+inline BST&lt;DataType&gt;::BST()
+: myRoot(0)
+{}
+
+//--- Definition of empty()
+template &lt;typename DataType&gt;
+inline bool BST&lt;DataType&gt;::empty() const
+{ return myRoot == 0; }
+
+<span style="background-color: #FFFF00"><a name="//--- Definition of search()">//--- Definition of search()</a></span>
+template &lt;typename DataType&gt;
+bool BST&lt;DataType&gt;::search(const DataType &amp; item) const
+{
+  BST&lt;DataType&gt;::BinNodePointer locptr = myRoot;
+  bool found = false;
+  for (;;)
+  {
+    if (found || locptr == 0) break;
+    if (item &lt; locptr-&gt;data)       // descend left
+      locptr = locptr-&gt;left;
+    else if (locptr-&gt;data &lt; item)  // descend right
+      locptr = locptr-&gt;right;
+    else                           // item found
+      found = true;
+  }
+  return found;
+}
+
+<span style="background-color: #FFFF00"><a name="//--- Definition of insert()">//--- Definition of insert()</a></span>
+template &lt;class DataType&gt;
+inline void BST&lt;DataType&gt;::insert(const DataType &amp; item)
+{
+   BST&lt;DataType&gt;::BinNodePointer 
+        locptr = myRoot,   // search pointer
+        parent = 0;        // pointer to parent of current node
+   bool found = false;     // indicates if item already in BST
+   while (!found &amp;&amp; locptr != 0)
+   {
+      parent = locptr;
+      if (item &lt; locptr-&gt;data)       // descend left
+         locptr = locptr-&gt;left;
+      else if (locptr-&gt;data &lt; item)  // descend right
+         locptr = locptr-&gt;right;
+      else                           // item found
+         found = true;
+   }
+   if (!found)
+   {                                 // construct node containing item
+      locptr = new BST&lt;DataType&gt;::BinNode(item);  
+      if (parent == 0)               // empty tree
+         myRoot = locptr;
+      else if (item &lt; parent-&gt;data )  // insert to left of parent
+         parent-&gt;left = locptr;
+      else                           // insert to right of parent
+         parent-&gt;right = locptr;
+   }
+   else
+      cout &lt;&lt; &quot;Item already in the tree\n&quot;;
+}
+
+<span style="background-color: #FFFF00"><a name="//--- Definition of remove()">//--- Definition of remove()</a></span>
+template &lt;class DataType&gt;
+void BST&lt;DataType&gt;::remove(const DataType &amp; item)
+{
+   bool found;                      // signals if item is found
+   BST&lt;DataType&gt;::BinNodePointer 
+      x,                            // points to node containing
+      parent;                       //    &quot;    &quot; parent of x and xSucc
+   search2(item, found, x, parent);
+
+   if (!found)
+   {
+      cout &lt;&lt; &quot;Item not in the BST\n&quot;;
+      return;
+   }
+   //else
+   if (x-&gt;left != 0 &amp;&amp; x-&gt;right != 0)
+   {                                // node has 2 children
+      // Find x's inorder successor and its parent
+      BST&lt;DataType&gt;::BinNodePointer xSucc = x-&gt;right;
+      parent = x;
+      while (xSucc-&gt;left != 0)       // descend left
+      {
+         parent = xSucc;
+         xSucc = xSucc-&gt;left;
+      }
+
+     // Move contents of xSucc to x and change x 
+     // to point to successor, which will be removed.
+     x-&gt;data = xSucc-&gt;data;
+     x = xSucc;
+   } // end if node has 2 children
+
+   // Now proceed with case where node has 0 or 2 child
+   BST&lt;DataType&gt;::BinNodePointer 
+      subtree = x-&gt;left;             // pointer to a subtree of x
+   if (subtree == 0)
+      subtree = x-&gt;right;
+   if (parent == 0)                  // root being removed
+      myRoot = subtree;
+   else if (parent-&gt;left == x)       // left child of parent
+      parent-&gt;left = subtree; 
+   else                              // right child of parent
+      parent-&gt;right = subtree;
+   delete x;
+}
+
+<span style="background-color: #FFFF00"><a name="//--- Definition of inorder()">//--- Definition of inorder()</a></span>
+template &lt;class DataType&gt;
+inline void BST&lt;DataType&gt;::inorder(ostream &amp; out)
+{ 
+   inorderAux(out, myRoot); 
+}
+
+<span style="background-color: #FFFF00"><a name="//--- Definition of graph()">//--- Definition of graph()</a></span>
+template &lt;class DataType&gt;
+inline void BST&lt;DataType&gt;::graph(ostream &amp; out)
+{ graphAux(out, 0, myRoot); }
+
+//--- Definition of search2()
+template &lt;class DataType&gt;
+void BST&lt;DataType&gt;::search2(const DataType &amp; item, bool &amp; found,
+                            BST&lt;DataType&gt;::BinNodePointer &amp; locptr, 
+			    BST&lt;DataType&gt;::BinNodePointer &amp; parent)
+{
+   locptr = myRoot;
+   parent = 0;
+   found = false;
+   while (!found &amp;&amp; locptr != 0)
+   {
+      if (item &lt; locptr-&gt;data)       // descend left
+      {
+         parent = locptr;
+         locptr = locptr-&gt;left;
+      }
+      else if (locptr-&gt;data &lt; item)  // descend right
+      {
+         parent = locptr;
+         locptr = locptr-&gt;right;
+      }
+      else                           // item found
+         found = true;
+   }
+}
+
+<span style="background-color: #FFFF00"><a name="//--- Definition of inorderAux()">//--- Definition of inorderAux()</a></span>
+template &lt;class DataType&gt;
+void BST&lt;DataType&gt;::inorderAux(ostream &amp; out, 
+                               BST&lt;DataType&gt;::BinNodePointer subtreeRoot)
+{
+   if (subtreeRoot != 0)
+   {
+      inorderAux(out, subtreeRoot-&gt;left);    // L operation
+      out &lt;&lt; subtreeRoot-&gt;data &lt;&lt; &quot;  &quot;;      // V operation
+      inorderAux(out, subtreeRoot-&gt;right);   // R operation
+   }
+}
+
+<span style="background-color: #FFFF00"><a name="//--- Definition of graphAux()">//--- Definition of graphAux()</a></span>
+#include &lt;iomanip&gt;
+
+template &lt;class DataType&gt;
+void BST&lt;DataType&gt;::graphAux(ostream &amp; out, int indent, 
+                             BST&lt;DataType&gt;::BinNodePointer subtreeRoot)
+{
+  if (subtreeRoot != 0)
+    {
+      graphAux(out, indent + 8, subtreeRoot-&gt;right);
+      out &lt;&lt; setw(indent) &lt;&lt; &quot; &quot; &lt;&lt; subtreeRoot-&gt;data &lt;&lt; endl;
+      graphAux(out, indent + 8, subtreeRoot-&gt;left);
+    }
+}
+
+#endif&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 12.8">Figure
+        12.8</a> Testing Binary Search Tree Class Template</font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/*----- treetester.cpp ----------------------------
+  Program for testing class template BST.
+  ------------------------------------------------*/
+#include &lt;iostream&gt;
+using namespace std;
+
+#include &quot;BST.h&quot;
+
+/*---- PART 3 ----
+                                 // makeCopy() is a function with a
+void makeCopy(BST&lt;int&gt; aBST)     // BST value parameter
+{                                // to test the copy constructor
+  cout &lt;&lt; &quot;\nNow copying the BST and adding 38999,&quot;
+          &quot; -12312, and 55657 to the copy:\n&quot;;
+  aBST.insert(38999);
+  aBST.insert(-12312);
+  aBST.insert(55657);
+  cout &lt;&lt; &quot;--Inorder Traversal of the copy: \n&quot;;
+  aBST.inorder(cout);
+}
+---- END PART 3 ----*/
+
+int main()
+{
+  // Testing Constructor and empty()
+  BST&lt;int&gt; intBST;            // test the class constructor
+  cout &lt;&lt; &quot;Constructing empty BST\n&quot;;
+  cout &lt;&lt; &quot;BST &quot; &lt;&lt; (intBST.empty() ? &quot;is&quot; : &quot;is not&quot;) &lt;&lt; &quot; empty\n&quot;;
+
+  // Testing inorder
+  cout &lt;&lt; &quot;Inorder Traversal of BST: \n&quot;;
+  intBST.inorder(cout);
+
+  // Testing insert
+  cout &lt;&lt; &quot;\nNow insert a bunch of integers into the BST.&quot;
+          &quot;\nTry items not in the BST and some that are in it:\n&quot;;
+  int number;
+  for (;;)
+  {
+    cout &lt;&lt; &quot;Item to insert (-999 to stop): &quot;;
+    cin &gt;&gt; number;
+    if (number == -999) break;
+    intBST.insert(number);
+  }
+  intBST.graph(cout);
+
+  cout &lt;&lt; &quot;BST &quot; &lt;&lt; (intBST.empty() ? &quot;is&quot; : &quot;is not&quot;) &lt;&lt; &quot; empty\n&quot;;
+  cout &lt;&lt; &quot;Inorder Traversal of BST: \n&quot;;
+  intBST.inorder(cout);
+
+  cout &lt;&lt; endl;
+
+  // Testing search()
+  cout &lt;&lt; &quot;\n\nNow testing the search() operation.&quot;
+          &quot;\nTry both items in the BST and some not in it:\n&quot;;
+  for (;;)
+  {
+    cout &lt;&lt; &quot;Item to find (-999 to stop): &quot;;
+    cin &gt;&gt; number;
+    if (number == -999) break;
+    cout &lt;&lt; (intBST.search(number) ? &quot;Found&quot; : &quot;Not found&quot;) &lt;&lt; endl;
+  }
+
+  // Testing remove()
+  cout &lt;&lt; &quot;\nNow testing the remove() operation.&quot;
+          &quot;\nTry both items in the BST and some not in it:\n&quot;;
+  for (;;)
+  {
+    cout &lt;&lt; &quot;Item to remove (-999 to stop): &quot;;
+    cin &gt;&gt; number;
+    if (number == -999) break;
+    intBST.remove(number);
+    intBST.graph(cout);
+  }
+  cout &lt;&lt; &quot;\nInorder Traversal of BST: \n&quot;;
+  intBST.inorder(cout);
+  cout &lt;&lt; endl;
+
+/* ---- PART 1 ----
+  // Testing Preorder and Postorder
+  cout &lt;&lt; &quot;\nInorder Traversal of BST: \n&quot;;
+  intBST.inorder(cout);
+  cout &lt;&lt; &quot;\nPreorder Traversal of BST: \n&quot;;
+  intBST.preorder(cout);
+  cout &lt;&lt; &quot;\nPostorder Traversal of BST: \n&quot;;
+  intBST.postorder(cout);
+  cout &lt;&lt; endl;
+---- END PART 1 ----*/
+
+
+/* ---- PART 2 ----
+  // Testing the Destructor
+  cout &lt;&lt; &quot;\nNow testing the destructor.  Remember to add an output\n&quot;
+          &quot;statement to your destructor to indicate when it is called.\n&quot;;
+  {
+    BST&lt;int&gt; anotherBST;
+    anotherBST.insert(6); anotherBST.insert(9); anotherBST.insert(5);
+    anotherBST.insert(1); anotherBST.insert(3); anotherBST.insert(7);
+    cout &lt;&lt; &quot;\nInorder Traversal of another BST: \n&quot;;
+    anotherBST.inorder(cout);
+    cout &lt;&lt; &quot;\n\nLifetime of this BST is over -- now destroy it.\n&quot;;
+  }
+---- END PART 2 ----*/
+
+
+/* ---- PART 3 ----
+  // Testing the Copy Constructor
+  cout &lt;&lt; &quot;\nNow testing the copy constructor.\n&quot;;
+  cout &lt;&lt; &quot;-- First with an initializing declaration: &quot;
+          &quot;BST&lt;int&gt; copy = intBST;\n&quot;;
+  BST&lt;int&gt; copy = intBST;
+  cout &lt;&lt; &quot;-- Inorder traversal of copy:\n&quot;;
+  copy.inorder(cout);
+  cout &lt;&lt; &quot;\n\n-- Now by passing intBST to a value parameter:\n&quot;;
+  makeCopy(intBST);
+  cout &lt;&lt; &quot;\n--Check that original BST hasn't been changed.\n&quot;
+          &quot;-- Inorder traversal of original:\n&quot;;
+  intBST.inorder(cout);
+  cout &lt;&lt; endl;
+---- END PART 3 ----*/
+
+
+/* ---- PART 4 ----
+  // Testing the Assignment Operator
+  cout &lt;&lt; &quot;\nNow testing the assignment constructor with the statement:\n&quot;
+          &quot;        copy = anotherBST = intBST;\n&quot;;
+  BST&lt;int&gt; anotherBST;
+  copy = anotherBST = intBST;
+  cout &lt;&lt; &quot;\n-- Inorder traversal of intBST:\n&quot;;
+  intBST.inorder(cout);
+  cout &lt;&lt; endl;
+  cout &lt;&lt; &quot;\n-- Inorder traversal of anotherBST:\n&quot;;
+  anotherBST.inorder(cout);
+  cout &lt;&lt; endl;
+  cout &lt;&lt; &quot;\n-- Inorder traversal of copy:\n&quot;;
+  copy.inorder(cout);
+  cout &lt;&lt; endl;
+  cout &lt;&lt; &quot;\Now testing self-assignment with:  copy = copy;\n&quot;;
+  copy = copy;
+  cout &lt;&lt; endl;
+  cout &lt;&lt; &quot;\n-- Inorder traversal of copy:\n&quot;;
+  copy.inorder(cout);
+  cout &lt;&lt; endl;  
+---- END PART 4 ----*/
+
+}&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 12.9">Figure
+        12.9</a> Validating Computer Logins </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>#include &lt;iostream&gt;
+#include &lt;fstream&gt;
+#include &lt;string&gt;
+using namespace std;
+
+/*---------------------------------------------------------------------
+  Program to validate computer user-ids and passwords.  A list of
+  valid ids and passwords is read from UsersFile and is stored in
+  a BST.  When user-ids and passwords are entered during execution,
+  this BST is searched to determine whether they are legal.
+ 
+   Input (file):     UserInfo records for valid users
+   Input (keyboard): Ids and passwords of users logging in
+   Output (screen):  Messages indicating whether user-ids and
+                       passwords are valid
+ --------------------------------------------------------------------*/
+
+//----- Class containing user information -----//
+//      with &gt;&gt;, ==, and &lt; operators
+class UserInfo
+{
+ public: 
+  // ***** Function Members and Friends ***** //
+  //--- id accessor
+  string id() const { return myId; }
+
+  //--- input function
+  void read(istream &amp; in)
+  {
+    in &gt;&gt; myId &gt;&gt; myPassword;
+  }
+
+  //--- equals operator
+  bool operator==(const UserInfo &amp; user) const
+  { return myId == user.myId &amp;&amp;
+           myPassword == user.myPassword; }
+
+  //--- less-than operator
+  bool operator&lt;(const UserInfo &amp; user) const
+  { return myId &lt; user.myId ||
+           myId == user.myId &amp;&amp; myPassword &lt; user.myPassword; }
+
+  private: 
+  // ***** Data Members ***** //
+  string myId,
+         myPassword;
+};
+
+//--- Definition of input operator
+istream &amp; operator&gt;&gt;(istream &amp; in, UserInfo &amp; user)
+{
+  user.read(in);
+}
+
+
+#include &quot;BST.h&quot;
+
+int main()
+{
+  // Open stream to file of legal user-ids and password
+  string userFile;
+  cout &lt;&lt; &quot;Enter name of user-info file: &quot;;
+  getline(cin, userFile);
+  ifstream inStream(userFile.data());
+  if (!inStream.is_open())
+  {
+    cerr &lt;&lt; &quot;Cannot open &quot; &lt;&lt; userFile &lt;&lt; &quot;\n&quot;;
+    exit(1);
+  }
+
+  // Build the BST of user records
+  BST&lt;UserInfo&gt; userTree;   // BST of user records
+  UserInfo user;            // a user record
+  for(;;)
+  {
+    inStream &gt;&gt; user;
+    if (inStream.eof()) break;
+
+    userTree.insert(user);
+  }
+
+  // Validate logins
+  cout &lt;&lt; &quot;Enter Q Q to stop processing.\n&quot;;
+  for (;;)
+  {
+    cout &lt;&lt; &quot;\nUser id &amp; password: &quot;;
+    cin &gt;&gt; user;
+    if (user.id() == &quot;Q&quot;) break;
+    if (userTree.search(user))
+      cout &lt;&lt; &quot;Valid user\n&quot;;
+    else
+      cout &lt;&lt; &quot;Not a valid user\n&quot;;
+  }
+}&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+</body>
+
+</html>

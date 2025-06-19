@@ -1,0 +1,172 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Figure 12</title>
+</head>
+
+<body bgcolor="#FFFFCC">
+
+<p align="center"><font face="Arial">Nyhoff, ADTs, Data Structures and Problem
+Solving with C++, Second Edition,&nbsp;<br>
+© 2005 Pearson Education, Inc. All rights reserved. 0-13-140909-3&nbsp;</font> </p>
+<p align="center">&nbsp; </p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Class AVLTree">Class </a></font><font color="#0000FF" face="Courier New"><a name="Class AVLTree"><b>AVLTree</b></a></font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>template &lt;typename DataType&gt;
+class AVLTree
+{
+public:
+   /*** AVLTree Function Members ***/
+private:
+   /*** Node class ***/
+   class AVLNode
+   {
+   public:
+      DataType data;
+      short int balanceFactor;
+      AVLNode * left;
+      AVLNode * right;
+      // AVLNode constructors
+      // Default -- data is default DataType value
+      //         -- balance factor 0; both links null
+      AVLNode()
+      : balanceFactor(0), left(0), right(0)
+      {  }
+
+      // Explicit Value -- data part contains item;
+                        -- balance factor 0; both links null
+      AVLNode (DataType item)
+      : balanceFactor(0), data(item), left(0), right (0)
+      {  }
+   }; // end of class AVLNode declaration
+
+   typedef AVLNode * AVLNodePointer;
+
+   /*** AVLTree Data Members ***/
+}; // end of class AVLTree declaration&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 15.1">Figure
+        15.1</a> Examples of </font><font color="#0000FF" face="Courier New"><b>map</b></font><font color="#FF0000">s </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><b><font color="#0000FF">#include &lt;iostream&gt;
+#include &lt;string&gt;
+#include &lt;map&gt;
+using namespace std;
+
+class Student
+{
+public:
+  //--- Constructor
+  Student (int id = 0, double gpa = 0);
+  //--- Output operator
+  friend ostream &amp; operator&lt;&lt;(ostream &amp; out, const Student &amp; s);
+  //--- Input operator
+  friend istream &amp; operator&gt;&gt;(istream &amp; in, Student &amp; s);
+  //--- Less-than operator
+  friend bool operator&lt;(const Student &amp; a, const Student &amp; b);
+private:
+  //--- Data members
+  int myId;
+  double myGPA;
+};  // end of class Student
+
+//--- Definition of constructor
+Student::Student(int id, double gpa)
+  : myId(id), myGPA(gpa)
+{ }
+
+//--- Definition of input operator
+inline istream &amp; operator&gt;&gt;(istream &amp; in, Student &amp; s)
+{
+  in &gt;&gt; s.myId &gt;&gt; s.myGPA;
+}
+
+//--- Definition of output operator
+inline ostream &amp; operator&lt;&lt;(ostream &amp; out, const Student &amp; s)
+{ out &lt;&lt; &quot; id = &quot; &lt;&lt; s.myId &lt;&lt; &quot;  GPA = &quot; &lt;&lt; s.myGPA;
+ return out;
+}
+
+//--- Definition of less-than operator
+inline bool operator&lt;(const Student &amp; a, const Student &amp; b)
+{ return a.myId &lt; b.myId; }
+
+//==================================================================
+
+int main()
+{
+  typedef map&lt;string, Student, less&lt;string&gt; &gt; map1;
+  typedef map&lt;Student, string, less&lt;Student&gt; &gt; map2;
+
+  map1 a1;   // associative array of Student, index type is string
+  map2 a2;   // associative array of string, index type is Student
+
+  Student s;
+  s = Student(12345, 3.3);  a1[&quot;Fred&quot;] = s;   a2[s] = &quot;Fred&quot;;
+  s = Student(32322, 3.9);  a1[&quot;Al&quot;] = s;     a2[s] = &quot;Al&quot;;
+  s = Student(13131, 2.5);  a1[&quot;Joan&quot;] = s;   a2[s] = &quot;Joan&quot;;
+  s = Student(22121, 4.0);  a1[&quot;Barb&quot;] = s;   a2[s] = &quot;Barb&quot;;
+  s = Student(28888, 2.9);  a1[&quot;George&quot;] = s; a2[s] = &quot;George&quot;;
+  s = Student(19981, 3.0);  a1[&quot;Dot&quot;] = s;    a2[s] = &quot;Dot&quot;;
+  s = Student(20012, 2.9);  a1[&quot;Sue&quot;] = s;    a2[s] = &quot;Sue&quot;;
+  string name;
+  cout &lt;&lt; &quot;Enter a name: &quot;;
+  cin &gt;&gt; name;
+  map1::iterator it1 = a1.find(name);
+  cout &lt;&lt; name &lt;&lt; &quot; has &quot;;
+  if (it1== a1.end())
+    cout &lt;&lt; &quot;no info&quot;;
+  else
+    cout &lt;&lt; a1[name];
+  cout &lt;&lt; endl;
+
+  Student aStudent;
+  cout &lt;&lt; &quot;Enter a Student's id and GPA: &quot;;
+  cin &gt;&gt; aStudent;
+  map2::iterator it2 = a2.find(aStudent);
+  cout &lt;&lt; &quot;Student &quot; &lt;&lt; aStudent &lt;&lt; &quot; is &quot;;
+
+  if (it2 == a2.end())
+    cout &lt;&lt; &quot;no info&quot;;
+  else
+    cout &lt;&lt; a2[aStudent];
+  cout &lt;&lt; endl;
+}&nbsp;</font></b></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+</body>
+
+</html>

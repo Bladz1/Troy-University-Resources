@@ -1,0 +1,628 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Figure 12</title>
+</head>
+
+<body bgcolor="#FFFFCC">
+
+<p align="center"><font face="Arial">Nyhoff, ADTs, Data Structures and Problem
+Solving with C++, Second Edition,&nbsp;<br>
+© 2005 Pearson Education, Inc. All rights reserved. 0-13-140909-3&nbsp;</font> </p>
+<p align="center">&nbsp; </p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Adjacency-List Class Template">Adjacency-List
+        Class Template</a></font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><b><font color="#0000FF">#include &lt;list&gt;
+#include &lt;vector&gt;
+
+template &lt;typename DataType&gt;
+class Digraph
+{
+public:
+  /*** Functions for digraph operations ***/
+  
+private:
+  /*** Class for data and adjacency lists ***/
+  class VertexInfo
+  {
+  public:
+     DataType data;
+     list &lt;int&gt; adjacencyList;
+  };
+  
+  /*** Data Members ***/
+  vector &lt;VertexInfo&gt; v;
+);
+&nbsp;</font></b></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 16.1">Figure
+        16.1</a> Digraph Class Template </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><b><font color="#0000FF">/*--- Digraph.h ------------------------------------------------------------
+                Header file for Digraph Class Template
+ -------------------------------------------------------------------------*/
+#include &lt;list&gt;
+#include &lt;vector&gt;
+#include &lt;queue&gt;
+#include &lt;iostream&gt;
+#include &lt;fstream&gt;
+
+template &lt;typename DataType&gt;
+class Digraph
+{
+ public:
+  /***** Function Members *****/
+  DataType data(int k) const;
+  /*-----------------------------------------------------------------------
+    Retrieve data value in a given vertex.
+
+    Precondition:  k is the number of a vertex.
+    Postcondition: Data value stored in vertex k is returned.
+   -----------------------------------------------------------------------*/
+
+  void read(ifstream &amp; inStream);
+  /*-----------------------------------------------------------------------
+    Input operation.
+
+    Precondition:  ifstream inStream is open.  The lines in the file to
+        which it is connected are organized so that the data item in a
+        vertex is on one line and on the next line is the number of 
+        vertices adjacent to it followed by a list of of these vertices.
+    Postcondition: The adjacency list representation of this digraph 
+         has been stored in myAdjacencyLists.
+   -----------------------------------------------------------------------*/
+
+ void display(ostream &amp; out);
+  /*-----------------------------------------------------------------------
+    Output operation.
+
+    Precondition:  ostream out is open.
+    Postcondition: Each vertexb and its adjacency list have
+        been output to out.
+   -----------------------------------------------------------------------*/
+
+  void depthFirstSearch(int start);
+  /*-----------------------------------------------------------------------
+    Depth first search of digraph via depthFirstSearchAux(), starting
+    at vertex start.
+
+    Precondition:  start is a vertex.
+    Postcondition: All elements of unvisited are initialized to true.
+   -----------------------------------------------------------------------*/
+
+  void depthFirstSearchAux(int start, vector&lt;bool&gt; &amp; unvisited);
+  /*-----------------------------------------------------------------------
+    Recursive depth first search of digraph, starting at vertex start.
+
+    Precondition:  start is a vertex;  unvisited[i] is true if vertex i has
+        not yet been visited, and is false otherwise.
+    Postcondition: Vector unvisited has been updated.
+   -----------------------------------------------------------------------*/
+
+  vector&lt;int&gt; shortestPath(int start, int destination);
+  /*-----------------------------------------------------------------------
+    Find a shortest path in the digraph from vertex start to vertex
+    destination.
+
+    Precondition:  start and destination are vertices.
+    Postcondition: A vector of vertices along the shortest path from
+        start to destination is returned.
+   -----------------------------------------------------------------------*/
+
+ private:
+  /***** &quot;Head nodes&quot; of adjacency lists *****/
+   class VertexInfo
+   {
+    public: 
+     DataType data;
+     list&lt;int&gt; adjacencyList;
+   };
+   /***** Data member *****/
+   vector&lt;VertexInfo&gt; myAdjacencyLists;
+}; // end of Digraph class template declaration
+
+//--- Definition of data()
+template &lt;typename DataType&gt;
+inline DataType Digraph&lt;DataType&gt;::data(int k) const
+{ 
+  return myAdjacencyLists[k].data;
+}
+
+//--- Definition of read()
+template &lt;typename DataType&gt;
+void Digraph&lt;DataType&gt;::read(ifstream &amp; inStream)
+{
+  Digraph&lt;DataType&gt;::VertexInfo vi;
+  int n,           // number of vertices adjacent to some vertex
+      vertex;      // the number of a vertex
+
+  // Put a garbage 0-th value so indices start with 1, as is customary
+  myAdjacencyLists.push_back(vi); 
+
+  // Construct adjacency list representation
+  for (;;)
+  {
+    inStream &gt;&gt; vi.data;
+    if (inStream.eof()) break;
+
+    inStream &gt;&gt; n;
+    list&lt;int&gt; adjList;      // construct empty list
+    for (int i = 1; i &lt;= n; i++)
+    {
+      inStream &gt;&gt; vertex;
+      adjList.push_back(vertex);
+    }
+    vi.adjacencyList = adjList;
+    myAdjacencyLists.push_back(vi);
+  }
+}
+
+//--- Definition of display()
+template &lt;typename DataType&gt;
+void Digraph&lt;DataType&gt;::display(ostream &amp; out)
+{
+  out &lt;&lt; &quot;Adjacency-List Representation: \n&quot;;
+  for (int i = 1; i &lt; myAdjacencyLists.size(); i++)
+  {
+    out &lt;&lt; i &lt;&lt; &quot;: &quot; &lt;&lt;  myAdjacencyLists[i].data &lt;&lt; &quot;--&quot;;
+    for (list&lt;int&gt;::iterator 
+          it = myAdjacencyLists[i].adjacencyList.begin();
+          it != myAdjacencyLists[i].adjacencyList.end(); it++)
+      out &lt;&lt; *it &lt;&lt; &quot;  &quot;;
+    out &lt;&lt; endl;
+  }
+}
+  
+//-- Definitions of depthFirstSearch() and depthFirstSearchAux()
+template &lt;typename DataType&gt;
+void Digraph&lt;DataType&gt;::depthFirstSearch(int start)
+{
+  vector&lt;bool&gt; unvisited(myAdjacencyLists.size(), true);
+  depthFirstSearchAux(start, unvisited);
+}
+
+
+template &lt;typename DataType&gt;
+void Digraph&lt;DataType&gt;::depthFirstSearchAux(
+                                   int start, vector&lt;bool&gt; &amp; unvisited)
+{
+  // Add statements here to process myAdjacencyLists[start].data
+  cout &lt;&lt; myAdjacencyLists[start].data &lt;&lt; endl;
+
+  unvisited[start] = false;
+  // Traverse its adjacency list, performing depth-first 
+  // searches from each unvisited vertex in it.
+  for (list&lt;int&gt;::iterator 
+         it = myAdjacencyLists[start].adjacencyList.begin();
+         it != myAdjacencyLists[start].adjacencyList.end(); it++)
+    // check if current vertex has been visited
+    if (unvisited[*it])
+      // start DFS from new node
+      depthFirstSearchAux(*it, unvisited);  
+}
+
+//--- Definition of shortestPath()
+template&lt;typename DataType&gt;
+vector&lt;int&gt; Digraph&lt;DataType&gt;::shortestPath(int start, int destination)
+{
+  int n = myAdjacencyLists.size(); // number of vertices (#ed from 1)
+  vector&lt;int&gt; distLabel(n,-1),     // distance labels for vertices, all
+                                   // marked as unvisited (-1)
+              predLabel(n);        // predecessor labels for vertices
+  // Perform breadth first search from start to find destination,
+  // labeling vertices with distances from start as we go.
+  distLabel[start] = 0;
+  int distance = 0,                // distance from start vertex
+      vertex;                      // a vertex
+  queue&lt;int&gt; vertexQueue;          // queue of vertices
+  vertexQueue.push(start);
+  while (distLabel[destination] &lt; 0 &amp;&amp; !vertexQueue.empty())
+  {
+    vertex = vertexQueue.front();
+    vertexQueue.pop();
+    if (distLabel[vertex] &gt; distance)
+      distance++;
+    for (list&lt;int&gt;::iterator 
+         it = myAdjacencyLists[vertex].adjacencyList.begin();
+         it != myAdjacencyLists[vertex].adjacencyList.end(); it++)
+      if (distLabel[*it] &lt; 0)
+      {
+        distLabel[*it] = distance + 1;
+        predLabel[*it] = vertex;
+        vertexQueue.push(*it);
+      }
+  }
+  distance++;
+
+  // Now reconstruct the shortest path if there is one
+  vector&lt;int&gt; path(distance+1);
+  if (distLabel[destination] &lt; 0)
+    cout &lt;&lt; &quot;Destination not reachable from start vertex\n&quot;;
+  else
+  {
+    path[distance] = destination;
+    for (int k = distance - 1; k &gt;= 0; k--)
+      path[k] = predLabel[path[k+1]];
+  }
+
+  return path;
+}
+&nbsp;</font></b></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 16.2">Figure
+        16.2</a> Shortest Paths in a Network </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/*-------------------------------------------------------------------------
+  Program to find the most direct route in an airline network from a given
+  start city to a given destination city.  A digraph represented by its
+  adjacency-list implementation is used for the network, and the
+  information needed to construct it is read from networkFile.
+ -------------------------------------------------------------------------*/
+ 
+#include &lt;iostream&gt;
+#include &lt;fstream&gt;
+#include &lt;iomanip&gt;
+#include &lt;string&gt;
+#include &lt;vector&gt;
+using namespace std;
+
+#include &quot;Digraph.h&quot;
+
+int main()
+{
+  cout &lt;&lt; &quot;Enter name of network file: &quot;;
+  string networkFile;
+  cin &gt;&gt; networkFile;
+  ifstream inFile(networkFile.data());
+  if (!inFile.is_open())
+  {
+    cerr &lt;&lt; &quot;*** Cannot open &quot; &lt;&lt; networkFile &lt;&lt; &quot; ***\n&quot;;
+    exit(-1);
+  }
+
+  Digraph&lt;string&gt; d;
+  d.read(inFile);
+  cout &lt;&lt; &quot;The Digraph's &quot;;
+  d.display(cout);
+  cout &lt;&lt; endl;
+  
+  int start, destination;
+  char response;
+  do
+  {
+    cout &lt;&lt; &quot;Number of start city? &quot;;
+    cin &gt;&gt; start;
+    cout &lt;&lt; &quot;Number of destination? &quot;;
+    cin &gt;&gt; destination;
+
+    vector&lt;int&gt; path = d.shortestPath(start, destination);
+    cout &lt;&lt; &quot;Shortest path is:\n&quot;;
+    for (int k = 0; k &lt; path.size() - 1; k++)
+    {
+      cout &lt;&lt; setw(3) &lt;&lt; path[k] &lt;&lt; ' ' &lt;&lt; d.data(path[k]) &lt;&lt; endl;
+      cout &lt;&lt; &quot;      |\n&quot;
+              &quot;      v\n&quot;;
+    }
+    cout &lt;&lt; setw(3) &lt;&lt; destination &lt;&lt; ' ' &lt;&lt; d.data(destination) &lt;&lt; endl;
+    cout &lt;&lt; &quot;\nMore (Y or N)?&quot;;
+    cin &gt;&gt; response;
+  }
+  while (response == 'y' || response == 'Y');
+}
+&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 16.4">Figure
+        16.4</a> Graph Class Template</font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/*--- Graph.h -------------------------------------------------------------
+                  Header file for Graph Class Template
+ -------------------------------------------------------------------------*/
+
+#include &lt;vector&gt;
+#include &lt;iostream&gt;
+
+template &lt;typename DataType&gt;
+class Graph
+{
+ public:
+  /***** Function Members *****/
+  DataType data(int k) const;
+  /*-----------------------------------------------------------------------
+    Retrieve data value in a given vertex.
+
+    Precondition:  k is the number of a vertex.
+    Postcondition: Data value stored in vertex #k is returned.
+   -----------------------------------------------------------------------*/
+
+  void read(istream &amp; in, int numVertices, int numEdges);
+  /*-----------------------------------------------------------------------
+    Input operation.
+
+    Precondition:  istream in is open; numVertices and numEdges are the
+        number of vertices and edges in the graph, respectively.
+    Postcondition: The vertices and edges of the graph have been read 
+        from in and the edge-list representation of this graph stored
+        in myEdgeLists.
+   -----------------------------------------------------------------------*/
+
+  void depthFirstSearch(int start, vector&lt;bool&gt; &amp; unvisited);
+  /*-----------------------------------------------------------------------
+    Depth first search of graph via depthFirstSearchAux(), starting
+    at vertex start.
+
+    Precondition:  start is a vertex.
+    Postcondition: All elements of unvisited are initialized to true.
+    -----------------------------------------------------------------------*/
+
+  void depthFirstSearchAux(int start, vector&lt;bool&gt; &amp; unvisited);
+  /*-----------------------------------------------------------------------
+    Recursive depth first search of graph, starting at vertex start.
+
+    Precondition:  start is a vertex; unvisited[i] is true if vertex i has
+        not yet been visited,  and is false otherwise.
+    Postcondition: Vector unvisited has been updated.
+   -----------------------------------------------------------------------*/
+
+  bool isConnected();
+  /*-----------------------------------------------------------------------
+    Check if graph is connected.
+
+    Precondition:  None.
+    Postcondition: True is returned if graph is connected, false if not.
+   -----------------------------------------------------------------------*/
+
+ private:
+  /***** Edge Nodes *****/
+   class EdgeNode
+   {
+    public:
+     int vertex[3];         // Use 1 and 2 for indices
+     EdgeNode * link[3];    //   as is customary
+   };
+   typedef EdgeNode * EdgePointer;
+
+  /***** &quot;Head nodes&quot; of edge lists *****/
+  class VertexInfo
+  { 
+   public:
+    DataType data;         // data value in vertex
+    EdgePointer first;     // pointer to first edge node
+  };
+
+  /***** Data Members *****/
+  vector&lt;VertexInfo&gt; myEdgeLists;
+}; // end of Graph class template declaration
+
+//--- Definition of data()
+template &lt;typename DataType&gt;
+inline DataType Graph&lt;DataType&gt;::data(int k) const
+{
+  return myEdgeLists[k].data;
+}
+
+//--- Definition of read()
+template &lt;typename DataType&gt;
+void Graph&lt;DataType&gt;::read(istream &amp; in, int numVertices, int numEdges)
+{
+  Graph&lt;DataType&gt;::VertexInfo vi;
+
+  // Put a garbage 0-th value so indices start with 1, as is customary
+  myEdgeLists.push_back(vi); 
+
+  // Create &quot;head nodes&quot;
+  cout &lt;&lt; &quot;Enter label of vertex:\n&quot;;
+  for (int i = 1; i &lt;= numVertices; i++)
+  {
+    cout &lt;&lt; &quot;  &quot; &lt;&lt; i &lt;&lt; &quot;: &quot;;
+    in &gt;&gt; vi.data;
+    vi.first = 0;
+    myEdgeLists.push_back(vi);
+  }
+
+  int endpoint;       // endpoint of an edge   
+  // Create edge lists
+  cout &lt;&lt; &quot;Enter endpoints of edge\n&quot;;
+  for (int i = 1; i &lt;= numEdges; i++)
+  {
+    cout &lt;&lt; &quot;  &quot; &lt;&lt; i &lt;&lt; &quot;: &quot;;
+    EdgePointer newPtr = new EdgeNode;
+    for (int j = 1; j &lt;= 2; j++)
+    {
+      in &gt;&gt; endpoint;
+      // insert new edge node at beginning
+      // of edge list for endpoint
+      newPtr-&gt;vertex[j] = endpoint;
+      newPtr-&gt;link[j] = myEdgeLists[endpoint].first;
+      myEdgeLists[endpoint].first = newPtr;
+    }
+  }
+}
+
+/*--- Utility function to check if all nodes have been visited.
+   Precondition:  unvisited tells which nodes have not been 
+         visited
+   Postcondition: true is returned if all vertices, false if not.
+  ---------------------------------------------------------------*/
+bool anyLeft(const vector&lt;bool&gt; &amp; unvisited)
+{
+  for (int i = 1; i &lt; unvisited.size(); i++)
+    if (unvisited[i])
+      return true;
+  return false;
+}
+
+//-- Definition of depthFirstSearch()
+template &lt;typename DataType&gt;
+void Graph&lt;DataType&gt;::depthFirstSearch(int start, vector&lt;bool&gt; &amp; unvisited)
+{
+  // --- Insert statements here to process visited node
+  // Mark start visited, and initialize pointer 
+  // to its first edge node to begin DFS.
+  unvisited[start] = false; 
+
+  Graph&lt;DataType&gt;::EdgePointer ptr = myEdgeLists[start].first;
+  while(anyLeft(unvisited) &amp;&amp; ptr != 0)
+  {
+    // Determine which end of edge is start
+    int startEnd = 1,   
+        otherEnd = 2;
+    if (ptr-&gt;vertex[1] != start)
+    { startEnd = 2; otherEnd = 1;}
+
+    // Start new (recursive) DFS from vertex at other end
+    // if it hasn't already been visited
+    int newStart = ptr-&gt;vertex[otherEnd];
+    if (unvisited[newStart])
+      depthFirstSearch(newStart, unvisited);
+    // Move to next edge node
+    ptr = ptr-&gt;link[startEnd];
+  }
+}
+
+//-- Definition of isConnected()
+template &lt;typename DataType&gt;
+bool Graph&lt;DataType&gt;::isConnected()
+{
+  vector&lt;bool&gt; unvisited(myEdgeLists.size(), true);
+  depthFirstSearch(1, unvisited);
+  return !anyLeft(unvisited);
+}
+&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 16.5">Figure
+        16.5</a> Graph Connectedness </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><b><font color="#0000FF">/*-------------------------------------------------------------------------
+  Program to determine if a graph is connected. If the graph is not
+  connected, a list of unreachable vertices from the start vertex is
+  provided to the user.
+  ------------------------------------------------------------------------*/
+
+
+#include &lt;iostream&gt;
+using namespace std;
+
+#include &quot;Graph.h&quot;
+
+int main()
+{
+  int numVertices,         // number of vertices in the graph
+      numEdges;            //   &quot;     &quot;  edges   &quot;   &quot;    &quot;
+
+  cout &lt;&lt; &quot;Enter number of vertices and number of edges in graph: &quot;;
+  cin &gt;&gt; numVertices &gt;&gt; numEdges;
+  Graph&lt;char&gt; g;
+  g.read(cin, numVertices, numEdges);
+
+  cout &lt;&lt; &quot;Graph is &quot;;
+  if (g.isConnected())
+    cout &lt;&lt; &quot;connected.\n&quot;;
+  else
+  {
+    cout &lt;&lt; &quot;not connected.\n&quot;
+            &quot;Would you like to see which vertices are not\n&quot;
+            &quot;reachable from vertex 1 (&quot; 
+         &lt;&lt; g.data(1) &lt;&lt; &quot;) -- (Y or N)? &quot;;
+    char response;
+    cin &gt;&gt; response;
+    if (response == 'y' || response == 'Y')
+    {
+      cout &lt;&lt; &quot;They are the following: \n&quot;;
+      vector&lt;bool&gt; unreachable(numVertices + 1, true);
+      g.depthFirstSearch(1, unreachable);
+      for (int i = 1; i &lt; unreachable.size(); i++)
+        if (unreachable[i])
+          cout &lt;&lt; &quot;Vertex &quot; &lt;&lt; i &lt;&lt; &quot; (&quot; &lt;&lt; g.data(i) &lt;&lt; &quot;)\n&quot;;
+    }
+    cout &lt;&lt; endl;
+  }
+}
+&nbsp;</font></b></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+
+</body>
+
+</html>

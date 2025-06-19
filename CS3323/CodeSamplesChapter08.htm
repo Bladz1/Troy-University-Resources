@@ -1,0 +1,1462 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Figure 12</title>
+</head>
+
+<body bgcolor="#FFFFCC">
+
+<p align="center"><font face="Arial">Nyhoff, ADTs, Data Structures and Problem
+Solving with C++, Second Edition,&nbsp;<br>
+© 2005 Pearson Education, Inc. All rights reserved. 0-13-140909-3&nbsp;</font> </p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 8.1A AdditionProblem.h">Figure
+        8.1A </a> </font><a name="Figure 8.1A AdditionProblem.h"><font color="#0000FF" face="Courier New">AdditionProblem.h</font></a></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/*-- AdditionProblem.h ----------------------------------------------
+ 
+  This header file contains the declaration of class AdditionProblem.
+
+  Basic operations:
+    constructor: Generates problem with random addends -- uses
+                 random number generator rand() from cstdlib
+    display():   Displays the problem
+    answer():    Returns answer to problem
+--------------------------------------------------------------------*/
+
+#include &lt;iostream&gt;
+
+#ifndef ADDITION_PROBLEM
+#define ADDITION_PROBLEM
+
+class AdditionProblem
+{
+ public:
+  /***** Function Members *****/
+
+  AdditionProblem(int maxAddend = 100);
+  /*----------------------------------------------------------
+    Construct an addition problem.
+
+    Precondition:  Receives maxAddend, the largest integer to
+        use in a problem
+    Postcondition: An addition problem has been constructed
+        with addends that are random integers in the range 
+        0 through maxAddend and myTries initialized to 1.
+   -----------------------------------------------------------*/
+
+  void display(ostream &amp; out) const;
+  /*-----------------------------------------------------------
+    Display the addition problem. 
+
+    Precondition:  ostream out is open.
+    Postcondition: Problem has been been output to out.
+   -----------------------------------------------------------*/
+
+  int answer() const;
+  /*-----------------------------------------------------------
+    Get answer to addition problem. 
+
+    Precondition:  None
+    Postcondition: Answer to this addition problem is retrieved.
+   -----------------------------------------------------------*/
+
+ private:
+  /***** Data Members *****/
+   int myAddend1, 
+       myAddend2,
+       myAnswer;
+};
+
+
+//--- Initialize random number generator
+void initialize();
+
+//--- Output operator
+ostream &amp; operator&lt;&lt;(ostream &amp; out, const AdditionProblem &amp; problem);
+
+#endif&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 8.1B AdditionProblem.cpp">Figure
+        8.1B </a> </font><a name="Figure 8.1B AdditionProblem.cpp"><font color="#0000FF" face="Courier New">AdditionProblem.cpp</font></a></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/*-- AdditionProblem.cpp -------------------------------------------
+ 
+   This file implements operations for AdditionProblem objects.
+
+--------------------------------------------------------------------*/
+
+#include &lt;cstdlib&gt;
+#include &lt;ctime&gt;
+using namespace std;
+
+#include &quot;AdditionProblem.h&quot;
+
+//--- Definition of AdditionProblem constructor
+AdditionProblem::AdditionProblem(int maxAddend)
+{
+   myAddend1 = rand() % (maxAddend + 1);
+   myAddend2 = rand() % (maxAddend + 1);
+   myAnswer = myAddend1 + myAddend2;
+}
+
+//--- Definition of display()
+void AdditionProblem::display(ostream &amp; out) const
+/*-----------------------------------------------------------
+  Display values stored in the stack 
+
+  Precondition:  out is ostream to use for output
+  Postcondition: Stack's contents, from top down, have
+      been output to out.
+-----------------------------------------------------------*/
+{
+   out &lt;&lt; myAddend1 &lt;&lt; &quot; + &quot; &lt;&lt; myAddend2 &lt;&lt; &quot; = ? &quot;;
+}
+
+//--- Definition of answer()
+int AdditionProblem::answer() const
+{
+   return (myAddend1 + myAddend2);
+}
+
+//--- Definition of output operator]
+ostream &amp; operator&lt;&lt;(ostream &amp; out, const AdditionProblem &amp; problem)
+{
+   problem.display(out);
+   return out;
+}
+
+//--- Definition of initialize()
+void initialize()
+{
+  long seed = long(time(0));    // seed for random number generator
+  srand(seed);
+}&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p align="center">&nbsp; </p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 8.1C Drill and Practice Program">Figure
+        8.1C Drill and Practice Program</a> </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><b><font color="#0000FF">/*---------------------------------------------------------------------
+  Drill-and-Practice Program that generates random drill-and-practice 
+  addition problems.  Problems that are answered incorrectly are 
+  queued and asked again until all are answered correctly or maximum
+  number of tries is reached.
+
+  Input:  Number of problems to generate, student's answers to
+          problems
+  Output: Messages, problems, correct answers, number of problems
+          answered correctly
+
+  Note:   Program assumes that Queue.h contains a declaration of a 
+          class Queue like that described in Sections 7.2 and 7.3
+	          whose elements are of type AdditionProblem.  An alternative
+          is to use the C++ standard queue class template by making
+          the following changes: 
+            #include &quot;Queue.h&quot; --&gt; #include &lt;queue&gt;
+            Queue wrongQueue --&gt; queue&lt;AdditionProblem&gt; wrongQueue
+            enqueue --&gt; push
+            dequeue --&gt; pop
+  -------------------------------------------------------------------*/
+
+#include &lt;iostream&gt;              // cin, cout, &gt;&gt;, &lt;&lt;
+using namespace std;
+
+#include &quot;AdditionProblem.h&quot;     // AdditionProblem, initialize()
+#include &quot;Queue.h&quot;               // A queue class for AdditionProblems
+
+int main()
+{
+   int numProblems,              // number of problems asked
+       maxAddend;                // maximum addend in a problem
+   const int MAX_ROUNDS = 3;     // maximum number of rounds in
+                                 //   which to try the problems
+   initialize();                 // initialize random number generator
+
+   cout &lt;&lt; &quot;*** Let's practice our addition skills! *** \n\n&quot;
+           &quot;How many problems would you like? &quot;;
+   cin &gt;&gt; numProblems;
+   cout &lt;&lt; &quot;What's the largest addend you would like? &quot;;
+   cin &gt;&gt; maxAddend;
+
+   // Generate numProblems problems and store them in a queue.
+   Queue problemQueue;           // queue of problems
+   for (int i = 1; i &lt;= numProblems; i++)
+   {
+     AdditionProblem problem(maxAddend);
+     problemQueue.enqueue(problem);
+   }
+ 
+   // Conduct the practice rounds
+   AdditionProblem problem;      // next addition problem
+   int userAnswer,               // user's answer to a problem
+       numberMissed;             // number of problems missed
+   for (int round = 1; round &lt;= MAX_ROUNDS; round++)
+   {
+
+      // One round of problems
+
+      numberMissed = 0;
+
+      for (int count = 1; count &lt;= numProblems; count++)
+      {
+         problem = problemQueue.front();
+         problemQueue.dequeue();
+         cout &lt;&lt; problem;
+         cin &gt;&gt; userAnswer;
+         if (userAnswer == problem.answer())
+            cout &lt;&lt; &quot;Correct!\n\n&quot;;
+         else
+         {
+            cout &lt;&lt; &quot;Sorry -- Try again later\n\n&quot;;
+            problemQueue.enqueue(problem);
+            numberMissed++;
+         }
+      }
+
+      if (numberMissed == 0)
+      {
+         cout &lt;&lt; &quot;Congratulations! You correctly answered all the&quot;
+                &quot; problems in Round #&quot; &lt;&lt; round &lt;&lt; endl;
+         break;
+      }
+      else
+      {
+         cout &lt;&lt; &quot;\nYou missed &quot; &lt;&lt; numberMissed &lt;&lt; &quot; problems in Round #&quot;
+              &lt;&lt; round &lt;&lt; &quot;.\n&quot;;
+         if (round &lt; MAX_ROUNDS)
+            cout &lt;&lt; &quot;You may now try them again.  Good luck!\n&quot;;
+         numProblems = numberMissed;
+      }
+   }
+
+   // 	Wrapup
+   if (numberMissed == 0)
+     cout &lt;&lt; &quot;You have finished the quiz and have successfully.\n&quot;
+             &quot;answered all the problems.  Good job!&quot; &lt;&lt; endl;
+   else
+   {
+      cout &lt;&lt; &quot;\nYou have reached the limit on the number of tries &quot;
+              &quot;allowed.\nHere are the problems you missed:\n\n&quot;;
+      while (!problemQueue.empty())
+      {
+         problem = problemQueue.front();
+         problemQueue.dequeue();
+         cout &lt;&lt; problem &lt;&lt; &quot; Answer: &quot; &lt;&lt; problem.answer() &lt;&lt; &quot;\n\n&quot;;
+      }
+      cout &lt;&lt; &quot;Perhaps it would be a good idea to practice some more.\n&quot;;
+   }
+
+   return 0;
+}&nbsp;</font></b></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 8.2A Queue.h Using Static Array">Figure
+        8.2A</a></font><a name="Figure 8.2A Queue.h Using Static Array"><font color="#0000FF" face="Courier New">
+        Queue.h</font><font color="#FF0000"> Using Static Array</font></a></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/* Queue.h contains the declaration of class Queue.
+   Basic operations:
+     Constructor: Constructs an empty queue
+     empty:       Checks if a queue is empty
+     enqueue:     Modifies a queue by adding a value at the back
+     front:       Accesses the front queue value; leaves queue unchanged
+     dequeue:     Modifies a queue by removing the value at the front
+     display:     Displays the queue elements from front to back
+   Class Invariant:
+      1. The queue elements (if any) are stored in consecutive
+         positions in myArray, beginning at position myFront.
+      2. 0 &lt;= myFront, myBack &lt; QUEUE_CAPACITY
+      3. Queue's size &lt; QUEUE_CAPACITY
+----------------------------------------------------------------*/
+
+#include &lt;iostream&gt;
+
+#ifndef QUEUE
+#define QUEUE
+
+#include &quot;AdditionProblem.h&quot;
+const int QUEUE_CAPACITY = 128;
+typedef AdditionProblem QueueElement;
+
+class Queue
+{
+ public:
+  /***** Function Members *****/
+  /***** Constructor *****/
+  Queue();
+  /*----------------------------------------------------------
+    Construct a Queue object.
+
+    Precondition:  None.
+    Postcondition: An empty Queue object has been constructed;
+        myFront and myBack are initialized to -1 and myArray 
+        is an array with QUEUE_CAPACITY elements of type 
+        QueueElement.
+   -----------------------------------------------------------*/
+
+  bool empty() const;
+  /*-----------------------------------------------------------
+    Check if queue is empty
+    Precondition: None.
+    Postcondition: True is returned if the queue is empty and 
+        false is returned otherwise.
+   -----------------------------------------------------------*/
+
+  void enqueue(const QueueElement &amp; value);
+  /*-----------------------------------------------------------
+    Add a value to a queue 
+
+    Precondition:  value is to be added to this queue.
+    Postcondition: value is added at back of queue provided 
+        there is space; otherwise, a queue-full message is 
+        displayed and execution is terminated.
+   -----------------------------------------------------------*/
+
+  void display(ostream &amp; out) const;
+  /*-----------------------------------------------------------
+    Output the values stored in the queue 
+
+    Precondition:  out is ostream to use for output
+    Postcondition: Queue's contents, from top down, have
+        been output to out.
+   -----------------------------------------------------------*/
+
+  QueueElement front() const;
+  /*-----------------------------------------------------------
+    Retrieve value at front of queue (if any)
+
+    Precondition:  Queue is nonempty
+    Postcondition: Value at front of queue is returned, unless
+        queue is empty; in that case, an error message is
+        displayed and a &quot;garbage value&quot; is returned.
+   ----------------------------------------------------------*/
+
+  void dequeue();
+  /*-----------------------------------------------------------
+    Remove value at front of queue (if any)
+
+    Precondition:  Queue is nonempty
+    Postcondition: Value at front of queue has been removed, 
+        unless queue is empty; in that case, an error 
+        message is displayed and execution is terminated.
+   ----------------------------------------------------------*/ 
+
+ private:
+  /***** Data Members *****/
+  QueueElement myArray[QUEUE_CAPACITY];
+  int myFront,
+      myBack;
+}; // end of class declaration
+
+#endif&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 8.2B Queue.cpp">Figure
+        8.2B Queue.cpp</a> </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><b><font color="#0000FF">/*-- Queue.cpp-----------------------------------------------------------
+ 
+   This file implements Queue member functions.
+
+-------------------------------------------------------------------------*/
+
+#include &lt;iostream&gt;
+using namespace std;
+
+#include &quot;Queue.h&quot;
+
+//--- Definition of Queue constructor
+Queue::Queue()
+: myFront(0), myBack(0)
+{}
+
+//--- Definition of empty()
+bool Queue::empty() const
+{ 
+   return (myFront == myBack); 
+}
+
+//--- Definition of enqueue()
+void Queue::enqueue(const QueueElement &amp; value)
+{
+   int newBack = (myBack + 1) % QUEUE_CAPACITY;
+   if (newBack != myFront)     // queue isn't full
+   { 
+      myArray[newBack] = value;
+      myBack = newBack;
+   }
+   else
+   {
+      cerr &lt;&lt; &quot;*** Queue full -- can't add new value ***\n&quot;
+              &quot;Must increase value of QUEUE_CAPACITY in Queue.h\n&quot;;
+      exit(1);
+   }
+}
+
+//--- Definition of display()
+void Queue::display(ostream &amp; out) const
+{
+   for (int i = myFront; i != myBack; i = (i + 1)%QUEUE_CAPACITY) 
+      out &lt;&lt; myArray[i] &lt;&lt; &quot;  &quot;;
+   cout &lt;&lt; endl;
+}
+
+//--- Definition of front()
+QueueElement Queue::front() const
+{
+   if ( !empty() ) 
+      return (myArray[myFront]);
+   else
+   {
+      cerr &lt;&lt; &quot;*** Queue is empty &quot;
+              &quot; -- returning garbage value ***\n&quot;;
+      return myArray[QUEUE_CAPACITY-1]; // &quot;Garbage&quot; value
+   }
+}
+
+//--- Definition of dequeue()
+void Queue::dequeue()
+{
+   if ( !empty() )
+      myFront = (myFront + 1) % QUEUE_CAPACITY;
+   else
+   {
+      cerr &lt;&lt; &quot;*** Queue is empty -- &quot;
+              &quot;can't remove a value ***\n&quot;;
+      exit(1);
+   }
+}&nbsp;</font></b></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 8.3A LQueue.h Class Declaration">Figure
+        8.3A </a> </font><a name="Figure 8.3A LQueue.h Class Declaration"><font color="#0000FF" face="Courier New"><b>LQueue.h</b></font><font color="#FF0000">
+        Class Declaration </font></a></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>
+/*-- LQueue.h -------------------------------------------------------------
+
+  This header file defines a Queue data type.
+  Basic operations:
+    constructor:  Constructs an empty queue
+    empty:        Checks if a queue is empty
+    enqueue:      Modifies a queue by adding a value at the back
+    front:        Accesses the top queue value; leaves queue unchanged
+    dequeue:      Modifies queue by removing the value at the front
+    display:      Displays all the queue elements
+-------------------------------------------------------------------------*/
+
+#include &lt;iostream&gt;
+
+#ifndef LQUEUE
+#define LQUEUE
+
+typedef int QueueElement;
+
+class Queue
+{
+ public:
+ /***** Function Members *****/
+ /***** Constructors *****/
+
+  Queue();
+  /*-----------------------------------------------------------------------
+    Construct a Queue object.
+
+    Precondition:  None.
+    Postcondition: An empty Queue object has been constructed.
+        (myFront and myBack are initialized to null pointers).
+  -----------------------------------------------------------------------*/
+
+  Queue(const Queue &amp; original);
+  /*-----------------------------------------------------------------------
+    Copy Constructor 
+
+    Precondition:  original is the queue to be copied and is received 
+        as a const reference parameter.
+    Postcondition: A copy of original has been constructed.
+  -----------------------------------------------------------------------*/
+
+ /***** Destructor *****/
+  ~Queue(); 
+  /*-----------------------------------------------------------------------
+    Class destructor 
+
+    Precondition:  None.
+    Postcondition: The linked list in the queue has been deallocated.
+  -----------------------------------------------------------------------*/
+
+ /***** Assignment *****/
+ const Queue &amp; operator= (const Queue &amp; rightHandSide);
+  /*-----------------------------------------------------------------------
+    Assignment Operator 
+
+    Precondition:  rightHandSide is the queue to be assigned and is 
+        received as a const reference parameter.
+    Postcondition: The current queue becomes a copy of rightHandSide 
+        and a reference to it is returned.
+  -----------------------------------------------------------------------*/
+
+  bool empty() const;
+  /*-----------------------------------------------------------------------
+    Check if queue is empty.
+
+    Precondition:  None.
+    Postcondition: Returns true if queue is empty and false otherwise.
+  -----------------------------------------------------------------------*/
+
+  void enqueue(const QueueElement &amp; value);
+  /*-----------------------------------------------------------------------
+    Add a value to a queue.
+
+    Precondition:  value is to be added to this queue.
+    Postcondition: value is added at back of queue.               
+  -----------------------------------------------------------------------*/
+
+  void display(ostream &amp; out) const;
+  /*-----------------------------------------------------------------------
+    Display values stored in the queue.
+
+    Precondition:  ostream out is open.
+    Postcondition: Queue's contents, from front to back, have been 
+        output to out.
+  -----------------------------------------------------------------------*/
+
+  QueueElement front() const;
+  /*-----------------------------------------------------------------------
+    Retrieve value at front of queue (if any).
+
+    Precondition:  Queue is nonempty.
+    Postcondition: Value at front of queue is returned, unless the queue 
+        is empty; in that case, an error message is displayed and a 
+        &quot;garbage value&quot; is returned.
+  -----------------------------------------------------------------------*/
+
+  void dequeue();
+  /*-----------------------------------------------------------------------
+    Remove value at front of queue (if any).
+
+    Precondition:  Queue is nonempty.
+    Postcondition: Value at front of queue has been removed, unless
+        queue is empty; in that case, an error message is displayed 
+        and execution allowed to proceed.
+  -----------------------------------------------------------------------*/
+
+ private:
+   /*** Node class ***/
+   class Node
+   {
+    public:
+      QueueElement data;
+      Node * next;
+      //--- Node constructor
+      Node(QueueElement value, Node * link = 0)
+      /*-------------------------------------------------------------------
+        Precondition:  value and link are received
+        Postcondition: A Node has been constructed with value in its 
+            data part and its next part set to link (default 0).
+       ------------------------------------------------------------------*/
+      { data = value; next = link; }
+
+  };
+
+  typedef Node * NodePointer;
+
+  /***** Data Members *****/
+  NodePointer myFront,      // pointer to front of queue
+              myBack;       // pointer to back of queue
+
+}; // end of class declaration
+
+#endif&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 8.3B LQueue.cpp,  Implementation">Figure
+        8.3B </a> </font><a name="Figure 8.3B LQueue.cpp,  Implementation"><font face="Courier New" color="#0000FF"><b>LQueue.cpp</b></font><font color="#FF0000">,&nbsp;
+        Implementation </font></a></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/*--- LQueue.cpp ----------------------------------------------------------
+             This file implements LQueue member functions.
+-------------------------------------------------------------------------*/
+ 
+#include &lt;new&gt;
+using namespace std;
+
+#include &quot;LQueue.h&quot;
+
+//--- Definition of Queue constructor
+Queue::Queue()
+: myFront(0), myBack(0)
+{}
+
+//--- Definition of Queue copy constructor
+Queue::Queue(const Queue &amp; original)
+{
+   myFront = myBack = 0;
+   if (!original.empty())
+   {
+      // Copy first node
+      myFront = myBack = new Queue::Node(original.front());
+
+      // Set pointer to run through original's linked list
+      Queue::NodePointer origPtr = original.myFront-&gt;next;
+      while (origPtr != 0)
+      {
+         myBack-&gt;next = new Queue::Node(origPtr-&gt;data);
+         myBack = myBack-&gt;next;
+         origPtr = origPtr-&gt;next;
+      }
+   }
+}
+
+//--- Definition of Queue destructor
+Queue::~Queue()
+{ 
+  // Set pointer to run through the queue
+  Queue::NodePointer prev = myFront,
+                     ptr;
+  while (prev != 0)
+    {
+      ptr = prev-&gt;next;
+      delete prev;
+      prev = ptr;
+    }
+}
+
+//--- Definition of assignment operator
+const Queue &amp; Queue::operator=(const Queue &amp; rightHandSide)
+{
+   if (this != &amp;rightHandSide)         // check that not q = q
+   {
+      this-&gt;~Queue();                  // destroy current linked list
+      if (rightHandSide.empty())       // empty queue
+         myFront = myBack = 0;
+      else
+      {                                // copy rightHandSide's list
+         // Copy first node
+         myFront = myBack = new Queue::Node(rightHandSide.front());
+
+         // Set pointer to run through rightHandSide's linked list
+         Queue::NodePointer rhsPtr = rightHandSide.myFront-&gt;next;
+         while (rhsPtr != 0)
+         {
+           myBack-&gt;next = new Queue::Node(rhsPtr-&gt;data);
+           myBack = myBack-&gt;next;
+           rhsPtr = rhsPtr-&gt;next;
+         }
+      }
+   }
+   return *this;
+}
+
+//--- Definition of empty()
+bool Queue::empty() const
+{ 
+   return (myFront == 0); 
+}
+
+//--- Definition of enqueue()
+void Queue::enqueue(const QueueElement &amp; value)
+{
+   Queue::NodePointer newptr = new Queue::Node(value);
+   if (empty())
+      myFront = myBack = newptr;
+   else
+   {
+      myBack-&gt;next = newptr;
+      myBack = newptr;
+   }
+}
+
+//--- Definition of display()
+void Queue::display(ostream &amp; out) const
+{
+   Queue::NodePointer ptr;
+   for (ptr = myFront; ptr != 0; ptr = ptr-&gt;next)
+     out &lt;&lt; ptr-&gt;data &lt;&lt; &quot;  &quot;;
+   out &lt;&lt; endl;
+
+}
+
+//--- Definition of front()
+QueueElement Queue::front() const
+{
+   if (!empty())
+      return (myFront-&gt;data);
+   else
+   {
+      cerr &lt;&lt; &quot;*** Queue is empty &quot;
+              &quot; -- returning garbage ***\n&quot;;
+      QueueElement * temp = new(QueueElement);  
+      QueueElement garbage = *temp;     // &quot;Garbage&quot; value
+      delete temp;
+      return garbage;
+   }
+}
+
+//--- Definition of dequeue()
+void Queue::dequeue()
+{
+   if (!empty())
+   {
+      Queue::NodePointer ptr = myFront;
+      myFront = myFront-&gt;next;
+      delete ptr;
+      if (myFront == 0)     // queue is now empty
+         myBack = 0;
+   }   
+   else
+      cerr &lt;&lt; &quot;*** Queue is empty -- can't remove a value ***\n&quot;;
+}&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 8.3C Driver Program to Test Queue Class">Figure
+        8.3C Driver Program to Test Queue Class</a></font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/*---------------------------------------------------------------------
+                  Driver program to test the Queue class.
+  ----------------------------------------------------------------------*/
+
+#include &lt;iostream&gt;
+using namespace std;
+	
+#include &quot;LQueue.h&quot;
+
+void print(Queue q)
+{ q.display(cout); }
+
+int main()
+{
+   Queue q1;
+   cout &lt;&lt; &quot;Queue created.  Empty? &quot; &lt;&lt; boolalpha &lt;&lt; q1.empty() &lt;&lt; endl;
+
+   cout &lt;&lt; &quot;How many elements to add to the queue? &quot;;
+   int numItems;
+   cin &gt;&gt; numItems;
+   for (int i = 1; i &lt;= numItems; i++) 
+      q1.enqueue(100*i);
+
+   cout &lt;&lt; &quot;Contents of queue q1 (via  print):\n&quot;;
+   print(q1); cout &lt;&lt; endl;
+
+   Queue q2;
+   q2 = q1;
+   cout &lt;&lt; &quot;Contents of queue q2 after q2 = q1 (via  print):\n&quot;;
+   print(q2); cout &lt;&lt; endl;
+
+   cout &lt;&lt; &quot;Queue q2 empty? &quot; &lt;&lt; q2.empty() &lt;&lt; endl;
+
+   cout &lt;&lt; &quot;Front value in q2: &quot; &lt;&lt; q2.front() &lt;&lt; endl;
+
+   while (!q2.empty())
+   {
+     cout &lt;&lt; &quot;Remove front -- Queue contents: &quot;;
+     q2.dequeue();
+     q2.display(cout);
+   }
+   cout &lt;&lt; &quot;Queue q2 empty? &quot; &lt;&lt; q2.empty() &lt;&lt; endl;
+   cout &lt;&lt; &quot;Front value in q2?&quot; &lt;&lt; endl &lt;&lt; q2.front() &lt;&lt; endl;
+   cout &lt;&lt; &quot;Trying to remove front of q2: &quot; &lt;&lt; endl;
+   q2.dequeue();
+}&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 8.4 Simulation Class -- Data Members">Figure
+        8.4 Simulation Class -- Data Members</a> </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/*-- Simulation.h ----------------------------------------------------------
+ 
+  Header file to define a Simulation data type for simulating the operation
+  of an information/reservation center that services telephone calls.
+
+  Basic operations:
+    constructor:       constructs a Simulation object
+    run():             carry out the simulation
+    display():         output results of the simulation
+    service():         service an incoming call
+    checkForNewCall(): check if a new call has come in
+    
+  Note:  Assumes availability of a queue class with elements of type Call.
+ -------------------------------------------------------------------------*/
+
+#include &lt;iostream&gt;       // istream, ostream, &gt;&gt;, &lt;&lt;
+#include &lt;ctime&gt;          // time()
+
+#ifndef SIMULATION
+#define SIMULATION
+
+#include &quot;Timer.h&quot;
+#include &quot;Call.h&quot;
+#include &quot;LQueue.h&quot;       // Queue with elements of type Call
+
+const int NUM_CATEGORIES = 5;
+class Simulation
+{
+ public:
+  /***** Function Members *****/
+  /***** Constructor *****/
+  Simulation();
+  /*-----------------------------------------------------------------------
+    Construct a Simulation object.
+
+    Precondition:  None
+    Postcondition: Input data members have been initialized with values
+        entered by the user; output data members have been initialized 
+    to 0; and random number generator has been initialized.
+    -----------------------------------------------------------------------*/
+
+  /***** Running the simulation *****/
+  void run();
+  /*-----------------------------------------------------------------------
+    Run the simulation.
+
+    Precondition:  None.
+    Postcondition: Simulation of phone service has been completed and
+        performance statistics output.
+	-----------------------------------------------------------------------*/
+
+  /***** Output *****/
+  void display(ostream &amp; out);
+  /*----------------------------------------------------------------------
+    Display results of the simulation.
+
+    Precondition:  ostream out is open.
+    Postcondition: Total number of calls and the average waiting time
+        for calls have been output to out.
+	-----------------------------------------------------------------------*/
+
+  /***** Call processing *****/
+  void service(int &amp; busyTimeRemaining);
+  /*----------------------------------------------------------------------
+    Service the current call (if any).
+
+    Precondition:  None
+    Postcondition: busyTimeRemaining has been decremented by one if a call
+        was being serviced; otherwise, if there were incoming calls, a 
+        call has been removed from myIncomingCalls, its service time      
+        assigned to busyTimeRemaining, and its waiting time in the queue
+        added to myTotalWaitingTime.
+	-----------------------------------------------------------------------*/
+
+  void checkForNewCall();
+  /*----------------------------------------------------------------------
+    Check if a new call has arrived and if so, add it to the
+    queue of incoming calls.
+
+    Precondition:  None.
+    Postcondition: myIncomingCalls has been updated.
+    -----------------------------------------------------------------------*/
+ 
+ private:
+  /***** Data Members *****/   
+   //-- Inputs
+   int    myLengthOfSimulation;
+   double myArrivalRate;
+   int    myServicePercent[NUM_CATEGORIES];
+
+   //-- Outputs
+   int    myCallsReceived;
+   double myTotalWaitingTime;
+
+   //-- Countdown Timer
+   Timer myTimer;
+   
+   //-- Queue of calls waiting for service
+   Queue myIncomingCalls;
+
+};  // end of class declaration
+
+#endif&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 8.5 Simulation">Figure
+        8.5 </a> </font><font face="Courier New" color="#0000FF"><a name="Figure 8.5 Simulation"><b>Simulation</b></a></font><font color="#FF0000">
+        Class -- Function Members </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/*-- Simulation.cpp --------------------------------------------------------
+       Definitions of function members of class Simulation.
+ -------------------------------------------------------------------------*/
+
+#include &lt;iostream&gt;       // istream, ostream, &gt;&gt;, &lt;&lt;
+#include &lt;cstdlib&gt;        // rand(), srand()
+#include &lt;ctime&gt;          // time()
+using namespace std;
+
+#include &quot;Simulation.h&quot;
+
+<span style="background-color: #FFFF00"><a name="//--- Definition of constructor">//--- Definition of constructor</a></span>
+Simulation::Simulation()
+{
+   //-- Initialize output statistics
+   myCallsReceived = 0;
+   myTotalWaitingTime = 0;
+   //-- Get simulation parameters
+   cout &lt;&lt; &quot;Enter arrival rate (calls per hour): &quot;;
+   int callsPerHour;
+   cin &gt;&gt; callsPerHour;
+   myArrivalRate = callsPerHour / 60.0;  // convert to calls per minute
+
+   cout &lt;&lt; &quot;Enter percent of calls serviced in\n&quot;;
+   int percent,
+       sum = 0;
+   for (int i = 0; i &lt; NUM_CATEGORIES - 1; i++)
+   {
+      cout &lt;&lt; &quot;  &lt;= &quot; &lt;&lt; i + 1 &lt;&lt; &quot; min. &quot;;      cin &gt;&gt; percent;
+       sum += percent;
+       myServicePercent[i] = sum;
+   }
+   myServicePercent[NUM_CATEGORIES - 1] = 100;
+
+   cout &lt;&lt; &quot;Enter # of minutes to run simulation: &quot;;
+   cin &gt;&gt; myLengthOfSimulation;
+
+  // Set the countdown timer
+  myTimer.set(myLengthOfSimulation);
+
+  //-- Initialize random number generator
+  long seed = long(time(0));    // seed for random number generator
+  srand(seed);
+}
+
+<span style="background-color: #FFFF00"><a name="//--- Definition of run()">//--- Definition of run()</a></span>
+void Simulation::run()
+{
+  // Begin the simulation
+  int busyTimeLeft = 0;
+  while (myTimer.timeRemaining() &gt; 0)
+  {
+    service(busyTimeLeft);
+    checkForNewCall();
+    myTimer.tick();
+  }
+  cout &lt;&lt; &quot;\nNot accepting more calls -- service those waiting\n&quot;;
+  
+  // Service any remaining calls in incomingCalls queue
+  while (!myIncomingCalls.empty())
+  {
+    service(busyTimeLeft);
+    myTimer.tick();
+  }
+
+  // Output the results
+  display(cout);
+}
+
+<span style="background-color: #FFFF00"><a name="//--- Definition of display()">//--- Definition of display()</a></span>
+void Simulation::display(ostream &amp; out)
+{
+   out &lt;&lt; &quot;\nNumber of calls processed:   &quot; &lt;&lt; myCallsReceived
+       &lt;&lt; &quot;\nAve. waiting time per call:  &quot;
+       &lt;&lt;      myTotalWaitingTime / myCallsReceived
+       &lt;&lt; &quot; minutes&quot; &lt;&lt; endl;
+}
+
+<span style="background-color: #FFFF00"><a name="//--- Definition of service()">//--- Definition of service()</a></span>
+void Simulation::service(int &amp; busyTimeRemaining)
+{
+   if (busyTimeRemaining &gt; 0)        // servicing a call
+      busyTimeRemaining--;           // service it for another minute
+   else
+      if (!myIncomingCalls.empty())  // calls are waiting -- get one
+      {
+         Call nextCall = myIncomingCalls.front();
+         myIncomingCalls.dequeue();         
+         busyTimeRemaining = nextCall.getServiceTime();
+  
+         // Update total waiting time
+         myTotalWaitingTime += 
+                nextCall.getArrivalTime() - myTimer.timeRemaining();
+      }
+}
+
+<span style="background-color: #FFFF00"><a name="//--- Definition of checkForNewCall()">//--- Definition of checkForNewCall()</a></span>
+void Simulation::checkForNewCall()
+{
+   int x = rand() % 100;
+
+   if (x &lt; 100 * myArrivalRate)
+   {
+      // A new call has arrived.  Generate a random service time for it
+      int r = rand() % 100;
+      
+      int serviceTime = 0;
+      while (r &gt; myServicePercent[serviceTime])
+         serviceTime++;
+
+      // Construct a new call and add it to queue of incoming calls
+      Call newCall(myTimer, serviceTime + 1);
+      myIncomingCalls.enqueue(newCall);
+      myCallsReceived++;
+   }
+}&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure 8.5B">Figure
+        8.5B</a> Driver Program for Simulation </font></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><font color="#0000FF"><b>/*-------------------------------------------------------------
+   Driver program for simulation of information/reservation 
+   center that services telephone calls 
+ --------------------------------------------------------------*/
+
+using namespace std;
+
+#include &quot;Simulation.h&quot;
+
+int main()
+{
+   Simulation sim;
+   sim.run();
+
+   return 0;
+}&nbsp;</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure Timer Class .h and .cpp">Figure
+        Timer Class </a></font><a name="Figure Timer Class .h and .cpp"><font color="#0000FF" face="Courier">.h</font><font color="#FF0000">
+        and </font><font color="#0000FF" face="Courier">.cpp</font></a></h2>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <pre><font color="#0000FF"><b>/*-- Timer.h ---------------------------------------------------
+ 
+  This header file defines a class Timer that models a 
+  countdown timer.
+
+  Basic operations:
+    constructor:       constructs a Timer object
+    set():             mutator to set/reset the timer
+    tick():            decrease timer by 1 time unit (minute)
+    hasTimeLeft():     checks if any time remains
+    timeRemaining():   determines how much time remains
+ --------------------------------------------------------------*/
+
+#ifndef TIMER
+#define TIMER
+
+class Timer
+{
+ public:
+  /***** Function Members *****/
+  /***** Constructor *****/
+  Timer (int initTime = 0);
+  /*----------------------------------------------------------
+    Construct a Timer object.
+
+    Precondition:  The initial value initTime to start the
+        timer is received.
+    Postcondition: myMinutes has been initialized to 
+        initTime minutes (default 0).
+      
+  -----------------------------------------------------------*/
+
+  /***** Set timer *****/
+  void set(int minutes);
+  /*----------------------------------------------------------
+    Set/reset the timer.
+
+    Precondition:  None
+    Postcondition: myMinutes has been set to minutes.      
+  -----------------------------------------------------------*/
+
+  /***** Decrement timer *****/
+  void tick();
+  /*----------------------------------------------------------
+    Advance the clock one minute.
+
+    Precondition:  None
+    Postcondition: myMinutes has been decremented by 1.      
+  -----------------------------------------------------------*/
+
+  /***** Check time remaining *****/
+  int timeRemaining() const;
+  /*----------------------------------------------------------
+    Find how much time remains on the countdown timer.
+
+    Precondition:  None
+    Postcondition: Time left before timer runs out is 
+        returned.      
+  -----------------------------------------------------------*/
+
+ private:
+  /***** Data Members *****/
+   int myMinutes;
+};  // end of class declaration
+
+#endif</b></font></pre>
+        <hr size="3" color="#FF0000">
+        <pre><font color="#0000FF"><b>/*-- Timer.cpp -------------------------------------------------
+      Contains definitions of function members of class Timer
+ --------------------------------------------------------------*/
+
+#include &lt;cassert&gt;
+using namespace std;
+
+#include &quot;Timer.h&quot;
+
+//--- Definition of constructor
+Timer::Timer(int initTime)
+{
+   assert(initTime &gt;= 0);
+   myMinutes = initTime;
+}
+
+//--- Definition of set()
+void Timer::set(int minutes)
+{
+   assert(minutes &gt;= 0);
+   myMinutes = minutes;
+}
+
+//--- Definition of tick()
+void Timer::tick()
+{
+   myMinutes--;
+}
+
+//--- Definition of timeRemaining()
+int Timer::timeRemaining() const
+{
+   return myMinutes;
+}</b></font></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<div align="center">
+  <center>
+  <table border="1" width="79%">
+    <tr>
+      <td width="100%">
+        <h2 align="center"><font color="#FF0000"><a name="Figure Call Class  .h and .cpp Files">Figure
+        Call Class&nbsp; </a></font><a name="Figure Call Class  .h and .cpp Files"><font color="#0000FF" face="Courier New">.h
+        </font><font color="#FF0000">and </font><font color="#0000FF" face="Courier New">.cpp
+        </font><font color="#FF0000">Files</font></a></h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <pre><b><font color="#0000FF">/*-- Call.h ---------------------------------------------------
+ 
+  This header file defines a class Call that models phone calls.
+
+  Basic operations:
+    constructors:      construct a Call object
+    getArrivalTime():  accessor to get time call arrived
+    getServiceTime():  get time needed to service the call
+    display():         display information about the call
+    &lt;&lt;:                output operator for a Call object
+
+ --------------------------------------------------------------*/
+
+#include &lt;iostream&gt;
+#include &quot;Timer.h&quot;
+
+#ifndef CALL
+#define CALL
+
+class Call
+{
+ public:
+  /***** Function Members *****/
+  /***** Constructor *****/
+  Call();
+  /*----------------------------------------------------------
+    Construct a Call object (default).
+
+    Precondition:  None
+    Postcondition: All data members are initialized to 0.
+      
+  -----------------------------------------------------------*/
+
+  Call(const Timer &amp; t, int serviceTime);
+  /*----------------------------------------------------------
+    Construct a Call object (explicit-value).
+
+    Precondition:  Countdown timer t is received
+    Postcondition: myTimeOfArrival has been set to time left
+        on Timer t and myServiceTime to serviceTime.
+      
+  -----------------------------------------------------------*/
+
+  int getArrivalTime() const;
+  /*----------------------------------------------------------
+    Accessor function for arrival time.
+
+    Precondition:  None
+    Postcondition: Value of myTimeOfArrival was returned.
+      
+  -----------------------------------------------------------*/
+
+  int getServiceTime() const;
+  /*----------------------------------------------------------
+    Accessor function for service time.
+
+    Precondition:  None
+    Postcondition: Value of myServiceTime was returned.
+      
+  -----------------------------------------------------------*/
+
+  void display(ostream &amp; out) const;
+  /*----------------------------------------------------------
+    Display call
+    
+    Precondition:  ostream out is a reference parameter
+    Postcondition: Call has been output to out.
+      
+  -----------------------------------------------------------*/
+
+ private:
+  /***** Data Members *****/
+   int myTimeOfArrival;
+   int myServiceTime;
+};  // end of Timer class declaration
+
+
+//--- Prototype for output operator
+ostream &amp; operator&lt;&lt;(ostream &amp; out, const Call &amp; aCall);
+
+#endif</font></b></pre>
+        <hr size="3" color="#FF0000">
+        <pre><b><font color="#0000FF">/*-- Call.cpp --------------------------------------------------
+      Contains definitions of the basic Call operations.
+ --------------------------------------------------------------*/
+
+#include &lt;iostream&gt;
+#include &lt;cassert&gt;
+using namespace std;
+
+#include &quot;Call.h&quot;
+
+
+//--- Definition of Default Constructor
+Call::Call()
+{ 
+   myTimeOfArrival = myServiceTime = 0; 
+}
+
+//--- Definition of Explicit-Value Constructor
+Call::Call(const Timer &amp; t, int serviceTime)
+{ 
+   // record call's time of arrival
+   myTimeOfArrival = t.timeRemaining();
+  
+   // set its service time
+   myServiceTime = serviceTime;
+}
+
+//--- Definition of getArrivalTime()
+int Call::getArrivalTime() const
+{
+   return myTimeOfArrival;
+}
+
+//--- Definition of getServiceTime()
+int Call::getServiceTime() const
+{
+   return myServiceTime;
+}
+
+//--- Definition of display()
+void Call::display(ostream &amp; out) const
+{
+  out &lt;&lt; &quot;Arrival Time:    &quot; &lt;&lt; myTimeOfArrival &lt;&lt; endl
+	      &lt;&lt; &quot;Service Time:    &quot; &lt;&lt; myServiceTime &lt;&lt; endl;
+}
+
+//-- Definition of output operator
+ostream &amp; operator&lt;&lt;(ostream &amp; out, const Call &amp; aCall)
+{
+   aCall.display(out);
+   return out;
+}&nbsp;</font></b></pre>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>&nbsp;</p>
+
+</body>
+
+</html>

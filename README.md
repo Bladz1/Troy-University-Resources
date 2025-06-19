@@ -51,7 +51,7 @@
 | 33  | [CS-4451]                                                 | Computer Security and Reliability                          | 3       | CS 3323                                  |
 | 34  | CS-3320                                                   | Business System Programming                                | 3       | CS 2255                                  |
 | 35  | CS-3325                                                   | Operation Research                                         | 3       | MTH 1125                                 |
-| 36  | CS-3331                                                   | Fundamentals of Artificial Intelligence                    | 3       | CS 3323                                  |
+| 36  | [CS-3331]                                                 | Fundamentals of Artificial Intelligence                    | 3       | CS 3323                                  |
 | 37  | CS-4443                                                   | Web-Based Software Development                             | 3       | CS 3323                                  |
 | 38  | CS-3361                                                   | Concepts of Object Prog II                                 | 3       | CS 3360                                  |
 | 39  | CS-4401                                                   | Advanced Artificial Intelligence                           | 3       | CS 3331                                  |
@@ -148,6 +148,8 @@
 [CS-3329]: ./CS3329/
 
 [CS-4451]: ./CS451/
+
+[CS-3331]: ./CS331/
 
 [NOTES]: ./notes.md/
 

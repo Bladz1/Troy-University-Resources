@@ -18,6 +18,6 @@ Môn này được dạy bởi PGS TS [Phó Đức Tài][link], trưởng khoa T
   
   5. Xong!! Thầy đã 'chế' xong điểm cho lớp mình. 😌
   
-  Đương nhiên không ai khiếu nại vì lúc gửi điểm thì là mọi thứ đã lên hệ thống rồi, khỏi phải hỏi. 😌
+  Đương nhiên không ai khiếu nại vì lúc gửi điểm thì là mọi thứ đã lên hệ thống rồi, khỏi phải hỏi. Thực ra thầy cũng vì 'công việc' bận nên thầy làm *vội* sỏ ri các babe, hẹ hẹ, thầy gửi thẳng cho cô KA để các em đỡ làm phiền thầy phải không nè, trí khôn của ta đây!! 😌
 
 [link]: http://mim.hus.vnu.edu.vn/vi/canbo/taipd

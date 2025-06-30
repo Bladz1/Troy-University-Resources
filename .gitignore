@@ -398,3 +398,11 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Ignore Executable files
+*.exe
+*.dll
+*.pdb
+*.app
+*.apk
+*.ipa

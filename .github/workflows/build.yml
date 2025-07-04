@@ -39,5 +39,6 @@ jobs:
       run: |
         gh release create ${{ github.ref_name }} `
           "the reason, for you - me - us, future trojans 204d9622fa1980d39d31c68f0bdb5fa0/tool_tinhGPA_Troy/dist/TroyCalcGPA.exe"
+          --title "Tính GPA"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

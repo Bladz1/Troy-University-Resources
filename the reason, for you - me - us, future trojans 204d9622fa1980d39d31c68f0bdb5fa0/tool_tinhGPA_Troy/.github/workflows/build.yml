@@ -1,0 +1,36 @@
+name: Auto build GPA Tool EXE
+
+on:
+  push:
+    branches: [ some_remaining_information ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.13'
+
+    - name: Install dependencies
+      run: |
+        pip install --upgrade pip
+        pip install pyinstaller
+        pip install -r requirements.txt
+
+    - name: Build EXE
+      run: |
+        pyinstaller --onefile --noconsole --name TroyCalcGPA TroyCalcGPA.py
+
+    - name: Upload EXE to Release
+      uses: softprops/action-gh-release@v1
+      with:
+        files: dist/TroyCalcGPA.exe
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

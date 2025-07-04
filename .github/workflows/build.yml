@@ -2,7 +2,7 @@ name: Auto build GPA Tool EXE
 
 on:
   push:
-    branches: [ some_remaining_information ]
+    branches: [ "*" ]
     paths:
       - 'the reason, for you - me - us, future trojans 204d9622fa1980d39d31c68f0bdb5fa0/tool_tinhGPA_Troy/**'
   workflow_dispatch:
@@ -28,6 +28,7 @@ jobs:
 
     - name: Build EXE
       run: |
+        cd "the reason, for you - me - us, future trojans 204d9622fa1980d39d31c68f0bdb5fa0/tool_tinhGPA_Troy"
         pyinstaller --onefile --noconsole --name TroyCalcGPA TroyCalcGPA.py
 
     - name: Upload EXE to Release

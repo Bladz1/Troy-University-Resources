@@ -35,6 +35,6 @@ jobs:
     - name: Upload EXE to Release
       uses: softprops/action-gh-release@v1
       with:
-        files: "'the reason, for you - me - us, future trojans 204d9622fa1980d39d31c68f0bdb5fa0/tool_tinhGPA_Troy/dist/TroyCalcGPA.exe'"
+        files: "the reason, for you - me - us, future trojans 204d9622fa1980d39d31c68f0bdb5fa0/tool_tinhGPA_Troy/dist/TroyCalcGPA.exe"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

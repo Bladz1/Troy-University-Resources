@@ -20,15 +20,12 @@ jobs:
       with:
         python-version: '3.13'
 
-    - name: Install dependencies
+    - name: Install dependencies & Build EXE
       run: |
+        cd "the reason, for you - me - us, future trojans 204d9622fa1980d39d31c68f0bdb5fa0/tool_tinhGPA_Troy"
         pip install --upgrade pip
         pip install pyinstaller
         pip install -r requirements.txt
-
-    - name: Build EXE
-      run: |
-        cd "the reason, for you - me - us, future trojans 204d9622fa1980d39d31c68f0bdb5fa0/tool_tinhGPA_Troy"
         pyinstaller --onefile --noconsole --name TroyCalcGPA TroyCalcGPA.py
 
     - name: Upload EXE to Release

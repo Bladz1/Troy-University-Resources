@@ -220,4 +220,3 @@ class GPACalculator(tk.Tk):
 if __name__ == "__main__":
     app = GPACalculator()
     app.mainloop()
-    #test

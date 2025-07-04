@@ -3,6 +3,8 @@ name: Auto build GPA Tool EXE
 on:
   push:
     branches: [ some_remaining_information ]
+    paths:
+      - 'GPA-Tool/**'
   workflow_dispatch:
 
 jobs:

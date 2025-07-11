@@ -22,7 +22,7 @@
 | 6   | [MUS-1131]                                                | Music Appreciation                                         | 3       |                                          |
 | 7   | [SPH-2241/COM-2241]                                       | Fundamentals of Speech                                     | 3       |                                          |
 | 8   | [ENG-1102]                                                | English Composition II                                     | 3       | ENG 1101 with C                          |
-| 9   | ENG-2205                                                  | World Literature I                                         | 3       | ENG 1102 with C                          |
+| 9   | [ENG-2205]                                                | World Literature I                                         | 3       | ENG 1102 with C                          |
 | 10  | [ECO-2251]                                                | Macroeconomics                                             | 3       |                                          |
 | 11  | ECO-2252                                                  | Microeconomics                                             | 3       |                                          |
 | 12  | [CHM/L-1142]                                              | General Chemistry and Lab I                                | 4       |                                          |
@@ -150,6 +150,8 @@
 [CS-4451]: ./CS451/
 
 [CS-3331]: ./CS331/
+
+[ENG-2205]: ./ENG2205/
 
 [NOTES]: ./notes.md/
 

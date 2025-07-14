@@ -2,7 +2,129 @@ Có lẽ **Individual programming projects** là nơi mà các anh chị em bỏ
 
 ---
 
-- Thi máy nên cũng khó tuồn full đề cả ba bài nhưng mà tôi sẽ *xây dựng theo trí nhớ* bài cuối cùng - bài thứ 3, chắc nhiều người sẽ đồng ý đây là bài khó nhất... 
+- Thi máy nên cũng khó tuồn full đề cả ba bài nhưng mà tôi sẽ *xây dựng theo trí nhớ + bổ sung bởi ChatGPT* bài thứ 2 và bài cuối cùng - bài thứ 3 (chắc nhiều người sẽ đồng ý đây là bài khó nhất) ... 
+  
+  ---
+  
+  ## Đề bài thứ 2 như sau:
+  
+  ### **Objective:**
+  
+  Design and implement a simple battle simulation in C++ between two opposing teams: **FireTeam** and **DefTeam**, where each team consists of 10 tanks. The tanks can attack each other with varying damage values depending on their type, and the game proceeds for 10 turns. At the end, the team with more surviving tanks wins.
+  
+  ---
+  
+  ### **Requirements:**
+  
+  #### **1. Class Design:**
+  
+  You are required to implement the following classes:
+  
+  #### 🔹 `Tank` (Base class)
+  
+  - Attributes:
+    
+    - `int Hp` – health points (initialized to 100).
+    
+    - `bool IsAlive` – indicates if the tank is still alive.
+  
+  - Methods:
+    
+    - Constructor initializes default values.
+    
+    - `virtual void Attack(Tank& target)` – randomly deals **0–19** damage to the target tank.
+  
+  #### 🔹 `FireTank` (Derived from `Tank`)
+  
+  - Overrides `Attack(Tank& target)` to deal **0–29** damage.
+  
+  #### 🔹 `DefTank` (Derived from `Tank`)
+  
+  - Overrides `Attack(Tank& target)` to deal **0–9** damage.
+  
+  #### 🔹 `Team`
+  
+  - Attributes:
+    
+    - `Tank* Members[10]` – an array of pointers to `Tank` objects.
+    
+    - `int AliveCount` – the number of tanks still alive in the team.
+  
+  - Methods:
+    
+    - Constructor takes a boolean `isFireTeam` to determine the tank type.
+    
+    - Destructor frees memory.
+    
+    - `void UpdateAliveCount()` – counts tanks that are still alive.
+  
+  ---
+  
+  ### **2. Game Logic:**
+  
+  Implement the game logic inside the `main()` function as follows:
+  
+  - Initialize random seed.
+  
+  - Create a `FireTeam` and a `DefTeam`, each with 10 tanks.
+  
+  - Run a loop for **10 turns**:
+    
+    - In each turn:
+      
+      - The **FireTeam** attacks first:
+        
+        - Each alive tank randomly chooses a target from the DefTeam (also must be alive).
+      
+      - Then the **DefTeam** attacks with the same rule.
+      
+      - After both attack phases, update and print the HP of all tanks in both teams.
+  
+  - After 10 turns:
+    
+    - Print the number of surviving tanks on each side.
+    
+    - Declare the winner or a tie.
+  
+  ---
+  
+  ### **3. Technical Constraints:**
+  
+  - Use dynamic memory allocation (`new`/`delete`) for tank objects.
+  
+  - Use proper use of polymorphism (virtual functions for attack).
+  
+  - Include appropriate header guards.
+  
+  - Use `srand()` and `rand()` for randomness.
+  
+  - Follow clean coding practices (indents, naming, structure).
+  
+  ---
+  
+  ### **Sample Output (example):**
+  
+  ```
+  Turn 1
+  FireTeam HP: 100 84 73 ... 
+  DefTeam HP: 100 90 50 ...
+  ...
+  FireTeam Alive: 6
+  DefTeam Alive: 4
+  FireTeam Wins!
+  ```
+  
+  ---
+  
+  ### **Deliverables:**
+  
+  - `Tank.h` – header file with all class declarations.
+  
+  - `main.cpp` – main program with the simulation logic.
+  
+  - Any additional `.cpp` files if you split implementation per class (optional).
+  
+  ---
   
   ## Đề bài thứ 3 như sau:
   

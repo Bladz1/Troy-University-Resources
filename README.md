@@ -55,7 +55,7 @@
 | 37  | CS-4443                                                   | Web-Based Software Development                             | 3       | CS 3323                                  |
 | 38  | CS-3361                                                   | Concepts of Object Prog II                                 | 3       | CS 3360                                  |
 | 39  | CS-4401                                                   | Advanced Artificial Intelligence                           | 3       | CS 3331                                  |
-| 40  | CS-4410                                                   | Introduction to Machine Learning                           | 3       | CS 3323 and MTH 2210                     |
+| 40  | [CS-4410]                                                 | Introduction to Machine Learning                           | 3       | CS 3323 and MTH 2210                     |
 | 41  | CS-4461                                                   | Software Engineering II                                    | 3       | CS 3332                                  |
 | 42  | CS-4462                                                   | Special Topics in Object Oriented                          | 3       | CS 3361                                  |
 | 43  | CS-4495                                                   | Special Topics in Computer Science                         | 3       | Senior Standing or consent of instructor |
@@ -152,6 +152,8 @@
 [CS-3331]: ./CS331/
 
 [ENG-2205]: ./ENG2205/
+
+[CS-4410]: ./CS4410/
 
 [NOTES]: ./notes.md/
 

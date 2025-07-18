@@ -68,7 +68,7 @@
 | 49  | LAW-2221                                                  | Legal Environment                                          | 3       |                                          |
 | 50  | MKT-3300                                                  | Principles of Marketing                                    | 3       |                                          |
 | 51  | ACT-2291                                                  | Principles of Accounting I                                 | 3       |                                          |
-| 52  | QM-2241                                                   | Business Statistics and Data Analytics                     | 3       | MTH 1112 and IS 2241                     |
+| 52  | [QM-2241]                                                 | Business Statistics and Data Analytics                     | 3       | MTH 1112 and IS 2241                     |
 | 53  | MTH-2201                                                  | Calculus and its Applications                              | 3       | MTH 1112 or 1114 with C                  |
 | 54  | SCI/L-2233                                                | Physical Science and Lab                                   | 4       |                                          |
 | 55  | BIO/L-1100                                                | Principles of Biology & Lab                                | 4       |                                          |
@@ -154,6 +154,8 @@
 [ENG-2205]: ./ENG2205/
 
 [CS-4410]: ./CS4410/
+
+[QM-2241]: ./QM241/
 
 [NOTES]: ./notes.md/
 

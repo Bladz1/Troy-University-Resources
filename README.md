@@ -1,6 +1,8 @@
 # Troy-University-Resources
 
-[INTRODUCTION] | [NOTES] | [Course Descriptions] | [Tính GPA][linkGPA]
+[INTRODUCTION] | [NOTES] | [Course Descriptions] | [Tính GPA][linkGPA]  
+
+[![Static Badge](https://img.shields.io/badge/Hall%20of%20Memories-black?style=for-the-badge&logo=markdown&color=%23FF9AA2)](https://github.com/Bladz1/Troy-University-Resources/blob/main/the%20reason%2C%20for%20you%20-%20me%20-%20us%2C%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/Hall_of_Memories.md)
 
 > Đến thời điểm này, repo chúng ta đã chỉnh tề, môn học đã ngay ngắn, cả ngành ta cùng hành quân vươn tới tương lai rực rỡ, vì bảng điểm của chúng ta, vì sự vươn mình của toàn bộ sinh viên Troy.  
 > — Adapted from [*General Secretary Tô Lâm*](https://vi.wikipedia.org/wiki/T%C3%B4_L%C3%A2m)

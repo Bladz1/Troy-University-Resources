@@ -4,7 +4,15 @@ import sv_ttk
 
 # Test chức năng
 def letter_to_point(letter: str) -> float | str | None:
-    g
+    grade_map = {
+        "A": 4.0, "B": 3.0, "C": 2.0, "D": 1.0,
+        "F": 0.0, "FI": 0.0, "FA": 0.0
+    }
+    not_counted = ["AU", "DR", "I", "NG", "P", "W"]
+    letter = letter.upper()
+    if letter in grade_map:
+        return grade_map[letter]
+    elif letter in not_counted:
         return None
     else:
         return "INVALID"

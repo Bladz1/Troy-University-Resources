@@ -2,7 +2,6 @@ import tkinter as tk
 from tkinter import messagebox, ttk
 import sv_ttk
 
-# Test chức năng
 def letter_to_point(letter: str) -> float | str | None:
     grade_map = {
         "A": 4.0, "B": 3.0, "C": 2.0, "D": 1.0,

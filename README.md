@@ -1,6 +1,6 @@
 # Troy-University-Resources
 
-[![Static Badge](https://img.shields.io/badge/INTRODUCTION-black?style=for-the-badge&logo=googledocs&logoColor=white&color=%2394283a)][INTRODUCTION] | [![Static Badge](https://img.shields.io/badge/NOTES-black?style=for-the-badge&logo=googledocs&logoColor=white&color=%2394283a)][NOTES] | [![Static Badge](https://img.shields.io/badge/Course%20Descriptions-black?style=for-the-badge&logo=files&logoColor=white&color=%2394283a)][Course Descriptions] | [![Static Badge](https://img.shields.io/badge/T%C3%ADnh%20GPA-black?style=for-the-badge&logo=numpy&logoColor=white&color=%2394283a)
+[![Static Badge](https://img.shields.io/badge/INTRODUCTION-black?style=for-the-badge&logo=googledocs&logoColor=white&color=%2394283a)][INTRODUCTION]  [![Static Badge](https://img.shields.io/badge/NOTES-black?style=for-the-badge&logo=googledocs&logoColor=white&color=%2394283a)][NOTES]  [![Static Badge](https://img.shields.io/badge/Course%20Descriptions-black?style=for-the-badge&logo=files&logoColor=white&color=%2394283a)][Course Descriptions]  [![Static Badge](https://img.shields.io/badge/T%C3%ADnh%20GPA-black?style=for-the-badge&logo=numpy&logoColor=white&color=%2394283a)
 ][linkGPA]  
 
 [![Static Badge](https://img.shields.io/badge/Hall%20of%20Memories-black?style=for-the-badge&logo=markdown&color=%23FF9AA2)][hall-link]

@@ -9,7 +9,7 @@ def letter_to_point(letter: str) -> float | str | None:
         "F": 0.0, "FI": 0.0, "FA": 0.0
     }
     not_counted = ["AU", "DR", "I", "NG", "P", "W"]
-    letter = letter.upper(
+    letter = letter.upper()
     if letter in grade_map:
         return grade_map[letter]
     elif letter in not_counted:

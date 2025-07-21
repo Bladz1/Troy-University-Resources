@@ -1,11 +1,18 @@
-# Troy-University-Resources
+# <p align="center">Troy University Resources</p>
+
+<div align="center">
 
 [![Static Badge](https://img.shields.io/badge/INTRODUCTION-black?style=for-the-badge&logo=googledocs&logoColor=white&color=%2394283a)][INTRODUCTION]
+&nbsp;&nbsp;
 [![Static Badge](https://img.shields.io/badge/NOTES-black?style=for-the-badge&logo=googledocs&logoColor=white&color=%2394283a)][NOTES]
+&nbsp;&nbsp;
 [![Static Badge](https://img.shields.io/badge/Course%20Descriptions-black?style=for-the-badge&logo=files&logoColor=white&color=%2394283a)][Course Descriptions]
-[![Static Badge](https://img.shields.io/badge/T%C3%ADnh%20GPA-black?style=for-the-badge&logo=numpy&logoColor=white&logoColor=white&color=%2394283a)][linkGPA]  
-
+&nbsp;&nbsp;
+[![Static Badge](https://img.shields.io/badge/T%C3%ADnh%20GPA-black?style=for-the-badge&logo=numpy&logoColor=white&color=%2394283a)][linkGPA]
+<br><br>
 [![Static Badge](https://img.shields.io/badge/Hall%20of%20Memories-black?style=for-the-badge&logo=markdown&color=%23FF9AA2)][hall-link]
+
+</div>
 
 > Đến thời điểm này, repo chúng ta đã chỉnh tề, môn học đã ngay ngắn, cả ngành ta cùng hành quân vươn tới tương lai rực rỡ, vì bảng điểm của chúng ta, vì sự vươn mình của toàn bộ sinh viên Troy.  
 > — Adapted from [*General Secretary Tô Lâm*](https://vi.wikipedia.org/wiki/T%C3%B4_L%C3%A2m)

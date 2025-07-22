@@ -85,11 +85,11 @@
 | 54  | SCI/L-2233                                                | Physical Science and Lab                                   | 4       |                                          |
 | 55  | BIO/L-1100                                                | Principles of Biology & Lab                                | 4       |                                          |
 |     | **5 môn Triết**                                           |                                                            |         | **Thứ tự học**                           |
-| 56  | SSH1111Q                                                  | Triết học Mác - Lênin                                      | 3       | 1                                        |
-| 57  | SSH1121Q                                                  | Kinh tế chính trị Mác - Lênin                              | 2       | 2                                        |
-| 58  | SSH1131Q                                                  | Chủ nghĩa xã hội khoa học                                  | 2       | 3                                        |
-| 59  | SSH1141Q                                                  | Lịch sử Đảng Cộng sản Việt Nam                             | 2       | 4                                        |
-| 60  | SSH1151Q                                                  | Tư tưởng Hồ Chí Minh                                       | 2       | 5                                        |
+| 56  | [SSH1111Q]                                                | Triết học Mác - Lênin                                      | 3       | 1                                        |
+| 57  | [SSH1121Q]                                                | Kinh tế chính trị Mác - Lênin                              | 2       | 2                                        |
+| 58  | [SSH1131Q]                                                | Chủ nghĩa xã hội khoa học                                  | 2       | 3                                        |
+| 59  | [SSH1141Q]                                                | Lịch sử Đảng Cộng sản Việt Nam                             | 2       | 4                                        |
+| 60  | [SSH1151Q]                                                | Tư tưởng Hồ Chí Minh                                       | 2       | 5                                        |
 
 [INTRODUCTION]: ./introduction.md/
 
@@ -168,6 +168,16 @@
 [CS-4410]: ./CS4410/
 
 [QM-2241]: ./QM241/
+
+[SSH1111Q]: ./Lý%20luận%20chính%20trị/
+
+[SSH1121Q]: ./Lý%20luận%20chính%20trị/
+
+[SSH1131Q]: ./Lý%20luận%20chính%20trị/
+
+[SSH1141Q]: ./Lý%20luận%20chính%20trị/
+
+[SSH1151Q]: ./Lý%20luận%20chính%20trị/
 
 [NOTES]: ./notes.md/
 

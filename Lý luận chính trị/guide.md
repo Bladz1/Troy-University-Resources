@@ -2,7 +2,7 @@
 
 ## How to study???
 
-- Các môn này là môn của BK, không giống như môn Troy, vì thế chỉ cần đạt ở *ngưỡng qua môn* là được.
+- Các môn này là môn của BK, không giống như môn của Troy, vì thế chỉ cần đạt ở *ngưỡng qua môn* là được.
 - *Ngưỡng qua môn* nghĩa là sao? Nôm na là phải đạt **ít nhất 3đ cuối kỳ**, vậy thôi 😀. Còn điểm quá trình thì đi học một vài buổi, làm thuyết trình, giữa kỳ chép chép tí là được.
 - Cuối kỳ thì bắt phao rất ác, cũng tùy phòng, có nơi trông dễ. Thường thì môn nào cũng có **phím sẵn** các câu sẽ được ưu tiên ra thi, nên cố gắng là học hết, hoặc không học gì cả rồi vào chép tầm 3đ là kê cao gối ngủ ngon.
 - Học phí: **free**.

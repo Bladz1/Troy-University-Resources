@@ -17,10 +17,10 @@ Có thể là môn đầu tiên chúng ta được học một 'giảng viên M�
     <img src="../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image3.jpeg" alt="image3.jpeg">
   </p>
 
-Thề, sao anh thầy nụ cười điện ảnh thế :)) kiểu phim này:
+  Thề, sao anh thầy nụ cười điện ảnh thế :)) kiểu phim này:
 
-<p align="center">
-  <img src="../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image5.jpg" alt="image5.jpg">
-</p>
+  <p align="center">
+    <img src="../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image5.jpg" alt="image5.jpg">
+  </p>
 
-I LOVE Prof. CHANGGGGG!!!!!! ❤️
+<p align="center">I LOVE Prof. CHANGGGGG!!!!!! ❤️</p>

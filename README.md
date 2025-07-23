@@ -23,10 +23,10 @@
   <em>Chụp tại D7, từng là mái nhà chung của viện quốc tế (SIE).</em>
 </p>
 
-| No. | Code                                                      | Course Title                                               | Credits | Prerequisite                             | NEW            |
-|:---:| --------------------------------------------------------- | ---------------------------------------------------------- |:-------:|:----------------------------------------:|:--------------:|
-|     | **General studies**                                       |                                                            |         |                                          |                |
-| 1   | [TROY-1101]                                               | University Orientation                                     | 1       |                                          |![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)|
+| No. | Code                                                      | Course Title                                               | Credits | Prerequisite                             | Tier                                                                                       |
+|:---:| --------------------------------------------------------- | ---------------------------------------------------------- |:-------:|:----------------------------------------:|:------------------------------------------------------------------------------------------:|
+|     | **General studies**                                       |                                                            |         |                                          |                                                                                            |
+| 1   | [TROY-1101]                                               | University Orientation                                     | 1       |                                          |![Static Badge](https://img.shields.io/badge/NORMAL-black?style=flat-square&color=%23FFC107)|
 | 2   | [ENG-1101]                                                | English Composition I                                      | 3       |                                          |                |
 | 3   | [ART-1133]                                                | Visual Art                                                 | 3       |                                          |                |
 | 4   | [HIS-1123]                                                | World History from 1500                                    | 3       |                                          |                |

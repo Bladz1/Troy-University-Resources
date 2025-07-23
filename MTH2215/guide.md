@@ -1,4 +1,4 @@
-Ở sever Troy BK, có 2 thầy thường dạy:
+Ở server Troy BK, có 2 thầy thường dạy:
 
 1. Thầy [Vũ Thế Khôi](http://math.ac.vn/vi/component/staff/?task=getProfile&staffID=33)
 

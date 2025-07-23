@@ -25,7 +25,8 @@
 
 | No. | Code                                                      | Course Title                                               | Credits | Prerequisite                             | NEW            |
 |:---:| --------------------------------------------------------- | ---------------------------------------------------------- |:-------:|:----------------------------------------:|:--------------:|
-|     | **General studies**                                       |                                                            |         |                                          |https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50|
+|     | **General studies**                                       |                                                            |         |                                          |![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)
+|
 | 1   | [TROY-1101]                                               | University Orientation                                     | 1       |                                          |                |
 | 2   | [ENG-1101]                                                | English Composition I                                      | 3       |                                          |                |
 | 3   | [ART-1133]                                                | Visual Art                                                 | 3       |                                          |                |

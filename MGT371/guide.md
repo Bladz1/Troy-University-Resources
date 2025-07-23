@@ -1,4 +1,4 @@
-Môn này là môn "Nguyên lý Quản trị", người dạy môn này (có khả năng là qua năm tháng): [PGS. TS. Phạm Thị Kim Ngọc](https://sem.hust.edu.vn/lecturers/ts-pham-thi-kim-ngoc).
+Môn này là môn "Nguyên lý Quản trị", người dạy môn này (có khả năng là qua năm tháng) là: [PGS. TS. Phạm Thị Kim Ngọc](https://sem.hust.edu.vn/lecturers/ts-pham-thi-kim-ngoc).
 
 ---
 

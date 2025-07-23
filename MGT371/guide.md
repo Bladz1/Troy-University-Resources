@@ -2,7 +2,7 @@ Môn này là môn "Nguyên lý Quản trị", người dạy môn này (có kh�
 
 ---
 
-- Để bắt đầu nói về môn này thì tôi xin phép trích một [lời nhận xét từ nhật ký](https://www.notion.so/2023-restart-my-life-20s-version-454174907b31443a88fde52607437ee7) của một người anh thân thiết về môn học này, người mà đã đặt nền móng cho cái repo này: 
+- Để bắt đầu nói về môn này thì tôi xin phép trích một [lời nhận xét](https://www.notion.so/2023-restart-my-life-20s-version-454174907b31443a88fde52607437ee7) từ nhật ký của một người anh thân thiết về môn học này, người mà đã đặt nền móng cho cái repo này: 
   
   > "Cuối cùng, và chả còn gì để nói, là môn MGT. Tôi nghĩ đến một cái môn học dạy nhau kĩ năng quản lý, thì độp phát, hàng tá những kiến thức giời ơi đất hỡi. Đùa, những câu hỏi chán ngắt, những tình huống cứng đến ngờ nghệch, sự thiếu tập trung, hời hợt và cả những sự khó chịu đan xen, vâng, chúng đều là thuốc độc khiến tôi mất ngay ấn tượng với cái môn này rồi. Hết cứu bạn ạ."
 

@@ -1,4 +1,4 @@
-Môn này được dạy bởi PGS TS [Phó Đức Tài][link], trưởng khoa Toán – Cơ – Tin học, Trường Đại học Khoa học Tự nhiên, ĐHQGHN.
+Môn này được dạy bởi PGS. TS. [Phó Đức Tài][link], trưởng khoa Toán – Cơ – Tin học, Trường Đại học Khoa học Tự nhiên, ĐHQGHN.
 
 ---
 

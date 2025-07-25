@@ -10,6 +10,6 @@
 
 - Thi GK và CK là open-book, mang gì cũng được trừ điện thoại. 🤣
 
-- Nếu chỉ có thầy thứ 2 thì nên học hành cẩn thận, sẽ có Mr. Cường (đệ của thầy) trông thi, đồ sát quét sạch, gần như không thể xài điện thoại, hoặc nhìn bài. Tuy nhiên trong cái rủi lại có cái không biết có phải may không 🙂, nhưng mà thầy Toàn khá là thương điểm số anh em, đỉnh điểm là khi thi GK lớp nát quá, anh đã đích thân đi trông thi cuối kì và để cho anh em chép thoải mái, khá vui!! 
+- Nếu chỉ có thầy thứ 2 thì nên học hành cẩn thận, sẽ có Mr. Cường (đệ của thầy) trông thi, đồ sát quét sạch, gần như không thể cheat, hoặc nhìn bài. Tuy nhiên trong cái rủi lại có cái không biết có phải may không 🙂, nhưng mà thầy Toàn khá là thương điểm số anh em, đỉnh điểm là khi thi GK lớp nát quá, anh đã đích thân đi trông thi cuối kì và để cho anh em chép thoải mái, khá vui!! 
   
   A GOOD MAN 👍👍👍

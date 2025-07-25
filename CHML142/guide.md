@@ -4,4 +4,4 @@ Hầu hết những người tên Ngọc Minh mà tôi đã gặp cho đến hi�
 
 ---
 
-- Môn này trông thi khá khó, khó cheating, học cô chill mà trông thi cô như con người khác vậy 😈, tuy vậy chăm chỉ cố gắng thì đề thi khá cơ bản dễ dàng fang được A.
+- Môn này trông thi khá khó, khó cheat, học cô chill mà trông thi cô như con người khác vậy 😈, tuy vậy chăm chỉ cố gắng thì đề thi khá cơ bản dễ dàng fang được A.

@@ -1,8 +1,8 @@
 Ở server Troy BK, có 2 thầy thường dạy:
 
-1. Thầy [Vũ Thế Khôi](http://math.ac.vn/vi/component/staff/?task=getProfile&staffID=33)
+1. Thầy [Vũ Thế Khôi](http://math.ac.vn/vi/component/staff/?task=getProfile&staffID=33) ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)
 
-2. Thầy [Hồ Minh Toàn](http://math.ac.vn/vi/component/staff/?task=getProfile&staffID=60)
+2. Thầy [Hồ Minh Toàn](http://math.ac.vn/vi/component/staff/?task=getProfile&staffID=60) ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)
 
 ---
 

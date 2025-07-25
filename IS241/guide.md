@@ -1,8 +1,8 @@
 Môn này cơ bản là ngồi kể lể linh tinh về mấy thứ tin học, pha tí Tin học đại cương (no code), có hai người dạy vì môn này nhiều lớp do dạy cho cả BA nữa, mà vì dạy cho cả BA nên mới no code, người thứ nhất thì chắc chắn lần nào cũng dạy môn này rồi, nhưng người thứ hai thì có thể sẽ thay đổi tùy kì.
 
-1. [TS. Nguyễn Nhất Hải - SoICT](https://soict.hust.edu.vn/ts-nguyen-nhat-hai.html)
+1. [TS. Nguyễn Nhất Hải - SoICT](https://soict.hust.edu.vn/ts-nguyen-nhat-hai.html) ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)
 
-2. [TS. Bùi Thị Mai Anh - SoICT](https://soict.hust.edu.vn/ts-bui-thi-mai-anh.html)
+2. [TS. Bùi Thị Mai Anh - SoICT](https://soict.hust.edu.vn/ts-bui-thi-mai-anh.html) ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)
 
 ---
 

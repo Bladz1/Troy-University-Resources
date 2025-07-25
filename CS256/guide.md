@@ -4,7 +4,7 @@
 
 - Nếu vào thầy này thì coi như 'nhập môn ngành Troy': về sau các môn của ngành sẽ gồm các giảng viên như này dạy.
 
-- Nói như trên bởi vì thầy Văn là người chuẩn chỉ, liêm, dứt khoát, phong cách dạy đúng style BK, không nhân nhượng, làm việc âm thầm, dame thấm. Cách học tốt môn này đó là... Cố gắng đừng mắc sai lầm, vậy thôi, không thể cheating hay gì được. Tìm 1 team thật tốt rồi làm bài project (30%) một cách chuẩn chỉ có thể vớt vát được phần nào. Các năm gần đây chỉ gồm 1-2 con A, khá khó. 
+- Nói như trên bởi vì thầy Văn là người chuẩn chỉ, liêm, dứt khoát, phong cách dạy đúng style BK, không nhân nhượng, làm việc âm thầm, dame thấm. Cách học tốt môn này đó là... Cố gắng đừng mắc sai lầm, vậy thôi, khó cheat. Tìm 1 team thật tốt rồi làm bài project (30%) một cách chuẩn chỉ có thể vớt vát được phần nào. Các năm gần đây chỉ gồm 1-2 con A, khá khó. 
 
 - Để minh họa cho độ khó của môn thì chúng ta có thể tham khảo ảnh dưới... 15 anh chị em K68 đã ngã xuống dưới tay anh Văn. Nên hãy cố gắng, đoàn kết, bất kì khóa nào cũng phải cảnh giác, cố gắng học hành, sơ hở có thể dẫn tới những hi sinh không đáng có!! 🤺
   

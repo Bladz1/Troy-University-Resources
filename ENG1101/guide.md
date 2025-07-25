@@ -1,8 +1,8 @@
 Server Troy BK sẽ có 2 giảng viên chính dạy ENG-1101:
 
-1. Cô KA (She-Who-Must-Not-Be-Named)         ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)
+1. Cô KA (She-Who-Must-Not-Be-Named) ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)
 
-2. Cô [Trần Thị Lan Hương](https://www.is.vnu.edu.vn/ths-tran-thi-lan-huong/)           ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)
+2. Cô [Trần Thị Lan Hương](https://www.is.vnu.edu.vn/ths-tran-thi-lan-huong/) ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)
 
 ---
 

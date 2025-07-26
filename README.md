@@ -7,10 +7,12 @@
 [![Static Badge](https://img.shields.io/badge/NOTES-black?style=for-the-badge&logo=googledocs&logoColor=white&color=%2394283a)][NOTES]
 &nbsp;&nbsp;
 [![Static Badge](https://img.shields.io/badge/Course%20Descriptions-black?style=for-the-badge&logo=files&logoColor=white&color=%2394283a)][Course Descriptions]
-&nbsp;&nbsp;
-[![Static Badge](https://img.shields.io/badge/T%C3%ADnh%20GPA-black?style=for-the-badge&logo=numpy&logoColor=white&color=%2394283a)][linkGPA]
 <br><br>
+[![Static Badge](https://img.shields.io/badge/T%C3%ADnh%20GPA%20(Windows)-black?style=for-the-badge&logo=python&logoColor=white&color=%2394283a)][linkGPA_W]
+&nbsp;&nbsp;
 [![Static Badge](https://img.shields.io/badge/Hall%20of%20Memories-black?style=for-the-badge&logo=markdown&color=%23FF9AA2)][hall-link]
+&nbsp;&nbsp;
+[![Static Badge](https://img.shields.io/badge/T%C3%ADnh%20GPA%20(macOS)-black?style=for-the-badge&logo=apple&logoColor=white&color=%2394283a)][linkGPA_m]
 
 </div>
 
@@ -185,4 +187,6 @@
 
 [hall-link]: ./the%20reason%2C%20for%20you%20-%20me%20-%20us%2C%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/Hall_of_Memories.md
 
-[linkGPA]: https://github.com/Bronstein0x113c1c3/Troy-University-Resources/releases/latest/download/TroyCalcGPA.exe
+[linkGPA_W]: https://github.com/Bronstein0x113c1c3/Troy-University-Resources/releases/latest/download/TroyCalcGPA_W.exe
+
+[linkGPA_m]: https://github.com/Bronstein0x113c1c3/Troy-University-Resources/releases/latest/download/TroyCalcGPA_m.zip

@@ -1,4 +1,4 @@
-Môn này là môn "Nguyên lý Quản trị", người dạy môn này (có khả năng là qua năm tháng) là: [PGS. TS. Phạm Thị Kim Ngọc](https://sem.hust.edu.vn/lecturers/ts-pham-thi-kim-ngoc).
+Môn này là môn 'Nguyên lý Quản trị', người dạy môn này (có khả năng là qua năm tháng) là: [PGS. TS. Phạm Thị Kim Ngọc](https://sem.hust.edu.vn/lecturers/ts-pham-thi-kim-ngoc).
 
 ---
 
@@ -11,39 +11,3 @@ Môn này là môn "Nguyên lý Quản trị", người dạy môn này (có kh�
 - Mỗi lần học môn này, tôi luôn cảm thấy mệt mỏi và khó khăn; nội dung khô khan, thiếu sức hút, và thành thật mà nói, không có điểm gì đặc biệt đáng chú ý. Trong số các môn Kinh tế mà sinh viên Troy CS **bắt buộc** phải học, đây có lẽ là môn học nhạt nhẽo và khó tiếp cận nhất. Ngay cả nội hàm của môn này cũng không mấy hấp dẫn với ngay cả các sinh viên ngành Kinh tế (đã tham khảo nhận xét từ một người bạn học ngành Kinh tế tại Swinburne).
 
 - Cuối kỳ là khoảng thời gian mệt mỏi và dồn nén nhất; điều duy nhất tôi muốn làm trong bài final là phớt lờ tất cả, giống như cách tôi gửi nguyên mấy trang đề thi dài dằng dặc vào ChatGPT để lấy đáp án vậy... TIỄN VONG!!! 🙏🙏🙏
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

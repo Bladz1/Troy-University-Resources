@@ -11,6 +11,7 @@ permissions:
 
 jobs:
   build-windows:
+    if: false
     runs-on: windows-latest
 
     steps:
@@ -40,7 +41,7 @@ jobs:
 
   build-macos:
     runs-on: macos-latest
-    needs: build-windows
+    # needs: build-windows
 
     steps:
     - name: Checkout code
@@ -60,6 +61,6 @@ jobs:
         pyinstaller --windowed --name TroyCalcGPA_m TroyCalcGPA.py
 
     - name: Upload APP to GitHub Release
-      run: gh release upload ${{ github.ref_name }} "dist/TroyCalcGPA_m.app" --clobber
+      run: gh release upload ${{ github.ref_name }} "dist/TroyCalcGPA_m/TroyCalcGPA_m.app" --clobber
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

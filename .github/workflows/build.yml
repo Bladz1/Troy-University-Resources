@@ -57,7 +57,7 @@ jobs:
         pip install --upgrade pip
         pip install pyinstaller
         pip install -r requirements.txt
-        pyinstaller --windowed --name TroyCalcGPA_m TroyCalcGPA.py
+        pyinstaller --windowed --name TroyCalcGPA_m TroyCalcGPA_m.py
 
     - name: Zip macOS .app
       run: |

@@ -8,6 +8,6 @@
 
 - Nếu kì đó offer 2 options thì nên ưu tiên chọn thầy thứ 1 sẽ an toàn, tai qua nạn khỏi.
 
-- Nếu chỉ có thầy thứ 2 thì nên học hành cẩn thận, sẽ có Mr. Cường (đệ của thầy) trông thi, đồ sát quét sạch, gần như không thể xài điện thoại, hoặc nhìn bài. 
+- Nếu chỉ có thầy thứ 2 thì nên học hành cẩn thận, sẽ có Mr. Cường (đệ của thầy) trông thi, đồ sát quét sạch, gần như không thể cheat, hoặc nhìn bài. 
 
 - Thi GK và CK là open-book, mang gì cũng được trừ điện thoại. 🤣

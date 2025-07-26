@@ -14,6 +14,6 @@ Hai môn Sử trong chương trình Troy được dạy bởi 2 giảng viên đ
 
 - Lí do 2 môn Sử, cùng gộp chung vào 1 file, bởi vì 2 môn đều được dạy bởi bộ đôi thầy giáo mà cách dạy, cách thi là như nhau. 
 
-- Rồi, đến part quan trọng nhất!! Kiến thức 'vĩ mô' như này thì thi kiểu gì? Thực ra không cần học gì cả, chỉ cần sẵn điện thoại chép liên tục thôi, số điểm của bạn chính là số trang mà bạn chép được, càng chép được lắm càng điểm cao.
+- Rồi, đến part quan trọng nhất!! Kiến thức 'vĩ mô' như này thì thi kiểu gì? Thực ra không cần học gì cả, chỉ cần sẵn phone chép liên tục thôi, số điểm của bạn chính là số trang mà bạn chép được, càng chép được lắm càng điểm cao.
 
 - Kiến thức của tôi ở thời điểm 1 năm sau khi học 2 môn Sử khá rời rạc, lâu lâu nhớ mấy chuyện linh tinh kiểu: Đá Rosetta... Industrial Revolution... WW2,... toàn mấy thứ chả hữu ích gì mấy, một môn tôi đánh giá là khá nhạt nhẽo về mặt kiến thức mà sẽ contribute vào công việc. 😗

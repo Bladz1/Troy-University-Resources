@@ -85,7 +85,6 @@ class GPACalculator(tk.Tk):
 
     def _create_widgets(self):
         style = ttk.Style()
-        style.configure("Accent.TButton", font=("Arial", 10, "bold"))
 
         main_frame = ttk.Frame(self, padding="10")
         main_frame.pack(fill="both", expand=True)
@@ -100,7 +99,16 @@ class GPACalculator(tk.Tk):
 
         ttk.Button(button_frame, text="➕ Thêm môn", command=self.add_course_row).grid(row=0, column=0, sticky="ew", padx=2)
         ttk.Button(button_frame, text="🔄 Làm mới", command=self.reset_all).grid(row=0, column=1, sticky="ew", padx=2)
-        ttk.Button(button_frame, text="Tính GPA", command=self.calculate_gpa, style="Accent.TButton").grid(row=0, column=2, sticky="ew", padx=2)
+        tk.Button(
+            button_frame, 
+            text="Tính GPA", 
+            command=self.calculate_gpa,
+            bg="#94283a",          # Màu nền Troy
+            fg="white",            # Màu chữ trắng
+            font=("Arial", 10, "bold"),
+            relief="groove",       # Hiệu ứng (flat, groove, raised, ridge, solid, or sunken)
+            borderwidth=5
+        ).grid(row=0, column=2, sticky="ew", padx=2)
 
         courses_labelframe = ttk.LabelFrame(main_frame, text="Danh sách môn học", padding="10")
         courses_labelframe.pack(pady=10, fill="both", expand=True)

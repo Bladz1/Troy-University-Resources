@@ -1,4 +1,4 @@
-name: Auto build GPA Tool EXE
+name: Auto build GPA Tool for Win and mac
 
 on:
   push:
@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  build-windows:
     runs-on: windows-latest
 
     steps:
@@ -28,12 +28,38 @@ jobs:
         pip install --upgrade pip
         pip install pyinstaller
         pip install -r requirements.txt
-        pyinstaller --onefile --noconsole --name TroyCalcGPA TroyCalcGPA.py
+        pyinstaller --onefile --noconsole --name TroyCalcGPA_W TroyCalcGPA.py
 
     - name: Install GitHub CLI
       run: choco install gh -y
 
-    - name: Upload to GitHub Release 
-      run: gh release create ${{ github.ref_name }} "the reason, for you - me - us, future trojans 204d9622fa1980d39d31c68f0bdb5fa0/tool_tinhGPA_Troy/dist/TroyCalcGPA.exe" --title "Tính GPA"
+    - name: Upload EXE to GitHub Release
+      run: gh release create ${{ github.ref_name }} "the reason, for you - me - us, future trojans 204d9622fa1980d39d31c68f0bdb5fa0/tool_tinhGPA_Troy/dist/TroyCalcGPA_W.exe" --title "Tính GPA"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  build-macos:
+    runs-on: macos-latest
+    needs: build-windows
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.13'
+
+    - name: Install dependencies & Build APP
+      run: |
+        cd "the reason, for you - me - us, future trojans 204d9622fa1980d39d31c68f0bdb5fa0/tool_tinhGPA_Troy"
+        pip install --upgrade pip
+        pip install pyinstaller
+        pip install -r requirements.txt
+        pyinstaller --windowed --name TroyCalcGPA_m TroyCalcGPA.py
+
+    - name: Upload APP to GitHub Release
+      run: gh release upload ${{ github.ref_name }} "dist/TroyCalcGPA_m.app" --clobber
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

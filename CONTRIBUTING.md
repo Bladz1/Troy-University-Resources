@@ -56,8 +56,8 @@ Vì vậy, những yêu cầu dưới đây phần lớn chỉ là gợi ý. D�
 ### Mở pull request
 
 Nếu như bạn muốn đóng góp cho repo, bạn nên mở [pull request][github-pull-requests] (PR).  
-Nếu đây là lần đầu và bạn chưa biết cách mở PR như thế nào, bạn có thể tham khảo hướng dẫn sau: [Hướng dẫn][github-first-contributions]  
-Hướng dẫn này sẽ dẫn bạn thực hành cách tạo PR từ đầu đến cuối.
+Nếu đây là lần đầu và bạn chưa biết cách mở PR như thế nào, bạn có thể tham khảo hướng dẫn sau: [Hướng dẫn][github-first-contributions].  
+Hướng dẫn này sẽ dẫn bạn thực hành qua cách tạo PR từ đầu đến cuối.
 
 ### Tạo issue
 

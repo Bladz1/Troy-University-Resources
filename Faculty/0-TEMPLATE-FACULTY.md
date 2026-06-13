@@ -24,7 +24,7 @@
 - **Email**: johndoe@email.com
 - **Facebook**: [Facebook - John Doe][facebook-profile]
 - **Website**: www.example.com
-- **Rate My Professors**: [Rate My Professors - John Doe][rate-my-professor-link]
+- **Rate My Professors**: [Rate My Professors - John Doe][rate-my-professors-profile]
 
 ## Lịch sử giảng dạy
 
@@ -123,5 +123,5 @@
 [academic-profile]: https://example.com/
 [facebook-profile]: https://www.facebook.com/profile.php?id=4
 [abc-1101]: ../ABC-1101/
-[rate-my-professor-link]: https://www.ratemyprofessors.com/school/1037
+[rate-my-professors-profile]: https://www.ratemyprofessors.com/school/1037
 [contributing]: ../CONTRIBUTING.md

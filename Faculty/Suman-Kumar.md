@@ -90,7 +90,7 @@ Chuyện trên là một chuyện, cái nữa là Kumar dạy rất kiểu Ấn,
 ## Trivia
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
-# Nguồn tham khảo
+
 [^1]: S. Kumar, "Interview with Dr. Suman Kumar | Chair of Computer Science," May 2024. [YouTube][youtube-reference-1]
 [^2]: S. Kumar, "Dr Suman Kumar on AI, Cybersecurity, and the STEM program at Troy University," Oct. 2025. [YouTube][youtube-reference-2]
 [^3]: Troy University, "Webinar: College of Arts and Sciences Programs," Apr. 2021. [YouTube][youtube-reference-3]

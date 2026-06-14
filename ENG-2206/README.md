@@ -10,8 +10,10 @@
 
 ## Lịch sử giảng dạy
 - [ThS. NCS. Lê Nguyên Long][le-nguyen-long]: `Fall-2025`
+- [PGS.TS. Phạm Phương Chi][pham-phuong-chi]: `Summer-2026`
 
 
 [eng-1102]: ../ENG-1102/
 [le-nguyen-long]: ../Faculty/Le-Nguyen-Long.md
+[pham-phuong-chi]: ../Faculty/Pham-Phuong-Chi.md
 [contributing]: ../CONTRIBUTING.md

@@ -1,7 +1,7 @@
 # STAT-2210 - Introductory Statistics
 
->"The numbers, Mason! What do they mean?"  
-— **Jason Hudson**, *Call of Duty: Black Ops*
+>"Never tell me the odds!"  
+— **Han Solo**, *Star Wars*
 
 **STAT-2210** là một môn học 3 tín chỉ với điều kiện tiên quyết là [MTH-1112][mth-1112].
 

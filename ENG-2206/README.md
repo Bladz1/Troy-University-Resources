@@ -1,4 +1,4 @@
-# ENG-2206 - World Literature before 1660
+# ENG-2206 - World Literature after 1660
 
 >"And blood-black nothingness began to spin. A system of cells interlinked, within cells interlinked, within cells interlinked within one stem. And dreadfully distinct against the dark, a tall white fountain played."  
 ― **Vladimir Nabokov**, *Pale Fire*

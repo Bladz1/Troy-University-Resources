@@ -17,7 +17,7 @@ Tại sao ở trên nói E2 như 1 sự cứu cánh cho E1? Vì E2 được tự
 ## Lịch sử giảng dạy
 - [CV. Nguyễn Kiều Anh][nguyen-kieu-anh] ![suck-badge]: `Spring-2025`, `Spring-2026`
 - [ThS. Trần Thị Lan Hương][tran-thi-lan-huong] ![peak-badge]: `Spring-2025`, `Spring-2026`
-- [ThS. Nguyễn Thị Thu Huyền][nguyen-thi-thu-huyen] ![peak-badge]: `Spring-2026`
+- [TS. Nguyễn Thị Thu Huyền][nguyen-thi-thu-huyen] ![peak-badge]: `Spring-2026`
 
 
 [eng-1101]: ../ENG-1101/

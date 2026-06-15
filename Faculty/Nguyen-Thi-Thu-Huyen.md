@@ -1,9 +1,9 @@
-# ThS. Nguyễn Thị Thu Huyền
+# TS. Nguyễn Thị Thu Huyền
 
 >"Very gud. Can you please note down a participation score for ..."  
-— **ThS. Nguyễn Thị Thu Huyền**, *mỗi khi sinh viên trả lời một câu hỏi bất kì*
+— **TS. Nguyễn Thị Thu Huyền**, *mỗi khi sinh viên trả lời một câu hỏi bất kì*
 
-**ThS. Nguyễn Thị Thu Huyền** là giảng viên Trường Quốc tế – ĐHQGHN.
+**TS. Nguyễn Thị Thu Huyền** là giảng viên Trường Quốc tế – ĐHQGHN.
 
 ## Thông tin giảng viên
 - **Ngoại hình**: [Nguyễn Thị Thu Huyền][profile-image]
@@ -52,7 +52,7 @@
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Trivia
-- Trong một bài khảo sát chất lượng, **ThS. Nguyễn Thị Thu Huyền** đã được sinh viên K69 xếp hạng 'S tier'.
+- Trong một bài khảo sát chất lượng, **TS. Nguyễn Thị Thu Huyền** đã được sinh viên K69 xếp hạng 'S tier'.
 
 
 [profile-image]: https://www.is.vnu.edu.vn/wp-content/uploads/2023/10/Nguyen-Huyen-min-255x382.jpg

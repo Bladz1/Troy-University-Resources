@@ -6,15 +6,18 @@
 **CS-2250** là một môn học 3 tín chỉ với điều kiện tiên quyết là [MTH-1112][mth-1112].
 
 ## Đánh giá
+
 Đây là môn học đầu tiên trong chương trình học CS của Troy thực sự học về lập trình (C++).
 
 ## Lịch sử giảng dạy
+
 - [TS. Đặng Hữu Tú][dang-huu-tu]: `Fall-2025`
 - [PGS. TS. Lê Chí Ngọc][le-chi-ngoc]: `Fall-2023`, `Fall-2024`
 - [TS. Bùi Thị Mai Anh][bui-thi-mai-anh]: `Fall-2024`
 - [PGS. TS. Cao Tuấn Dũng][cao-tuan-dung]: `Fall-2021`
 
-## Trivia
+## Ghi chú
+
 - Môn này ở Troy BK là CS-255 chứ không phải CS-2250
 
 

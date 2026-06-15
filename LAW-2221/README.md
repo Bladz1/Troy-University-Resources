@@ -6,9 +6,11 @@
 **LAW-2221** là một môn học 3 tín chỉ không có điều kiện tiên quyết.
 
 ## Đánh giá
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Lịch sử giảng dạy
+
 - [ThS. Nguyễn Thị Thúy Hằng][nguyen-thi-thuy-hang]: `Fall-2024`
 
 

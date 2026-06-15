@@ -1,7 +1,7 @@
 # CS-3360 - Concepts of Object Oriented Programming I
 
->"I thought of objects being like biological cells and/or individual computers on a network, only able to communicate with messages."  
-— **Alan Kay**
+>"Water: 35 liters, Carbon: 20 kg, Ammonia: 4 liters, Lime: 1.5 kg, Phosphorus: 800 g, Salt: 250 g, Saltpeter: 100 g, Sulfur: 80 g, Fluorine: 7.5 g, Iron: 5 g, Silicon: 3 g, and 15 other elements in small quantities... That's the total chemical makeup of the average adult body... all junk that you can buy in any market with a child's allowance. Humans are pretty cheaply made."  
+— **Edward Elric**, *Fullmetal Alchemist*
 
 **CS-3360** là một môn học 3 tín chỉ với điều kiện tiên quyết là [CS-2255][cs-2255].
 

@@ -16,7 +16,7 @@ Yeah, but still not defamation!"
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Computer Science
 - **Email**: skumar@troy.edu
-- **Rate my Professors**: [Suman Kumar][rate-my-professors]
+- **Rate My Professors**: [Rate My Professors - Suman Kumar][rate-my-professors-profile]
 
 ## Lịch sử giảng dạy
 - `CS-3323` ([Data Structures][cs-3323]): Fall-2016, Fall-2017, Fall-2018, Fall-2019, Fall-2020, Fall-2021, Fall-2022, Fall-2023, Fall-2024, Fall-2025
@@ -99,7 +99,7 @@ Chuyện trên là một chuyện, cái nữa là Kumar dạy rất kiểu Ấn,
 [youtube-congratulations]: https://www.youtube.com/watch?v=PHgc8Q6qTjc
 [profile-image]: https://www.troy.edu/_assets/college-arts-sciences/departments/computer-science/_images/kumar.jpg
 [troy_profile]: https://www.troy.edu/academics/colleges-schools/college-science-engineering/departments/computer-science/faculty-staff.html
-[rate-my-professors]: https://www.ratemyprofessors.com/professor/1622358
+[rate-my-professors-profile]: https://www.ratemyprofessors.com/professor/1622358
 [cs-3323]: ../CS-3323/
 [cs-3329]: ../CS-3329/
 [cs-3360]: ../CS-3360/

@@ -10,7 +10,7 @@
 
 ## Lịch sử giảng dạy
 - [TS. Đặng Hữu Tú][dang-huu-tu]: `Fall-2025`
-- [PGS. TS. Lê Chí Ngọc][le-chi-ngoc]: `Fall-2024`
+- [PGS. TS. Lê Chí Ngọc][le-chi-ngoc]: `Fall-2023`, `Fall-2024`
 - [TS. Bùi Thị Mai Anh][bui-thi-mai-anh]: `Fall-2024`
 - [PGS. TS. Cao Tuấn Dũng][cao-tuan-dung]: `Fall-2021`
 

@@ -16,7 +16,7 @@
 
 - [CV. Nguyễn Kiều Anh][nguyen-kieu-anh] ![suck-badge]: `Fall-2024`, `Fall-2025`
 - [ThS. Trần Thị Lan Hương][tran-thi-lan-huong] ![peak-badge]: `Fall-2024`, `Fall-2025`
-- [ThS. Nguyễn Thị Thu Huyền][nguyen-thi-thu-huyen] ![peak-badge]: `Fall-2025`
+- [TS. Nguyễn Thị Thu Huyền][nguyen-thi-thu-huyen] ![peak-badge]: `Fall-2025`
 
 
 [nguyen-kieu-anh]: ../Faculty/Nguyen-Kieu-Anh.md

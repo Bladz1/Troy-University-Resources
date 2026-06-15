@@ -1,9 +1,9 @@
 # MGT-4440 - Developing and Leading Effective Teams
 
->"There was an idea... to bring together a group of remarkable people, see if they could become something more. See if they could work together when we needed them to, to fight the battles that we never could"  
+>"There was an idea... to bring together a group of remarkable people, see if they could become something more. See if they could work together when we needed them to, to fight the battles that we never could."  
 — **Nick Fury**, *The Avengers*
 
-**MGT-4440** là một môn học 3 tín chỉ với điều kiện tiên quyết là Lower-level Core và [MGT-3300][mgt-3300]
+**MGT-4440** là một môn học 3 tín chỉ với điều kiện tiên quyết là Lower-level Core và [MGT-3300][mgt-3300].
 
 ## Đánh giá
 

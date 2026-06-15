@@ -1,12 +1,12 @@
-# TS. Nguyễn Quỳnh Uyên
+# TS. Nguyễn Quỳnh Uyển 
 
 >"Perhaps the archives are incomplete."  
 — **Obi-Wan Kenobi**
 
-**TS. Nguyễn Quỳnh Uyên** là giảng viên Viện Vi sinh vật và Công nghệ Sinh học, Đại Học Quốc Gia Hà Nội.
+**TS. Nguyễn Quỳnh Uyển** là giảng viên Viện Vi sinh vật và Công nghệ Sinh học, Đại Học Quốc Gia Hà Nội.
 
 ## Thông tin giảng viên
-- **Lý lịch**: [VNU - Nguyễn Quỳnh Uyên][vnu-profile]
+- **Lý lịch**: [VNU - Nguyễn Quỳnh Uyển][vnu-profile]
 - **Giới tính**: Nữ
 - **Học vị cao nhất**: Tiến sĩ
 - **Email**: uyennq@vnu.edu.vn

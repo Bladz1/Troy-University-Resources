@@ -1,7 +1,12 @@
 # ECO-2252 - Microeconomics
 
->"There's no such thing as a free lunch."  
-— **Milton Friedman**
+>"Food $200  
+Data $150  
+Rent $800  
+Candles $3,600  
+Utility $150  
+someone who is good at the economy please help me budget this. my family is dying"  
+— **@dril**, *Twitter*
 
 **ECO-2252** là một môn học 3 tín chỉ không có điều kiện tiên quyết.
 

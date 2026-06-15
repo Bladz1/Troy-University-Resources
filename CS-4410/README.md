@@ -1,7 +1,7 @@
 # CS-4410 - Introduction to Machine Learning
 
->"I propose to consider the question, 'Can machines think?'."  
-— **Alan Turing**
+>"Dude, sucking at something is the first step towards being sorta good at something."  
+— **Jake the Dog**, *Adventure Time*
 
 **CS-4410** là một môn học 3 tín chỉ với điều kiện tiên quyết là [CS-3323][cs-3323] và [STAT-2210][stat-2210].
 

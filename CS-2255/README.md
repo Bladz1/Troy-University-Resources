@@ -1,7 +1,13 @@
 # CS-2255 - Computer Science II
 
->"I invented the term Object-Oriented, and I can tell you I did not have C++ in mind."  
-— **Alan Kay**
+>"Never have I felt so close to another soul  
+And yet so helplessly alone  
+As when I Google an error  
+And there's one result  
+A thread by someone with the same problem  
+And no answers  
+Last posted to in 2003"  
+— **xkcd #979**
 
 **CS-2255** là một môn học 3 tín chỉ với điều kiện tiên quyết là [CS-2250][cs-2250].
 

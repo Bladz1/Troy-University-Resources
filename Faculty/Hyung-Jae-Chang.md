@@ -12,13 +12,14 @@
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Computer Science
 - **Email**: hjchang@troy.edu
+- **Rate My Professors**: [Rate My Professors - Hyung Jae Chang][rate-my-professors-profile]
 
 ## Lịch sử giảng dạy
 - `CS-2220` ([Numerical Methods in Computing][cs-2220]): Spring-2025
 
 ## Đánh giá
 ### CS-2220 - Numerical Methods in Computing
-- Về cách thầy dạy, hay review về thầy, sinh viên Mĩ đã làm rồi, tham khảo ở [đây][rate-my-professor-link].
+- Về cách thầy dạy, hay review về thầy, sinh viên Mĩ đã làm rồi, tham khảo ở [đây][rate-my-professors-profile].
 
 - Nói đến nước Mĩ, con người Mĩ, tôi luôn nhớ [Vương Hỗ Ninh][vuong-ho-ninh] từng nói:
   
@@ -68,7 +69,7 @@ I LOVE Prof. CHANGGGGG!!!!!! ❤️
 [troy_profile]: https://spectrum.troy.edu/hjchang/
 [cs-2220]: ../CS-2220/
 [contributing]: ../CONTRIBUTING.md
-[rate-my-professor-link]: https://www.ratemyprofessors.com/professor/2138262
+[rate-my-professors-profile]: https://www.ratemyprofessors.com/professor/2138262
 [vuong-ho-ninh]: https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_H%E1%BB%97_Ninh
 [image-3]: ../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image3.jpeg
 [image-5]: ../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image5.jpg

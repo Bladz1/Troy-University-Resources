@@ -1,7 +1,7 @@
 # CS-3372 - Formal Languages and the Theory of Computation
 
->"A computer would deserve to be called intelligent if it could deceive a human into believing that it was human."  
-— **Alan Turing**
+>"You keep using that word. I do not think it means what you think it means."  
+— **Inigo Montoya**, *The Princess Bride*
 
 **CS-3372** là một môn học 3 tín chỉ với điều kiện tiên quyết là [CS-3323][cs-3323].
 

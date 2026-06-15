@@ -6,9 +6,11 @@
 **MTH-2215** là một môn học 3 tín chỉ với điều kiện tiên quyết là [MTH-1112][mth-1112].
 
 ## Đánh giá
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Lịch sử giảng dạy
+
 - [PGS. TS Vũ Thế Khôi][vu-the-khoi]: `Spring-2026`
 - [TS. Hồ Minh Toàn][ho-minh-toan]: `Spring-2025`
 

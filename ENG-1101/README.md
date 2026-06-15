@@ -6,14 +6,17 @@
 **ENG-1101** là một môn học 3 tín chỉ không có điều kiện tiên quyết.
 
 ## Đánh giá
+
 ### Đầu mối Turnitin
+
 - Nơi mua acc Turnitin - Zalo (để share chung cho nhiều đứa, vô hạn lượt check):  0888630224
 - Check bài lẻ (acc ở đây thì đắt hơn nhưng check lẻ thì rẻ hơn): [Facebook][facebook-link]
 
 ## Lịch sử giảng dạy
+
 - [CV. Nguyễn Kiều Anh][nguyen-kieu-anh] ![suck-badge]: `Fall-2024`, `Fall-2025`
 - [ThS. Trần Thị Lan Hương][tran-thi-lan-huong] ![peak-badge]: `Fall-2024`, `Fall-2025`
-- [ThS. Nguyễn Thị Thu Huyền][nguyen-thi-thu-huyen] ![peak-badge]: `Fall-2025`
+- [TS. Nguyễn Thị Thu Huyền][nguyen-thi-thu-huyen] ![peak-badge]: `Fall-2025`
 
 
 [nguyen-kieu-anh]: ../Faculty/Nguyen-Kieu-Anh.md

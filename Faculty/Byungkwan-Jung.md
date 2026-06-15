@@ -16,7 +16,7 @@ Hiện tại, ông đang là Trợ lý Giáo sư tại Khoa Khoa học Máy tín
 - **Email**: bjung@troy.edu
 - **Facebook**: [Facebook - Byungkwan Jung][facebook-profile]
 - **Website**: https://ieeexplore.ieee.org/author/37086272999
-- **Rate my Professors**: [Byungkwan Jung][rate-my-professor-profile]
+- **Rate My Professors**: [Rate My Professors - Byungkwan Jung][rate-my-professors-profile]
 
 ## Lịch sử giảng dạy
 - `CS-4448` ([Operating Systems][cs-4448]): Fall-2024
@@ -56,6 +56,6 @@ Hiện tại, ông đang là Trợ lý Giáo sư tại Khoa Khoa học Máy tín
 [profile-image]: https://www.troy.edu/_assets/college-arts-sciences/departments/computer-science/_images/jung.jpg
 [academic-profile]: https://scholar.google.com/citations?user=CUv5u1QAAAAJ&hl=en
 [facebook-profile]: https://www.facebook.com/profile.php?id=100002115892980
-[rate-my-professor-profile]: https://www.ratemyprofessors.com/professor/2631939
+[rate-my-professors-profile]: https://www.ratemyprofessors.com/professor/2631939
 [cs-4448]: ../CS-4448/
 [contributing]: ../CONTRIBUTING.md

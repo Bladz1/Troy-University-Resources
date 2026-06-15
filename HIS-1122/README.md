@@ -6,6 +6,7 @@
 **HIS-1122** là một môn học 3 tín chỉ không có điều kiện tiên quyết.
 
 ## Đánh giá
+
 - Chắc hẳn mọi người còn nhớ cách chúng ta học Sử ở 12 năm phổ thông, cơ bản là nhồi nhét, '[học gạo][youtube-link]', các sự kiện bị nhồi nhét quá mức khiến chúng ta không thể nào thấy được nổi được ý nghĩa của từng khoảnh khắc, ý nghĩa thời đại của từng sự kiện, có lẽ những thứ đọng lại trong đầu của tôi từ môn Sử thời phổ thông chỉ có 2 thứ: ngày xảy ra sự kiện + tên sự kiện. 💔
 
 - Liệu 2 môn Sử này ở Troy chúng ta có phải học như vậy không? 
@@ -19,6 +20,7 @@
 - Kiến thức của tôi ở thời điểm 1 năm sau khi học 2 môn Sử khá rời rạc, lâu lâu nhớ mấy chuyện linh tinh kiểu: Đá Rosetta... Industrial Revolution... WW2,... toàn mấy thứ chả hữu ích gì mấy, một môn tôi đánh giá là khá nhạt nhẽo về mặt kiến thức mà sẽ contribute vào công việc. 😗
 
 ## Lịch sử giảng dạy
+
 - [PGS. TS. Phạm Văn Thủy][pham-van-thuy]: `Spring-2022`, `Spring-2025`
 - [TS. Nguyễn Nhật Linh][nguyen-nhat-linh]: `Spring-2025`
 

@@ -13,7 +13,7 @@
 - **Khoa**: Computer Science
 - **Email**: aarteta@troy.edu
 - **Facebook**: [Facebook - Alberto Arteta][facebook-profile]
-- **Rate my Professors**: [Alberto Arteta][rate-my-professor-profile]
+- **Rate My Professors**: [Rate My Professors - Alberto Arteta][rate-my-professors-profile]
 
 ## Lịch sử giảng dạy
 - `CS-4448` ([Operating Systems][cs-4448]): Fall-2025
@@ -53,6 +53,6 @@
 [profile-image]: https://www.troy.edu/_assets/college-arts-sciences/departments/computer-science/_images/arteta.jpg
 [academic-profile]: https://spectrum.troy.edu/aarteta/
 [facebook-profile]: https://www.facebook.com/profile.php?id=699850553
-[rate-my-professor-profile]: https://www.ratemyprofessors.com/professor/2127313
+[rate-my-professors-profile]: https://www.ratemyprofessors.com/professor/2127313
 [cs-4448]: ../CS-4448/
 [contributing]: ../CONTRIBUTING.md

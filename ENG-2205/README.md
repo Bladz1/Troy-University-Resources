@@ -13,7 +13,7 @@ Yeah, doubt it."
 ## Lịch sử giảng dạy
 > **[UPDATE: bắt đầu từ kì Fall 2025 xuất hiện giảng viên mới (server VNU), lớp đấy hết nhanh chóng vì còn lại toàn lớp Long Le, sự kiện phải gọi là chấn động chính trường!!!]**
 
-- [ThS. NCS. Lê Nguyên Long][le-nguyen-long]: `Summer-2025`, `Summer-2026`
+- [ThS. NCS. Lê Nguyên Long][le-nguyen-long]: `Summer-2025`, `Spring-2026`
 
 
 [machiavelli-the-prince]: https://en.wikipedia.org/wiki/The_Prince

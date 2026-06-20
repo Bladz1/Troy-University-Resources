@@ -1,0 +1,42 @@
+1. Explain the algorithm ideas behind the push, pop, isFull, isEmpty functions? 
+2. Explain the primary purpose of the following functions?
+
+// Function 1
+int IntStack::mysteryFunction1() const {
+    int count = 0;
+    for (int i = 0; i <= top; i++) {
+        if (stackArray[i] % 2 == 0) {
+            count++;
+        }
+    }
+    return count;
+}
+
+// Function 2 
+bool IntStack::mysteryFunction2() {
+    if (isEmpty()) {
+        return false;
+    }
+    for (int i = 0; i < top; i++) {
+        stackArray[i] = stackArray[i + 1];
+    }
+    top--;
+    return true;
+}
+
+// Function 3 
+bool IntStack::mysteryFunction3(int k) {
+    if (k < 1 || k > top + 1) {
+        return false;
+    }
+    
+    int targetIndex = top - k + 1;
+    
+    for (int i = targetIndex; i < top; i++) {
+        stackArray[i] = stackArray[i + 1];
+    }
+    top--;
+    return true;
+}
+
+3. Integrate these functions into the project and run a demo

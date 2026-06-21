@@ -1,0 +1,39 @@
+1. Explain the algorithm ideas behind the insertNode, deleteNode, and appendNode functions?
+
+2. Explain the primary purpose of the following functions?
+
+// Function 1
+int NumberList::mysteryFunction1(ListNode *nodePtr) const
+{
+    if (nodePtr != nullptr)
+        return 1 + mysteryFunction1(nodePtr->next);
+    else
+        return 0;
+}
+
+// Function 2
+void NumberList::mysteryFunction2(ListNode *nodePtr) const
+{
+    if (nodePtr != nullptr)
+    {
+        mysteryFunction3(nodePtr->next);
+        cout << nodePtr->value << " ";
+    }
+}
+
+// Function 3
+void NumberList::mysteryFunction3() {
+    ListNode *curr = head;
+    ListNode *prev = nullptr;
+    ListNode *next = nullptr;
+
+    while (curr != nullptr) {
+        next = curr->next;
+        curr->next = prev;
+        prev = curr;
+        curr = next;
+    }
+    head = prev;
+}
+
+3. Integrate these functions into the project and run a demo

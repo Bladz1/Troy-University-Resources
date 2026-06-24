@@ -28,7 +28,8 @@
 
 >"Nếu kì đó offer 2 options (Khôi và Toàn) thì nên ưu tiên chọn thầy Khôi sẽ an toàn, tai qua nạn khỏi."
 
-Tại thời điểm mà câu tục ngữ đó được viết ra, nó không sai. Ngược lại, nó còn là một lời khuyên cực kì tốt. Truyền thuyết kể rằng, Hồ Minh Toàn từng thu phục được một đệ tử, hiệu là "Mr. Cường", người mà dưới trướng mà chỉ có những cao thủ thượng thừa nhất mới có thể thi hành được tà đạo trong giờ thi.  
+Tại thời điểm mà câu tục ngữ đó được viết ra, nó không sai. Ngược lại, nó còn là một lời khuyên cực kì tốt.  
+Truyền thuyết kể rằng, Hồ Minh Toàn từng thu phục được một đệ tử, hiệu là "Mr. Cường", người mà dưới trướng chỉ có những cao thủ thượng thừa nhất mới có thể thi hành được tà đạo trong giờ thi.  
 Vũ Thế Khôi thì khác, phần lớn thời gian chỉ ngồi bàn đầu lướt điện thoại, đi lại không nhiều.  
 Qua nhiều kì học, lớp của Khôi luôn là lớp hết slot đầu tiên.
 
@@ -99,18 +100,18 @@ Bảng điểm của lớp thi sau đó (đã nhận được intel là đề b�
     - **Điểm tổng kết trung bình:** `72.82/100`
       - Độ lệch chuẩn: 16.68
       - Tỉ lệ được A: 17.86% (20/112)
-
   - MTH-1114 - Fall-2025
     - **Điểm tổng kết trung bình:** `74.41/100`
       - Độ lệch chuẩn: 12.40
-      - Tỉ lệ được A: 11.36% (5/44) 
+      - Tỉ lệ được A: 11.36% (5/44)
 
   </blockquote>
   </details>
+
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `7/10`
   - Chấm cực kì căng
 - **Độ bám sát bài học của đề thi:** `3/10`
-  - Bài tập giao và bài khi không trùng một tí nào
+  - Bài tập giao và bài thi không trùng một tí nào
 - **Độ hợp lí, cân bằng của khối lượng bài vở và sức khỏe tinh thần:** `4.75/10`
   - Khá là nhiều bài tập về nhà, mà không gửi luôn từ đầu, phải đợi học xong hết chap mới gửi nên ae phải speedrun khá mệt.
 - **Khả năng truyền đạt kiến thức và chuyên môn sư phạm:** `2.75/10`

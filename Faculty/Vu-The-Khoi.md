@@ -28,8 +28,8 @@
 
 >"Nếu kì đó offer 2 options (Khôi và Toàn) thì nên ưu tiên chọn thầy Khôi sẽ an toàn, tai qua nạn khỏi."
 
-Tại thời điểm mà câu tục ngữ đó được viết ra, nó không sai. Ngược lại, nó còn là một lời khuyên cực kì tốt. Truyền thuyết kể rằng, Hồ Minh Toàn từng thu phục được một đệ tử, hiệu là "Mr. Cường", người mà dưới trướng mà chỉ có những cao thủ thượng thừa nhất mới có thể thi hành được tà đạo trong giờ thi.
-Vũ Thế Khôi thì khác, phần lớn thời gian chỉ ngồi bàn đầu lướt điện thoại, đi lại không nhiều.
+Tại thời điểm mà câu tục ngữ đó được viết ra, nó không sai. Ngược lại, nó còn là một lời khuyên cực kì tốt. Truyền thuyết kể rằng, Hồ Minh Toàn từng thu phục được một đệ tử, hiệu là "Mr. Cường", người mà dưới trướng mà chỉ có những cao thủ thượng thừa nhất mới có thể thi hành được tà đạo trong giờ thi.  
+Vũ Thế Khôi thì khác, phần lớn thời gian chỉ ngồi bàn đầu lướt điện thoại, đi lại không nhiều.  
 Qua nhiều kì học, lớp của Khôi luôn là lớp hết slot đầu tiên.
 
 >"Tiếng chuông nơi Kỳ Viên tinh xá,  

@@ -48,7 +48,7 @@ Tất nhiên, Vũ Thế Khôi cũng không phải ngoại lệ.
 ---
 
 Cách trông thi mới chỉ là một nửa của phương trình. Nửa còn lại nằm vào đề thi.  
-Thay vì mô tả đề kì Spring 2026 của Vũ Thế Khôi, tôi nghĩ trích dẫn một số phỏng vấn tôi thu thập được sẽ có phần nào đấy chân thật và hữu ích hơn.
+Thay vì mô tả [đề kì Spring 2026][vtk-spring-2026-final-exam] của Vũ Thế Khôi, tôi nghĩ trích dẫn một số phỏng vấn tôi thu thập được sẽ có phần nào đấy chân thật và hữu ích hơn.
 
 >"Ca 1 ca 2 không đổi đề mà. Bọn ca 1 bọn nó tuồn đề ra, địt mẹ [REDACTED] nó đi in đáp án giấu vào chép, nó bảo đề dài đến mức chép liền một mạch từ đầu đến cuối còn không chép kịp."  
 — **Giấu tên**
@@ -191,6 +191,7 @@ Thầy Khôi giờ đã không còn như xưa.
 [mth-1126]: ../MTH-1126/
 [mth-2215]: ../MTH-2215/
 [vu-the-khoi-canon-event]: #mth-2215---applied-discrete-mathematics
+[vtk-spring-2026-final-exam]: ../MTH-2215/Assignments/Spring-2026/Vu-The-Khoi/Exams/Final-Exam/
 [professor-leonard-trigs]: https://www.youtube.com/watch?v=c41QejoWnb4&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=74
 [professor-leonard-calculus-1]: https://www.youtube.com/playlist?list=PLF797E961509B4EB5
 [professor-leonard-calculus-2]: https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-

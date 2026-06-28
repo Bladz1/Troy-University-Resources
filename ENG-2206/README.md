@@ -13,9 +13,14 @@
 
 - [ThS. NCS. Lê Nguyên Long][le-nguyen-long]: `Fall-2025`
 - [PGS.TS. Phạm Phương Chi][pham-phuong-chi]: `Summer-2026`
+- [TS. Đinh Minh Hằng][dinh-minh-hang]: `Summer-2026`
 
+## Ghi chú
+
+- **TS. Đinh Minh Hằng** là giảng viên độc quyền bên server VNU, chưa từng dạy ở HUST.
 
 [eng-1102]: ../ENG-1102/
 [le-nguyen-long]: ../Faculty/Le-Nguyen-Long.md
 [pham-phuong-chi]: ../Faculty/Pham-Phuong-Chi.md
+[dinh-minh-hang]: ../Faculty/Dinh-Minh-Hang.md
 [contributing]: ../CONTRIBUTING.md

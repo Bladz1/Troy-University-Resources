@@ -55,7 +55,7 @@ Chuyện trên là một chuyện, cái nữa là Kumar dạy rất kiểu Ấn,
   - Độ lệch chuẩn: TBA
   - Tỉ lệ được A: TBA
     
-    > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+  > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*

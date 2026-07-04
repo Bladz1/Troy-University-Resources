@@ -138,12 +138,12 @@ Có cầu trời khấn phật cũng vô ích. Một là bản án tử hình ma
 [profile-image]: https://i1.rgstatic.net/ii/profile.image/972983258591232-1608988694465_Q128/Huu-Tu-Dang.jpg
 [gg_scholar_profile]: https://scholar.google.com/citations?user=9xSEDWYAAAAJ&hl=en
 [facebook_profile]: https://www.facebook.com/profile.php?id=100009561053204
-[cs-2250]: ../CS-2250/
+[cs-2250]: ../CS-2250/-
 [cs-2255]: ../CS-2255/
 [spring-2026-individual-projects]: ../CS-2255/Assignments/Spring-2026/Dang-Huu-Tu/Individual-Projects/
 [spring-2026-group-project]: ../CS-2255/Assignments/Spring-2026/Dang-Huu-Tu/Group-Project/
 [spring-2026-final-exam]: ../CS-2255/Assignments/Spring-2026/Dang-Huu-Tu/Final-Exam/
-[spring-2026-syllabus]: ../CS-2255/Syllabi/Spring-2026/Dang-Huu-Tu/CS256 - syllabus2026.pdf
+[spring-2026-syllabus]: ../CS-2255/Syllabi/Spring-2026/Dang-Huu-Tu/CS256%20-%20syllabus2026.pdf
 [starting-out-with-cpp-8th-edition]: ../CS-2255/References/Starting-Out-With-CPP-8th-Ed.pdf
 [cs-2250-review]: ../CS-2250#đánh-giá
 [contributing]: ../CONTRIBUTING.md

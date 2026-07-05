@@ -1,17 +1,20 @@
 # COM-2241 - Fundamentals of Speech
 
->"There are always three speeches, for every one you actually gave. The one you practiced, the one you gave, and the one you wish you gave"  
-— **Dale Carnegie**
+>"Sometimes I'll start a sentence and I don't even know where it's going. I just hope I find along the way. Like an improv conversation. An improversation."  
+— **Michael Scott**, *The Office*
 
 **COM-2241** là một môn học 3 tín chỉ. Không có điều kiện tiên quyết.
 
 ## Đánh giá
+
 Môn này là môn học về thuyết trình.
 
 ## Lịch sử giảng dạy
+
 - [ThS. Lê Thị Khánh Hòa][le-thi-khanh-hoa]: `Summer-2024`, `Summer-2025`
 
-## Trivia
+## Ghi chú
+
 - Môn này ở Việt Nam là SPH-241
 
 

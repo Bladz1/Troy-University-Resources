@@ -12,6 +12,7 @@
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Computer Science
 - **Email**: chenb@troy.edu
+- **Rate My Professors**: [Rate My Professors - Bernard Chen][rate-my-professors-profile]
 
 ## Lịch sử giảng dạy
 - `CS-2220` ([Numerical Methods in Computing][cs-2220]): Spring-2026
@@ -52,4 +53,5 @@
 [profile-image]: https://www.troy.edu/_assets/college-arts-sciences/departments/computer-science/_images/chen-bernard.jpg
 [gg_scholar_profile]: https://scholar.google.com/citations?user=RzdV0mcAAAAJ&hl=en
 [cs-2220]: ../CS-2220/
+[rate-my-professors-profile]: https://www.ratemyprofessors.com/professor/1364622
 [contributing]: ../CONTRIBUTING.md

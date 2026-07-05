@@ -6,9 +6,11 @@
 **HIS-1123** là một môn học 3 tín chỉ không có điều kiện tiên quyết.
 
 ## Đánh giá
+
 - Tham khảo [HIS-1122][his-1122]
 
 ## Lịch sử giảng dạy
+
 - [PGS. TS. Phạm Văn Thủy][pham-van-thuy]: `Spring-2024`, `Fall-2024`
 - [TS. Nguyễn Nhật Linh][nguyen-nhat-linh]: `Spring-2024`
 

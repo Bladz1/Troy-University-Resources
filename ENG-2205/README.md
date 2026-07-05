@@ -8,12 +8,14 @@ Yeah, doubt it."
 **ENG-2205** là một môn học 3 tín chỉ với điều kiện tiên quyết là [ENG-1102][eng-1102].
 
 ## Đánh giá
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Lịch sử giảng dạy
+
 > **[UPDATE: bắt đầu từ kì Fall 2025 xuất hiện giảng viên mới (server VNU), lớp đấy hết nhanh chóng vì còn lại toàn lớp Long Le, sự kiện phải gọi là chấn động chính trường!!!]**
 
-- [ThS. NCS. Lê Nguyên Long][le-nguyen-long]: `Summer-2025`, `Summer-2026`
+- [ThS. NCS. Lê Nguyên Long][le-nguyen-long]: `Summer-2025`, `Spring-2026`
 
 
 [machiavelli-the-prince]: https://en.wikipedia.org/wiki/The_Prince

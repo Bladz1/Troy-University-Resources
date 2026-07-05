@@ -9,9 +9,11 @@ So, wake up, Mr. Freeman. Wake up and smell the ashes."
 **TROY-1101** là một môn học 1 tín chỉ không có điều kiện tiên quyết.
 
 ## Đánh giá
+
 Môn này là môn để biết về quy chế ngành - nothing special.
 
 ## Lịch sử giảng dạy
+
 - [CV. Nguyễn Kiều Anh][nguyen-kieu-anh]: `Summer-2025`
 - [ThS. Nguyễn Thị Thùy Phương][nguyen-thi-thuy-phuong]: `Summer-2025`
 

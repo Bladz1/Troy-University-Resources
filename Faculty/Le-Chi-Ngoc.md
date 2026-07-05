@@ -17,7 +17,7 @@
 - **Cân nặng**: 150 kg
 
 ## Lịch sử giảng dạy
-- `CS-2250` ([Computer Science I][cs-2250]): Fall-2024
+- `CS-2250` ([Computer Science I][cs-2250]): Fall-2023, Fall-2024
 - `CS-2255` ([Computer Science II][cs-2255]): Spring-2026
 - `CS-3310` ([Foundations of Computer Science][cs-3310]): Fall-2024, Fall-2025
 
@@ -40,9 +40,10 @@ Môn này với lí do là môn 'Foundations' nên anh không cho thi mà cho th
 - **Độ hợp lí, cân bằng của khối lượng bài vở và sức khỏe tinh thần:** `1/10`
   - Bỏ ra 10 tiếng để nghiên cứu và làm bài thuyết trình của tuần? Không quan trọng, làm cái gì đấy mà ông không thích = ☠️.
 - **Khả năng truyền đạt kiến thức và chuyên môn sư phạm:** `1/10`
-  - Không tồn tại kỹ năng sư phạm. Sinh viên được đặt vào trạng thái "tự sinh tự diệt", phải tự kích hoạt 100% khả năng tự học để tồn tại.
+  - Không tồn tại kỹ năng sư phạm. Sinh viên được đặt vào trạng thái "tự sinh tự diệt", phải tự kích hoạt 200% khả năng tự học để tồn tại.
 - **Tác phong, tính cách và mức độ hỗ trợ sinh viên:** `1/10`
-  - Trả lời như NPC.
+  - Mọi thắc mắc sẽ được phản hồi tệ hơn một con NPC.
+  - ["No way"][le-chi-ngoc-no-way]
 
 ## Cơ chế trông thi
 ### CS-2250 - Computer Science I
@@ -52,7 +53,7 @@ Môn này với lí do là môn 'Foundations' nên anh không cho thi mà cho th
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ### CS-3310 - Foundations of Computer Science
-> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+- Môn này sẽ không thi mà cho thuyết trình lấy điểm.
 
 ## Tips
 ### CS-2250 - Computer Science I
@@ -68,6 +69,17 @@ Môn này với lí do là môn 'Foundations' nên anh không cho thi mà cho th
   - Ngoại hình thừa cân
   - Có ngoại hình thuộc stereotype "nerd", "mọt sách", ...
 - Giảng viên sẽ yêu cầu một sinh viên dùng laptop của mình để chiếu bài thuyết trình của cả lớp. Sinh viên này sẽ được cộng điểm. Tuy nhiên, vinh dự này thường được nhường cho lớp trưởng/cán bộ lớp. Sinh viên có thể đàm phán với họ nếu muốn tăng khả năng được điểm cao.
+- Tùy vào tâm trạng và mức độ thiên vị, giảng viên có thể sẽ fail những bài thuyết trình dùng nền tối. Nếu như đã lỡ dùng nền tối, sinh viên có thể tạm invert màu màn hình laptop trước khi chiếu thuyết trình. Tính năng thường này có thể được tìm thấy trong phần settings của Windows và các DE của Linux.
+- Sinh viên nên chọn các đề tài thuyết trình đơn giản, vì giảng viên sẽ fail những bài thuyết trình dài quá 3 phút hoặc không trả lời được 100% các câu hỏi giảng viên đưa ra. Tuy nhiên, những đề tài quá đơn giản cũng sẽ có khả năng bị giảng viên fail nếu như giảng viên đang không trong tâm trạng tốt (do chưa ăn sáng, ...).
+  - Ví dụ chọn đề tài:
+    - Đề tài: Một thuật toán
+      - Đề tài rủi ro thấp: Bubble Sort, Binary Search, GPA Calculator, ...
+      - Đề tài rủi ro cao: Fourier Transform Algorithm, Face Detection Algorithm, ...
+    - Đề tài: Một thuật toán dùng ngôn ngữ Assembly
+      - Đề tài rủi ro thấp: Subtraction of 2 numbers, Square of a number, ...
+      - Đề tài rủi ro cao: Tất cả những thứ còn lại
+- Vì giảng viên không cho phép các sinh viên chọn đề tài giống nhau, sinh viên nên tìm cách đăng ký được đề tài mình muốn càng sớm càng tốt, vì những đề tài rủi ro thấp sẽ bị claim rất nhanh.
+- Tùy vào tâm trạng và mức độ thiên vị, giảng viên sẽ fail một vài bài thuyết trình về chủ đề "Một thuật toán bằng ngôn ngữ Assembly" nếu như code của sinh viên dài hơn ~50 dòng. Việc này khiến việc chọn được chủ đề sớm càng quan trọng hơn nữa.
 
 ## Trivia
 - **PGS. TS. Lê Chí Ngọc** đã fail ít nhất một bài thuyết trình chính ngay cả [cháu ruột của mình][trivia_image_1] trong kì học Fall-2025.
@@ -81,5 +93,6 @@ Môn này với lí do là môn 'Foundations' nên anh không cho thi mà cho th
 [cs-2250]: ../CS-2250/
 [cs-2255]: ../CS-2255/
 [cs-3310]: ../CS-3310/
-[contributing]: ../CONTRIBUTING.md
+[le-chi-ngoc-no-way]: https://i.imgur.com/V276SPm.jpeg
 [trivia_image_1]: https://i.imgur.com/IxdBWNh.jpeg
+[contributing]: ../CONTRIBUTING.md

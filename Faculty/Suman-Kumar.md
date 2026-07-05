@@ -1,31 +1,35 @@
 # TS. Suman Kumar
 
->"Did you know that Indians have poo-poo in their brains?  
-That's a blatant racist lie.  
-Yeah, but still not defamation!"  
-— **PewDiePie**, [*"Congratulations"*][youtube-congratulations]
+> "Did you know that Indians have poo-poo in their brains?  
+> That's a blatant racist lie.  
+> Yeah, but still not defamation!"  
+> — **PewDiePie**, [*"Congratulations"*][youtube-congratulations]
 
 **Tiến sĩ Suman Kumar** xuất thân từ Bihar, Ấn Độ, từng đỗ IIT năm 1999 và chuyển từ Kỹ thuật Điện sang Khoa học Máy tính vì nhìn ra sớm tiềm năng của ngành, sau đó làm việc tại Tata Consultancy Services và nghiên cứu ở Đại học Bang North Carolina trước khi trở thành Trưởng khoa tại Đại học Troy [^1].
 
 **Tiến sĩ Suman Kumar** là kiểu người làm khoa học rất thực tế, không màu mè lý thuyết. Các dự án của ông luôn nhắm thẳng vào vấn đề thật của xã hội như an toàn giao thông, thiên tai hay các công nghệ mới kiểu blockchain và tính toán lấy cảm hứng sinh học. Dù giữ vai trò lãnh đạo tại khoa Khoa học Máy tính, ông vẫn khá khiêm tốn, dễ tiếp cận và đặt lợi ích chung của sinh viên cùng sự phát triển dài hạn của khoa lên trên hết. Overall, cho thấy sự kết hợp rõ ràng giữa tư duy học thuật nghiêm túc và tinh thần “làm được việc” [^2], [^3].
 
 ## Thông tin giảng viên
+
 - **Ngoại hình**: [Suman Kumar][profile-image]
 - **Lý lịch**: [Troy - Suman Kumar][troy_profile]
 - **Giới tính**: Nam
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Computer Science
 - **Email**: skumar@troy.edu
-- **Rate my Professors**: [Suman Kumar][rate-my-professors]
+- **Rate My Professors**: [Rate My Professors - Suman Kumar][rate-my-professors-profile]
 
 ## Lịch sử giảng dạy
+
 - `CS-3323` ([Data Structures][cs-3323]): Fall-2016, Fall-2017, Fall-2018, Fall-2019, Fall-2020, Fall-2021, Fall-2022, Fall-2023, Fall-2024, Fall-2025
 - `CS-3329` ([Analysis of Algorithms][cs-3329]): Spring-2026
 - `CS-3360` ([Concepts of Object Oriented Programming I][cs-3360]): Fall-2025
 - `CS-4410` ([Introduction to Machine Learning][cs-4410]): Fall-2024
 
 ## Đánh giá
+
 ### CS-3323 - Data Structures
+
 Môn này theo tôi biết thì trong khoảng 10 năm nay chỉ có duy nhất một giảng viên xuyên suốt, đó là Professor Suman Kumar.
 
 Trước khi đến với ý kiến riêng thì ta cùng đọc xem các anh chị khóa trước nói gì về Kumar:
@@ -46,60 +50,84 @@ Chuyện trên là một chuyện, cái nữa là Kumar dạy rất kiểu Ấn,
 Được cái môn này cũng nhẹ, ở Troy nó tách DSA ra thành hai môn là DS với A nên còn thở được tí. Không thì với quả giáo viên này mà học DSA một lúc chắc tạch còn nhiều nữa.
 
 ## Chỉ số và sức mạnh
+
 - **Điểm tổng kết trung bình:** `?/100`
   - Độ lệch chuẩn: TBA
   - Tỉ lệ được A: TBA
+    
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
+  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ bám sát bài học của đề thi:** `?/10`
+  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ hợp lí, cân bằng của khối lượng bài vở và sức khỏe tinh thần:** `?/10`
+  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Khả năng truyền đạt kiến thức và chuyên môn sư phạm:** `?/10`
+  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Tác phong, tính cách và mức độ hỗ trợ sinh viên:** `?/10`
+  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Cơ chế trông thi
+
 ### CS-3323 - Data Structures
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ### CS-3329 - Analysis of Algorithms
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ### CS-3360 - Concepts of Object Oriented Programming I
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ### CS-4410 - Introduction to Machine Learning
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Tips
+
+### Chung
+
+Dẫu lúc coi thi Dr. Kumar khá căng, NHƯNG. 
+
+Luật ngầm: điểm sẽ lên Canvas trước, lúc đó bạn biết letter grade của mình rồi. Nhưng đừng vội tuyệt vọng hay cố gắng gửi email. Hãy tạm tắt máy, thắp hương vài hôm, rồi mở lại mục [Grades][grades]. Nếu may mắn, điểm được buff thêm 1 letter — kiểu B -> A chẳng hạn.
+
 ### CS-3323 - Data Structures
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ### CS-3329 - Analysis of Algorithms
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ### CS-3360 - Concepts of Object Oriented Programming I
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ### CS-4410 - Introduction to Machine Learning
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Trivia
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 # Nguồn tham khảo
+
 [^1]: S. Kumar, "Interview with Dr. Suman Kumar | Chair of Computer Science," May 2024. [YouTube][youtube-reference-1]
 [^2]: S. Kumar, "Dr Suman Kumar on AI, Cybersecurity, and the STEM program at Troy University," Oct. 2025. [YouTube][youtube-reference-2]
 [^3]: Troy University, "Webinar: College of Arts and Sciences Programs," Apr. 2021. [YouTube][youtube-reference-3]
 
-
 [youtube-congratulations]: https://www.youtube.com/watch?v=PHgc8Q6qTjc
 [profile-image]: https://www.troy.edu/_assets/college-arts-sciences/departments/computer-science/_images/kumar.jpg
 [troy_profile]: https://www.troy.edu/academics/colleges-schools/college-science-engineering/departments/computer-science/faculty-staff.html
-[rate-my-professors]: https://www.ratemyprofessors.com/professor/1622358
+[rate-my-professors-profile]: https://www.ratemyprofessors.com/professor/1622358
 [cs-3323]: ../CS-3323/
 [cs-3329]: ../CS-3329/
 [cs-3360]: ../CS-3360/
@@ -108,3 +136,5 @@ Chuyện trên là một chuyện, cái nữa là Kumar dạy rất kiểu Ấn,
 [youtube-reference-2]: https://www.youtube.com/watch?v=nEllsU7VkpM
 [youtube-reference-3]: https://www.youtube.com/watch?v=RN4uBHZGbWA
 [contributing]: ../CONTRIBUTING.md
+
+[grades]: https://sss.troy.edu/Student/Student/Grades

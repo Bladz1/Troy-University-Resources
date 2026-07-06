@@ -49,7 +49,7 @@ Vì vậy, những yêu cầu dưới đây phần lớn chỉ là gợi ý. D�
 - **Phân loại theo cấu trúc:**
   - Các tài liệu bên trong thư mục môn học nên được chia sâu hơn theo thứ tự: `.../Kỳ-Học/Giảng-Viên/Loại-Tài-Liệu/Mã-Lớp/...`
   - *Ví dụ:* 1 file đề thi giữa kì môn MTH-2215 của thầy Vũ Thế Khôi, kì Spring 2026 sẽ có đường dẫn như sau:
-  `MTH-2215/Assignments/Spring-2026/Vu-The-Khoi/Midterm/IHAA.pdf`
+  `MTH-2215/Assignments/Spring-2026/Vu-The-Khoi/Exams/Midterm/MTH-2215_midterm_IHAA_Spring-2026_Vu-The-Khoi.pdf`
 
 ## Vậy làm thế nào để tôi đóng góp cho repo này?
 

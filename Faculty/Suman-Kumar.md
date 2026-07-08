@@ -9,7 +9,7 @@
 
 **Tiến sĩ Suman Kumar** là kiểu người làm khoa học rất thực tế, không màu mè lý thuyết. Các dự án của ông luôn nhắm thẳng vào vấn đề thật của xã hội như an toàn giao thông, thiên tai hay các công nghệ mới kiểu blockchain và tính toán lấy cảm hứng sinh học. Dù giữ vai trò lãnh đạo tại khoa Khoa học Máy tính, ông vẫn khá khiêm tốn, dễ tiếp cận và đặt lợi ích chung của sinh viên cùng sự phát triển dài hạn của khoa lên trên hết. Overall, cho thấy sự kết hợp rõ ràng giữa tư duy học thuật nghiêm túc và tinh thần “làm được việc” [^2], [^3].
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 
 - **Ngoại hình**: [Suman Kumar][profile-image]
 - **Lý lịch**: [Troy - Suman Kumar][troy_profile]
@@ -118,7 +118,7 @@ Luật ngầm: điểm sẽ lên Canvas trước, lúc đó bạn biết letter 
 
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
-# Nguồn tham khảo
+## Nguồn tham khảo
 
 [^1]: S. Kumar, "Interview with Dr. Suman Kumar | Chair of Computer Science," May 2024. [YouTube][youtube-reference-1]
 [^2]: S. Kumar, "Dr Suman Kumar on AI, Cybersecurity, and the STEM program at Troy University," Oct. 2025. [YouTube][youtube-reference-2]
@@ -135,6 +135,5 @@ Luật ngầm: điểm sẽ lên Canvas trước, lúc đó bạn biết letter 
 [youtube-reference-1]: https://www.youtube.com/watch?v=utQAzkZOi5Y
 [youtube-reference-2]: https://www.youtube.com/watch?v=nEllsU7VkpM
 [youtube-reference-3]: https://www.youtube.com/watch?v=RN4uBHZGbWA
-[contributing]: ../CONTRIBUTING.md
-
 [grades]: https://sss.troy.edu/Student/Student/Grades
+[contributing]: ../CONTRIBUTING.md

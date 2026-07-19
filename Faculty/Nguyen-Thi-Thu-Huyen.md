@@ -85,6 +85,8 @@ Tỉ lệ được A trong 2 kì đầu tiên cô dạy y hệt nhau (24%), ngh�
 
 - Giảng viên sẽ chỉ định một sinh viên làm lớp trưởng trong buổi học đầu tiên. Lớp trưởng sẽ được cộng điểm vào điểm tổng kết và sẽ có nhiệm vụ ghi lại tất cả những lần phát biểu để cuối kì tổng kết lại làm điểm cộng cho lớp.
 - Trả lời những câu khá đơn giản cũng có thể được cộng điểm, sinh viên nên cố gắng farm càng nhiều càng tốt. Cuối kì, sinh viên được điểm cao nhất sẽ được 100% số điểm participation của course (với ENG-1101 thì là 10% điểm tổng kết), scale dần xuống theo hàm log tùy theo số điểm.
+  - Thấp nhất cô vẫn cho 8 điểm participation.
+  - Trong kì Spring 2026, công thức tính điểm của cô xấp xỉ: $f(x) = 0.7 * ln(x) + 7.14)$
 
 ### ENG-1101 - Composition And Modern English I
 

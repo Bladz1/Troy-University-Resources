@@ -1,0 +1,563 @@
+sections:
+  - title: "General studies"
+    courses:
+      - stt: 1
+        code: "TROY-1101"
+        name: "The University Experience"
+        credits: 1
+        prerequisite: ""
+        tier: "FAIR"
+        folder: "TROY-1101"
+        inactive: false
+
+      - stt: 2
+        code: "ENG-1101"
+        name: "Composition And Modern English I"
+        credits: 3
+        prerequisite: ""
+        tier: "FAIR"
+        folder: "ENG-1101"
+        inactive: false
+
+      - stt: 3
+        code: "ART-1133"
+        name: "Visual Arts"
+        credits: 2
+        prerequisite: ""
+        tier: "PEAK"
+        folder: "ART-1133"
+        inactive: false
+
+      - stt: 4
+        code: "HIS-1123"
+        name: "World History from 1500"
+        credits: 3
+        prerequisite: ""
+        tier: "FAIR"
+        folder: "HIS-1123"
+        inactive: false
+
+      - stt: 5
+        code: "HIS-1122"
+        name: "World History to 1500"
+        credits: 3
+        prerequisite: ""
+        tier: "FAIR"
+        folder: "HIS-1122"
+        inactive: false
+
+      - stt: 6
+        code: "MUS-1131"
+        name: "Music Appreciation"
+        credits: 2
+        prerequisite: ""
+        tier: "FAIR"
+        folder: "MUS-1131"
+        inactive: false
+
+      - stt: 7
+        code: "COM-2241"
+        name: "Fundamentals of Speech"
+        credits: 3
+        prerequisite: ""
+        tier: "SUCK"
+        folder: "COM-2241"
+        inactive: false
+
+      - stt: 8
+        code: "ENG-1102"
+        name: "Composition and Modern English II"
+        credits: 3
+        prerequisite: "ENG 1101 with C"
+        tier: "FAIR"
+        folder: "ENG-1102"
+        inactive: false
+
+      - stt: 9
+        code: "ENG-2205"
+        name: "World Literature before 1660"
+        credits: 3
+        prerequisite: "ENG 1102 with C"
+        tier: "SUCK"
+        folder: "ENG-2205"
+        inactive: false
+
+      - stt: 10
+        code: "ECO-2251"
+        name: "Macroeconomics"
+        credits: 3
+        prerequisite: ""
+        tier: "FAIR"
+        folder: "ECO-2251"
+        inactive: false
+
+      - stt: 11
+        code: "ECO-2252"
+        name: "Microeconomics"
+        credits: 3
+        prerequisite: ""
+        tier: "FAIR"
+        folder: "ECO-2252"
+        inactive: false
+
+      - stt: 12
+        code: "CHM/L-1142"
+        name: "General Chemistry and Lab I"
+        credits: 4
+        prerequisite: "MTH 1112"
+        tier: "PEAK"
+        folder: "CHM-1142"
+        inactive: false
+
+      - stt: 13
+        code: "PHY/L-2252"
+        name: "General Physics and Lab I"
+        credits: 4
+        prerequisite: "MTH 1114"
+        tier: "PEAK"
+        folder: "PHY-2252"
+        inactive: false
+
+  - title: "Required Major Courses"
+    courses:
+      - stt: 14
+        code: "MTH-1125"
+        name: "Calculus I"
+        credits: 4
+        prerequisite: "MTH 1114 with C"
+        tier: "SUCK"
+        folder: "MTH-1125"
+        inactive: false
+
+      - stt: 15
+        code: "MTH-1126"
+        name: "Calculus II"
+        credits: 4
+        prerequisite: "MTH 1125"
+        tier: "SUCK"
+        folder: "MTH-1126"
+        inactive: false
+
+      - stt: 16
+        code: "CS-2220"
+        name: "Numerical Methods in Computing"
+        credits: 3
+        prerequisite: "MTH 1112 with C"
+        tier: "PEAK"
+        folder: "CS-2220"
+        inactive: false
+
+      - stt: 17
+        code: "CS-2250"
+        name: "Computer Science I"
+        credits: 3
+        prerequisite: "MTH 1112 with C"
+        tier: "SUCK"
+        folder: "CS-2250"
+        inactive: false
+
+      - stt: 18
+        code: "CS-2255"
+        name: "Computer Science II"
+        credits: 3
+        prerequisite: "CS 2250"
+        tier: "FAIR"
+        folder: "CS-2255"
+        inactive: false
+
+      - stt: 19
+        code: "CS-3310"
+        name: "Foundations of Computer Science"
+        credits: 3
+        prerequisite: "MTH 1112 with C"
+        tier: "PEAK"
+        folder: "CS-3310"
+        inactive: false
+
+      - stt: 20
+        code: "CS-3323"
+        name: "Data Structures"
+        credits: 3
+        prerequisite: "CS 2255 and MTH 1125"
+        tier: "FAIR"
+        folder: "CS-3323"
+        inactive: false
+
+      - stt: 21
+        code: "CS-3329"
+        name: "Analysis of Algorithms"
+        credits: 3
+        prerequisite: "CS 2255"
+        tier: "FAIR"
+        folder: "CS-3329"
+        inactive: false
+
+      - stt: 22
+        code: "CS-3332"
+        name: "Software Engineering I"
+        credits: 3
+        prerequisite: "CS 2255"
+        tier: "PEAK"
+        folder: "CS-3332"
+        inactive: false
+
+      - stt: 23
+        code: "CS-3360"
+        name: "Concepts of Object Oriented Programming I"
+        credits: 3
+        prerequisite: "CS 2255"
+        tier: "PEAK"
+        folder: "CS-3360"
+        inactive: false
+
+      - stt: 24
+        code: "CS-3365"
+        name: "Introduction to Computer Organization and Architecture"
+        credits: 3
+        prerequisite: "CS 3310"
+        tier: "PEAK"
+        folder: "CS-3365"
+        inactive: false
+
+      - stt: 25
+        code: "CS-3370"
+        name: "Nature of Programming Languages"
+        credits: 3
+        prerequisite: "CS 3323"
+        tier: "SUCK"
+        folder: "CS-3370"
+        inactive: false
+
+      - stt: 26
+        code: "CS-3372"
+        name: "Formal Languages and the Theory of Computation"
+        credits: 3
+        prerequisite: "CS 3323"
+        tier: "SUCK"
+        folder: "CS-3372"
+        inactive: false
+
+      - stt: 27
+        code: "CS-4420"
+        name: "Introduction to Database Systems"
+        credits: 3
+        prerequisite: "CS 3323"
+        tier: "PEAK"
+        folder: "CS-4420"
+        inactive: false
+
+      - stt: 28
+        code: "CS-4445"
+        name: "Data Communication and Networking"
+        credits: 3
+        prerequisite: "CS 3323"
+        tier: "PEAK"
+        folder: "CS-4445"
+        inactive: false
+
+      - stt: 29
+        code: "CS-4448"
+        name: "Operating Systems"
+        credits: 3
+        prerequisite: "CS 3323"
+        tier: "PEAK"
+        folder: "CS-4448"
+        inactive: false
+
+      - stt: 30
+        code: "STAT-2210"
+        name: "Introductory Statistics"
+        credits: 3
+        prerequisite: "MTH 1112 with C"
+        tier: "SUCK"
+        folder: "STAT-2210"
+        inactive: false
+
+      - stt: 31
+        code: "MTH-2215"
+        name: "Applied Discrete Mathematics"
+        credits: 3
+        prerequisite: "MTH 1112 with C"
+        tier: "PEAK"
+        folder: "MTH-2215"
+        inactive: false
+
+  - title: "Major Electives (Choose two of the following courses)"
+    subtitle: "# Thực chất là không được chọn mà offer gì học cái đấy"
+    courses:
+      - stt: 32
+        code: "CS-4447"
+        name: "Systems Analysis and Design"
+        credits: 3
+        prerequisite: "CS 3323"
+        tier: ""
+        folder: ""
+        inactive: true
+
+      - stt: 33
+        code: "CS-4451"
+        name: "Computer Security"
+        credits: 3
+        prerequisite: "CS 3323"
+        tier: "FAIR"
+        folder: "CS-4451"
+        inactive: false
+
+      - stt: 34
+        code: "CS-3320"
+        name: "Business System Programming"
+        credits: 3
+        prerequisite: "CS 2255"
+        tier: ""
+        folder: ""
+        inactive: true
+
+      - stt: 35
+        code: "CS-3325"
+        name: "Operations Research"
+        credits: 3
+        prerequisite: "MTH 1125"
+        tier: ""
+        folder: ""
+        inactive: true
+
+      - stt: 36
+        code: "CS-3331"
+        name: "Fundamentals of Artificial Intelligence"
+        credits: 3
+        prerequisite: "CS 3323"
+        tier: "SUCK"
+        folder: "CS-3331"
+        inactive: false
+
+      - stt: 37
+        code: "CS-4443"
+        name: "Web Application Development"
+        credits: 3
+        prerequisite: "CS 3323"
+        tier: ""
+        folder: ""
+        inactive: true
+
+      - stt: 38
+        code: "CS-3361"
+        name: "Concepts of Object-Oriented Programming II"
+        credits: 3
+        prerequisite: "CS 3360"
+        tier: ""
+        folder: ""
+        inactive: true
+
+      - stt: 39
+        code: "CS-4401"
+        name: "Advanced Artificial Intelligence"
+        credits: 3
+        prerequisite: "CS 3331"
+        tier: ""
+        folder: ""
+        inactive: true
+
+      - stt: 40
+        code: "CS-4410"
+        name: "Introduction to Machine Learning"
+        credits: 3
+        prerequisite: "CS 3323 and STAT 2210"
+        tier: "FAIR"
+        folder: "CS-4410"
+        inactive: false
+
+      - stt: 41
+        code: "CS-4461"
+        name: "Software Engineering II"
+        credits: 3
+        prerequisite: "CS 3332"
+        tier: ""
+        folder: ""
+        inactive: true
+
+      - stt: 42
+        code: "CS-4462"
+        name: "Special Topics in Object-Oriented Programming"
+        credits: 3
+        prerequisite: "CS 3361"
+        tier: ""
+        folder: ""
+        inactive: true
+
+      - stt: 43
+        code: "CS-4495"
+        name: "Special Topics in Computer Science"
+        credits: 3
+        prerequisite: "Senior Standing or consent of instructor"
+        tier: ""
+        folder: ""
+        inactive: true
+
+  - title: "Free Electives (19 credits at least)"
+    subtitle: "# Có thể học khoảng từ 6 đến 7 môn tùy phương án"
+    courses:
+      - stt: 44
+        code: "MTH-1112"
+        name: "Pre-Calculus Algebra"
+        credits: 3
+        prerequisite: ""
+        tier: "PEAK"
+        folder: "MTH-1112"
+        inactive: false
+
+      - stt: 45
+        code: "MTH-1114"
+        name: "Pre-Calculus Trigonometry"
+        credits: 3
+        prerequisite: "MTH 1112 with C"
+        tier: "FAIR"
+        folder: "MTH-1114"
+        inactive: false
+
+      - stt: 46
+        code: "MGT-3300"
+        name: "Principles of Management"
+        credits: 3
+        prerequisite: ""
+        tier: "SUCK"
+        folder: "MGT-3300"
+        inactive: false
+
+      - stt: 47
+        code: "MGT-4440"
+        name: "Developing and Leading Effective Teams"
+        credits: 3
+        prerequisite: "Lower-level Core, MGT 3300"
+        tier: "SUCK"
+        folder: "MGT-4440"
+        inactive: false
+        note: "(Sinh viên IT không cần đáp ứng Prerequisite, môn này là Free Elective)"
+
+      - stt: 48
+        code: "IS-2241"
+        name: "Computer Concepts and Applications"
+        credits: 3
+        prerequisite: ""
+        tier: "FAIR"
+        folder: "IS-2241"
+        inactive: false
+
+      - stt: 49
+        code: "ENG-2206"
+        name: "World Literature after 1660"
+        credits: 3
+        prerequisite: "ENG 1102 with C"
+        tier: "SUCK"
+        folder: "ENG-2206"
+        inactive: false
+
+      - stt: 50
+        code: "LAW-2221"
+        name: "Legal Environment of Business"
+        credits: 3
+        prerequisite: ""
+        tier: "SUCK"
+        folder: "LAW-2221"
+        inactive: false
+
+      - stt: 51
+        code: "MKT-3300"
+        name: "Principles of Marketing"
+        credits: 3
+        prerequisite: ""
+        tier: "FAIR"
+        folder: "MKT-3300"
+        inactive: false
+
+      - stt: 52
+        code: "ACT-2291"
+        name: "Principles of Accounting I"
+        credits: 3
+        prerequisite: ""
+        tier: ""
+        folder: ""
+        inactive: false
+
+      - stt: 53
+        code: "QM-2241"
+        name: "Business Statistics"
+        credits: 3
+        prerequisite: "MTH 1112 and IS 2241"
+        tier: ""
+        folder: "QM-2241"
+        inactive: false
+
+      - stt: 54
+        code: "MTH-2201"
+        name: "Calculus and its Applications"
+        credits: 3
+        prerequisite: "MTH 1112 or 1114 with C"
+        tier: ""
+        folder: "MTH-2201"
+        inactive: false
+
+      - stt: 55
+        code: "SCI/L-2233"
+        name: "Physical Science and Lab"
+        credits: 4
+        prerequisite: ""
+        tier: "PEAK"
+        folder: "SCI-2233"
+        inactive: false
+
+      - stt: 56
+        code: "BIO/L-1100"
+        name: "Principles of Biology & Lab"
+        credits: 4
+        prerequisite: ""
+        tier: ""
+        folder: "BIO-1100"
+        inactive: false
+
+  - title: "5 môn Triết"
+    prerequisite_header: "Thứ tự học"
+    courses:
+      - stt: 57
+        code: "SSH1111Q"
+        name: "Triết học Mác - Lênin"
+        credits: 3
+        prerequisite: "1"
+        tier: "FAIR"
+        folder: "Lý luận chính trị"
+        inactive: false
+
+      - stt: 58
+        code: "SSH1121Q"
+        name: "Kinh tế chính trị Mác - Lênin"
+        credits: 2
+        prerequisite: "2"
+        tier: "FAIR"
+        folder: "Lý luận chính trị"
+        inactive: false
+
+      - stt: 59
+        code: "SSH1131Q"
+        name: "Chủ nghĩa xã hội khoa học"
+        credits: 2
+        prerequisite: "3"
+        tier: "FAIR"
+        folder: "Lý luận chính trị"
+        inactive: false
+
+      - stt: 60
+        code: "SSH1141Q"
+        name: "Lịch sử Đảng Cộng sản Việt Nam"
+        credits: 2
+        prerequisite: "4"
+        tier: "FAIR"
+        folder: "Lý luận chính trị"
+        inactive: false
+
+      - stt: 61
+        code: "SSH1151Q"
+        name: "Tư tưởng Hồ Chí Minh"
+        credits: 2
+        prerequisite: "5"
+        tier: "FAIR"
+        folder: "Lý luận chính trị"
+        inactive: false

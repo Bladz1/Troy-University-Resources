@@ -1,7 +1,7 @@
 **Problem 1:**
 
-Suppose that in the year 2024, ABC company planned to produce 500,000 units of its lightweight scuba tanks. Of the 500,000 it planned to produce, a total of 50,000 units would be added to the inventory at its new plant in Hai Phong. Also assume that these units have been selling at a price of $250 each and that the price has been constant over time. Suppose further that this year the firm built a new plant for $20 million and acquired $5 million worth of equipment. It had no other investment projects, and to avoid complications, assume no depreciation.
-Now suppose that at the end of the year, ABC had produced 500,000 units but had only sold 400,000 units and that inventories now contained 100,000 units more than they had at the beginning of the year. At $250 each, that means that the firm added $25,000,000 in new inventory.
+Suppose that in the year 2024, ABC company planned to produce 500,000 units of its lightweight scuba tanks. Of the 500,000 it planned to produce, a total of 50,000 units would be added to the inventory at its new plant in Hai Phong. Also assume that these units have been selling at a price of \$250 each and that the price has been constant over time. Suppose further that this year the firm built a new plant for \$20 million and acquired \$5 million worth of equipment. It had no other investment projects, and to avoid complications, assume no depreciation.
+Now suppose that at the end of the year, ABC had produced 500,000 units but had only sold 400,000 units and that inventories now contained 100,000 units more than they had at the beginning of the year. At \$250 each, that means that the firm added \$25,000,000 in new inventory.
 
 a. How much did ABC company actually invest this year?  
 b. How much did it plan to invest?  

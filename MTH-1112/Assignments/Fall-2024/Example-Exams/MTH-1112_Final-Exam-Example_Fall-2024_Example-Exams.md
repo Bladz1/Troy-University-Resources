@@ -5,7 +5,7 @@
 </div>
 
 **Question 1.**  
-a) A credit union pays interest of 10% per annum compounded monthly on a certain savings plan. If $10000 is deposited in such a plan and the interest is left to accumulate, how much is in the account after 2 years?  
+a) A credit union pays interest of 10% per annum compounded monthly on a certain savings plan. If \$10000 is deposited in such a plan and the interest is left to accumulate, how much is in the account after 2 years?  
 b) Solve the following equation: $5^x \cdot 2^{\frac{2x-1}{x+1}} = 50$.  
 
 **Question 2.**  

@@ -43,7 +43,7 @@ h. If the government spending multiplier decreases from 5 to 4, this means that 
 **Problem 4:**
 
 The data of goods market in an open economy as follows:  
-Consumption function: $C = 250 + 0.6 (Y – T)$  
+Consumption function: $C = 250 + 0.6(Y - T)$  
 Investment function: $I = 300$  
 Government Spending: $G = 250;$  
 Net tax function $(= To + tY)$: $T = 40 + 0,1Y$  

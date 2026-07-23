@@ -1,5 +1,5 @@
 **4. Restaurant Bill**  
-Write a program that computes the tax and tip on a restaurant bill for a patron with a $88.67 meal charge. The tax should be 6.75 percent of the meal cost. The tip should be 20 percent of the total after adding the tax. Display the meal cost, tax amount, tip amount, and total bill on the screen.
+Write a program that computes the tax and tip on a restaurant bill for a patron with a \$88.67 meal charge. The tax should be 6.75 percent of the meal cost. The tip should be 20 percent of the total after adding the tax. Display the meal cost, tax amount, tip amount, and total bill on the screen.
 
 **5. Average of Values**  
 To get the average of a series of values, you add the values up and then divide the sum by the number of values. Write a program that stores the following values in five different variables: 28, 32, 37, 24, and 33. The program should first calculate the sum of these five variables and store the result in a separate variable named `sum`. Then, the program should divide the `sum` variable by 5 to get the average. Display the average on the screen.
@@ -7,7 +7,7 @@ To get the average of a series of values, you add the values up and then divide 
 > **TIP:** Use the `double` data type for all variables in this program.
 
 **6. Annual Pay**  
-Suppose an employee gets paid every two weeks and earns $2,200 each pay period. In a year the employee gets paid 26 times. Write a program that defines the following variables:
+Suppose an employee gets paid every two weeks and earns \$2,200 each pay period. In a year the employee gets paid 26 times. Write a program that defines the following variables:
 
 | Variable | Description |
 | :--- | :--- |
@@ -26,11 +26,11 @@ Assuming the ocean’s level is currently rising at about 1.5 millimeters per ye
 **8. Total Purchase**  
 A customer in a store is purchasing five items. The prices of the five items are
 
-Price of item 1 = $15.95  
-Price of item 2 = $24.95  
-Price of item 3 = $6.95  
-Price of item 4 = $12.95  
-Price of item 5 = $3.95  
+Price of item 1 = \$15.95  
+Price of item 2 = \$24.95  
+Price of item 3 = \$6.95  
+Price of item 4 = \$12.95  
+Price of item 5 = \$3.95  
 
 Write a program that holds the prices of the five items in five variables. Display each item’s price, the subtotal of the sale, the amount of sales tax, and the total. Assume the sales tax is 7%.
 
@@ -51,7 +51,7 @@ Distance = Number of Gallons * Average Miles per Gallon
 One acre of land is equivalent to 43,560 square feet. Write a program that calculates the number of acres in a tract of land with 391,876 square feet.
 
 **13. Circuit Board Price**  
-An electronics company sells circuit boards at a 35 percent profit. Write a program that will calculate the selling price of a circuit board that costs $14.95. Display the result on the screen.
+An electronics company sells circuit boards at a 35 percent profit. Write a program that will calculate the selling price of a circuit board that costs \$14.95. Display the result on the screen.
 
 **14. Personal Information**  
 Write a program that displays the following pieces of information, each on a separate line:  

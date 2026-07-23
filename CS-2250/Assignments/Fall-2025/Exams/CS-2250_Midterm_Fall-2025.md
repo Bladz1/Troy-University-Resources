@@ -28,7 +28,7 @@ B. Operators
 C. Variables  
 D. Literals  
 
-**4. What is the value of ```3 + 3 * -3 + 17 % 3```?**
+**4. What is the value of `3 + 3 * -3 + 17 % 3`?**
 
 A. – 1  
 B. – 4  
@@ -69,7 +69,7 @@ D. None of the above
 
 **8. What is the result of executing the following code?**
 
-```cout << 7++ + --5 << endl;```
+`cout << 7++ + --5 << endl;`
 
 A. 12  
 B. 13  
@@ -82,7 +82,7 @@ D. Compilation Error
 |---|---|---|---|
 | 1 | T | F | Variable names may begin with a number. |
 | 2 | T | F | x >= y is the same as (x > y && x == y). |
-| 3 | T | F | The cout statement in the following program segment will display 8:<br> ```int x = 8;```<br> ```cout << ++x;``` |
+| 3 | T | F | The cout statement in the following program segment will display 8:<br> `int x = 8;`<br> `cout << ++x;` |
 | 4 | T | F | The for loop is a posttest loop. |
 | 5 | T | F | When an if statement is nested in the if part of another statement, the only time the inner if is executed is when the expression of the outer if is true. |
 | 6 | T | F | The continue statement causes a terminated loop to resume. |

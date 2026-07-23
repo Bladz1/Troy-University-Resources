@@ -28,7 +28,7 @@ int main() {
 *Input validation: The number should be checked for the validation using loop statement.*  
 
 **3) (15 pts)** Define the following arrays:  
-**a) alpha**, an 8-element array of chars initialized with the values ‘J’, ‘B’, ‘L’, ‘A’, ‘*’, ‘$’, ‘H’, and ‘M’.  
+**a) alpha**, an 8-element array of chars initialized with the values ‘J’, ‘B’, ‘L’, ‘A’, ‘*’, ‘\$’, ‘H’, and ‘M’.  
 **b) empNums**, a 100-element array of ints  
 **c) cityName**, a 26-element array of string objects  
 

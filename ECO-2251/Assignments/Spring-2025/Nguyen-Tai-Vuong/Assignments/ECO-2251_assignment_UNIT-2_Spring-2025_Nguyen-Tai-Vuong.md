@@ -26,7 +26,7 @@ In a simple economy, suppose that all income is either compensation of employees
 
 | Item | Value |
 | :--- | :--- |
-| Consumption | $9,500 |
+| Consumption | \$9,500 |
 | Investment | 3,000 |
 | Depreciation | 1,750 |
 | Profits | 2,400 |
@@ -42,8 +42,8 @@ In a simple economy, suppose that all income is either compensation of employees
 
 The following table gives some figures from forecasts of real GDP (in 2009 dollars) and population done in 2018 According to the forecasts, approximately how much real growth will there be between 2023 and 2024? What is the per-capita real GDP projected to be in 2023 and 2024? Compute the forecast rate of change in real GDP and per capita real GDP between 2023 and 2024.  
 
-Real GDP 2023 (billions) $18,965  
-Real GDP 2024 (billions) $19,269  
+Real GDP 2023 (billions) \$18,965  
+Real GDP 2024 (billions) \$19,269  
 Population 2023 (millions) 338.2  
 Population 2024 (millions) 340.5  
 
@@ -58,7 +58,7 @@ c. Use the production and price information in the table to calculate real GDP f
 | | **20X1** | | **20X2** | | **20X3** | |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | | **Quantity** | **Price** | **Quantity** | **Price** | **Quantity** | **Price** |
-| Sugar cane | 240 | $0.80 | 240 | $1.00 | 300 | $1.15 |
+| Sugar cane | 240 | \$0.80 | 240 | \$1.00 | 300 | \$1.15 |
 | Yo-yos | 600 | 2.50 | 700 | 3.00 | 750 | 4.00 |
 | Rum | 150 | 10.00 | 160 | 12.00 | 180 | 15.00 |
 | Peanuts | 500 | 2.00 | 450 | 2.50 | 450 | 2.50 |
@@ -89,8 +89,8 @@ Consider an economy that produces and consumes hot dogs and hamburgers. In the f
 | | **2010** | | **2015** | |
 | :--- | :---: | :---: | :---: | :---: |
 | **Good** | **Quantity** | **Price** | **Quantity** | **Price** |
-| Hot dogs | 200 | $2 | 250 | $4 |
-| Hamburgers | 200 | $3 | 500 | $4 |
+| Hot dogs | 200 | \$2 | 250 | \$4 |
+| Hamburgers | 200 | \$3 | 500 | \$4 |
 
 
 a. Using 2010 as the base year, compute the following statistics for each year: nominal GDP, real GDP, the implicit price deflator for GDP, and a fixed-weight price index such as the CPI.  
@@ -102,16 +102,16 @@ A country tracks inflation using a simple basket of two goods: Rice (kg) and Mil
 
 | Year | Price of Rice (per kg) | Price of Milk (per liter) |
 | :---: | :---: | :---: |
-| 2021 | $2.50 | $3.00 |
-| 2022 | $2.75 | $3.20 |
-| 2023 | $3.10 | $3.50 |
+| 2021 | \$2.50 | \$3.00 |
+| 2022 | \$2.75 | \$3.20 |
+| 2023 | \$3.10 | \$3.50 |
 
 A household typically buys 100 kg of rice and 50 liters of milk each year. Assume 2021 as the base year.
 
 a. Compute CPI for each year?  
 b. Compute the inflation rate for 2022 and 2023?  
 c. Find the average annual inflation rate from 2021 to 2023?  
-d. If the average wage in 2021 was $10,000 and increased to $11,000 in 2023, did wages keep up with inflation?  
+d. If the average wage in 2021 was \$10,000 and increased to \$11,000 in 2023, did wages keep up with inflation?  
 
 **Problem 8:**
 

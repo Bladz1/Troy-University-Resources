@@ -1,10 +1,10 @@
 # ECO-2252 - Microeconomics
 
->"Food $200  
-Data $150  
-Rent $800  
-Candles $3,600  
-Utility $150  
+>"Food \$200  
+Data \$150  
+Rent \$800  
+Candles \$3,600  
+Utility \$150  
 someone who is good at the economy please help me budget this. my family is dying"  
 — **@dril**, *Twitter*
 

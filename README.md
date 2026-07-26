@@ -211,7 +211,7 @@
       <td align="left"><a href="./CS-3323/"><kbd>CS&#8209;3323</kbd></a></td>
       <td align="left">Data Structures</td>
       <td align="center">3</td>
-      <td align="center">CS 2255 and MTH 1125</td>
+      <td align="center">CS 2255, MTH 1125, MTH 2215</td>
       <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
     </tr>
     <tr>

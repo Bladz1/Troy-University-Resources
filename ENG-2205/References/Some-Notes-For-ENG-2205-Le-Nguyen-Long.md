@@ -143,7 +143,7 @@ Tuy nhiên lão thêm vào cái *References* ở cuối, và *Literature Review*
 Đầu tiên là Intro, vào là dẫn vào 1 2 câu giới thiệu gì đó về tác giả, tác phẩm rồi sang Literature Review, sau đó từ mấy cái trên thì có thể phân tích ra một cái 'sự đọc' nào đó mà mình đọc ra. Cuối cùng chính là present Argument chính to nhất, mà sẽ bắt đầu bằng một câu mà Long Le cực mê đó là: 'In this essay, I argue that...', và một argument tốt theo Long Le là một argument gây tranh cãi mạnh, kiểu:
 
 <div align="center"> 
-  <img src="../../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image14.png" alt="image-14">
+  <img src="../../Miscellaneous/Assets/Images/VTV1-Quote.png">
   <br>
   <em>Đừng dùng cái này không lại gặp họa :)))</em> 
 </div>
@@ -173,6 +173,3 @@ Ví dụ nhá :)))
 Ở layer nhìn vào, chúng ta naive nghĩ là cửa sổ tâm hồn rồi tình vc right? Xa xa hơn nghĩ được là nỗi buồn các thứ.
 
 Nhưng mà thứ ông Long thực sự muốn nghe là kiểu: người dân có thể là 'kẻ si tình', nhưng nếu không tỉnh táo, tình yêu ấy sẽ biến thành sự mù quáng, dẫn đến một đời dang dở cho cả cộng đồng :))) Yes, đó thực sự là những gì tôi đã học trong course này.
-
-
-[image-14]: ../../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image14.png

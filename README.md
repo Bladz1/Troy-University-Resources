@@ -525,7 +525,7 @@
     </tr>
     <tr>
       <td align="center"><b>57</b></td>
-      <td align="left"><a href="./Lý%20luận%20chính%20trị/"><kbd>SSH1111Q</kbd></a></td>
+      <td align="left"><a href="./Ly-Luan-Chinh-Tri/"><kbd>SSH1111Q</kbd></a></td>
       <td align="left">Triết học Mác - Lênin</td>
       <td align="center">3</td>
       <td align="center">1</td>
@@ -533,7 +533,7 @@
     </tr>
     <tr>
       <td align="center"><b>58</b></td>
-      <td align="left"><a href="./Lý%20luận%20chính%20trị/"><kbd>SSH1121Q</kbd></a></td>
+      <td align="left"><a href="./Ly-Luan-Chinh-Tri/"><kbd>SSH1121Q</kbd></a></td>
       <td align="left">Kinh tế chính trị Mác - Lênin</td>
       <td align="center">2</td>
       <td align="center">2</td>
@@ -541,7 +541,7 @@
     </tr>
     <tr>
       <td align="center"><b>59</b></td>
-      <td align="left"><a href="./Lý%20luận%20chính%20trị/"><kbd>SSH1131Q</kbd></a></td>
+      <td align="left"><a href="./Ly-Luan-Chinh-Tri/"><kbd>SSH1131Q</kbd></a></td>
       <td align="left">Chủ nghĩa xã hội khoa học</td>
       <td align="center">2</td>
       <td align="center">3</td>
@@ -549,7 +549,7 @@
     </tr>
     <tr>
       <td align="center"><b>60</b></td>
-      <td align="left"><a href="./Lý%20luận%20chính%20trị/"><kbd>SSH1141Q</kbd></a></td>
+      <td align="left"><a href="./Ly-Luan-Chinh-Tri/"><kbd>SSH1141Q</kbd></a></td>
       <td align="left">Lịch sử Đảng Cộng sản Việt Nam</td>
       <td align="center">2</td>
       <td align="center">4</td>
@@ -557,7 +557,7 @@
     </tr>
     <tr>
       <td align="center"><b>61</b></td>
-      <td align="left"><a href="./Lý%20luận%20chính%20trị/"><kbd>SSH1151Q</kbd></a></td>
+      <td align="left"><a href="./Ly-Luan-Chinh-Tri/"><kbd>SSH1151Q</kbd></a></td>
       <td align="left">Tư tưởng Hồ Chí Minh</td>
       <td align="center">2</td>
       <td align="center">5</td>

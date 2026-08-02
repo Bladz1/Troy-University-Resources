@@ -104,7 +104,7 @@ sections:
         code: "CHM/L-1142"
         name: "General Chemistry and Lab I"
         credits: 4
-        prerequisite: "MTH 1112"
+        prerequisite: "MTH 1112 with C"
         tier: "PEAK"
         folder: "CHM-1142"
         inactive: false
@@ -178,7 +178,7 @@ sections:
         code: "CS-3323"
         name: "Data Structures"
         credits: 3
-        prerequisite: "CS 2255 and MTH 1125"
+        prerequisite: "CS 2255, MTH 1125, and MTH 2215"
         tier: "FAIR"
         folder: "CS-3323"
         inactive: false
@@ -187,7 +187,7 @@ sections:
         code: "CS-3329"
         name: "Analysis of Algorithms"
         credits: 3
-        prerequisite: "CS 2255"
+        prerequisite: "CS 3323"
         tier: "FAIR"
         folder: "CS-3329"
         inactive: false
@@ -196,7 +196,7 @@ sections:
         code: "CS-3332"
         name: "Software Engineering I"
         credits: 3
-        prerequisite: "CS 2255"
+        prerequisite: "CS 3323"
         tier: "PEAK"
         folder: "CS-3332"
         inactive: false
@@ -205,7 +205,7 @@ sections:
         code: "CS-3360"
         name: "Concepts of Object Oriented Programming I"
         credits: 3
-        prerequisite: "CS 2255"
+        prerequisite: "CS 2250"
         tier: "PEAK"
         folder: "CS-3360"
         inactive: false
@@ -361,7 +361,7 @@ sections:
         code: "CS-4410"
         name: "Introduction to Machine Learning"
         credits: 3
-        prerequisite: "CS 3323 and STAT 2210"
+        prerequisite: "CS 3323"
         tier: "FAIR"
         folder: "CS-4410"
         inactive: false

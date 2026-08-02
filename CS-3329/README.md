@@ -3,7 +3,7 @@
 >"Premature optimization is the root of all evil."  
 — **Donald Knuth**
 
-**CS-3329** là một môn học 3 tín chỉ với điều kiện tiên quyết là [CS-2255][cs-2255].
+**CS-3329** là một môn học 3 tín chỉ với điều kiện tiên quyết là [CS-3323][cs-3323].
 
 ## Đánh giá
 
@@ -14,6 +14,6 @@
 - [TS. Suman Kumar][suman-kumar]: `Spring-2026`
 
 
-[cs-2255]: ../CS-2255/
+[cs-3323]: ../CS-3323/
 [suman-kumar]: ../Faculty/Suman-Kumar.md
 [contributing]: ../CONTRIBUTING.md

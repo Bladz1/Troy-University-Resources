@@ -3,7 +3,7 @@
 >"Technically, chemistry is the study of matter. But I prefer to see it as the study of change. Now, think about this. Electrons... they change their energy levels. Molecules... molecules change their bonds. Elements... they combine and change into compounds. Well, that's... that's all of life, right? It's the constant, it's the cycle. It's solution, dissolution. Just over and over and over. It is growth, then decay, then transformation. It is fascinating, really."  
 — **Walter Hartwell White**
 
-**CHM-1142** là một môn học 4 tín chỉ với điều kiện tiên quyết là [MTH-1112][mth-1112].
+**CHM-1142** là một môn học 4 tín chỉ với điều kiện tiên quyết là [MTH-1112][mth-1112] with C.
 
 ## Đánh giá
 

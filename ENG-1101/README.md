@@ -22,6 +22,6 @@
 [nguyen-kieu-anh]: ../Faculty/Nguyen-Kieu-Anh.md
 [tran-thi-lan-huong]: ../Faculty/Tran-Thi-Lan-Huong.md
 [nguyen-thi-thu-huyen]: ../Faculty/Nguyen-Thi-Thu-Huyen.md
-[suck-badge]: https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628
-[peak-badge]: https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50
+[suck-badge]: ../Miscellaneous/Assets/Badges/Tier/SUCK.svg
+[peak-badge]: ../Miscellaneous/Assets/Badges/Tier/PEAK.svg
 [facebook-link]: https://www.facebook.com/taikhoanton

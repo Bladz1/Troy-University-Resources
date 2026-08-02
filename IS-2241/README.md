@@ -19,5 +19,5 @@ Môn này cơ bản là ngồi kể lể linh tinh về mấy thứ tin học, p
 [nguyen-trung-dung]: ../Faculty/Nguyen-Trung-Dung.md
 [nguyen-nhat-hai]: ../Faculty/Nguyen-Nhat-Hai.md
 [bui-thi-mai-anh]: ../Faculty/Bui-Thi-Mai-Anh.md
-[fair-badge]: https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107
-[suck-badge]: https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628
+[fair-badge]: ../Miscellaneous/Assets/Badges/Tier/FAIR.svg
+[suck-badge]: ../Miscellaneous/Assets/Badges/Tier/SUCK.svg

@@ -140,7 +140,7 @@
       <td align="left"><a href="./CHM-1142/"><kbd>CHM/L&#8209;1142</kbd></a></td>
       <td align="left">General Chemistry and Lab I</td>
       <td align="center">4</td>
-      <td align="center">MTH 1112</td>
+      <td align="center">MTH 1112 with C</td>
       <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/PEAK.svg"></td>
     </tr>
     <tr>
@@ -211,7 +211,7 @@
       <td align="left"><a href="./CS-3323/"><kbd>CS&#8209;3323</kbd></a></td>
       <td align="left">Data Structures</td>
       <td align="center">3</td>
-      <td align="center">CS 2255 and MTH 1125</td>
+      <td align="center">CS 2255, MTH 1125, and MTH 2215</td>
       <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
@@ -219,7 +219,7 @@
       <td align="left"><a href="./CS-3329/"><kbd>CS&#8209;3329</kbd></a></td>
       <td align="left">Analysis of Algorithms</td>
       <td align="center">3</td>
-      <td align="center">CS 2255</td>
+      <td align="center">CS 3323</td>
       <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
@@ -227,7 +227,7 @@
       <td align="left"><a href="./CS-3332/"><kbd>CS&#8209;3332</kbd></a></td>
       <td align="left">Software Engineering I</td>
       <td align="center">3</td>
-      <td align="center">CS 2255</td>
+      <td align="center">CS 3323</td>
       <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/PEAK.svg"></td>
     </tr>
     <tr>
@@ -235,7 +235,7 @@
       <td align="left"><a href="./CS-3360/"><kbd>CS&#8209;3360</kbd></a></td>
       <td align="left">Concepts of Object Oriented Programming I</td>
       <td align="center">3</td>
-      <td align="center">CS 2255</td>
+      <td align="center">CS 2250</td>
       <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/PEAK.svg"></td>
     </tr>
     <tr>
@@ -378,7 +378,7 @@
       <td align="left"><a href="./CS-4410/"><kbd>CS&#8209;4410</kbd></a></td>
       <td align="left">Introduction to Machine Learning</td>
       <td align="center">3</td>
-      <td align="center">CS 3323 and STAT 2210</td>
+      <td align="center">CS 3323</td>
       <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>

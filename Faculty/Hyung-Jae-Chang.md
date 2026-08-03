@@ -28,7 +28,7 @@
 
 - Tôi không hi vọng gì nhiều về tính cách người Mĩ, ban đầu tôi nghĩ thầy là người khó gần, có thể nói là dạy hơi 'chill' quá mức, tuy vậy càng về sau, mới thấy thầy là người tận tụy và cái quan trọng là 'He's not American' về cả nghĩa đen và nghĩa bóng. Thầy là một người Châu Á (Hàn Quốc) tình cảm, chưa Mĩ quá mức, gần gũi, có thể nói là khá 'Eastern cultures'. Nhắc tới thầy, trong đầu tôi toàn hiện ra những **pronoun** đẹp đẽ, tươi sáng, hào quang như: *thầy*, *anh*, *đại ca*, *oppa*,... (khác hẳn với *ai đó* ở 255 😉...), sự **chính xác**, **kỹ lưỡng**, và **tôn trọng sinh viên**. Thầy không có chuyện giận dỗi, tỏ ra thái độ 'thượng đẳng' như một số 'giảng viên Tây' tại một số trường quốc tế khác, nhưng cũng không bỏ qua cái sai. Với thầy, **teaching is not a job, it's his character**. Có lẽ **'tính cách Mĩ' không nhất thiết phải đi kèm sự lạnh lùng**. Và rằng, đôi khi **một người không hoàn toàn thuộc về một nền văn hóa**, lại có thể trở thành cầu nối giữa các lục địa.
   
-![party-with-change-image]
+![party-with-chang-image]
   
   Thề, sao anh thầy nụ cười điện ảnh thế :)) kiểu phim này:
   

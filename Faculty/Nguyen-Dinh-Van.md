@@ -32,7 +32,7 @@
   > 祸必重来  
   > Họa vô đơn chí
   
-![image-2]
+![dinh-van-k68-grades]
 
 ## Chỉ số và sức mạnh
 - **Điểm tổng kết trung bình:** `?/100`
@@ -79,5 +79,5 @@
 [cs-2255]: ../CS-2255/
 [cs-3360]: ../CS-3360/
 [cs-4420]: ../CS-4420/
-[image-2]: ../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image2.png
+[dinh-van-k68-grades]: ../Miscellaneous/Assets/Images/K68-CS2-Grades.png
 [contributing]: ../CONTRIBUTING.md

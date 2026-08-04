@@ -14,7 +14,7 @@
 - **Email**: huongnt@soict.hust.edu.vn
 
 ## Lịch sử giảng dạy
-- `CS-3372` ([Formal Languages and the Theory of Computation][cs-3372]): Fall-2023
+- `CS-3372` ([Formal Languages and the Theory of Computation][cs-3372]): Fall-2023, Summer-2026
 
 ## Đánh giá
 ### CS-3372 - Formal Languages and the Theory of Computation

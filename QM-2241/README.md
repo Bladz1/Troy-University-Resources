@@ -11,7 +11,7 @@
 
 ## Lịch sử giảng dạy
 
-- [TS. Đoàn Duy Trung][doan-duy-trung]: `Summer-2025`
+- [TS. Đoàn Duy Trung][doan-duy-trung]: `Summer-2025`, `Summer-2026`
 
 
 [doan-duy-trung]: ../Faculty/Doan-Duy-Trung.md

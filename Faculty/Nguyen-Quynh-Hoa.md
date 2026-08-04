@@ -1,37 +1,47 @@
-# PGS. TS. Nguyễn Đình Hân
+# ThS. Nguyễn Quỳnh Hoa
 
 >"Perhaps the archives are incomplete."  
 — **Obi-Wan Kenobi**
 
-**PGS. TS. Nguyễn Đình Hân** là trưởng nhóm chuyên môn Cơ sở toán học cho tin học và Hệ thống thông tin, Đại Học Bách Khoa Hà Nội.
+**ThS. Nguyễn Quỳnh Hoa** là giảng viên trường Kinh Tế, Đại Học Bách Khoa Hà Nội.
 
-## Thông tin giảng viên
-- **Ngoại hình**: [Nguyễn Đình Hân][profile-image]
-- **Lý lịch**: [FAMI - Nguyễn Đình Hân][fami-profile]
-- **Giới tính**: Nam
-- **Học vị cao nhất**: Tiến sĩ
-- **Email**: han.nguyendinh@hust.edu.vn
+## Thông tin cơ bản
+
+- **Ngoại hình**: [Nguyễn Quỳnh Hoa][profile-image]
+- **Lý lịch**: [Nguyễn Quỳnh Hoa][academic-profile]
+- **Giới tính**: Nữ
+- **Học vị cao nhất**: Thạc sĩ
+- **Khoa**: Quản lý
+- **Trường**: Kinh tế
+- **Email**: hoa.nguyenquynh@hust.edu.vn
 
 ## Lịch sử giảng dạy
-- `CS-3365` ([Introduction to Computer Organization and Architecture][cs-3365]): Fall-2024, Fall-2025
-- `CS-3370` ([Nature of Programming Languages][cs-3370]): Spring-2026
-- `CS-3372` ([Formal Languages and the Theory of Computation][cs-3372]): Summer-2025, Summer-2026
+
+- `MKT-3300` ([Principles of Marketing][mkt-3300]): Summer-2026
 
 ## Đánh giá
-### CS-3365 - Introduction to Computer Organization and Architecture
-> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
-### CS-3370 - Nature of Programming Languages
-> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+### Chung
 
-### CS-3372 - Formal Languages and the Theory of Computation
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Chỉ số và sức mạnh
-- **Điểm tổng kết trung bình:** `?/100`
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+
+- **Điểm tổng kết trung bình gần nhất:** `?/100`
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+  <details>
+  <summary><i>Lịch sử điểm tổng kết</i></summary>
+  <blockquote markdown="1">
+
+  - MKT-3300 - Summer-2026
+    - **Điểm tổng kết trung bình:** `?/100`
+      - Độ lệch chuẩn: `TBA`
+      - Tỉ lệ được A: `TBA`
+      > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+  </blockquote>
+  </details>
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ bám sát bài học của đề thi:** `?/10`
@@ -44,32 +54,31 @@
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Cơ chế trông thi
-### CS-3365 - Introduction to Computer Organization and Architecture
+
+### Chung
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
-### CS-3370 - Nature of Programming Languages
-> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+### MKT-3300 - Principles of Marketing
 
-### CS-3372 - Formal Languages and the Theory of Computation
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Tips
-### CS-3365 - Introduction to Computer Organization and Architecture
+
+### Chung
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
-### CS-3370 - Nature of Programming Languages
-> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+### MKT-3300 - Principles of Marketing
 
-### CS-3372 - Formal Languages and the Theory of Computation
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Trivia
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 
-[profile-image]: https://fami.hust.edu.vn/wp-content/uploads/IMG_0886.jpg
-[fami-profile]: https://fami.hust.edu.vn/giang-vien/?name=hannd
-[cs-3365]: ../CS-3365/
-[cs-3370]: ../CS-3370/
-[cs-3372]: ../CS-3372/
+[profile-image]: https://sem.hust.edu.vn/wp-content/uploads/2023/12/z4973870381535_6f59c7a554d3fb1c38831f6b6773936b.jpg
+[academic-profile]: https://sem.hust.edu.vn/lecturers/ths-nguyen-quynh-hoa
+[mkt-3300]: ../MKT-3300/
 [contributing]: ../CONTRIBUTING.md

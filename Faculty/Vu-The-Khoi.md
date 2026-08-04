@@ -19,7 +19,7 @@
 
 - `MTH-1114` ([Pre-Calculus Trigonometry][mth-1114]): Fall-2025
 - `MTH-1125` ([Calculus I][mth-1125]): Spring-2025
-- `MTH-1126` ([Calculus II][mth-1126]): Summer-2025
+- `MTH-1126` ([Calculus II][mth-1126]): Summer-2025, Summer-2026
 - `MTH-2215` ([Applied Discrete Mathematics][mth-2215]): Spring-2026
 
 ## Đánh giá

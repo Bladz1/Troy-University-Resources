@@ -13,7 +13,7 @@
 - **Email**: hoaltk@hanu.edu.vn
 
 ## Lịch sử giảng dạy
-- `COM-2241` ([Fundamentals of Speech][com-2241]): Summer-2024, Summer-2025
+- `COM-2241` ([Fundamentals of Speech][com-2241]): Summer-2024, Summer-2025, Summer-2026
 
 ## Đánh giá
 ### COM-2241 - Fundamentals of Speech

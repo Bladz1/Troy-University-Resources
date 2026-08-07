@@ -13,7 +13,7 @@
 - **Email**: hoaltk@hanu.edu.vn
 
 ## Lịch sử giảng dạy
-- `COM-2241` ([Fundamentals of Speech][com-2241]): Summer-2024, Summer-2025
+- `COM-2241` ([Fundamentals of Speech][com-2241]): Summer-2024, Summer-2025, Summer-2026
 
 ## Đánh giá
 ### COM-2241 - Fundamentals of Speech
@@ -44,7 +44,10 @@ Môn này là môn học về thuyết trình, nhưng quyết định được A
 
 ## Trivia
 - **ThS. Lê Thị Khánh Hòa** được các sinh viên K69 xếp hạng ở mức 'D Tier'. Trong một bài khảo sát chất lượng, giảng viên đã được sinh viên đánh giá với mức điểm 5.58/10
+- **ThS. Lê Thị Khánh Hòa** được nhận xét là ngoại hình có nét giống nhân vật [Stormfront][stormfront-the-boys] trong sê-ri truyền hình [The Boys][the-boys-wikipedia].
 
 
 [hanu_profile]: https://hanu.vn/a/75998/15-Khoa-tieng-Anh-chuyen-nganh/
 [com-2241]: ../COM-2241/
+[stormfront-the-boys]: https://the-boys.fandom.com/wiki/Stormfront
+[the-boys-wikipedia]: https://en.wikipedia.org/wiki/The_Boys_(TV_series)

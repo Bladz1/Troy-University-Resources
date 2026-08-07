@@ -15,8 +15,8 @@
 - **Facebook**: [Facebook - Đoàn Duy Trung][facebook-profile]
 
 ## Lịch sử giảng dạy
-- `MTH-1112` ([Pre-Calculus Algebra][mth-1112]): Fall-2021, Fall-2024, Summer-2025, Fall-2025
-- `QM-2241` ([Business Statistics][qm-2241]): Summer-2025
+- `MTH-1112` ([Pre-Calculus Algebra][mth-1112]): Fall-2021, Fall-2024, Summer-2025, Fall-2025, Summer-2026
+- `QM-2241` ([Business Statistics][qm-2241]): Summer-2025, Summer-2026
 
 ## Đánh giá
 ### MTH-1112 - Pre-Calculus Algebra

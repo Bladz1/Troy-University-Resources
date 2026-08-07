@@ -11,7 +11,7 @@
 
 ## Lịch sử giảng dạy
 
-- [TS. Vũ Thị Ngọc Minh][vu-thi-ngoc-minh]: `Summer-2024`, `Summer-2025`
+- [TS. Vũ Thị Ngọc Minh][vu-thi-ngoc-minh]: `Summer-2024`, `Summer-2025`, `Summer-2026`
 
 
 [mth-1112]: ../MTH-1112

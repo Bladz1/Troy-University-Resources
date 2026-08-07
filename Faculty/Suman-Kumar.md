@@ -24,7 +24,7 @@
 - `CS-3323` ([Data Structures][cs-3323]): Fall-2016, Fall-2017, Fall-2018, Fall-2019, Fall-2020, Fall-2021, Fall-2022, Fall-2023, Fall-2024, Fall-2025
 - `CS-3329` ([Analysis of Algorithms][cs-3329]): Spring-2026
 - `CS-3360` ([Concepts of Object Oriented Programming I][cs-3360]): Fall-2025
-- `CS-4410` ([Introduction to Machine Learning][cs-4410]): Fall-2024
+- `CS-4410` ([Introduction to Machine Learning][cs-4410]): Fall-2024, Summer-2026
 
 ## Đánh giá
 

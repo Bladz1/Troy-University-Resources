@@ -14,6 +14,10 @@
 - [ThS. Nguyễn Quỳnh Hoa][nguyen-quynh-hoa]: `Summer-2026`
 - [TS. GVC. Nguyễn Thị Mai Anh][nguyen-thi-mai-anh]: `Summer-2025`
 
+## Ghi chú
+
+- Môn này ở Troy Hust là MKT-361
+
 
 [nguyen-quynh-hoa]: ../Faculty/Nguyen-Quynh-Hoa.md
 [nguyen-thi-mai-anh]: ../Faculty/Nguyen-Thi-Mai-Anh.md

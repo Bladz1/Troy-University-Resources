@@ -21,7 +21,7 @@
 
 - `ENG-1101` ([Composition And Modern English I][eng-1101]): Fall-2024, Fall-2025
 - `ENG-1102` ([Composition and Modern English II][eng-1102]): Spring-2025, Spring-2026
-- `TROY-1101`([The University Experience][troy-1101]): Summer-2025
+- `TROY-1101`([The University Experience][troy-1101]): Summer-2025, Summer-2026
 
 ## Đánh giá
 

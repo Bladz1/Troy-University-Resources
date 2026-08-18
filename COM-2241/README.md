@@ -11,7 +11,7 @@ Môn này là môn học về thuyết trình.
 
 ## Lịch sử giảng dạy
 
-- [ThS. Lê Thị Khánh Hòa][le-thi-khanh-hoa]: `Summer-2024`, `Summer-2025`
+- [ThS. Lê Thị Khánh Hòa][le-thi-khanh-hoa]: `Summer-2024`, `Summer-2025`, `Summer-2026`
 
 ## Ghi chú
 

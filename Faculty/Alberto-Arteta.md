@@ -16,6 +16,7 @@
 - **Rate My Professors**: [Rate My Professors - Alberto Arteta][rate-my-professors-profile]
 
 ## Lịch sử giảng dạy
+- `CS-4410` ([Introduction to Machine Learning][cs-4410]): Summer-2026
 - `CS-4448` ([Operating Systems][cs-4448]): Fall-2025
 
 ## Đánh giá
@@ -54,5 +55,6 @@
 [academic-profile]: https://spectrum.troy.edu/aarteta/
 [facebook-profile]: https://www.facebook.com/profile.php?id=699850553
 [rate-my-professors-profile]: https://www.ratemyprofessors.com/professor/2127313
+[cs-4410]: ../CS-4410/
 [cs-4448]: ../CS-4448/
 [contributing]: ../CONTRIBUTING.md

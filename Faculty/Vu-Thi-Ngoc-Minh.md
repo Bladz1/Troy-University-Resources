@@ -14,7 +14,7 @@
 - **Email**: minh.vuthingoc@hust.edu.vn
 
 ## Lịch sử giảng dạy
-- `CHM-1142` ([General Chemistry and Lab I][chm-1142]): Summer-2024, Summer-2025
+- `CHM-1142` ([General Chemistry and Lab I][chm-1142]): Summer-2024, Summer-2025, Summer-2026
 
 ## Đánh giá
 ### CHM-1142 - General Chemistry and Lab I

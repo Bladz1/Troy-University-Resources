@@ -11,7 +11,7 @@
 
 ## Lịch sử giảng dạy
 
-- [ThS. NCS. Lê Nguyên Long][le-nguyen-long]: `Fall-2025`
+- [ThS. NCS. Lê Nguyên Long][le-nguyen-long]: `Fall-2025`, `Summer-2026`
 - [PGS.TS. Phạm Phương Chi][pham-phuong-chi]: `Summer-2026`
 - [TS. Đinh Minh Hằng][dinh-minh-hang]: `Fall-2025`, `Summer-2026`
 

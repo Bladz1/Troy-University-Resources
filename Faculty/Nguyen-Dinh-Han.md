@@ -15,7 +15,7 @@
 ## Lịch sử giảng dạy
 - `CS-3365` ([Introduction to Computer Organization and Architecture][cs-3365]): Fall-2024, Fall-2025
 - `CS-3370` ([Nature of Programming Languages][cs-3370]): Spring-2026
-- `CS-3372` ([Formal Languages and the Theory of Computation][cs-3372]): Summer-2025
+- `CS-3372` ([Formal Languages and the Theory of Computation][cs-3372]): Summer-2025, Summer-2026
 
 ## Đánh giá
 ### CS-3365 - Introduction to Computer Organization and Architecture

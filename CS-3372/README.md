@@ -11,8 +11,8 @@
 
 ## Lịch sử giảng dạy
 
-- [PGS. TS. Nguyễn Đình Hân][nguyen-dinh-han]: `Summer-2025`
-- [TS. Nguyễn Thị Thu Hương][nguyen-thi-thu-huong]: `Fall-2023`
+- [PGS. TS. Nguyễn Đình Hân][nguyen-dinh-han]: `Summer-2025`, `Summer-2026`
+- [TS. Nguyễn Thị Thu Hương][nguyen-thi-thu-huong]: `Fall-2023`, `Summer-2026`
 
 
 [cs-3323]: ../CS-3323/

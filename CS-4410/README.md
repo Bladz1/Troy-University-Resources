@@ -11,9 +11,11 @@
 
 ## Lịch sử giảng dạy
 
-- [TS. Suman Kumar][suman-kumar]: `Fall-2024`
+- [TS. Suman Kumar][suman-kumar]: `Fall-2024`, `Summer-2026`
+- [TS. Alberto Arteta][alberto-arteta]: `Summer-2026`
 
 
 [cs-3323]: ../CS-3323/
 [suman-kumar]: ../Faculty/Suman-Kumar.md
+[alberto-arteta]: ../Faculty/Alberto-Arteta.md
 [contributing]: ../CONTRIBUTING.md

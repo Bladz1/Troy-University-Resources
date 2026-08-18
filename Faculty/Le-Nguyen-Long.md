@@ -18,7 +18,7 @@
 ## Lịch sử giảng dạy
 
 - `ENG-2205` ([World Literature before 1660][eng-2205]): Summer-2025, Spring-2026
-- `ENG-2206` ([World Literature after 1660][eng-2206]): Fall-2025
+- `ENG-2206` ([World Literature after 1660][eng-2206]): Fall-2025, Summer-2026
 
 ## Đánh giá
 

@@ -9,7 +9,7 @@
 - [Công bố](https://www.facebook.com/share/p/1EzToj6v5N/):
 
   <p align="center">
-    <img src="../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image12.png" alt="image12.png">
+    <img src="../Miscellaneous/Assets/Images/Facebook-Post.png">
   </p>
 
 - Thôi, nói này: các môn lý luận chính trị (5 môn Triết) ở trường là bắt buộc phải hoàn thành mặc dù các môn đó không tính vào GPA của Troy nhưng mà là điều kiện đủ để bằng Troy được công nhận tại Việt Nam (thực ra là ĐHBKHN thích thế, không học tớ giam bằng). Còn trường hợp chuyển tiếp thì không nói làm gì.

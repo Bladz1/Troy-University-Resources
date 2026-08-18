@@ -154,7 +154,7 @@ Kết thúc kì 5, tôi cũng cảm thấy may mắn khi có thành tích, cũng
 <details>
   <summary>the sixth and seventh semester: burnt out</summary>
 
-![image.png](image.png)
+![image.png](./Assets/Images/Hospital-Stock-Image.png)
 
 > "không phải lương tâm của cậu mà chính là lòng tham và cái tôi của cậu giết chết chính bản thân cậu…"
 >
@@ -190,7 +190,7 @@ Trong khoảng thời gian xui xẻo nhất, có lẽ, tôi đã tìm thấy may
 
 ## iv. glimpse of myself and acceptance
 
-![image.png](image%201.png)
+![image.png](./Assets/Images/Shawn-Mendes-1.png)
 
 > i stepped off the stage with nothing left
 >
@@ -231,7 +231,7 @@ Và…. tôi nghỉ 8 tháng dài vô vọng sau khi có kết quả, tôi dần
 <details>
   <summary>the ninth semester: start of an ending, switching dormitory, glimpse of myself, Shawn.</summary>
 
-![image.png](image%202.png)
+![image.png](./Assets/Images/Shawn-Mendes-2.png)
 
 Kì IX bắt đầu bằng một lần chạy xe vội về nhà và đi qua một cái bến xe buýt nọ, đi qua và một cô gái khiến tôi chú ý và đến khi cô ấy quay mặt lại, đeo khẩu trang nhưng đôi mắt lại trở nên rất quen thuộc. Tôi không kịp nói một lời nào, chỉ trong thoáng chốc, ánh mắt đó đi qua tôi. Tôi không thể chạm tới, hỏi thăm, giống như trong trái tim tôi có gì đó chặn lại và tôi cố gắng chôn giấu những cảm xúc này trong nhiều năm, giờ vẫn thế. Nhưng, có lẽ, đó là lúc tôi thực sự bắt đầu toàn bộ kế hoạch kết thúc của mình, không khoan nhượng và trở nên cương quyết đến đáng sợ…
 
@@ -344,7 +344,7 @@ anyway, i love myself, from that semester….
 <details>
   <summary>the last semester: preparation for graduation, a new journey.</summary>
 
-![16-145.png](16-145.png)
+![16-145.png](./Assets/Images/Ekko-Arcane.png)
 
 Và, đây là kì chính cuối cùng rồi…
 
@@ -373,7 +373,7 @@ Một kì học cầm chừng của tôi kết thúc với việc tôi qua môn 
 
 2025, recently.
 
-![image.png](image%203.png)
+![image.png](./Assets/Images/Shawn-Mendes-3.png)
 
 > it isn’t in my blood.
 > 

@@ -32,11 +32,11 @@
 
 - Tôi không hi vọng gì nhiều về tính cách người Mĩ, ban đầu tôi nghĩ thầy là người khó gần, có thể nói là dạy hơi 'chill' quá mức, tuy vậy càng về sau, mới thấy thầy là người tận tụy và cái quan trọng là 'He's not American' về cả nghĩa đen và nghĩa bóng. Thầy là một người Châu Á (Hàn Quốc) tình cảm, chưa Mĩ quá mức, gần gũi, có thể nói là khá 'Eastern cultures'. Nhắc tới thầy, trong đầu tôi toàn hiện ra những **pronoun** đẹp đẽ, tươi sáng, hào quang như: *thầy*, *anh*, *đại ca*, *oppa*,... (khác hẳn với *ai đó* ở 255 😉...), sự **chính xác**, **kỹ lưỡng**, và **tôn trọng sinh viên**. Thầy không có chuyện giận dỗi, tỏ ra thái độ 'thượng đẳng' như một số 'giảng viên Tây' tại một số trường quốc tế khác, nhưng cũng không bỏ qua cái sai. Với thầy, **teaching is not a job, it's his character**. Có lẽ **'tính cách Mĩ' không nhất thiết phải đi kèm sự lạnh lùng**. Và rằng, đôi khi **một người không hoàn toàn thuộc về một nền văn hóa**, lại có thể trở thành cầu nối giữa các lục địa.
 
-![image-3]
-
+![party-with-chang-image]
+  
   Thề, sao anh thầy nụ cười điện ảnh thế :)) kiểu phim này:
-
-![image-5]
+  
+![past-live-image]
 
 I LOVE Prof. CHANGGGGG!!!!!! ❤️
 
@@ -85,7 +85,7 @@ I LOVE Prof. CHANGGGGG!!!!!! ❤️
 
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
-[america-against-america]: ../the%20reason%2C%20for%20you%20-%20me%20-%20us%2C%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/America%20Against%20America.pdf
+[america-against-america]: ../Miscellaneous/Assets/Books/America-Against-America.pdf
 
 [profile-image]: https://www.troy.edu/_assets/college-arts-sciences/departments/computer-science/_images/chang.jpg
 
@@ -99,6 +99,6 @@ I LOVE Prof. CHANGGGGG!!!!!! ❤️
 
 [vuong-ho-ninh]: https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_H%E1%BB%97_Ninh
 
-[image-3]: ../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image3.jpeg
+[party-with-chang-image]: ../Miscellaneous/Assets/Images/Party-With-Chang.jpeg
 
-[image-5]: ../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image5.jpg
+[past-live-image]: ../Miscellaneous/Assets/Images/Past-Lives.jpg

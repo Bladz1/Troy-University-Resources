@@ -2,27 +2,27 @@
 
 <div align="center">
 
-[![Static Badge](https://img.shields.io/badge/INTRODUCTION-black?style=for-the-badge&logo=googledocs&logoColor=white&color=%2394283a)][INTRODUCTION]
+[![introduction-badge]][introduction-link]
 &nbsp;&nbsp;
-[![Static Badge](https://img.shields.io/badge/NOTES-black?style=for-the-badge&logo=googledocs&logoColor=white&color=%2394283a)][NOTES]
+[![notes-badge]][notes-link]
 &nbsp;&nbsp;
-[![Static Badge](https://img.shields.io/badge/Course%20Descriptions-black?style=for-the-badge&logo=files&logoColor=white&color=%2394283a)][Course Descriptions]
-<br><br>
-[![Static Badge](https://img.shields.io/badge/T%C3%ADnh%20GPA%20(Windows)-black?style=for-the-badge&logo=python&logoColor=white&color=%2394283a)][linkGPA_W]
+[![program-documents-badge]][program-documents-link]
+
+[![gpa-calculator-windows-badge]][gpa-calculator-windows-link]
 &nbsp;&nbsp;
-[![Static Badge](https://img.shields.io/badge/Hall%20of%20Memories-black?style=for-the-badge&logo=markdown&color=%23FF9AA2)][hall-link]
+[![hall-of-memories-badge]][hall-of-memories-link]
 &nbsp;&nbsp;
-[![Static Badge](https://img.shields.io/badge/T%C3%ADnh%20GPA%20(macOS)-black?style=for-the-badge&logo=apple&logoColor=white&color=%2394283a)][linkGPA_m]
-<br><br>
-[![special_appendix_badge]][special_appendix_link]
+[![gpa-calculator-macos-badge]][gpa-calculator-macos-link]
+
+[![special-appendix-badge]][special-appendix-link]
 
 </div>
 
 > Đến thời điểm này, repo chúng ta đã chỉnh tề, môn học đã ngay ngắn, cả ngành ta cùng hành quân vươn tới tương lai rực rỡ, vì bảng điểm của chúng ta, vì sự vươn mình của toàn bộ sinh viên Troy.  
-> — Adapted from [*General Secretary Tô Lâm*](https://vi.wikipedia.org/wiki/T%C3%B4_L%C3%A2m)
+> — Adapted from [*General Secretary Tô Lâm*][to-lam-wikipedia]
 
 <p align="center">
-  <img src="the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image4.jpeg" alt="image4.jpeg">
+  <img src="./Miscellaneous/Assets/Images/Troy-University-Banner.jpeg">
   <br>
   <em>Chụp tại D7, từng là mái nhà chung của viện quốc tế (SIE).</em>
 </p>
@@ -53,7 +53,7 @@
       <td align="left">The University Experience</td>
       <td align="center">1</td>
       <td align="center"></td>
-      <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>2</b></td>
@@ -61,7 +61,7 @@
       <td align="left">Composition And Modern English I</td>
       <td align="center">3</td>
       <td align="center"></td>
-      <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>3</b></td>
@@ -69,7 +69,7 @@
       <td align="left">Visual Arts</td>
       <td align="center">2</td>
       <td align="center"></td>
-      <td align="center"><img src="https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50" alt="PEAK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/PEAK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>4</b></td>
@@ -77,7 +77,7 @@
       <td align="left">World History from 1500</td>
       <td align="center">3</td>
       <td align="center"></td>
-      <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>5</b></td>
@@ -85,7 +85,7 @@
       <td align="left">World History to 1500</td>
       <td align="center">3</td>
       <td align="center"></td>
-      <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>6</b></td>
@@ -93,7 +93,7 @@
       <td align="left">Music Appreciation</td>
       <td align="center">2</td>
       <td align="center"></td>
-      <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>7</b></td>
@@ -101,7 +101,7 @@
       <td align="left">Fundamentals of Speech</td>
       <td align="center">3</td>
       <td align="center"></td>
-      <td align="center"><img src="https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628" alt="SUCK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/SUCK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>8</b></td>
@@ -109,7 +109,7 @@
       <td align="left">Composition and Modern English II</td>
       <td align="center">3</td>
       <td align="center">ENG 1101 with C</td>
-      <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>9</b></td>
@@ -117,7 +117,7 @@
       <td align="left">World Literature before 1660</td>
       <td align="center">3</td>
       <td align="center">ENG 1102 with C</td>
-      <td align="center"><img src="https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628" alt="SUCK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/SUCK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>10</b></td>
@@ -125,7 +125,7 @@
       <td align="left">Macroeconomics</td>
       <td align="center">3</td>
       <td align="center"></td>
-      <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>11</b></td>
@@ -133,7 +133,7 @@
       <td align="left">Microeconomics</td>
       <td align="center">3</td>
       <td align="center"></td>
-      <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>12</b></td>
@@ -141,7 +141,7 @@
       <td align="left">General Chemistry and Lab I</td>
       <td align="center">4</td>
       <td align="center">MTH 1112 with C</td>
-      <td align="center"><img src="https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50" alt="PEAK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/PEAK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>13</b></td>
@@ -149,7 +149,7 @@
       <td align="left">General Physics and Lab I</td>
       <td align="center">4</td>
       <td align="center">MTH 1114</td>
-      <td align="center"><img src="https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50" alt="PEAK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/PEAK.svg"></td>
     </tr>
     <tr style="background-color: rgba(128,128,128,0.05);">
       <td></td>
@@ -164,7 +164,7 @@
       <td align="left">Calculus I</td>
       <td align="center">4</td>
       <td align="center">MTH 1114 with C</td>
-      <td align="center"><img src="https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628" alt="SUCK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/SUCK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>15</b></td>
@@ -172,7 +172,7 @@
       <td align="left">Calculus II</td>
       <td align="center">4</td>
       <td align="center">MTH 1125</td>
-      <td align="center"><img src="https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628" alt="SUCK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/SUCK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>16</b></td>
@@ -180,7 +180,7 @@
       <td align="left">Numerical Methods in Computing</td>
       <td align="center">3</td>
       <td align="center">MTH 1112 with C</td>
-      <td align="center"><img src="https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50" alt="PEAK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/PEAK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>17</b></td>
@@ -188,7 +188,7 @@
       <td align="left">Computer Science I</td>
       <td align="center">3</td>
       <td align="center">MTH 1112 with C</td>
-      <td align="center"><img src="https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628" alt="SUCK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/SUCK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>18</b></td>
@@ -196,7 +196,7 @@
       <td align="left">Computer Science II</td>
       <td align="center">3</td>
       <td align="center">CS 2250</td>
-      <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>19</b></td>
@@ -204,7 +204,7 @@
       <td align="left">Foundations of Computer Science</td>
       <td align="center">3</td>
       <td align="center">MTH 1112 with C</td>
-      <td align="center"><img src="https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50" alt="PEAK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/PEAK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>20</b></td>
@@ -212,7 +212,7 @@
       <td align="left">Data Structures</td>
       <td align="center">3</td>
       <td align="center">CS 2255, MTH 1125, and MTH 2215</td>
-      <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>21</b></td>
@@ -220,7 +220,7 @@
       <td align="left">Analysis of Algorithms</td>
       <td align="center">3</td>
       <td align="center">CS 3323</td>
-      <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>22</b></td>
@@ -228,7 +228,7 @@
       <td align="left">Software Engineering I</td>
       <td align="center">3</td>
       <td align="center">CS 3323</td>
-      <td align="center"><img src="https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50" alt="PEAK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/PEAK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>23</b></td>
@@ -236,7 +236,7 @@
       <td align="left">Concepts of Object Oriented Programming I</td>
       <td align="center">3</td>
       <td align="center">CS 2250</td>
-      <td align="center"><img src="https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50" alt="PEAK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/PEAK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>24</b></td>
@@ -244,7 +244,7 @@
       <td align="left">Introduction to Computer Organization and Architecture</td>
       <td align="center">3</td>
       <td align="center">CS 3310</td>
-      <td align="center"><img src="https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50" alt="PEAK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/PEAK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>25</b></td>
@@ -252,7 +252,7 @@
       <td align="left">Nature of Programming Languages</td>
       <td align="center">3</td>
       <td align="center">CS 3323</td>
-      <td align="center"><img src="https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628" alt="SUCK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/SUCK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>26</b></td>
@@ -260,7 +260,7 @@
       <td align="left">Formal Languages and the Theory of Computation</td>
       <td align="center">3</td>
       <td align="center">CS 3323</td>
-      <td align="center"><img src="https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628" alt="SUCK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/SUCK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>27</b></td>
@@ -268,7 +268,7 @@
       <td align="left">Introduction to Database Systems</td>
       <td align="center">3</td>
       <td align="center">CS 3323</td>
-      <td align="center"><img src="https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50" alt="PEAK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/PEAK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>28</b></td>
@@ -276,7 +276,7 @@
       <td align="left">Data Communication and Networking</td>
       <td align="center">3</td>
       <td align="center">CS 3323</td>
-      <td align="center"><img src="https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50" alt="PEAK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/PEAK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>29</b></td>
@@ -284,7 +284,7 @@
       <td align="left">Operating Systems</td>
       <td align="center">3</td>
       <td align="center">CS 3323</td>
-      <td align="center"><img src="https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50" alt="PEAK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/PEAK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>30</b></td>
@@ -292,7 +292,7 @@
       <td align="left">Introductory Statistics</td>
       <td align="center">3</td>
       <td align="center">MTH 1112 with C</td>
-      <td align="center"><img src="https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628" alt="SUCK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/SUCK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>31</b></td>
@@ -300,7 +300,7 @@
       <td align="left">Applied Discrete Mathematics</td>
       <td align="center">3</td>
       <td align="center">MTH 1112 with C</td>
-      <td align="center"><img src="https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50" alt="PEAK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/PEAK.svg"></td>
     </tr>
     <tr style="background-color: rgba(128,128,128,0.05);">
       <td></td>
@@ -323,7 +323,7 @@
       <td align="left">Computer Security</td>
       <td align="center">3</td>
       <td align="center">CS 3323</td>
-      <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>34</b></td>
@@ -347,7 +347,7 @@
       <td align="left">Fundamentals of Artificial Intelligence</td>
       <td align="center">3</td>
       <td align="center">CS 3323</td>
-      <td align="center"><img src="https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628" alt="SUCK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/SUCK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>37</b></td>
@@ -379,7 +379,7 @@
       <td align="left">Introduction to Machine Learning</td>
       <td align="center">3</td>
       <td align="center">CS 3323</td>
-      <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>41</b></td>
@@ -418,7 +418,7 @@
       <td align="left">Pre-Calculus Algebra</td>
       <td align="center">3</td>
       <td align="center"></td>
-      <td align="center"><img src="https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50" alt="PEAK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/PEAK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>45</b></td>
@@ -426,7 +426,7 @@
       <td align="left">Pre-Calculus Trigonometry</td>
       <td align="center">3</td>
       <td align="center">MTH 1112 with C</td>
-      <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>46</b></td>
@@ -434,7 +434,7 @@
       <td align="left">Principles of Management</td>
       <td align="center">3</td>
       <td align="center"></td>
-      <td align="center"><img src="https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628" alt="SUCK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/SUCK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>47</b></td>
@@ -442,7 +442,7 @@
       <td align="left">Developing and Leading Effective Teams <br><i>(Sinh viên IT không cần đáp ứng Prerequisite, môn này là Free Elective)</i></td>
       <td align="center">3</td>
       <td align="center">Lower-level Core, MGT 3300</td>
-      <td align="center"><img src="https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628" alt="SUCK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/SUCK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>48</b></td>
@@ -450,7 +450,7 @@
       <td align="left">Computer Concepts and Applications</td>
       <td align="center">3</td>
       <td align="center"></td>
-      <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>49</b></td>
@@ -458,7 +458,7 @@
       <td align="left">World Literature after 1660</td>
       <td align="center">3</td>
       <td align="center">ENG 1102 with C</td>
-      <td align="center"><img src="https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628" alt="SUCK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/SUCK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>50</b></td>
@@ -466,7 +466,7 @@
       <td align="left">Legal Environment of Business</td>
       <td align="center">3</td>
       <td align="center"></td>
-      <td align="center"><img src="https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628" alt="SUCK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/SUCK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>51</b></td>
@@ -474,7 +474,7 @@
       <td align="left">Principles of Marketing</td>
       <td align="center">3</td>
       <td align="center"></td>
-      <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>52</b></td>
@@ -506,7 +506,7 @@
       <td align="left">Physical Science and Lab</td>
       <td align="center">4</td>
       <td align="center"></td>
-      <td align="center"><img src="https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50" alt="PEAK"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/PEAK.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>56</b></td>
@@ -525,60 +525,63 @@
     </tr>
     <tr>
       <td align="center"><b>57</b></td>
-      <td align="left"><a href="./Lý%20luận%20chính%20trị/"><kbd>SSH1111Q</kbd></a></td>
+      <td align="left"><a href="./Ly-Luan-Chinh-Tri/"><kbd>SSH1111Q</kbd></a></td>
       <td align="left">Triết học Mác - Lênin</td>
       <td align="center">3</td>
       <td align="center">1</td>
-      <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>58</b></td>
-      <td align="left"><a href="./Lý%20luận%20chính%20trị/"><kbd>SSH1121Q</kbd></a></td>
+      <td align="left"><a href="./Ly-Luan-Chinh-Tri/"><kbd>SSH1121Q</kbd></a></td>
       <td align="left">Kinh tế chính trị Mác - Lênin</td>
       <td align="center">2</td>
       <td align="center">2</td>
-      <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>59</b></td>
-      <td align="left"><a href="./Lý%20luận%20chính%20trị/"><kbd>SSH1131Q</kbd></a></td>
+      <td align="left"><a href="./Ly-Luan-Chinh-Tri/"><kbd>SSH1131Q</kbd></a></td>
       <td align="left">Chủ nghĩa xã hội khoa học</td>
       <td align="center">2</td>
       <td align="center">3</td>
-      <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>60</b></td>
-      <td align="left"><a href="./Lý%20luận%20chính%20trị/"><kbd>SSH1141Q</kbd></a></td>
+      <td align="left"><a href="./Ly-Luan-Chinh-Tri/"><kbd>SSH1141Q</kbd></a></td>
       <td align="left">Lịch sử Đảng Cộng sản Việt Nam</td>
       <td align="center">2</td>
       <td align="center">4</td>
-      <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
       <td align="center"><b>61</b></td>
-      <td align="left"><a href="./Lý%20luận%20chính%20trị/"><kbd>SSH1151Q</kbd></a></td>
+      <td align="left"><a href="./Ly-Luan-Chinh-Tri/"><kbd>SSH1151Q</kbd></a></td>
       <td align="left">Tư tưởng Hồ Chí Minh</td>
       <td align="center">2</td>
       <td align="center">5</td>
-      <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
+      <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
   </tbody>
 </table>
 <!-- END COURSES -->
 
-[INTRODUCTION]: ./introduction.md/
 
-[NOTES]: ./notes.md/
+[introduction-badge]: ./Miscellaneous/Assets/Badges/README/Introduction.svg
+[notes-badge]: ./Miscellaneous/Assets/Badges/README/Notes.svg
+[program-documents-badge]: ./Miscellaneous/Assets/Badges/README/Program-Documents.svg
+[gpa-calculator-windows-badge]: ./Miscellaneous/Assets/Badges/README/Tinh-GPA-Windows.svg
+[hall-of-memories-badge]: ./Miscellaneous/Assets/Badges/README/Hall-Of-Memories.svg
+[gpa-calculator-macos-badge]: ./Miscellaneous/Assets/Badges/README/Tinh-GPA-MACOS.svg
+[special-appendix-badge]: ./Miscellaneous/Assets/Badges/README/Special-Appendix.svg
 
-[Course Descriptions]: ./Course-Descriptions/
+[introduction-link]: ./Miscellaneous/Introduction.md
+[notes-link]: ./Miscellaneous/Notes.md
+[program-documents-link]: ./Miscellaneous/Program-Documents/
+[gpa-calculator-windows-link]: ../../releases/latest/download/TroyCalcGPA_W.exe
+[hall-of-memories-link]: ./Miscellaneous/Hall-of-Memories.md
+[gpa-calculator-macos-link]: ../../releases/latest/download/TroyCalcGPA_m.zip
+[special-appendix-link]: ./Miscellaneous/Special-Appendix.md
 
-[hall-link]: ./the%20reason%2C%20for%20you%20-%20me%20-%20us%2C%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/Hall_of_Memories.md
-
-[linkGPA_W]: https://github.com/Bladz1/Troy-University-Resources/releases/latest/download/TroyCalcGPA_W.exe
-
-[linkGPA_m]: https://github.com/Bladz1/Troy-University-Resources/releases/latest/download/TroyCalcGPA_m.zip
-
-[special_appendix_badge]: https://img.shields.io/badge/special%20appendix-black?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pg0KPCEtLSBVcGxvYWRlZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgR2VuZXJhdG9yOiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIGZpbGw9IiMwMDAwMDAiIHZlcnNpb249IjEuMSIgaWQ9IkNhcGFfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgDQoJIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDQ3NS41MjggNDc1LjUyOCINCgkgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8Zz4NCgk8Zz4NCgkJPHBhdGggZD0iTTIzNy4zNzYsNDM2LjI0NWwwLjc3NCwwLjk3NmMyMTAuOTQtODUuMTU0LDI5Mi4yMjEtMjgyLjU1MywxOTkuMzMxLTM2Ny43MDYNCgkJCWMtOTIuODk5LTg1LjE1NC0xOTkuMzMxLDMwLjk1My0xOTkuMzMxLDMwLjk1M2gtMC43NzRjMCwwLTEwNi40NC0xMTYuMTA3LTE5OS4zMzEtMzAuOTUzDQoJCQlDLTU0Ljg0NCwxNTQuNjU4LDI2LjQzNywzNTEuMDkyLDIzNy4zNzYsNDM2LjI0NXoiLz4NCgk8L2c+DQo8L2c+DQo8L3N2Zz4=&color=%23a61107
-
-[special_appendix_link]: ./special_appendix/special%20appendix%2C%20personal%20story%20from%20heartbreakin%2022fd9622fa1980459afdccff2265ad52.md
+[to-lam-wikipedia]: https://vi.wikipedia.org/wiki/T%C3%B4_L%C3%A2m

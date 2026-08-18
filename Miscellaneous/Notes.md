@@ -18,7 +18,7 @@
   | Đồ án tốt nghiệp  | Không, thay vào đó là các project xuyên suốt, học đủ tín là ra trường |  Có, đồ án chính là một phần mà các đại học VN chịu ảnh hưởng từ nền giáo dục Liên Xô   |
   |  Điểm 'qua môn'   |                     Thường là 6 hoặc 7 điểm tổng                      | Thường là 3 điểm cuối kì đổ lên (mức 3 điểm cuối kì ở Troy coi như chả qua được môn gì) |
 
-- Thực ra tự nhiên mà làm một cái so sánh giữa Troy và BK ở đây là tôi thấy hơi sai trái về mặt đạo đức 🙂, thực ra tôi không muốn so sánh như vậy, tôi bị f... Dù không muốn nhưng mà cũng không thể bỏ qua được vì nó chứa thông tin có thể hữu ích nên không bỏ được, nhưng mà để mà thành thật thì đừng mang tư duy so sánh giữa ngành ta và phần còn lại (BK), so sánh này thực ra là mang tính *vuốt ve peter* của một số người muốn làm bảng so sánh này thôi, *thẩm du tinh thần* ấy!! Chứ mình học thật sự là nhẹ hơn BK cũng đáng kể đấy, không có cửa mà so với BK đâu nhé... Lấy một ví dụ mà tôi coi là cái gốc của mọi ngành, Toán nhé? Chúng ta nhìn thẳng vào cái môn Toán đầu tiên mà được học tại Troy ấy ([MTH-1112](./MTH-1112/README.md)), đấy là cách BK tiến hành một môn học, đi thi là không mang cái gì vào (ngoài 🧠), vào ngồi thi căng - thầy sẵn sàng var thẳng đứa nào nhờn (những cái này tôi đã nói kĩ hơn trong link ở cái mở ngoặc tên môn kia), đấy môn đấy đơn giản vậy đã trượt 1 đống rồi, giờ mà giả sử đống Toán còn lại ở Troy mà cũng tiến hành như thế hoặc cứ vài môn như thế thì chắc *chết như ngả rạ* chứ đùa đâu. 🥳🥳
+- Thực ra tự nhiên mà làm một cái so sánh giữa Troy và BK ở đây là tôi thấy hơi sai trái về mặt đạo đức 🙂, thực ra tôi không muốn so sánh như vậy, tôi bị f... Dù không muốn nhưng mà cũng không thể bỏ qua được vì nó chứa thông tin có thể hữu ích nên không bỏ được, nhưng mà để mà thành thật thì đừng mang tư duy so sánh giữa ngành ta và phần còn lại (BK), so sánh này thực ra là mang tính *vuốt ve peter* của một số người muốn làm bảng so sánh này thôi, *thẩm du tinh thần* ấy!! Chứ mình học thật sự là nhẹ hơn BK cũng đáng kể đấy, không có cửa mà so với BK đâu nhé... Lấy một ví dụ mà tôi coi là cái gốc của mọi ngành, Toán nhé? Chúng ta nhìn thẳng vào cái môn Toán đầu tiên mà được học tại Troy ấy ([MTH-1112](../MTH-1112/README.md)), đấy là cách BK tiến hành một môn học, đi thi là không mang cái gì vào (ngoài 🧠), vào ngồi thi căng - thầy sẵn sàng var thẳng đứa nào nhờn (những cái này tôi đã nói kĩ hơn trong link ở cái mở ngoặc tên môn kia), đấy môn đấy đơn giản vậy đã trượt 1 đống rồi, giờ mà giả sử đống Toán còn lại ở Troy mà cũng tiến hành như thế hoặc cứ vài môn như thế thì chắc *chết như ngả rạ* chứ đùa đâu. 🥳🥳
 
 ## Counting Method
 
@@ -27,7 +27,7 @@
 ## Chí Phèo và làng ... Bách Khoa??
 
 > "Hắn vừa đi vừa chửi. Bao giờ cũng thế, cứ rượu xong là hắn chửi. Bắt đầu hắn chửi trời. Có hề gì ? Trời có của riêng nhà nào ? Rồi hắn chửi đời. Thế cũng chẳng sao : đời là tất cả nhưng chẳng là ai. Tức mình, hắn chửi ngay tất cả làng Vũ Đại. Nhưng cả làng Vũ Đại ai cũng nhủ : “Chắc nó trừ mình ra !”. Không ai lên tiếng cả."  
-> — [*Nam Cao, Chí Phèo*](./the%20reason%2C%20for%20you%20-%20me%20-%20us%2C%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/Ngu%20Van%2011%20Tap%201.pdf)
+> — [*Nam Cao, Chí Phèo*](./Assets/Books/Ngu-Van-11-Tap-1.pdf)
 
 Chắc hẳn chúng ta không còn xa lạ với tác phẩm Chí Phèo của nhà văn Nam Cao, được in trong sách giáo khoa Ngữ văn lớp 11, tập một, thuộc Chương trình giáo dục phổ thông năm 2006. Có thể nói rằng bi kịch bị ruồng bỏ của Chí Phèo là bi kịch tinh tế của một con người sinh ra làm người nhưng không được làm người. Tiếng chửi là tiếng kêu thương của sự tuyệt vọng, là chứng tích đau đớn cho một số phận bị xã hội đào thải, cô lập, không nơi nương tựa (SIE → SoICT → Phòng Đào Tạo → FaMI).
 
@@ -38,13 +38,13 @@ Chắc hẳn chúng ta không còn xa lạ với tác phẩm Chí Phèo của nh
 - Sau Đại hội Đảng bộ Trường Công nghệ Thông tin và Truyền thông, thầy [Tạ Hải Tùng](https://soict.hust.edu.vn/pgs-ts-ta-hai-tung.html) có đăng [status](https://www.facebook.com/share/p/1LiP7Rbcxg/) nói về kết quả nhiệm kỳ, trong những con số ấy có một thông tin mà tôi thấy hết sức là thú vị: 
   
   <p align="center">
-    <img src="./the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image8.png" alt="image8.png">
+    <img src="./Assets/Images/Clipping-1.png">
   </p>
   
   Và chúng ta cũng nằm trong số 'được tái cấu trúc và (sau đó) dừng tuyển sinh' đấy, cũng may là 'được FaMI đỡ' không thì giờ mọi người đã không ở đây để đọc cái này :)))
   
   <p align="center">
-    <img src="./the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image9.jpg" alt="image9.jpg">
+    <img src="./Assets/Images/Zalo-Chat-1.jpg">
   </p>
 
 ## *All that glitters is not gold.*
@@ -52,11 +52,11 @@ Chắc hẳn chúng ta không còn xa lạ với tác phẩm Chí Phèo của nh
 Nói nhiều quá, thế ưu điểm ngành mình là gì? ... Là:
 
 <p align="center">
-  <img src="./the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image10.jpg" alt="image10.jpg" style="width:80%; height:80%;">
+  <img src="./Assets/Images/Zalo-Chat-2.jpg" style="width:80%; height:80%;">
 </p>
 
 <p align="center">
-  <img src="./the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image11.jpg" alt="image11.jpg" style="width:80%; height:80%;">
+  <img src="./Assets/Images/Zalo-Chat-3.jpg" style="width:80%; height:80%;">
 </p>
 
 Tóm lại:

@@ -17,7 +17,7 @@ Khoảnh khắc ấy khiến tôi nhận ra: đôi khi, ta đang ở ngay trong 
 Hành lang dài và rộng, rợp nắng tháng Bảy. Không có ánh nắng nào thật sự nhẹ nhàng, chỉ có những cuộc chia tay mà tâm hồn ta đã học cách sẵn sàng. Giống như mùa hạ, nó chẳng bao giờ đến một cách vội vã. Nó cứ hé lộ từ từ - qua tia nắng, qua hơi nóng phả lên từ mặt đường, hay ánh mắt mà ta biết sẽ không còn quay lại...
 
 <p align="center">
-  <img src="image13.jpg" alt="image13.jpg" style="width:70%; height:60%;">
+  <img src="./Assets/Images/C7-Hallway.jpg" style="width:70%; height:60%;">
 </p>
 
 > Nothing in the world belongs to me  

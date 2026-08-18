@@ -9,7 +9,7 @@ Xin giới thiệu với các bạn, tôi là Bronstein, đầy đủ là Jonath
 Để nói về cái repo này, thì chúng ta đi vào sâu hơn về các vấn đề của chương trình học này. Chương trình học này là một trong số các chương trình học quốc tế còn sót lại của HUST sau một đợt thanh trừng trong năm 2021, khi khối SIE (viện quốc tế) bị giải thể, kèm theo sự ra đi của các chương trình như La Trobe, Victoria… và chỉ có mình Troy ở lại với một hệ thống quản lý thiếu minh bạch, chồng chéo và không có sự hỗ trợ cần thiết. Xét trên tổng thể, chương trình này không thực sự tệ, nếu không muốn nói là đầy đủ tài liệu và tư duy đủ cởi mở cho các sinh viên, điều này tôi không thể phủ nhận khi chương trình này đề cao thuyết trình và làm việc nhóm, cũng như có một vài giảng viên tâm huyết. Tuy nhiên, trường hợp tốt đẹp thường ít xảy ra, mà hầu hết, những điểm mạnh đó xuất phát từ việc chương trình học này không có một chút hỗ trợ nào từ phía bên quản lý. Sự thật là chương trình này đã 2 lần đổi chủ, từ SIE, SoICT và giờ là FaMI, phải đến thời FaMI thì chương trình này mới bắt đầu được chú ý nhiều hơn với sự tham gia của PGS. TS. [Lê Chí Ngọc](https://fami.hust.edu.vn/giang-vien/?name=ngoclc) của Khoa Toán - Tin và thầy [Cao Tuấn Dũng](https://soict.hust.edu.vn/pgs-ts-cao-tuan-dung.html), Phó Hiệu trưởng, Trường Công nghệ Thông tin và Truyền thông. Học phí, thời của K66 là 26 củ, thì giờ là 30 củ - một con số lớn khủng khiếp so với một chương trình mà thiếu hỗ trợ về nhân lực và tài nguyên học tập như này, thậm chí là không có học bổng. Đấy là cái nhìn tổng quát nhất mà các bạn nên biết.
 
 <p align="center">
-  <img src="the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image6.png" alt="image6.png">
+  <img src="./Assets/Images/Headline-1.png">
   <br>
   <em>Có lẽ ý nghĩa của chương trình Troy đối với ĐHBKHN bây giờ chỉ mang tính chất để hằng năm báo chí giật tít về những con số?</em>
 </p>
@@ -19,7 +19,7 @@ Tiếp theo, thực tế chương trình học, thì tôi phải đánh giá b�
 Cuối cùng, nói như vậy có phải chương trình này tệ??? Câu trả lời là không. Thực tế rằng, dù thiếu sự hỗ trợ từ phía quản lý, những sinh viên vẫn cho thấy khả năng thích nghi tốt với môi trường học tập hỗn loạn và có rất nhiều người có tài năng học ở đây, cũng như các sinh viên có khả năng tự học và hợp tác rất tốt (trừ vài bạn học siêuuuuu tốt nào đó đến mức có thể làm một mình…). Dưới 8 kì làm lớp trưởng của tôi, thì mặc dù không thực sự dễ dàng để cố gắn kết mọi người vì ai ai cũng có những mục tiêu riêng, nhưng trên hết, họ đều hiểu rằng chỉ có sự hợp tác mới là cách duy nhất để vượt qua sóng gió và chỉ có sự thấu hiểu - tôn trọng lẫn nhau mới làm nên sự hợp tác kéo dài trong suốt 2 năm. Như điệp viên [Phạm Xuân Ẩn](https://vi.wikipedia.org/wiki/Ph%E1%BA%A1m_Xu%C3%A2n_%E1%BA%A8n) nhận định: 
 
 > "Communism teaches you to love each other, not kill each other. **The only way to do this is for everyone to become brothers**, which may take a million years. It’s utopian, but it’s beautiful."  
-> — [*Thomas Alden Bass, The Spy Who Loved Us*, chap. Baptism by Fire](./the%20reason%2C%20for%20you%20-%20me%20-%20us%2C%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/The_Spy_Who_Loved_Us_The_Vietnam_War_and_Pham_Xuan..._----_(Baptism_by_Fire).pdf)
+> — [*Thomas Alden Bass, The Spy Who Loved Us*, chap. Baptism by Fire](./Assets/Books/The_Spy_Who_Loved_Us_The_Vietnam_War_and_Pham_Xuan..._----_(Baptism_by_Fire).pdf)
 
 Thực lòng, tôi muốn tri ân lớp của mình thông qua nỗ lực này để đảm bảo cho khóa sau giữ được tinh thần này, dù thực sự rất khó khăn. Dù không hiện hữu, nhưng tư duy đấy chính là tư duy chủ nghĩa xã hội mà ở phần cuối tôi sẽ đề cập sau.
 
@@ -40,7 +40,7 @@ Còn về mặt quản lý, thì sau khi tôi tốt nghiệp và dặn dò đầ
 # iii. inspirations from Marx.
 
 <p align="center">
-  <img src="the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image.png" alt="image.png">
+  <img src="./Assets/Images/Long-Live-Marxism-Leninism.png">
 </p>
 
 Dòng dưới tạm dịch là:

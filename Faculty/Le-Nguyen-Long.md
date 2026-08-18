@@ -28,7 +28,7 @@ Hôm nay là một ngày đẹp trời, mai là Quốc khánh, phải hơn 1 tu�
 
 OK, ta bắt đầu luôn, giảng viên của môn này và môn ENG-2206 ở toàn miền Bắc mấy năm gần đây chính là 'nhà nghiên cứu' Lê Nguyên Long. Vâng, là 'nhà nghiên cứu'. Tại sao lại vậy nhỉ? Chuyện này phải nói là dai dẳng, bắt nguồn từ những kỳ trước của các anh chị khóa trên: điểm thấp, tạch, review như ... về Long Le rất nhiều. Vì vậy tôi mới đặt ra câu hỏi: 'Why is that? Why is he so bad?'.
 
-![image-16]
+![long-le-2-image]
 
 Sau khi học hết course này, tôi cũng dần hiểu: có lẽ Long Le không phải là một 'Lecturer' như mọi người hằng mong, mà đúng hơn là một 'Researcher'. Một nhà nghiên cứu thì thường có những tính cách như **khắt khe, cầu toàn**, thậm chí hơi 'khó gần' vì quá tập trung vào công việc. Nó khác với giảng viên ở chỗ kỹ năng sư phạm (kiên nhẫn, truyền đạt) không phải là thế mạnh của họ.
 
@@ -42,7 +42,7 @@ Yes, Long Le không thực sự giỏi về những kỹ năng ấy; ông muốn
 
 Hồi trước thì ông hay cáu bẳn, khó chịu với bọn sinh viên, kiểu không tìm được tiếng nói chung giữa cái bài thuyết trình và ý niệm trong đầu ổng. Nhưng chắc dần dần ổng cũng nhận ra: 'bọn này cũng chỉ là SV thôi mà', nên thái độ cũng nhẹ nhàng hơn. Giờ bài nào ngu quá thì mới chửi sml.
 
-![image-15]
+![long-le-1-image]
 
 #### Ảnh hưởng đến sinh viên
 
@@ -125,13 +125,13 @@ Chốt: Long và SV Troy có duyên đấy :)) NGHIỆT DUYÊN...
   - Tuy nhiên, sự "trấn an" này đi kèm với một lời [đe dọa][wikipedia-coercion]: nếu sinh viên tiếp tục tự ý đăng ký sang lớp hoặc trường khác mà không theo sự sắp xếp hay cho phép của giáo viên để né **Long Le**, thì ở các kì sau, đặc biệt là các môn chuyên ngành, [CV. Nguyễn Kiều Anh][nguyen-kieu-anh] có thể mời những chuyên gia còn khó tính hơn **Long Le** về giảng dạy.
 
 
-[profile-image]: ../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image16.jpg
+[profile-image]: ../Miscellaneous/Assets/Images/Long-Le-2.jpg
 [academic-profile]: https://fol.ussh.vnu.edu.vn/vi/news/ly-lich-khoa-hoc/ths-ncs-le-nguyen-long-141.html
 [facebook-profile]: https://www.facebook.com/profile.php?id=594219048
 [eng-2205]: ../ENG-2205/
 [eng-2206]: ../ENG-2206/
-[image-16]: ../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image16.jpg
-[image-15]: ../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image15.jpg
+[long-le-2-image]: ../Miscellaneous/Assets/Images/Long-Le-2.jpg
+[long-le-1-image]: ../Miscellaneous/Assets/Images/Long-Le-1.jpg
 [nguyen-kieu-anh]: ./Nguyen-Kieu-Anh.md
 [some-notes-for-eng-2205-le-nguyen-long]: ../ENG-2205/References/Some-Notes-For-ENG-2205-Le-Nguyen-Long.md
 [wikipedia-coercion]: https://en.wikipedia.org/wiki/Coercion

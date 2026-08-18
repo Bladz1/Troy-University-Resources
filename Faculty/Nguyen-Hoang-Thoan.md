@@ -22,7 +22,7 @@
 ### PHY-2252 - General Physics and Lab I
 - Cô dạy hay, nhiệt tình, bản chất môn học cũng hay, nói chung là đáng để học. Môn **hơi dễ** so với kì vọng của tôi về một môn mang **chất BK** mạnh như vậy.
   
-![image-7]  
+![k68-phys-class-img]  
 *Cảnh lớp học :)))*
 
 - Lớp thì thường ngày là chữa bài tập vui vẻ thôi hehe. 😘😘
@@ -68,5 +68,5 @@ Same as PHY/L-2252
 [facebook-profile]: https://www.facebook.com/profile.php?id=1791224015
 [phy-2252]: ../PHY-2252/
 [sci-2233]: ../SCI-2233/
-[image-7]: ../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image7.jpg
+[k68-phys-class-img]: ../Miscellaneous/Assets/Images/K68-Physics-Class.jpg
 [contributing]: ../CONTRIBUTING.md

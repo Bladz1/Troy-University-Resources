@@ -34,9 +34,9 @@
 
 - Khi hệ thống đăng ký học phần mở, sinh viên đăng nhập vào: https://ctt-sis.hust.edu.vn/ và đăng ký học phần trong đó.
   - Lưu ý rõ kì muốn đăng ký: ví dụ, kì xuân 2026 sẽ có mã học kì là 20252 (chứ không phải 20261).
-    - Mã học kỳ của kì xuân: <năm trước>2 (Ví dụ: Xuân 2026 sẽ có mã học phần là 20252)
-    - Mã học kỳ của kì hè: <năm trước>3 (Ví dụ: Hè 2026 sẽ có mã học phần là 20253)
-    - Mã học kỳ của kì thu: <năm nay>1 (Ví dụ: Thu 2026 sẽ có mã học phần là 20261)
+    - Mã học kỳ của kì xuân: <năm trước>2 (Ví dụ: Xuân 2026 sẽ có mã học kỳ là 20252)
+    - Mã học kỳ của kì hè: <năm trước>3 (Ví dụ: Hè 2026 sẽ có mã học kỳ là 20253)
+    - Mã học kỳ của kì thu: <năm nay>1 (Ví dụ: Thu 2026 sẽ có mã học kỳ là 20261)
 
 - Những học phần mà sinh viên phải học để có thể tốt nghiệp là (chú ý đăng ký mã học phần có chữ Q ở cuối, đăng ký nhầm là có học cũng không được tính vào điều kiện):
   - SSH1111Q (Triết học Mác - Lênin)

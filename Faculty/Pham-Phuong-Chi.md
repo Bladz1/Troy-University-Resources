@@ -16,7 +16,8 @@ Chuyên khảo mới nhất của cô là Literature and Nation-building in Viet
 - **Nơi sinh**: Phú Thọ
 - **Quê quán**: Phù Ninh - Phú Thọ
 - **Học vị cao nhất**: Tiến sĩ
-- **Email**: cpham012@ucr.edu; phamphuongchi@gmail.com
+- **Email**: chiphamvvh@gmail.com; phamphuongchi@gmail.com; cpham012@ucr.edu; cpham257554@troy.edu
+- **Số điện thoại**: 0869903979
 - **Facebook**: [Facebook - Phạm Phương Chi][facebook-profile]
 - **Website**: https://chivvh.wordpress.com/
 

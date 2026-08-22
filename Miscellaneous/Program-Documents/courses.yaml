@@ -523,7 +523,7 @@ sections:
         credits: 3
         prerequisite: "1"
         tier: "FAIR"
-        folder: "Lý luận chính trị"
+        folder: "Ly-Luan-Chinh-Tri"
         inactive: false
 
       - stt: 58
@@ -532,7 +532,7 @@ sections:
         credits: 2
         prerequisite: "2"
         tier: "FAIR"
-        folder: "Lý luận chính trị"
+        folder: "Ly-Luan-Chinh-Tri"
         inactive: false
 
       - stt: 59
@@ -541,7 +541,7 @@ sections:
         credits: 2
         prerequisite: "3"
         tier: "FAIR"
-        folder: "Lý luận chính trị"
+        folder: "Ly-Luan-Chinh-Tri"
         inactive: false
 
       - stt: 60
@@ -550,7 +550,7 @@ sections:
         credits: 2
         prerequisite: "4"
         tier: "FAIR"
-        folder: "Lý luận chính trị"
+        folder: "Ly-Luan-Chinh-Tri"
         inactive: false
 
       - stt: 61
@@ -559,5 +559,5 @@ sections:
         credits: 2
         prerequisite: "5"
         tier: "FAIR"
-        folder: "Lý luận chính trị"
+        folder: "Ly-Luan-Chinh-Tri"
         inactive: false

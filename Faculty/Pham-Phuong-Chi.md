@@ -3,9 +3,9 @@
 >"Perhaps the archives are incomplete."  
 — **Obi-Wan Kenobi**
 
-**PGS. TS. Phạm Phương Chi** là nhà nghiên cứu có biên chế tại Viện Văn học, Viện Hàn lâm Khoa học Xã hội Việt Nam. Cô nhận bằng Tiến sĩ đầu tiên về Lý luận văn học tại Việt Nam và bằng Tiến sĩ thứ hai về Văn học so sánh tại Hoa Kỳ. Hiện tại, cô đang là Nghiên cứu viên sau Tiến sĩ (Học bổng Alexander von Humboldt) tại Viện Nghiên cứu Châu Á và Châu Phi, Đại học Hamburg, Đức. Cô đã công bố các bài viết bằng tiếng Việt và tiếng Anh về văn học hậu thuộc địa và kiến tạo quốc gia.  
+**PGS.TS. Phạm Phương Chi (Chi P. Pham)** là Nghiên cứu viên chính tại **Viện Văn học, Viện Hàn lâm Khoa học Xã hội Việt Nam (VASS)**, hiện phụ trách **Phòng Văn học nước ngoài**. Cô có hai bằng tiến sĩ về **Lý luận văn học** và **Văn học so sánh** (University of California, Riverside), từng là **Alexander von Humboldt Research Fellow** tại University of Hamburg (2019–2023), và được công nhận chức danh **Phó Giáo sư ngành Văn học năm 2023**.
 
-Chuyên khảo mới nhất của cô là Literature and Nation-building in Vietnam: The Invisibilization of the Indians (Routledge, 2021). Một số ấn phẩm tiêu biểu khác của cô bao gồm Ecologies in Southeast Asian literatures: histories, myths and societies (Vernon, 2019), đồng biên tập với Chitra Sankaran và Gurpreet Kau; và Revenge of Gaia: contemporary Vietnamese ecofiction (Singapore: Penguin Random House SEA, 2021), đồng dịch và đồng sáng tác với Chitra Sankaran.
+Nghiên cứu của cô tập trung vào **văn học Việt Nam và Đông Nam Á, hậu thuộc địa và giải thuộc địa, chủ nghĩa dân tộc, dịch thuật, ecocriticism/environmental humanities và animal studies**. Các công trình nổi bật gồm *Literature and Nation-Building in Vietnam* (Routledge, 2021), *Reading South Vietnam's Writers* (Springer, 2023), *Humans and Other Animals* (Penguin Random House SEA, 2024) và *Decolonizing Comparative Literature* (Springer, 2025).
 
 ## Thông tin cơ bản
 

@@ -50,7 +50,7 @@
 
 - **Điểm tổng kết trung bình gần nhất:** `?/100`
   - Độ lệch chuẩn: `TBA`
-  - Tỉ lệ được A: `TBA`
+  - Tỉ lệ được A: `TBA` (TBA/TBA)
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
   <details>
   <summary><i>Lịch sử điểm tổng kết</i></summary>
@@ -59,17 +59,17 @@
   - ABC-1101 - Summer-20XX
     - **Điểm tổng kết trung bình:** `?/100`
       - Độ lệch chuẩn: `TBA`
-      - Tỉ lệ được A: `TBA`
+      - Tỉ lệ được A: `TBA` (TBA/TBA)
       > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
   - ABC-1101 - Spring-20XX
     - **Điểm tổng kết trung bình:** `?/100`
       - Độ lệch chuẩn: `TBA`
-      - Tỉ lệ được A: `TBA`
+      - Tỉ lệ được A: `TBA` (TBA/TBA)
       > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
   - ABC-1101 - Fall-20XX
     - **Điểm tổng kết trung bình:** `?/100`
       - Độ lệch chuẩn: `TBA`
-      - Tỉ lệ được A: `TBA`
+      - Tỉ lệ được A: `TBA` (TBA/TBA)
       > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
   </blockquote>
   </details>

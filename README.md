@@ -503,7 +503,7 @@
     <tr>
       <td align="center"><b>55</b></td>
       <td align="left"><a href="./QM-2241/"><kbd>QM&#8209;2241</kbd></a></td>
-      <td align="left">Business Statistics</td>
+      <td align="left"><s>Business Statistics</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">MTH 1112 and IS 2241</td>
       <td align="center"></td>

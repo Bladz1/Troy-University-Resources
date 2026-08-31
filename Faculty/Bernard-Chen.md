@@ -26,12 +26,11 @@
 Low S tier.  
 Như phần lớn sinh viên Mẽo đã đánh giá trong RateMyProfessors, Chen cho A khá là free (gần cả lớp đc A), nhưng nếu tự hỏi là học được gì sau khi hết course, bạn sẽ nhận ra là mình chả học được mẹ gì cả. Nhưng điểm số là trên hết nên tất nhiên, vẫn S tier.
 
-
 ## Chỉ số và sức mạnh
 
 - **Điểm tổng kết trung bình gần nhất:** `?/100`
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA` (TBA/TBA)
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
   <details>
   <summary><i>Lịch sử điểm tổng kết</i></summary>
@@ -39,8 +38,8 @@ Như phần lớn sinh viên Mẽo đã đánh giá trong RateMyProfessors, Chen
 
   - CS-2220 - Spring-2026
     - **Điểm tổng kết trung bình:** `?/100`
-      - Độ lệch chuẩn: TBA
-      - Tỉ lệ được A: TBA
+      - Độ lệch chuẩn: `TBA`
+      - Tỉ lệ được A: `TBA` (TBA/TBA)
       > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
   </blockquote>
   </details>

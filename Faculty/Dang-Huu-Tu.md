@@ -53,7 +53,6 @@ Có cầu trời khấn phật cũng vô ích. Một là bản án tử hình ma
 - **Điểm tổng kết trung bình gần nhất:** `83.09/100`
   - Độ lệch chuẩn: `22.04`
   - Tỉ lệ được A: `50%` (38/76)
-
   <details>
   <summary><i>Lịch sử điểm tổng kết</i></summary>
   <blockquote markdown="1">
@@ -66,10 +65,8 @@ Có cầu trời khấn phật cũng vô ích. Một là bản án tử hình ma
     - **Điểm tổng kết trung bình:** `92.71/100`
       - Độ lệch chuẩn: `6.38`
       - Tỉ lệ được A: `77.42%` (48/62)
-
   </blockquote>
   </details>
-
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `9.5/10`
   - Buff điểm cực kì căng.
 - **Độ bám sát bài học của đề thi:** `9.5/10`

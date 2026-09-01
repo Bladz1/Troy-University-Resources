@@ -1,7 +1,7 @@
 # TS. John Doe
 
->"Perhaps the archives are incomplete."  
-— **Obi-Wan Kenobi**
+> "Perhaps the archives are incomplete."  
+> — **Obi-Wan Kenobi**
 
 <!-- Đây là câu trích dẫn mở đầu của profile, nên để một quote nào đó giảng viên đã nói hoặc thích hợp với vibe của giảng viên. -->
 

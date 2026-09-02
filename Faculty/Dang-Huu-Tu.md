@@ -1,7 +1,7 @@
 # TS. Đặng Hữu Tú
 
->"Tôi không muốn tạo khoảng cách, tôi muốn kết nối, muốn giúp sinh viên thấy rằng Toán học không chỉ là những con số khô khan mà là một thế giới đầy logic, sáng tạo và rất đẹp."  
-— **TS. Đặng Hữu Tú**, [*chia sẻ về triết lý giảng dạy trong ngày đầu tiên đứng bục giảng, khi bị sinh viên thì thầm: "Thầy trẻ quá!"*][hust_news_article]
+> "Tôi không muốn tạo khoảng cách, tôi muốn kết nối, muốn giúp sinh viên thấy rằng Toán học không chỉ là những con số khô khan mà là một thế giới đầy logic, sáng tạo và rất đẹp."  
+> — **TS. Đặng Hữu Tú**, [*chia sẻ về triết lý giảng dạy trong ngày đầu tiên đứng bục giảng, khi bị sinh viên thì thầm: "Thầy trẻ quá!"*][hust_news_article]
 
 **TS. Đặng Hữu Tú** là giảng viên Khoa Toán - Tin tại Đại học Bách khoa Hà Nội. Thầy là cựu sinh viên lứa tốt nghiệp năm 2020 của Viện Toán ứng dụng và Tin học Bách khoa. Sau khi tốt nghiệp, thầy sang Pháp tu nghiệp, hoàn thành chương trình Tiến sĩ và quyết định trở về giảng dạy tại chính ngôi trường cũ với lý tưởng cốt lõi: "Làm khoa học để cống hiến!".
 

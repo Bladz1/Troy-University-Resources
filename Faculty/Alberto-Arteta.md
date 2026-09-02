@@ -1,7 +1,7 @@
 # TS. Alberto Arteta
 
->"Perhaps the archives are incomplete."  
-— **Obi-Wan Kenobi**
+> "Perhaps the archives are incomplete."  
+> — **Obi-Wan Kenobi**
 
 **TS. Alberto Arteta** là Phó Giáo sư tại Khoa Khoa học Máy tính của Đại học Troy. Ông nhận bằng Thạc sĩ về Toán học và Khoa học Máy tính (chương trình 5 năm) tại Đại học Complutense Madrid vào năm 2000 và hoàn thành bằng Tiến sĩ Khoa học Máy tính vào năm 2010. Năm tiếp theo, ông lấy bằng Thạc sĩ về Trí tuệ Nhân tạo tại Đại học Bách khoa Madrid.
 

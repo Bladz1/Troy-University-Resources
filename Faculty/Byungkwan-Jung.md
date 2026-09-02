@@ -1,7 +1,7 @@
 # TS. Byungkwan Jung
 
->"잡스님이 돌아가셨음......헐........"  
-— **TS. Byungkwan Jung**, *Facebook, 6/10/2011*
+> "잡스님이 돌아가셨음......헐........"  
+> — **TS. Byungkwan Jung**, *Facebook, 6/10/2011*
 
 **TS. Byungkwan Jung** (Thành viên IEEE) nhận bằng Cử nhân chuyên ngành kế toán - thuế tại Đại học Kyunghee, Hàn Quốc và bằng Thạc sĩ từ Khoa Khoa học Máy tính, Đại học Bang Nam Dakota, Brookings, lần lượt vào năm 2010 và 2014. Sau đó, ông nhận bằng Tiến sĩ ngành Khoa học Máy tính tại Đại học Công nghệ Texas, Lubbock, Texas, Hoa Kỳ vào năm 2019.
 

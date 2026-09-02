@@ -1,7 +1,7 @@
 # TS. Bùi Thị Mai Anh
 
->"I am the storm that is approaching..."  
-— **Vergil**, *Devil May Cry*
+> "I am the storm that is approaching..."  
+> — **Vergil**, *Devil May Cry*
 
 **TS. Bùi Thị Mai Anh** là giảng viên trường Công Nghệ Thông Tin và Truyền Thông.
 

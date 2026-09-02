@@ -1,7 +1,7 @@
 # TS. Bernard Chen
 
->"That's why I'm saying study hard, play hard..."  
-— **TS. Bernard Chen**, [*Inside Troy’s Computer Science Program*][youtube-link-1]
+> "That's why I'm saying study hard, play hard..."  
+> — **TS. Bernard Chen**, [*Inside Troy’s Computer Science Program*][youtube-link-1]
 
 **TS. Bernard Chen** là một giảng viên người Mĩ gốc Đài Loan.
 

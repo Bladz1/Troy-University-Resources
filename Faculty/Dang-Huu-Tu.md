@@ -1,7 +1,7 @@
 # TS. Đặng Hữu Tú
 
->"Tôi không muốn tạo khoảng cách, tôi muốn kết nối, muốn giúp sinh viên thấy rằng Toán học không chỉ là những con số khô khan mà là một thế giới đầy logic, sáng tạo và rất đẹp."  
-— **TS. Đặng Hữu Tú**, [*chia sẻ về triết lý giảng dạy trong ngày đầu tiên đứng bục giảng, khi bị sinh viên thì thầm: "Thầy trẻ quá!"*][hust_news_article]
+> "Tôi không muốn tạo khoảng cách, tôi muốn kết nối, muốn giúp sinh viên thấy rằng Toán học không chỉ là những con số khô khan mà là một thế giới đầy logic, sáng tạo và rất đẹp."  
+> — **TS. Đặng Hữu Tú**, [*chia sẻ về triết lý giảng dạy trong ngày đầu tiên đứng bục giảng, khi bị sinh viên thì thầm: "Thầy trẻ quá!"*][hust_news_article]
 
 **TS. Đặng Hữu Tú** là giảng viên Khoa Toán - Tin tại Đại học Bách khoa Hà Nội. Thầy là cựu sinh viên lứa tốt nghiệp năm 2020 của Viện Toán ứng dụng và Tin học Bách khoa. Sau khi tốt nghiệp, thầy sang Pháp tu nghiệp, hoàn thành chương trình Tiến sĩ và quyết định trở về giảng dạy tại chính ngôi trường cũ với lý tưởng cốt lõi: "Làm khoa học để cống hiến!".
 
@@ -53,7 +53,6 @@ Có cầu trời khấn phật cũng vô ích. Một là bản án tử hình ma
 - **Điểm tổng kết trung bình gần nhất:** `83.09/100`
   - Độ lệch chuẩn: `22.04`
   - Tỉ lệ được A: `50%` (38/76)
-
   <details>
   <summary><i>Lịch sử điểm tổng kết</i></summary>
   <blockquote markdown="1">
@@ -66,10 +65,8 @@ Có cầu trời khấn phật cũng vô ích. Một là bản án tử hình ma
     - **Điểm tổng kết trung bình:** `92.71/100`
       - Độ lệch chuẩn: `6.38`
       - Tỉ lệ được A: `77.42%` (48/62)
-
   </blockquote>
   </details>
-
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `9.5/10`
   - Buff điểm cực kì căng.
 - **Độ bám sát bài học của đề thi:** `9.5/10`

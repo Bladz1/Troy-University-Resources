@@ -1,7 +1,7 @@
 # PGS.TS. Phạm Phương Chi
 
 > **“Em thế nào, cứ thế mà đến. Chớ loay hoay sửa soạn áo quần.”**  
-> — **Rabindranath Tagore,** *The Gardener* **XI**
+> — **Rabindranath Tagore**, *The Gardener*, XI
 
 **PGS.TS. Phạm Phương Chi (Chi P. Pham)** là Nghiên cứu viên chính tại **Viện Văn học, Viện Hàn lâm Khoa học Xã hội Việt Nam (VASS)**, hiện phụ trách **Phòng Văn học nước ngoài**. Cô có hai bằng tiến sĩ về **Lý luận văn học** và **Văn học so sánh** (University of California, Riverside), từng là **Alexander von Humboldt Research Fellow** tại University of Hamburg (2019–2023), và được công nhận chức danh **Phó Giáo sư ngành Văn học năm 2023**.
 

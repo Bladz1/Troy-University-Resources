@@ -1,7 +1,10 @@
 # ENG-2206 - World Literature after 1660
 
->"And blood-black nothingness began to spin. A system of cells interlinked, within cells interlinked, within cells interlinked within one stem. And dreadfully distinct against the dark, a tall white fountain played."  
-― **Vladimir Nabokov**, *Pale Fire*
+> “Nếu cuộc đời này toàn chuyện xấu xa  
+> Tại sao cây táo lại nở hoa  
+> Sao rãnh nước trong veo đến thế?”
+>
+> ― **Lưu Quang Vũ**, *Phố ta*
 
 **ENG-2206** là một môn học 3 tín chỉ với điều kiện tiên quyết là [ENG-1102][eng-1102].
 

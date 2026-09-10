@@ -1,19 +1,40 @@
 # ThS. NCS. Lê Nguyên Long
 
->"Perhaps the archives are incomplete."  
-— **Obi-Wan Kenobi**
+> "Hỏng ngay!"  
+> — **ThS. NCS. Lê Nguyên Long**
 
-**ThS. NCS. Lê Nguyên Long** là giảng viên trường ĐH Khoa học Xã hội và Nhân văn - ĐHQG Hà Nội.
+**ThS. NCS. Lê Nguyên Long** là giảng viên Bộ môn Văn học nước ngoài và Nghiên cứu so sánh, Khoa Văn học, Trường Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia Hà Nội.
 
 ## Thông tin giảng viên
 
 - **Ngoại hình**: [Lê Nguyên Long][profile-image]
-- **Lý lịch**: [USSH - Lê Nguyên Long][academic-profile]
-- **Năm sinh**: 1980
+- **Lý lịch khoa học**: [USSH - Lê Nguyên Long][academic-profile]
+- **VNU Scholar**: [Lê Nguyên Long - VNU Scholar][vnu-scholar]
+- **Ngày sinh**: 30/10/1980
+- **Nơi sinh**: Thanh Hóa
 - **Giới tính**: Nam
 - **Học vị cao nhất**: Thạc sĩ
-- **Email**: nguyenlongvhpt@gmail.com (preferred); lenguyenlong@ussh.edu.vn
+- **Chuyên môn được đào tạo**: Văn học nước ngoài
+- **Email**: [nguyenlongvhpt@gmail.com](mailto:nguyenlongvhpt@gmail.com) (preferred); [lenguyenlong@ussh.edu.vn](mailto:lenguyenlong@ussh.edu.vn)
+- **Điện thoại cá nhân**: 0903466065
 - **Facebook**: [Facebook - Lê Nguyên Long][facebook-profile]
+
+## Mối quan tâm
+
+* Văn học so sánh
+* Văn học Mỹ, đặc biệt Edgar Allan Poe
+* Văn học di dân và nghiên cứu xuyên quốc gia
+* Văn học Việt Nam thuộc địa và hậu thuộc địa
+* Lí thuyết văn học và nghiên cứu dịch thuật
+
+## Một số công trình tiêu biểu
+
+* *The Politics of Travel Writing: Pham Quynh’s National Project and the Landscape of the Imperial Capital at Hue, Vietnam*. **Landscapes**, 2023. *(Scopus Q3)*
+* *Văn chương nghệ thuật và thiết chế văn hoá: Những tiếp cận liên ngành*. **NXB Thế giới**, 2017. *(đồng chủ biên)*
+* *In ấn, quyền lực và quốc gia - dân tộc: Lí thuyết về quốc gia - dân tộc của Benedict Anderson trong nghiên cứu nhân văn*. **Nghiên cứu Văn học**, 2019.
+* *Trung tâm và ngoại biên: Từ hệ hình cấu trúc luận đến hệ hình hậu cấu trúc luận*. **Nghiên cứu Văn học**, 2013.
+* *Dịch và lí thuyết dịch như một hệ hình lí luận, phê bình mới*. **Nghiên cứu Văn học**, 2009. *(với Phạm Quốc Lộc)*
+* *Về khái niệm cái kì ảo và văn học kì ảo trong nghiên cứu văn học*. **Nghiên cứu Văn học**, 2006.
 
 ## Lịch sử giảng dạy
 

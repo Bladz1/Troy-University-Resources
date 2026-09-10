@@ -159,3 +159,4 @@ Chốt: Long và SV Troy có duyên đấy :)) NGHIỆT DUYÊN...
 [nka-facebook-course-dropping-request]: https://i.imgur.com/gVQfWKL.png
 [nguyen-kieu-anh-piece-of-mind]: https://i.imgur.com/DafS7tz.png
 [contributing]: ../CONTRIBUTING.md
+[vnu-scholar]: https://scholar.vnu.edu.vn/entities/person/22e13b55-2893-46d6-b428-7a274a708237

@@ -11,7 +11,7 @@
 - **Lý lịch khoa học**: [USSH - Lê Nguyên Long][academic-profile]
 - **VNU Scholar**: [Lê Nguyên Long - VNU Scholar][vnu-scholar]
 - **Ngày sinh**: 30/10/1980
-- **Nơi sinh**: Thanh Hóa
+- **Nơi sinh**: Hoằng Hóa - Thanh Hóa
 - **Giới tính**: Nam
 - **Học vị cao nhất**: Thạc sĩ
 - **Chuyên môn được đào tạo**: Văn học nước ngoài
@@ -80,12 +80,12 @@ Mục này là mục khó viết nhất vì ảnh hưởng thì vô vàn :)) Tâ
 #### Nhận định tổng quan
 
 | Grade | Số lượng (sum=80) | Tỉ lệ |
-| :---: | :---------------: | :---: |
-|   A   |         2         | 2.5%  |
-|   B   |        14         | 17.5% |
-|   C   |        30         | 37.5% |
-|   D   |        20         | 25.0% |
-|   F   |        14         | 17.5% |
+|:-----:|:-----------------:|:-----:|
+| A     | 2                 | 2.5%  |
+| B     | 14                | 17.5% |
+| C     | 30                | 37.5% |
+| D     | 20                | 25.0% |
+| F     | 14                | 17.5% |
 
 Bảng điểm cho thấy bức tranh phân hóa khá rõ (tính trên toàn khóa K68 và một vài anh chị học lại + học mới): tới 25% (khoảng 1/4 khóa) rơi vào D – tức là 'qua môn nhưng đuối sức', F thì chiếm tới 17.5%, đồng nghĩa với việc gần 1/5 sinh viên trượt môn này. Nhìn vào tỉ lệ này, có thể nói đây không phải là một môn dễ nuốt, khi lằn ranh giữa việc tạch và qua môn khá mong manh...
 
@@ -102,21 +102,28 @@ Anh Lê Quang Huy, TROYCS21A-K67 nói như này:
 Chốt: Long và SV Troy có duyên đấy :)) NGHIỆT DUYÊN...
 
 ## Chỉ số và sức mạnh
+
 - **Điểm tổng kết trung bình:** `71.25/100`
+  
   - Độ lệch chuẩn: 10.48
   - Tỉ lệ được A: 2.5% (2/80)
+
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 - **Độ bám sát bài học của đề thi:** `?/10`
   
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 - **Độ hợp lí, cân bằng của khối lượng bài vở và sức khỏe tinh thần:** `?/10`
   
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 - **Khả năng truyền đạt kiến thức và chuyên môn sư phạm:** `?/10`
   
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 - **Tác phong, tính cách và mức độ hỗ trợ sinh viên:** `?/10`
   
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
@@ -134,6 +141,7 @@ Chốt: Long và SV Troy có duyên đấy :)) NGHIỆT DUYÊN...
 ## Tips
 
 ### ENG-2205 - World Literature before 1660
+
 - Như mọi trò chơi mà bạn biết kẻ chơi luôn là người thua cuộc, cách duy nhất để chiến thắng là không tham gia ngay từ đầu. Hãy tìm mọi cách để tránh đăng ký lớp của Long Le. Có thể cân nhắc đăng ký lớp của giảng viên khác bên VNU, nhưng lưu ý là [CV. Nguyễn Kiều Anh][nguyen-kieu-anh] có thể sẽ yêu cầu hủy đăng ký nếu lớp bên đó hết slot quá nhanh. Nếu như đã muộn, hi vọng những tips ở dưới có thể giúp bạn được phần nào.
 - [**Some notes for ENG-2205**][some-notes-for-eng-2205-le-nguyen-long]
 
@@ -142,9 +150,9 @@ Chốt: Long và SV Troy có duyên đấy :)) NGHIỆT DUYÊN...
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Trivia
+
 - Trong kì Spring-2026, hiện tượng sinh viên tìm cách né lớp **ThS. NCS. Lê Nguyên Long** trở nên [khá rõ rệt][nguyen-kieu-anh-piece-of-mind], khi rất nhiều sinh viên đăng ký sang lớp của giảng viên khác bên VNU, làm lớp bên đó hết slot nhanh chóng. Trước tình hình đó, [CV. Nguyễn Kiều Anh][nguyen-kieu-anh] đã [yêu cầu các sinh viên][nka-facebook-course-dropping-request] hủy đăng ký những lớp này, đồng thời cố gắng trấn an họ bằng câu nói: “Bây giờ **thầy Long** thì coi trọng thái độ hơn trình độ”, nhằm thuyết phục sinh viên quay lại đăng ký lớp của Long Le.
   - Tuy nhiên, sự "trấn an" này đi kèm với một lời [đe dọa][wikipedia-coercion]: nếu sinh viên tiếp tục tự ý đăng ký sang lớp hoặc trường khác mà không theo sự sắp xếp hay cho phép của giáo viên để né **Long Le**, thì ở các kì sau, đặc biệt là các môn chuyên ngành, [CV. Nguyễn Kiều Anh][nguyen-kieu-anh] có thể mời những chuyên gia còn khó tính hơn **Long Le** về giảng dạy.
-
 
 [profile-image]: ../Miscellaneous/Assets/Images/Long-Le-2.jpg
 [academic-profile]: https://fol.ussh.vnu.edu.vn/vi/news/ly-lich-khoa-hoc/ths-ncs-le-nguyen-long-141.html

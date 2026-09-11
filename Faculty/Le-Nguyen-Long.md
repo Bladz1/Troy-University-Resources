@@ -1,19 +1,40 @@
 # ThS. NCS. Lê Nguyên Long
 
->"Perhaps the archives are incomplete."  
-— **Obi-Wan Kenobi**
+> "Hỏng ngay!"  
+> — **ThS. NCS. Lê Nguyên Long**
 
-**ThS. NCS. Lê Nguyên Long** là giảng viên trường ĐH Khoa học Xã hội và Nhân văn - ĐHQG Hà Nội.
+**ThS. NCS. Lê Nguyên Long** là giảng viên Bộ môn Văn học nước ngoài và Nghiên cứu so sánh, Khoa Văn học, Trường Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia Hà Nội.
 
 ## Thông tin giảng viên
 
 - **Ngoại hình**: [Lê Nguyên Long][profile-image]
-- **Lý lịch**: [USSH - Lê Nguyên Long][academic-profile]
-- **Năm sinh**: 1980
+- **Lý lịch khoa học**: [USSH - Lê Nguyên Long][academic-profile]
+- **VNU Scholar**: [Lê Nguyên Long - VNU Scholar][vnu-scholar]
+- **Ngày sinh**: 30/10/1980
+- **Nơi sinh**: Hoằng Hóa - Thanh Hóa
 - **Giới tính**: Nam
 - **Học vị cao nhất**: Thạc sĩ
-- **Email**: nguyenlongvhpt@gmail.com (preferred); lenguyenlong@ussh.edu.vn
+- **Chuyên môn được đào tạo**: Văn học nước ngoài
+- **Email**: [nguyenlongvhpt@gmail.com](mailto:nguyenlongvhpt@gmail.com) (preferred); [lenguyenlong@ussh.edu.vn](mailto:lenguyenlong@ussh.edu.vn)
+- **Điện thoại cá nhân**: 0903466065
 - **Facebook**: [Facebook - Lê Nguyên Long][facebook-profile]
+
+## Mối quan tâm
+
+* Văn học so sánh
+* Văn học Mỹ, đặc biệt Edgar Allan Poe
+* Văn học di dân và nghiên cứu xuyên quốc gia
+* Văn học Việt Nam thuộc địa và hậu thuộc địa
+* Lí thuyết văn học và nghiên cứu dịch thuật
+
+## Một số công trình tiêu biểu
+
+* *The Politics of Travel Writing: Pham Quynh’s National Project and the Landscape of the Imperial Capital at Hue, Vietnam*. **Landscapes**, 2023. *(Scopus Q3)*
+* *Văn chương nghệ thuật và thiết chế văn hoá: Những tiếp cận liên ngành*. **NXB Thế giới**, 2017. *(đồng chủ biên)*
+* *In ấn, quyền lực và quốc gia - dân tộc: Lí thuyết về quốc gia - dân tộc của Benedict Anderson trong nghiên cứu nhân văn*. **Nghiên cứu Văn học**, 2019.
+* *Trung tâm và ngoại biên: Từ hệ hình cấu trúc luận đến hệ hình hậu cấu trúc luận*. **Nghiên cứu Văn học**, 2013.
+* *Dịch và lí thuyết dịch như một hệ hình lí luận, phê bình mới*. **Nghiên cứu Văn học**, 2009. *(với Phạm Quốc Lộc)*
+* *Về khái niệm cái kì ảo và văn học kì ảo trong nghiên cứu văn học*. **Nghiên cứu Văn học**, 2006.
 
 ## Lịch sử giảng dạy
 
@@ -59,12 +80,12 @@ Mục này là mục khó viết nhất vì ảnh hưởng thì vô vàn :)) Tâ
 #### Nhận định tổng quan
 
 | Grade | Số lượng (sum=80) | Tỉ lệ |
-| :---: | :---------------: | :---: |
-|   A   |         2         | 2.5%  |
-|   B   |        14         | 17.5% |
-|   C   |        30         | 37.5% |
-|   D   |        20         | 25.0% |
-|   F   |        14         | 17.5% |
+|:-----:|:-----------------:|:-----:|
+| A     | 2                 | 2.5%  |
+| B     | 14                | 17.5% |
+| C     | 30                | 37.5% |
+| D     | 20                | 25.0% |
+| F     | 14                | 17.5% |
 
 Bảng điểm cho thấy bức tranh phân hóa khá rõ (tính trên toàn khóa K68 và một vài anh chị học lại + học mới): tới 25% (khoảng 1/4 khóa) rơi vào D – tức là 'qua môn nhưng đuối sức', F thì chiếm tới 17.5%, đồng nghĩa với việc gần 1/5 sinh viên trượt môn này. Nhìn vào tỉ lệ này, có thể nói đây không phải là một môn dễ nuốt, khi lằn ranh giữa việc tạch và qua môn khá mong manh...
 
@@ -81,21 +102,28 @@ Anh Lê Quang Huy, TROYCS21A-K67 nói như này:
 Chốt: Long và SV Troy có duyên đấy :)) NGHIỆT DUYÊN...
 
 ## Chỉ số và sức mạnh
+
 - **Điểm tổng kết trung bình:** `71.25/100`
+  
   - Độ lệch chuẩn: 10.48
   - Tỉ lệ được A: 2.5% (2/80)
+
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 - **Độ bám sát bài học của đề thi:** `?/10`
   
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 - **Độ hợp lí, cân bằng của khối lượng bài vở và sức khỏe tinh thần:** `?/10`
   
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 - **Khả năng truyền đạt kiến thức và chuyên môn sư phạm:** `?/10`
   
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 - **Tác phong, tính cách và mức độ hỗ trợ sinh viên:** `?/10`
   
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
@@ -113,6 +141,7 @@ Chốt: Long và SV Troy có duyên đấy :)) NGHIỆT DUYÊN...
 ## Tips
 
 ### ENG-2205 - World Literature before 1660
+
 - Như mọi trò chơi mà bạn biết kẻ chơi luôn là người thua cuộc, cách duy nhất để chiến thắng là không tham gia ngay từ đầu. Hãy tìm mọi cách để tránh đăng ký lớp của Long Le. Có thể cân nhắc đăng ký lớp của giảng viên khác bên VNU, nhưng lưu ý là [CV. Nguyễn Kiều Anh][nguyen-kieu-anh] có thể sẽ yêu cầu hủy đăng ký nếu lớp bên đó hết slot quá nhanh. Nếu như đã muộn, hi vọng những tips ở dưới có thể giúp bạn được phần nào.
 - [**Some notes for ENG-2205**][some-notes-for-eng-2205-le-nguyen-long]
 
@@ -121,9 +150,9 @@ Chốt: Long và SV Troy có duyên đấy :)) NGHIỆT DUYÊN...
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Trivia
+
 - Trong kì Spring-2026, hiện tượng sinh viên tìm cách né lớp **ThS. NCS. Lê Nguyên Long** trở nên [khá rõ rệt][nguyen-kieu-anh-piece-of-mind], khi rất nhiều sinh viên đăng ký sang lớp của giảng viên khác bên VNU, làm lớp bên đó hết slot nhanh chóng. Trước tình hình đó, [CV. Nguyễn Kiều Anh][nguyen-kieu-anh] đã [yêu cầu các sinh viên][nka-facebook-course-dropping-request] hủy đăng ký những lớp này, đồng thời cố gắng trấn an họ bằng câu nói: “Bây giờ **thầy Long** thì coi trọng thái độ hơn trình độ”, nhằm thuyết phục sinh viên quay lại đăng ký lớp của Long Le.
   - Tuy nhiên, sự "trấn an" này đi kèm với một lời [đe dọa][wikipedia-coercion]: nếu sinh viên tiếp tục tự ý đăng ký sang lớp hoặc trường khác mà không theo sự sắp xếp hay cho phép của giáo viên để né **Long Le**, thì ở các kì sau, đặc biệt là các môn chuyên ngành, [CV. Nguyễn Kiều Anh][nguyen-kieu-anh] có thể mời những chuyên gia còn khó tính hơn **Long Le** về giảng dạy.
-
 
 [profile-image]: ../Miscellaneous/Assets/Images/Long-Le-2.jpg
 [academic-profile]: https://fol.ussh.vnu.edu.vn/vi/news/ly-lich-khoa-hoc/ths-ncs-le-nguyen-long-141.html
@@ -138,3 +167,4 @@ Chốt: Long và SV Troy có duyên đấy :)) NGHIỆT DUYÊN...
 [nka-facebook-course-dropping-request]: https://i.imgur.com/gVQfWKL.png
 [nguyen-kieu-anh-piece-of-mind]: https://i.imgur.com/DafS7tz.png
 [contributing]: ../CONTRIBUTING.md
+[vnu-scholar]: https://scholar.vnu.edu.vn/entities/person/22e13b55-2893-46d6-b428-7a274a708237

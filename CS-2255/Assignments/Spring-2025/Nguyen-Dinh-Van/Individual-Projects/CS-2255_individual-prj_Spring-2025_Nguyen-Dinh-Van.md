@@ -78,7 +78,7 @@ Có lẽ **Individual programming projects** là nơi mà các anh chị em bỏ
       
       - Then the **DefTeam** attacks with the same rule.
       
-      - After both attack phases, update and print the HP of all tanks in both teams.
+      - After each attack phase, update the opposing team's alive count, then print the HP of all tanks in both teams.
   
   - After 10 turns:
     
@@ -156,7 +156,7 @@ Có lẽ **Individual programming projects** là nơi mà các anh chị em bỏ
   
   - **Searching** for any file or directory by name
   
-  - **Retrieving the full path** from the root to any found item
+  - **Retrieving the path** of an entity
   
   ---
   
@@ -196,7 +196,7 @@ Có lẽ **Individual programming projects** là nơi mà các anh chị em bỏ
     
     - `Contains`: Returns pointer if name matches; otherwise, `nullptr`.
     
-    - `GetPath`: Returns file name (assume relative to current directory).
+    - `GetPath`: Returns file name.
   
   ---
   

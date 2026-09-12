@@ -247,9 +247,9 @@ Có lẽ **Individual programming projects** là nơi mà các anh chị em bỏ
   ```
   root/
     |- dir1/
+        |- file2.txt
         |- dir2/
             |- file3.txt
-        |- file2.txt
     |- file1.txt
   ```
   
@@ -258,13 +258,13 @@ Có lẽ **Individual programming projects** là nơi mà các anh chị em bỏ
   ```
   - root (directory)
     - dir1 (directory)
+      - file2.txt (file, size=20)
       - dir2 (directory)
         - file3.txt (file, size=30)
-      - file2.txt (file, size=20)
     - file1.txt (file, size=10)
   Total size: 60
   Found: file3.txt
-  Path: root/dir1/dir2/file3.txt
+  Path: file3.txt
   Not found
   ```
   

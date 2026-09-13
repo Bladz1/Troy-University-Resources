@@ -18,6 +18,7 @@ Nghiên cứu của cô tập trung vào **văn học Việt Nam và Đông Nam 
 - **Học vị cao nhất**: Tiến sĩ
 - **Email**: chiphamvvh@gmail.com; phamphuongchi@gmail.com; cpham012@ucr.edu; cpham257554@troy.edu
 - **Số điện thoại**: 0869903979
+- **Zalo**: +4915211311099
 - **Facebook**: [Facebook - Phạm Phương Chi][facebook-profile]
 - **Website**: https://chivvh.wordpress.com/
 

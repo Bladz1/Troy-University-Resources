@@ -1,6 +1,6 @@
 # TS. Hồ Minh Toàn
 
->"Bẹn này lèm cũng đúng nè, nhưng mà tui xin lõi nha, tui chỉ coọng đỉm cho bẹn đào tin thoi."  
+>"Yalo."  
 — **TS. Hồ Minh Toàn**
 
 **TS. Hồ Minh Toàn** là giảng viên phòng Hình học và Tôpô, Viện Toán Học, VHLKHVCNVN.

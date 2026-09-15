@@ -33,6 +33,8 @@ Nhưng, vì đã ngoài 40, trải qua nhiều trường lớp, thật sự th�
 
 Môn này với lí do là môn 'Foundations' nên anh không cho thi mà cho thuyết trình lấy điểm, khá dị, phần nào liên tưởng chúng ta đến với môn SPH-2241, tuy nhiên nếu thuyết trình ngon thì A khá rủng rỉnh, nhiều A là đằng khác, vậy đầu tiên hãy cố ngoan trong lớp anh trước nhé!! 🍀
 
+![le-chi-ngoc-ass]
+
 ## Chỉ số và sức mạnh
 
 - **Điểm tổng kết trung bình gần nhất:** `74.61/100`
@@ -130,5 +132,6 @@ Môn này với lí do là môn 'Foundations' nên anh không cho thi mà cho th
 [cs-2255]: ../CS-2255/
 [cs-3310]: ../CS-3310/
 [le-chi-ngoc-no-way]: https://i.imgur.com/V276SPm.jpeg
+[le-chi-ngoc-ass]: https://github.com/user-attachments/assets/3ac83c88-0b0c-4323-a176-22fa9cea7f46
 [trivia_image_1]: https://i.imgur.com/IxdBWNh.jpeg
 [contributing]: ../CONTRIBUTING.md

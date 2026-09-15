@@ -119,6 +119,6 @@
 [eng-1101]: ../ENG-1101/
 [eng-1102]: ../ENG-1102/
 [troy-1101]: ../TROY-1101/
-[nguyen-kieu-anh-threat-1]: ../Miscellaneous/Assets/Images/Nguyen-Kieu-Anh-Threat-1
-[nguyen-kieu-anh-threat-2]: ../Miscellaneous/Assets/Images/Nguyen-Kieu-Anh-Threat-2
+[nguyen-kieu-anh-threat-1]: ../Miscellaneous/Assets/Images/Nguyen-Kieu-Anh-Threat-1.png
+[nguyen-kieu-anh-threat-2]: ../Miscellaneous/Assets/Images/Nguyen-Kieu-Anh-Threat-2.jpeg
 [contributing]: ../CONTRIBUTING.md

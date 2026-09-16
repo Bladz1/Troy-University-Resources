@@ -106,6 +106,11 @@
 ## Trivia
 
 - Trong một bài khảo sát chất lượng, **CV. Nguyễn Kiều Anh** đã được sinh viên đánh giá với con số 8.67/10 (A tier) cho môn học ENG-1101 và 6.83/10 (C tier) cho môn học TROY-1101.
+- Do sự chênh lệch cực kì đáng kể giữa chuyên môn sư phạm, trải nghiệm và phân bố điểm của các giảng viên trong cùng một môn học, để bảo vệ GPA của mình, nhiều sinh viên phải lựa chọn việc đăng ký nhiều lớp trong cùng một môn để giữ chỗ trước khi biết được giảng viên của lớp đó.
+  - Tuy nhiên, thay vì ghi nhận và tìm cách giải quyết cốt lõi sự chênh lệch giữa khả năng và sự thiếu công bằng đó của các giảng viên, ví dụ như làm phổ điểm, tiêu chí chấm công khai, công bằng và minh bạch, cũng như ghi nhận đánh giá, xem xét trình độ và sự chênh lệch giữa các kiến thức đạt của các giảng viên qua từng kì học để từ đó tìm cách cải thiện, **C.V. Nguyễn Kiều Anh** lựa chọn một giải pháp mang tính kinh tế hơn:
+    - Đó là cho giảng viên thích làm mẹ gì thì làm, bố mày không quan tâm. Đứa nào đăng ký nhiều lớp giữ chỗ bố dọa giam học muộn.
+    - ![nguyen-kieu-anh-threat-1]
+    - ![nguyen-kieu-anh-threat-2]
 
 
 [profile-image]: https://i.imgur.com/zfLYXrK.jpeg
@@ -114,4 +119,6 @@
 [eng-1101]: ../ENG-1101/
 [eng-1102]: ../ENG-1102/
 [troy-1101]: ../TROY-1101/
+[nguyen-kieu-anh-threat-1]: ../Miscellaneous/Assets/Images/Nguyen-Kieu-Anh-Threat-1.png
+[nguyen-kieu-anh-threat-2]: ../Miscellaneous/Assets/Images/Nguyen-Kieu-Anh-Threat-2.jpeg
 [contributing]: ../CONTRIBUTING.md

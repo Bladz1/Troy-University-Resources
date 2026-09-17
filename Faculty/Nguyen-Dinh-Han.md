@@ -135,6 +135,10 @@ Tôi phải nói như nào nhỉ, nó cực kì ngột ngạt, hai bên cứ di�
 
 ## Tips
 
+### Chung
+
+- Các môn của thầy này chỉ có midterm, final sẽ là bài thuyết trình nhóm.
+
 ### CS-3365 - Introduction to Computer Organization and Architecture
 
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*

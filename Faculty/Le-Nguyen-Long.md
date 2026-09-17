@@ -140,9 +140,12 @@ Chốt: Long và SV Troy có duyên đấy :)) NGHIỆT DUYÊN...
 
 ## Tips
 
+### Chung
+
+- Như mọi trò chơi mà bạn biết kẻ chơi luôn là người thua cuộc, cách duy nhất để chiến thắng là không tham gia ngay từ đầu. Hãy tìm mọi cách để tránh đăng ký lớp của Long Le. Có thể cân nhắc đăng ký lớp của giảng viên khác bên VNU, nhưng lưu ý là [CV. Nguyễn Kiều Anh][nguyen-kieu-anh] có thể sẽ [yêu cầu hủy đăng ký][nguyen-kieu-anh-threat-2] nếu lớp bên đó hết slot quá nhanh. Nếu như đã muộn, hi vọng những tips ở dưới có thể giúp bạn được phần nào.
+
 ### ENG-2205 - World Literature before 1660
 
-- Như mọi trò chơi mà bạn biết kẻ chơi luôn là người thua cuộc, cách duy nhất để chiến thắng là không tham gia ngay từ đầu. Hãy tìm mọi cách để tránh đăng ký lớp của Long Le. Có thể cân nhắc đăng ký lớp của giảng viên khác bên VNU, nhưng lưu ý là [CV. Nguyễn Kiều Anh][nguyen-kieu-anh] có thể sẽ yêu cầu hủy đăng ký nếu lớp bên đó hết slot quá nhanh. Nếu như đã muộn, hi vọng những tips ở dưới có thể giúp bạn được phần nào.
 - [**Some notes for ENG-2205**][some-notes-for-eng-2205-le-nguyen-long]
 
 ### ENG-2206 - World Literature after 1660
@@ -162,6 +165,7 @@ Chốt: Long và SV Troy có duyên đấy :)) NGHIỆT DUYÊN...
 [long-le-2-image]: ../Miscellaneous/Assets/Images/Long-Le-2.jpg
 [long-le-1-image]: ../Miscellaneous/Assets/Images/Long-Le-1.jpg
 [nguyen-kieu-anh]: ./Nguyen-Kieu-Anh.md
+[nguyen-kieu-anh-threat-2]: ../Miscellaneous/Assets/Images/Nguyen-Kieu-Anh-Threat-2.jpeg
 [some-notes-for-eng-2205-le-nguyen-long]: ../ENG-2205/References/Some-Notes-For-ENG-2205-Le-Nguyen-Long.md
 [wikipedia-coercion]: https://en.wikipedia.org/wiki/Coercion
 [nka-facebook-course-dropping-request]: https://i.imgur.com/gVQfWKL.png

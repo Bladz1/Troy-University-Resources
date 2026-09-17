@@ -65,7 +65,15 @@ Chắc chắn là ba courses mà ông thầy dạy khá quan trọng, tuy nhiên
 
 Tôi phải nói như nào nhỉ, nó cực kì ngột ngạt, hai bên cứ diễn với nhau và ai cũng muốn là diễn viên giỏi. Và đừng hiểu lầm, tôi cũng là một diễn viên thôi. Tôi dễ dàng được A cả ba môn, nhưng tôi chả nhặt được nhiều kiến thức. Chán nản lắm, và đây chính là mầm mống hủy hoại ngành từ bên trong, chả phải tại cái repo này, tại tôi, tại chương trình đào tạo, cơ chế hay gì, mà chính từ bên trong chúng ta đã hoạt động "không hiệu quả". Tôi đã buồn đến nỗi, khi kết thúc môn cuối cùng mà thầy dạy, mới viết cái này. Có cái khoảnh khắc này, đó là bài midterm môn CS-3370. Syllabus của ông đã quy định phạm vi kiến thức thi giữa kì, ông cũng đã dạy đến đó, rồi sau đó là đề thi. Vâng, buổi hôm sau, chúng tôi tiếp tục học mới nội dung mà đã xuất hiện trong đề thi hôm trước.
 
-![nguyen-dinh-han]
+<p align="center">
+  <img
+    src="../Miscellaneous/Assets/Images/Nguyen-Dinh-Han.jpg"
+    alt="Nguyen-Dinh-Han"
+    width="50%"
+  >
+  <br>
+  <em>"A single green light, minute and far away."</em>
+</p>
 
 Đừng lo nhé, con người đã thoát khỏi cái bóng của lịch sử chưa nhể?
 
@@ -155,5 +163,3 @@ Tôi phải nói như nào nhỉ, nó cực kì ngột ngạt, hai bên cứ di�
 [noun]: https://dictionary.cambridge.org/vi/dictionary/english/dumbing-down
 
 [Phan-Dang]: https://youtu.be/TZbd9x2h3sU?t=1174
-
-[nguyen-dinh-han]: ../Miscellaneous/Assets/Images/Nguyen-Dinh-Han.jpg

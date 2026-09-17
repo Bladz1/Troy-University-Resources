@@ -137,7 +137,8 @@ Tôi phải nói như nào nhỉ, nó cực kì ngột ngạt, hai bên cứ di�
 
 ### Chung
 
-- Các môn của thầy này chỉ có midterm, final sẽ là bài thuyết trình nhóm.
+- Các môn của thầy này chỉ có midterm, final sẽ là bài thuyết trình nhóm. Tình trạng gian lận ở môn này là quá đỗi hiển nhiên, vì vậy nên cách duy nhất để ông kiểm soát được tỉ lệ A/B/C là qua kiểm soát điểm final.
+- Muốn bản thân điểm cao thì nên tự để tên bản thân lên vị trí cao trong báo cáo. Còn lại thực sự ông không quan tâm mình thuyết trình gì đâu.
 
 ### CS-3365 - Introduction to Computer Organization and Architecture
 

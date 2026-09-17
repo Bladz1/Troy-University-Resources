@@ -1,7 +1,7 @@
 # PGS. TS. Nguyễn Đình Hân
 
-> "Perhaps the archives are incomplete."  
-> — **Obi-Wan Kenobi**
+> "So please... try... try to [something] more..."  
+> — **PGS. TS. Nguyễn Đình Hân** *yêu cầu sinh viên GPT gì đó trong 10p và cố hiểu để lên bảng trình bày*
 
 **PGS. TS. Nguyễn Đình Hân** là giảng viên Khoa Toán - Tin, Đại học Bách khoa Hà Nội và hiện là Trưởng nhóm chuyên môn Cơ sở toán học cho tin học và Hệ thống thông tin.
 

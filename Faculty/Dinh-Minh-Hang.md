@@ -31,20 +31,18 @@
 ## Chỉ số và sức mạnh
 
 - **Điểm tổng kết trung bình gần nhất:** `?/100`
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA` (TBA/TBA)
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
-
   <details>
   <summary><i>Lịch sử điểm tổng kết</i></summary>
   <blockquote markdown="1">
 
   - ENG-2206 - Summer-2026
     - **Điểm tổng kết trung bình:** `?/100`
-      - Độ lệch chuẩn: TBA
-      - Tỉ lệ được A: TBA
+      - Độ lệch chuẩn: `TBA`
+      - Tỉ lệ được A: `TBA` (TBA/TBA)
       > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
-
   </blockquote>
   </details>
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`

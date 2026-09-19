@@ -40,7 +40,16 @@ Hồi học kinh tế vi mô, thầy Nguyễn Tài Vượng có nói một câu 
 
 Trong văn bản *Tây Du Ký* (vốn được xem như là *the Odyssey* của Trung Quốc), sau một thời gian dài bị giam dưới Ngũ Hành Sơn, Tôn Ngộ Không đã rất vui mừng khi có người đến giải cứu mình khỏi sự kìm kẹp của ngọn núi. Cô Chi đến cũng vậy, lấp lánh ánh nắng chói lọi của mặt trời đang lên, một món quà, một sự giải thoát đối với các sinh viên Troy tại Hà Nội. Sinh viên giống như được giải phóng khỏi tay thực dân Long Le, khỏi sự khốn cùng mà khiến nhiều sinh viên suy nghĩ lại xem mình đóng tiền để nhận được điều gì từ trường đại học.
 
-
+<p align="center">
+  <img
+    src="../Miscellaneous/Assets/Images/ENG-2206_real-happiness.png"
+    alt="Happiness"
+  >
+  <br>
+  <em>Hạnh phúc có nghĩa là gì?</em>
+  <br>
+  <small>From: Pham Phuong Chi</small>
+</p>
 
 Hi vọng từ đây mở ra một tia hy vọng mới cho dù chỉ là một bộ phận hay sau này là đa số sinh viên Troy Hà Nội, những người đã bị kìm kẹp rất lâu, được sống trong hạnh phúc, được tôn trọng, được nói lên ý kiến của mình, được thoải mái trong tinh thần, và quan trọng nhất là được “học” thật sự.
 

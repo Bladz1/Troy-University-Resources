@@ -116,18 +116,8 @@ Xoay quanh kinh tế ứng dụng, chủ yếu gồm thương mại quốc tế,
 
 [profile-image]: https://sem.hust.edu.vn/wp-content/uploads/2023/10/1-16.png
 [sem-profile]: https://sem.hust.edu.vn/lecturers/ths-nguyen-tai-vuong
-[sem-directory]: https://sem.hust.edu.vn/danh-sach-giang-vien-2
-[sem-faculty]: https://sem.hust.edu.vn/khoa
-[hust-qualification]: https://hust.edu.vn/uploads/sys/tuyen-sinh/2023_06/phu-luc-2_cac-dieu-kien-dbcl_2024_final_1.pdf#page=22
-[sem-curriculum]: https://sem.hust.edu.vn/chuong-trinh-cu-nhan-tai-chinh-ngan-hang
 [hust-project]: https://hust.edu.vn/vi/nghien-cuu/de-tai-nghien-cuu-khoa-hoc/de-tai-nghien-cuu-cap-co-so-phan-cap-nam-2023-650118.html
-[hust-publications-2020]: https://www.hust.edu.vn/uploads/sys/nghien-cuu/2021/01/2019-2020-tn.175321.25242.pdf#page=22
-[organic-paper]: https://www.atlantis-press.com/proceedings/apmrc-22/125978043
-[organic-pdf]: https://www.atlantis-press.com/article/125978043.pdf
-[digital-paper]: https://ojs.tapchicongthuong.vn/vi/ojs-post/san-sang-voi-chuyen-doi-so-cua-nguoi-lao-dong-trong-cac-doanh-nghiep-nho-va-vua--smes--thuc-trang-va-giai-phap-108996.htm
-[hust-publications-2025]: https://hust.edu.vn/uploads/sys/nghien-cuu/2025_10/cbkh-nam-hoc-2024-2025-qt.pdf#page=35
 [hust-northampton]: https://hust.edu.vn/vi/news/tuyen-sinh-dao-tao-cong-tac-sinh-vien/giao-luu-sinh-vien-dh-northampton-va-sinh-vien-truong-dhbk-ha-noi-34672.html
-[hust-union-2017]: https://hust.edu.vn/vi/news/cong-tac-dang-va-doan-the/dai-hoi-dai-bieu-cong-doan-truong-dhbk-ha-noi-lan-thu-xxxiii-nhiem-ky-2017-2022-276910.html
 [eco-2251]: ../ECO-2251/
 [eco-2252]: ../ECO-2252/
 [koji-yakusho]: https://en.wikipedia.org/wiki/Koji_Yakusho

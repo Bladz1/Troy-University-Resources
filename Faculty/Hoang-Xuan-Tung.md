@@ -1,7 +1,7 @@
 # TS. Hoàng Xuân Tùng
 
-> "Perhaps the archives are incomplete."  
-> — **Obi-Wan Kenobi**
+> "Tôi mò một lúc thì cũng ra thôi, nhưng mà lâu. Thôi, dùng AI cho nó nhanh."  
+> — **TS. Hoàng Xuân Tùng**
 
 **TS. Hoàng Xuân Tùng** là giảng viên khoa Công Nghệ Thông Tin, Trường Đại Học Công Nghệ, ĐHQGHN.
 

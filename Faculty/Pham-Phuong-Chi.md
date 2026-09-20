@@ -13,7 +13,6 @@ Nghiên cứu của cô tập trung vào **văn học Việt Nam và Đông Nam 
 - **Lý lịch**: [Phạm Phương Chi][academic-profile]
 - **Ngày sinh**: 14/01/1982
 - **Giới tính**: Nữ 
-- **Nơi sinh**: Phú Thọ
 - **Quê quán**: Phù Ninh - Phú Thọ
 - **Học vị cao nhất**: Tiến sĩ
 - **Email**: chiphamvvh@gmail.com; phamphuongchi@gmail.com; cpham012@ucr.edu; cpham257554@troy.edu

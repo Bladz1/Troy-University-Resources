@@ -131,7 +131,7 @@ That’s all!!!!
 [nguyen-manh-hung]: https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_M%E1%BA%A1nh_H%C3%B9ng_(thi%E1%BA%BFu_t%C6%B0%E1%BB%9Bng)
 [researchgate-profile]: https://www.researchgate.net/profile/Du-Dinh-Vien
 [hbu-profile]: https://daihochoabinh.edu.vn/ts-du-dinh-vien-tu-hanh-trinh-hoc-tap-trai-qua-ba-chau-luc-den-bai-toan-quan-tri-giao-duc-tai-truong-dai-hoc-hoa-binh
-[hbu-faculty]: https://daihochoabinh.edu.vn/khoa/khoa-cong-nghe-thong-tin-va-dien-tu-vien-thong
+[hbu-faculty]: https://daihochoabinh.edu.vn/gioi-thieu-khoa-cong-nghe-thong-tin-va-dien-tu-vien-thong
 [haui-appointment]: https://www.haui.edu.vn/vn/tin-tuc/trao-quyet-dinh-bo-nhiem-vien-chuc-quan-ly-va-cong-bo-quyet-dinh-bo-nhiem-chuc-danh-pho-giao-su/63947
 [hbu-2023]: https://daihochoabinh.edu.vn/buoi-bao-ve-khoa-luan-tot-nghiep-cua-sinh-vien-nganh-cong-nghe-thong-tin
 [haui-2018]: https://jst-haui.vn/vn/cac-so-da-xuat-ban/tap-chi-khoa-hoc-va-cong-nghe-so-48-10-2018/60989

@@ -121,5 +121,5 @@ Xoay quanh kinh tế ứng dụng, chủ yếu gồm thương mại quốc tế,
 [eco-2251]: ../ECO-2251/
 [eco-2252]: ../ECO-2252/
 [koji-yakusho]: https://en.wikipedia.org/wiki/Koji_Yakusho
-[perfect-days]: https://en.wikipedia.org/wiki/Perfect_Days
+[perfect-days]: https://www.imdb.com/title/tt27503384/
 [contributing]: ../CONTRIBUTING.md

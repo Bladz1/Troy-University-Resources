@@ -1,7 +1,7 @@
 # TS. Đinh Minh Hằng
 
->"Perhaps the archives are incomplete."  
-— **Obi-Wan Kenobi**
+> "Perhaps the archives are incomplete."  
+> — **Obi-Wan Kenobi**
 
 **TS. Đinh Minh Hằng** là giảng viên bộ môn Văn học Việt Nam hiện đại. Hướng nghiên cứu chính của cô bao gồm Văn học Việt Nam hiện đại; thơ Việt Nam hiện đại trong tương quan so sánh với thơ Anh, Mỹ hiện đại; thơ Việt Nam hiện đại nhìn từ góc độ tiếp nhận một số lý thuyết văn học hiện đại.
 
@@ -39,6 +39,11 @@
   <blockquote markdown="1">
 
   - ENG-2206 - Summer-2026
+    - **Điểm tổng kết trung bình:** `?/100`
+      - Độ lệch chuẩn: `TBA`
+      - Tỉ lệ được A: `TBA` (TBA/TBA)
+      > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+  - ENG-2206 - Fall-2025
     - **Điểm tổng kết trung bình:** `?/100`
       - Độ lệch chuẩn: `TBA`
       - Tỉ lệ được A: `TBA` (TBA/TBA)

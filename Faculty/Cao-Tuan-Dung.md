@@ -49,17 +49,22 @@
   <summary><i>Lịch sử điểm tổng kết</i></summary>
   <blockquote markdown="1">
 
-  - ABC-1101 - Summer-20XX
+  - CS-3332 - Spring-2026
     - **Điểm tổng kết trung bình:** `?/100`
       - Độ lệch chuẩn: `TBA`
       - Tỉ lệ được A: `TBA` (TBA/TBA)
       > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
-  - ABC-1101 - Spring-20XX
+  - CS-3360 - Fall-2025
     - **Điểm tổng kết trung bình:** `?/100`
       - Độ lệch chuẩn: `TBA`
       - Tỉ lệ được A: `TBA` (TBA/TBA)
       > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
-  - ABC-1101 - Fall-20XX
+  - CS-3360 - Fall-2024
+    - **Điểm tổng kết trung bình:** `?/100`
+      - Độ lệch chuẩn: `TBA`
+      - Tỉ lệ được A: `TBA` (TBA/TBA)
+      > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+  - CS-2250 - Fall-2021
     - **Điểm tổng kết trung bình:** `?/100`
       - Độ lệch chuẩn: `TBA`
       - Tỉ lệ được A: `TBA` (TBA/TBA)

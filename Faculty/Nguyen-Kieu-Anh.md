@@ -1,7 +1,7 @@
 # CV. Nguyễn Kiều Anh
 
->"Could you please..."  
-— **Nguyễn Kiều Anh**'s catchphrase
+> "Could you please..."  
+> — **Nguyễn Kiều Anh**'s catchphrase
 
 **CV. Nguyễn Kiều Anh** là chuyên viên phụ trách chuyên chương trình đào tạo quốc tế (chương trình TROY- Hoa Kỳ).
 
@@ -36,35 +36,54 @@
 ## Chỉ số và sức mạnh
 
 - **Điểm tổng kết trung bình gần nhất:** `83.81/100`
+  
   - Độ lệch chuẩn: 9.75
+  
   - Tỉ lệ được A: 30.77% (12/39)
-  <details>
-  <summary><i>Lịch sử điểm tổng kết</i></summary>
-  <blockquote markdown="1">
-
+    
+    <details>
+    <summary><i>Lịch sử điểm tổng kết</i></summary>
+    <blockquote markdown="1">
+  
   - ENG-1102 - Spring-2026
+    
     - **Điểm tổng kết trung bình:** `83.81/100`
       - Độ lệch chuẩn: 9.75
       - Tỉ lệ được A: 30.77% (12/39)
+  
   - ENG-1101 - Fall-2025
+    
     - **Điểm tổng kết trung bình:** `81.90/100`
       - Độ lệch chuẩn: 9.05
       - Tỉ lệ được A: 4.17% (1/24)
+  
   - TROY-1101 - Summer-2025
+    
     - **Điểm tổng kết trung bình:** `67.80/100`
       - Độ lệch chuẩn: 14.22
       - Tỉ lệ được A: 4.55% (3/66)
-  </blockquote>
-  </details>
+        
+        </blockquote>
+        </details>
+
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
+  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 - **Độ bám sát bài học của đề thi:** `?/10`
+  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 - **Độ hợp lí, cân bằng của khối lượng bài vở và sức khỏe tinh thần:** `?/10`
+  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 - **Khả năng truyền đạt kiến thức và chuyên môn sư phạm:** `?/10`
+  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 - **Tác phong, tính cách và mức độ hỗ trợ sinh viên:** `?/10`
+  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Cơ chế trông thi
@@ -111,7 +130,6 @@
     - Đó là cho giảng viên thích làm mẹ gì thì làm, bố mày không quan tâm. Đứa nào đăng ký nhiều lớp giữ chỗ bố dọa giam học muộn.
     - ![nguyen-kieu-anh-threat-1]
     - ![nguyen-kieu-anh-threat-2]
-
 
 [profile-image]: https://i.imgur.com/zfLYXrK.jpeg
 [ctt-profile]: https://ctt.hust.edu.vn/DisplayWeb/DisplayMenu?menu=32

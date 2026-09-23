@@ -157,6 +157,7 @@ Chốt: Long và SV Troy có duyên đấy :)) NGHIỆT DUYÊN...
 - Trong kì Spring-2026, hiện tượng sinh viên tìm cách né lớp **ThS. NCS. Lê Nguyên Long** trở nên [khá rõ rệt][nguyen-kieu-anh-piece-of-mind], khi rất nhiều sinh viên đăng ký sang lớp của giảng viên khác bên VNU, làm lớp bên đó hết slot nhanh chóng. Trước tình hình đó, [CV. Nguyễn Kiều Anh][nguyen-kieu-anh] đã [yêu cầu các sinh viên][nka-facebook-course-dropping-request] hủy đăng ký những lớp này, đồng thời cố gắng trấn an họ bằng câu nói: “Bây giờ **thầy Long** thì coi trọng thái độ hơn trình độ”, nhằm thuyết phục sinh viên quay lại đăng ký lớp của Long Le.
   - Tuy nhiên, sự "trấn an" này đi kèm với một lời [đe dọa][wikipedia-coercion]: nếu sinh viên tiếp tục tự ý đăng ký sang lớp hoặc trường khác mà không theo sự sắp xếp hay cho phép của giáo viên để né **Long Le**, thì ở các kì sau, đặc biệt là các môn chuyên ngành, [CV. Nguyễn Kiều Anh][nguyen-kieu-anh] có thể mời những chuyên gia còn khó tính hơn **Long Le** về giảng dạy.
 - Trong kì Summer-2026, **ThS. NCS. Lê Nguyên Long** [trở thành tâm điểm chú ý của các sinh viên bên VNU khi có tin đồn giảng viên đã nhận tiền để cho sinh viên qua môn][long-le-scandal-1], từ đó bị VNU chấm dứt hợp đồng và ngừng thuê dạy. Tuy nhiên, đây chỉ là tin đồn và chưa có xác minh chính thức.
+- Thầy có đi kín nhé 😌. 
 
 [profile-image]: ../Miscellaneous/Assets/Images/Long-Le-2.jpg
 [academic-profile]: https://fol.ussh.vnu.edu.vn/vi/news/ly-lich-khoa-hoc/ths-ncs-le-nguyen-long-141.html

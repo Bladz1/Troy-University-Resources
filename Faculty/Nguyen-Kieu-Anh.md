@@ -5,6 +5,8 @@
 
 **CV. Nguyễn Kiều Anh** là chuyên viên phụ trách chuyên chương trình đào tạo quốc tế (chương trình TROY- Hoa Kỳ).
 
+Bên cạnh vai trò đầu mối của chương trình TROY, công việc được phân công hiện nay còn bao gồm quản lý đào tạo và hồ sơ sinh viên chương trình hợp tác với Đại học Troy, lập kế hoạch học tập và giảng dạy, hỗ trợ tư vấn thủ tục chuyển tiếp và đăng ký học tập, hỗ trợ sinh viên các chương trình quốc tế về học tập và tiếng Anh tăng cường, đồng thời hỗ trợ các chương trình Elitech giảng dạy bằng tiếng Anh.
+
 ## Thông tin cơ bản
 
 - **Ngoại hình**: [Nguyễn Kiều Anh][profile-image]
@@ -15,6 +17,7 @@
 - **Phòng**: 315-C1 - Bàn số 02
 - **Email**: anh.nguyenkieu@hust.edu.vn
 - **Số điện thoại**: (84) 912.383.754
+- **Học vị**: Thạc sĩ
 - **Facebook**: [Nguyễn Kiều Anh][facebook-profile]
 
 ## Lịch sử giảng dạy
@@ -124,6 +127,7 @@
 
 ## Trivia
 
+- Trong một [bài viết của Đại học Bách khoa Hà Nội][nguyen-bao-ngoc-hust] về thủ khoa K66 ngành Quản trị kinh doanh chương trình liên kết Troy, **Nguyễn Bảo Ngọc** nhắc đến **CV. Nguyễn Kiều Anh** như một người cố vấn tận tình và người đồng hành, hỗ trợ cân bằng giữa học tập và các hoạt động ngoại khóa 🤧.
 - Trong một bài khảo sát chất lượng, **CV. Nguyễn Kiều Anh** đã được sinh viên đánh giá với con số 8.67/10 (A tier) cho môn học ENG-1101 và 6.83/10 (C tier) cho môn học TROY-1101.
 - Do sự chênh lệch cực kì đáng kể giữa chuyên môn sư phạm, trải nghiệm và phân bố điểm của các giảng viên trong cùng một môn học, để bảo vệ GPA của mình, nhiều sinh viên phải lựa chọn việc đăng ký nhiều lớp trong cùng một môn để giữ chỗ trước khi biết được giảng viên của lớp đó.
   - Tuy nhiên, thay vì ghi nhận và tìm cách giải quyết cốt lõi sự chênh lệch giữa khả năng và sự thiếu công bằng đó của các giảng viên, ví dụ như làm phổ điểm, tiêu chí chấm công khai, công bằng và minh bạch, cũng như ghi nhận đánh giá, xem xét trình độ và sự chênh lệch giữa các kiến thức đạt của các giảng viên qua từng kì học để từ đó tìm cách cải thiện, **C.V. Nguyễn Kiều Anh** lựa chọn một giải pháp mang tính kinh tế hơn:
@@ -134,6 +138,7 @@
 [profile-image]: https://i.imgur.com/zfLYXrK.jpeg
 [ctt-profile]: https://ctt.hust.edu.vn/DisplayWeb/DisplayMenu?menu=32
 [facebook-profile]: https://www.facebook.com/profile.php?id=1102264432
+[nguyen-bao-ngoc-hust]: https://hust.edu.vn/vi/news/tin-tuc-su-kien/bach-khoa-da-cho-toi-nhieu-hon-ca-mot-tam-bang-655686.html
 [eng-1101]: ../ENG-1101/
 [eng-1102]: ../ENG-1102/
 [troy-1101]: ../TROY-1101/

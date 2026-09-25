@@ -1,7 +1,7 @@
 # TS. Nguyễn Đình Văn
 
-> "福不重来, 祸必重来"  
-> — **Ngạn ngữ cổ**
+> "Nào, các thanh niên ơi..."  
+> — **TS. Nguyễn Đình Văn**, *kéo cả lớp trở lại thực tại*
 
 **TS. Nguyễn Đình Văn** là giảng viên Khoa Kỹ thuật truyền thông, trường Điện - Điện Tử.
 

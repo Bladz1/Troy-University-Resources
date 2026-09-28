@@ -89,7 +89,7 @@ Thầy nghiên cứu **toán rời rạc, đặc biệt là lý thuyết đồ t
 
 
 [profile-image]: https://fami.hust.edu.vn/wp-content/uploads/IMG_1443.jpg
-[academic-profile]: https://fami.hust.edu.vn/danh-sach-giang-vien/n-3/
+[academic-profile]: https://fami.hust.edu.vn/giang-vien/?name=trungdd
 [researchgate-profile]: https://www.researchgate.net/profile/Trung-Doan-3
 [doctoral-thesis]: https://d-nb.info/1226100597/34
 [facebook-profile]: https://www.facebook.com/profile.php?id=100000025793205

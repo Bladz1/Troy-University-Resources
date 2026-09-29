@@ -17,7 +17,6 @@
 - **Khoa**: Kinh doanh
 - **Trường**: Kinh tế
 - **Email**: thuy.nguyenthithu@hust.edu.vn
-- 
 
 ## Học vấn và chức danh
 

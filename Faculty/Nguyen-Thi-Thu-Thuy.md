@@ -85,7 +85,6 @@ Cô giảng dạy [Kinh tế học vi mô và Kinh tế học vĩ mô][academic-
 [eco-2252]: ../ECO-2252/
 [contributing]: ../CONTRIBUTING.md
 [pgs-2023]: https://xaydungchinhsach.chinhphu.vn/danh-sach-ung-vien-du-tieu-chuan-cong-nhan-chuc-danh-gs-pgs-nam-2023-119231106155503123.htm
-[orcid]: https://orcid.org/0000-0002-3216-0602
 [nighttime-economy]: https://ieeca.org/journal/index.php/JEECAR/article/view/1376
 [digital-readiness]: https://businessperspectives.org/journals/problems-and-perspectives-in-management/issue-442/determinants-of-employee-digital-transformation-readiness-and-job-performance-a-case-of-smes-in-vietnam
 [e-waste-recycling]: https://link.springer.com/chapter/10.1007/978-981-95-9113-8_34

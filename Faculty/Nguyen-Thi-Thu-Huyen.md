@@ -101,7 +101,6 @@ Tỉ lệ được A trong 2 kì đầu tiên cô dạy y hệt nhau (24%), ngh�
 
 - Trong một bài khảo sát chất lượng, **TS. Nguyễn Thị Thu Huyền** đã được sinh viên K69 xếp hạng 'S tier'.
 
-
 [profile-image]: https://www.is.vnu.edu.vn/wp-content/uploads/2023/10/Nguyen-Huyen-min-255x382.jpg
 [academic-profile]: https://www.is.vnu.edu.vn/ths-nguyen-thi-thu-huyen/
 [eng-1101]: ../ENG-1101/

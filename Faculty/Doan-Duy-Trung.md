@@ -87,7 +87,6 @@ Thầy nghiên cứu **toán rời rạc, đặc biệt là lý thuyết đồ t
 - Môn học MTH-1112 của **TS. Đoàn Duy Trung** là một trong những môn học có tỉ lệ sinh viên trượt môn cao nhất ngành Troy.
 - Trong một bài khảo sát chất lượng, **TS. Đoàn Duy Trung** được các sinh viên K69 xếp hạng 'A tier' với số điểm 8.88/10.
 
-
 [profile-image]: https://fami.hust.edu.vn/wp-content/uploads/IMG_1443.jpg
 [academic-profile]: https://fami.hust.edu.vn/giang-vien/?name=trungdd
 [researchgate-profile]: https://www.researchgate.net/profile/Trung-Doan-3

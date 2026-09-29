@@ -58,7 +58,6 @@
   - "Điều ta muốn chỉ là tự do..."  
   - "Xin người tự do..."
 
-
 [profile-image]: https://his.ussh.vnu.edu.vn/uploads/his/gioi-thieu/2019_08/nguyennhatlinh.jpg
 [academic-profile]: https://his.ussh.vnu.edu.vn/vi/gioi-thieu/giang-vien/ly-lich-khoa-hoc-ts-nguyen-nhat-linh-4317.html
 [facebook-profile]: https://www.facebook.com/profile.php?id=100001352016954

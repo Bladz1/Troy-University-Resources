@@ -73,7 +73,6 @@ Chill, nhẹ nhàng, không kiểm tra, chỉ có nhiệt huyết và nghệ thu
 ## Trivia
 - **ThS. Vũ Kim Thư** được đánh giá rất cao và được ưu ái xếp hạng 'S Tier' bởi các sinh viên K69. Trong một bài khảo sát chất lượng, giảng viên được sinh viên đánh giá với số điểm 9.52/10.
 
-
 [profile-image]: https://cite.ueb.edu.vn/Uploads/Article/lanntp@vnu.edu.vn/2021_8/images/31_%20ThS_%20Vu%20Kim%20Thu.jpg
 [ueb_profile]: https://cite.ueb.edu.vn/article-ThS.-Vu-Kim-Thu-18868-2351.html
 [facebook_profile]: https://www.facebook.com/profile.php?id=612112166

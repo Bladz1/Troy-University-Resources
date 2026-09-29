@@ -46,7 +46,6 @@ Thầy Hải chill, không lo lắng, kê cao gối, học vui vẻ, môn thì d
 ## Trivia
 - Trong một bài khảo sát chất lượng, **TS. Nguyễn Nhất Hải** đã được sinh viên K69 xếp hạng 'C tier' với số điểm 6.16/10.
 
-
 [profile-image]: https://soict.hust.edu.vn/wp-content/uploads/2019/06/Nguy%E1%BB%85n-Nh%E1%BA%A5t-H%E1%BA%A3i.jpg
 [academic-profile]: https://soict.hust.edu.vn/ts-nguyen-nhat-hai.html
 [is-2241]: ../IS-2241/

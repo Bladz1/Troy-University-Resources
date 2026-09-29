@@ -52,7 +52,6 @@ Hiện tại, ông đang là Trợ lý Giáo sư tại Khoa Khoa học Máy tín
 ## Trivia
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
-
 [profile-image]: https://www.troy.edu/_assets/college-arts-sciences/departments/computer-science/_images/jung.jpg
 [academic-profile]: https://scholar.google.com/citations?user=CUv5u1QAAAAJ&hl=en
 [facebook-profile]: https://www.facebook.com/profile.php?id=100002115892980

@@ -45,7 +45,6 @@
 ## Trivia
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
-
 [vnu-profile]: https://vnu.edu.vn/ly-lich-khoa-hoc-cua-can-bo-vien-vi-sinh-vat-va-cong-nghe-sinh-hoc-post252.html
 [bio-1100]: ../BIO-1100/
 [contributing]: ../CONTRIBUTING.md

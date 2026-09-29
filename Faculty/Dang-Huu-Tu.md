@@ -133,7 +133,6 @@ Có cầu trời khấn phật cũng vô ích. Một là bản án tử hình ma
 
 - [Ngày trở thành đồng nghiệp với thầy, cô - Trang tin tức Đại học Bách khoa Hà Nội][hust_news_article]
 
-
 [hust_news_article]: https://hust.edu.vn/vi/news/tin-tuc-su-kien/ngay-tro-thanh-dong-nghiep-voi-thay-co-655685.html
 [profile-image]: https://i1.rgstatic.net/ii/profile.image/972983258591232-1608988694465_Q128/Huu-Tu-Dang.jpg
 [gg_scholar_profile]: https://scholar.google.com/citations?user=9xSEDWYAAAAJ&hl=en

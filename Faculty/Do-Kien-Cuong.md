@@ -48,7 +48,6 @@
 ## Trivia
 - Trong một bài khảo sát chất lượng, **ThS. Đỗ Kiên Cường** đã được các sinh viên K69 xếp hạng 'S tier' với số điểm 8.94/10.
 
-
 [profile-image]: https://cite.ueb.edu.vn/Uploads/Article/lanntp@vnu.edu.vn/2021_8/images/cda627b42965e554039e1248e1934172-31.jpg
 [academic-profile]: https://cite.ueb.edu.vn/article-ThS.-Do-Kien-Cuong-18839-2351.html
 [youtube-channel]: https://www.youtube.com/channel/UCgC3_xptsBQuxX6buXxGiUg

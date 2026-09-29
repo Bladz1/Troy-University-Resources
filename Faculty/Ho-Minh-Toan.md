@@ -118,7 +118,6 @@ A GOOD MAN 👍👍👍
   - >"Nên học hành cẩn thận, sẽ có Mr. Cường (đệ của thầy) trông thi, đồ sát quét sạch, gần như không thể cheat, hoặc nhìn bài."
   - Tuy nhiên, từ kì Fall-2025, đã không còn ai thấy bóng dáng của "Mr. Cường" nữa.
 
-
 [profile-image]: https://math.ac.vn/uploads/images/Toan_HoMinh.jpg
 [academic-profile]: https://math.ac.vn/staff/ho-minh-toan
 [professor-leonard-trigs]: https://www.youtube.com/watch?v=c41QejoWnb4&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=74

@@ -182,7 +182,6 @@ Thầy Khôi giờ đã không còn như xưa.
 - Trong một bài khảo sát chất lượng kì Fall-2025, **PGS. TS Vũ Thế Khôi** đã được các sinh viên K69 xếp hạng 'D tier' với số điểm 5.47/10.
 - Trong một bài khảo sát chất lượng kì Spring-2026, **PGS. TS Vũ Thế Khôi** đã được các sinh viên K69 xếp hạng 'F tier' với số điểm 3.73/10.
 
-
 [profile-image]: https://math.ac.vn/uploads/images/Khoi_VuThe.jpg
 [academic-profile]: https://math.ac.vn/staff/vu-the-khoi
 [facebook-profile]: https://www.facebook.com/profile.php?id=100021587303854

@@ -123,7 +123,6 @@ Môn này với lí do là môn 'Foundations' nên anh không cho thi mà cho th
 - **PGS. TS. Lê Chí Ngọc** đã fail ít nhất một bài thuyết trình chính ngay cả [cháu ruột của mình][trivia_image_1] trong kì học Fall-2025.
 - **PGS. TS. Lê Chí Ngọc** có sở thích bóng đá, cầu lông, bóng bàn, bơi lội, nhiếp ảnh, du lịch, đọc sách, âm nhạc, điện ảnh.
 
-
 [whiplash-fletcher]: https://www.youtube.com/watch?v=l9VViSscQvA
 [profile-image]: https://fami.hust.edu.vn/wp-content/uploads/IMG_0559.jpg
 [fami_profile]: https://fami.hust.edu.vn/giang-vien/?name=ngoclc

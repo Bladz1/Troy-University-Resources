@@ -47,7 +47,6 @@
 ## Trivia
 - Trong một bài khảo sát chất lượng, **TS. Nguyễn Trung Dũng** đã được các sinh viên K70 xếp hạng 'A tier' với số điểm 8.8/10.
 
-
 [profile-image]: https://fami.hust.edu.vn/wp-content/uploads/IMG_1813.jpg
 [academic-profile]: https://fami.hust.edu.vn/giang-vien/?name=dungnt2
 [is-2241]: ../IS-2241/

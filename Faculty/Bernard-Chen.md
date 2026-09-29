@@ -26,7 +26,6 @@
 Low S tier.  
 Như phần lớn sinh viên Mẽo đã đánh giá trong RateMyProfessors, Chen cho A khá là free (gần cả lớp đc A), nhưng nếu tự hỏi là học được gì sau khi hết course, bạn sẽ nhận ra là mình chả học được mẹ gì cả. Nhưng điểm số là trên hết nên tất nhiên, vẫn S tier.
 
-
 ## Chỉ số và sức mạnh
 
 - **Điểm tổng kết trung bình gần nhất:** `?/100`
@@ -81,7 +80,6 @@ Như phần lớn sinh viên Mẽo đã đánh giá trong RateMyProfessors, Chen
 
 - **TS. Bernard Chen** được nhìn thấy mang theo một chai nước có nhãn của khách sạng 5 sao JW Marriott, gợi ý rằng giảng viên là khách hàng của khách sạn này trong vòng 2 tuần giảng viên ở Hà Nội kì Spring 2026.
   - Giá phòng 2 tuần của khách sạn JW Marriot nằm loanh quanh 60 triệu VND, chưa tính thuế và các phí khác.
-
 
 [youtube-link-1]: https://www.youtube.com/watch?v=RNgK4CCOEXI
 [profile-image]: https://www.troy.edu/_assets/college-arts-sciences/departments/computer-science/_images/chen-bernard.jpg

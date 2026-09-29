@@ -77,7 +77,6 @@
 
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
-
 [profile-image]: https://sem.hust.edu.vn/wp-content/uploads/2023/12/z4973870381535_6f59c7a554d3fb1c38831f6b6773936b.jpg
 [academic-profile]: https://sem.hust.edu.vn/lecturers/ths-nguyen-quynh-hoa
 [mkt-3300]: ../MKT-3300/

@@ -3,7 +3,7 @@
 > "That's why I'm saying study hard, play hard..."  
 > — **TS. Bernard Chen**, [*Inside Troy’s Computer Science Program*][youtube-link-1]
 
-**TS. Bernard Chen** là [giáo sư kiêm Trưởng khoa Khoa học máy tính (Professor and Chair), Đại học Troy, Mĩ][troy-faculty]. Trước khi đến Troy, thầy từng giảng dạy và nghiên cứu tại University of Central Arkansas (UCA).
+**TS. Bernard Chen** là [giáo sư kiêm Trưởng khoa Khoa học máy tính, Đại học Troy, Mĩ][troy-faculty]. Trước khi đến Troy, thầy từng giảng dạy và nghiên cứu tại University of Central Arkansas (UCA).
 
 ## Thông tin cơ bản
 

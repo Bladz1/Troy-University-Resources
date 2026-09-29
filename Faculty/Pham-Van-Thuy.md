@@ -10,7 +10,7 @@
 - **Ngoại hình**: [Phạm Văn Thủy][profile-image]
 - **Lý lịch**: [VNU - Phạm Văn Thủy][academic-profile]
 - **Ngày sinh**: [12/05/1982][faculty-profile]
-- **Quê quán**: [Bách Thuận, Vũ Thư, Thái Bình][faculty-profile]
+- **Quê quán**: [Bách Thuận, Vũ Thư, Thái Bình][faculty-profile] (nay thuộc xã Tân Thuận, tỉnh Hưng Yên)
 - **Giới tính**: Nam
 - **Học vị cao nhất**: Tiến sĩ Lịch sử
 - **Khoa**: Lịch sử và Văn hóa

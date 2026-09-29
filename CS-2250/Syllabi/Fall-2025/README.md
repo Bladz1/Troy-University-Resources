@@ -74,20 +74,24 @@ Students are required to submit their source code file(s) as email attachments p
 
 ### **COURSE SCHEDULE**  
 
-| Lecture | Topic | Reading/Assignment |
-| :--- | :--- | :--- |
-| Lecture 1 | Course Introduction, Compiler information. Computer system, Programming Language, Input and Output | Gaddis, Chapter 1 |
-| Lecture 2 | C++ Introduction, part of program, cout object, variable, data type: integer, floating point | Gaddis, Chapter 2 |
-| Lecture 3 | Expressions and Interactivity, Cin object | Gaddis, Chapter 3<br>Project 1 |
-| Lecture 4 | Making Decisions, Branch statements | Gaddis, Chapter 4 |
-| Lecture 5 | Switch statement, Menu system | Gaddis, Chapter 4<br>Project 2 |
-| Lecture 6 | Looping, while and do while statement | Gaddis, Chapter 5 |
-| Lecture 7 | For loop, reading from a file | Gaddis, Chapter 5<br>Project 3 |
-| Lecture 8 | Midterm exam | |
-| Lecture 9 | Function: modular programming, function prototype, sending data to function | Gaddis, Chapter 6 |
-| Lecture 10 | Function: local, global and static variable, reference variable as parameter, overloading function | Gaddis, Chapter 6<br>Project 4 |
-| Lecture 11 | Array: One and two dimension array | Gaddis, Chapter 7 |
-| Lecture 12 | Sorting and Searching Arrays | Gaddis, Chapter 7<br>Project 5 |
-| Lecture 13 | Structured Data | Gaddis, Chapter 11 |
-| Lecture 14 | Structured Data | Gaddis, Chapter 11<br>Project 6 |
-| Lecture 15 | Final exam | |
+<div align="center">
+
+| Lecture    | Topic                                                                                              | Reading/Assignment              |
+| :--------- | :------------------------------------------------------------------------------------------------- | :------------------------------ |
+| Lecture 1  | Course Introduction, Compiler information. Computer system, Programming Language, Input and Output | Gaddis, Chapter 1               |
+| Lecture 2  | C++ Introduction, part of program, cout object, variable, data type: integer, floating point       | Gaddis, Chapter 2               |
+| Lecture 3  | Expressions and Interactivity, Cin object                                                          | Gaddis, Chapter 3<br>Project 1  |
+| Lecture 4  | Making Decisions, Branch statements                                                                | Gaddis, Chapter 4               |
+| Lecture 5  | Switch statement, Menu system                                                                      | Gaddis, Chapter 4<br>Project 2  |
+| Lecture 6  | Looping, while and do while statement                                                              | Gaddis, Chapter 5               |
+| Lecture 7  | For loop, reading from a file                                                                      | Gaddis, Chapter 5<br>Project 3  |
+| Lecture 8  | Midterm exam                                                                                       |                                 |
+| Lecture 9  | Function: modular programming, function prototype, sending data to function                        | Gaddis, Chapter 6               |
+| Lecture 10 | Function: local, global and static variable, reference variable as parameter, overloading function | Gaddis, Chapter 6<br>Project 4  |
+| Lecture 11 | Array: One and two dimension array                                                                 | Gaddis, Chapter 7               |
+| Lecture 12 | Sorting and Searching Arrays                                                                       | Gaddis, Chapter 7<br>Project 5  |
+| Lecture 13 | Structured Data                                                                                    | Gaddis, Chapter 11              |
+| Lecture 14 | Structured Data                                                                                    | Gaddis, Chapter 11<br>Project 6 |
+| Lecture 15 | Final exam                                                                                         |                                 |
+
+</div>

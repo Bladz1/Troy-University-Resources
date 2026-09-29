@@ -93,7 +93,6 @@
 
 - **TS. Bùi Thị Mai Anh** được các sinh viên K69 đánh giá rất thấp ('F tier'). Trong một bài khảo sát chất lượng, giảng viên đã được sinh viên đánh giá với con số 4,94/10.
 
-
 [profile-image]: https://soict.hust.edu.vn/wp-content/uploads/2019/06/B%C3%B9i-Th%E1%BB%8B-Mai-Anh.jpg
 [soict_profile]: https://soict.hust.edu.vn/ts-bui-thi-mai-anh.html
 [is-2241]: ../IS-2241/

@@ -55,14 +55,17 @@ Total grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 
 **ASSIGMENT OF GRADES**
 
-| Grade | Total Score |
-| :---: | :---: |
-| A | 90.0 and up |
-| B | 80.0 - 89.0 |
-| C | 70.0 - 79.0 |
-| D | 60.0 - 69.0 |
-| F | Below 60.0 |
+<div align="center">
 
+| Grade | Total Score |
+| :---: | :---------- |
+| A     | 90.0 and up |
+| B     | 80.0 - 89.0 |
+| C     | 70.0 - 79.0 |
+| D     | 60.0 - 69.0 |
+| F     | Below 60.0  |
+
+</div>
 
 **Time schedule :**  
 Tuesday aftenoon from 14h00 pm – 16h45 pm  
@@ -70,24 +73,27 @@ Location : D9- Ro.304
 
 **TENTATIVE SCHEDULER**
 
-| Week | Contents | DATE | Note |
-| :---: | :--- | :--- | :--- |
-| 1. | Introduction to Computers Concepts | 24/09/2024 | |
-| 2. | IT systems and **information representation** | 01/10/2024 | |
-| 3. | **Overview and Exam 1** | 08/10/2024 | |
-| 4. | MS Word | 15/10/2024 | Lab* |
-| 5. | MS Word (cont.) | 22/10/2024 | Lab* |
-| 6. | **Review Word and Exam 2** | 29/10/2024 | Lab* |
-| 7. | MS Excel | 05/11/2024 | Lab* |
-| 8. | MS Excel (cont.) | 12/11/2024 | Lab* |
-| 9. | **Review Excel and Exam 3** | 19/11/2024 | Lab* |
-| 10. | MS PowerPoint | 26/11/2024 | Lab* |
-| 11. | MS PowerPoint (cont.) | 03/12/2024 | Lab* |
-| 12. | **Review Power Point and Exam 4** | 10/12/2024 | Lab* |
-| 13. | Database | 17/12/2024 | |
-| 14. | Review overall | 24/12/2024 | |
-| 15. | **Exam 5 - Final: ICT, MS Word, Excel, Power point, Database…** | 30/12/2024 | |
+<div align="center">
 
+| Week  | Contents                                                        | DATE       | Note |
+| :---: | :-------------------------------------------------------------- | :--------: | :--- |
+| 1.    | Introduction to Computers Concepts                              | 24/09/2024 |      |
+| 2.    | IT systems and **information representation**                   | 01/10/2024 |      |
+| 3.    | **Overview and Exam 1**                                         | 08/10/2024 |      |
+| 4.    | MS Word                                                         | 15/10/2024 | Lab* |
+| 5.    | MS Word (cont.)                                                 | 22/10/2024 | Lab* |
+| 6.    | **Review Word and Exam 2**                                      | 29/10/2024 | Lab* |
+| 7.    | MS Excel                                                        | 05/11/2024 | Lab* |
+| 8.    | MS Excel (cont.)                                                | 12/11/2024 | Lab* |
+| 9.    | **Review Excel and Exam 3**                                     | 19/11/2024 | Lab* |
+| 10.   | MS PowerPoint                                                   | 26/11/2024 | Lab* |
+| 11.   | MS PowerPoint (cont.)                                           | 03/12/2024 | Lab* |
+| 12.   | **Review Power Point and Exam 4**                               | 10/12/2024 | Lab* |
+| 13.   | Database                                                        | 17/12/2024 |      |
+| 14.   | Review overall                                                  | 24/12/2024 |      |
+| 15.   | **Exam 5 - Final: ICT, MS Word, Excel, Power point, Database…** | 30/12/2024 |      |
+
+</div>
 
 Requirements:
 * Software needed for LAB: MS Word, MS Excel, MS access and MS power point of Microsoft Office 365 (free installation from HUST’s student accounts)

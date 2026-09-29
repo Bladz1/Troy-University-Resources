@@ -47,7 +47,6 @@ Khá ít thông tin nhưng có vẻ thi đơn giản chép được.
 ## Trivia
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
-
 [profile-image]: https://soict.hust.edu.vn/wp-content/uploads/DinhThiHaLy-3.jpg
 [soict_profile]: https://soict.hust.edu.vn/ts-dinh-thi-ha-ly.html
 [cs-3310]: ../CS-3310/

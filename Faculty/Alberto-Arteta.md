@@ -50,7 +50,6 @@
 ## Trivia
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
-
 [profile-image]: https://www.troy.edu/_assets/college-arts-sciences/departments/computer-science/_images/arteta.jpg
 [academic-profile]: https://spectrum.troy.edu/aarteta/
 [facebook-profile]: https://www.facebook.com/profile.php?id=699850553

@@ -54,7 +54,6 @@
 ## Trivia
 - Trong một bài khảo sát chất lượng, **PGS. TS. Phạm Thị Kim Ngọc** đã được các sinh viên K69 xếp hạng 'C tier', với số điểm 6.61/10.
 
-
 [profile-image]: https://sem.hust.edu.vn/wp-content/uploads/2023/12/Co-Kim-Ngoc-e1703562509986-768x1024.jpg
 [academic-profile]: https://sem.hust.edu.vn/lecturers/ts-pham-thi-kim-ngoc
 [mgt-3300]: ../MGT-3300/

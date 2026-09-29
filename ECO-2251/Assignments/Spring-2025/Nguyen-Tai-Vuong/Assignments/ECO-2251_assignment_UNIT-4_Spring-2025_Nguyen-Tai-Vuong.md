@@ -3,15 +3,14 @@
 For the data in the following table, the consumption function is C = 800 + 0.6(Y – T). Fill in the columns in the table and identify the equilibrium output.
 
 | Output | Net Taxes | Disposable Income | Consumption Spending | Saving | Planned Investment Spending | Government Purchases | Planned Aggregate Expenditure | Unplanned Inventory Change |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2,100 | 100 | | | | 300 | 400 | | |
-| 2,600 | 100 | | | | 300 | 400 | | |
-| 3,100 | 100 | | | | 300 | 400 | | |
-| 3,600 | 100 | | | | 300 | 400 | | |
-| 4,100 | 100 | | | | 300 | 400 | | |
-| 4,600 | 100 | | | | 300 | 400 | | |
-| 5,100 | 100 | | | | 300 | 400 | | |
-
+| :----: | :-------: | :---------------: | :------------------: | :----: | :-------------------------: | :------------------: | :---------------------------: | :------------------------: |
+| 2,100  | 100       |                   |                      |        | 300                         | 400                  |                               |                            |
+| 2,600  | 100       |                   |                      |        | 300                         | 400                  |                               |                            |
+| 3,100  | 100       |                   |                      |        | 300                         | 400                  |                               |                            |
+| 3,600  | 100       |                   |                      |        | 300                         | 400                  |                               |                            |
+| 4,100  | 100       |                   |                      |        | 300                         | 400                  |                               |                            |
+| 4,600  | 100       |                   |                      |        | 300                         | 400                  |                               |                            |
+| 5,100  | 100       |                   |                      |        | 300                         | 400                  |                               |                            |
 
 **Problem 2:**
 

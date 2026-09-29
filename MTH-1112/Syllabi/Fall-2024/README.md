@@ -51,24 +51,27 @@ A (90-100), B (80-89), C (70-79), D (60-69), F (<60)
 
 </div>
 
-| No | Date | Chapters | Topics | Remarks |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | Sep. 25 | Review, | Review of basic concepts on functions and graphs | |
-| 2 | Oct. 2 | Chap 1&2 | Equations and Inequalities, Graphs | |
-| 3 | Oct. 9 | Chap 2 | Functions and Their Graphs | |
-| 4 | Oct. 16 | Chap 3 | Linear and Quadratic Functions | |
-| 5 | Oct. 23 | Chap 4 | Polynomial and Rational Functions | |
-| 6 | Oct. 30 | Chap 5 | Exponential and Logarithmic Functions | |
-| 7 | Nov. 6 | | **Review before Midterm Exam: Question & Answer** | **Midterm Exam**<br>**(chapters 3,4,5 & 6)** |
-| 8 | Nov. 13 | | System of linear equations | |
-| 9 | Nov. 20 | Chap 12.1-12.3 | Matrix Algebra | |
-| 10 | Nov. 27 | 12.4 | Matrix Algebra (cont.) | |
-| 11 | Dec. 4 | 12.6&12.7 | Systems of Nonlinear Equations & System of Inequalities | Test |
-| 12 | Dec. 11 | 12.8 | Linear Programming | |
-| 13 | Dec. 18 | | Sequences, Binomial Theorem | |
-| 14 | Dec. 25 | | Review for the Final Exam: Q&A | |
-| 15 | **TBA** | | **Final Exam** | **Final Exam** |
+<div align="center">
 
+| No   | Date    | Chapters       | Topics                                                  | Remarks                                      |
+| :--- | :-----: | :------------- | :------------------------------------------------------ | :------------------------------------------- |
+| 1    | Sep. 25 | Review,        | Review of basic concepts on functions and graphs        |                                              |
+| 2    | Oct. 2  | Chap 1&2       | Equations and Inequalities, Graphs                      |                                              |
+| 3    | Oct. 9  | Chap 2         | Functions and Their Graphs                              |                                              |
+| 4    | Oct. 16 | Chap 3         | Linear and Quadratic Functions                          |                                              |
+| 5    | Oct. 23 | Chap 4         | Polynomial and Rational Functions                       |                                              |
+| 6    | Oct. 30 | Chap 5         | Exponential and Logarithmic Functions                   |                                              |
+| 7    | Nov. 6  |                | **Review before Midterm Exam: Question & Answer**       | **Midterm Exam**<br>**(chapters 3,4,5 & 6)** |
+| 8    | Nov. 13 |                | System of linear equations                              |                                              |
+| 9    | Nov. 20 | Chap 12.1-12.3 | Matrix Algebra                                          |                                              |
+| 10   | Nov. 27 | 12.4           | Matrix Algebra (cont.)                                  |                                              |
+| 11   | Dec. 4  | 12.6&12.7      | Systems of Nonlinear Equations & System of Inequalities | Test                                         |
+| 12   | Dec. 11 | 12.8           | Linear Programming                                      |                                              |
+| 13   | Dec. 18 |                | Sequences, Binomial Theorem                             |                                              |
+| 14   | Dec. 25 |                | Review for the Final Exam: Q&A                          |                                              |
+| 15   | **TBA** |                | **Final Exam**                                          | **Final Exam**                               |
+
+</div>
 
 **CLASS REGULATION:** Students are expected to:  
 1. Punctually attend all scheduled classes.

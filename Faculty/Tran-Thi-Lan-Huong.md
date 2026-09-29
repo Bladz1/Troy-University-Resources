@@ -52,7 +52,6 @@ Nếu bạn học cô Lan Hương thì xin chúc mừng, bạn sắp bước và
 ## Trivia
 - Trong một bài khảo sát chất lượng, **ThS. Trần Thị Lan Hương** đã được sinh viên đánh giá xếp hạng 'S tier'.
 
-
 [profile-image]: https://www.is.vnu.edu.vn/wp-content/uploads/2023/10/Huong-min-255x382.jpg
 [vnu-profile]: https://www.is.vnu.edu.vn/ths-tran-thi-lan-huong/
 [eng-1101]: ../ENG-1101/

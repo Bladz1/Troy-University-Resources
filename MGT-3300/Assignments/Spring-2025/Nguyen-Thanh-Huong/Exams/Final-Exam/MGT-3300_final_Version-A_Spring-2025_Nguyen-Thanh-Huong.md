@@ -8,28 +8,26 @@
 
 **Student name:** ........................................................ **Student ID:** ........................ **Signature:** ........................................
 
-| Grade | Signature of lecturer | Signature of supervisor |
-| :--- | :--- | :--- |
-| &nbsp; | &nbsp; | &nbsp; |
-
+| Grade  | Signature of lecturer | Signature of supervisor |
+| :----- | :-------------------- | :---------------------- |
+| &nbsp; | &nbsp;                | &nbsp;                  |
 
 Note: Students do not allow to use the material, books, mobile phone, computer
 
 **I. Please circle on the True or Fault for the following questions: (20 points)**
 
-| No. | Statement | | |
-| :--- | :--- | :---: | :---: |
-| 1. | Good and creative management can help compensate for limited natural resources. | T | F |
-| 2. | The amount of time spent on the leading function increases as one moves from first line managers to top managers. | T | F |
-| 3. | Strengths and opportunities are considered internal factors in SWOT analysis. | T | F |
-| 4. | Departmental objectives are aligned with the overall organizational goals. | T | F |
-| 5. | Rules are standing plans that specify required actions with no room for interpretation, unlike policies which are broader and allow flexibility depending on the situation. | T | F |
-| 6. | In the bottom-up approach, planning is controlled exclusively by top management without input from lower-level employees. | T | F |
-| 7. | Self actualization is one of needs belong to low level in the Maslow's needs hierarchy theory. | T | F |
-| 8. | Managers should focus more on developing the external labor forces rather than internal ones. | T | F |
-| 9. | The principle "Subordination of individual interest to the general interest" helps promote unity and ethical behavior in an organization. | T | F |
-| 10. | Job enlargement involves increasing an employee's responsibilities by assigning them to a higher-level role. | T | F |
-
+| No.  | Statement                                                                                                                                                                   |       |       |
+| :--- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---: | :---: |
+| 1.   | Good and creative management can help compensate for limited natural resources.                                                                                             | T     | F     |
+| 2.   | The amount of time spent on the leading function increases as one moves from first line managers to top managers.                                                           | T     | F     |
+| 3.   | Strengths and opportunities are considered internal factors in SWOT analysis.                                                                                               | T     | F     |
+| 4.   | Departmental objectives are aligned with the overall organizational goals.                                                                                                  | T     | F     |
+| 5.   | Rules are standing plans that specify required actions with no room for interpretation, unlike policies which are broader and allow flexibility depending on the situation. | T     | F     |
+| 6.   | In the bottom-up approach, planning is controlled exclusively by top management without input from lower-level employees.                                                   | T     | F     |
+| 7.   | Self actualization is one of needs belong to low level in the Maslow's needs hierarchy theory.                                                                              | T     | F     |
+| 8.   | Managers should focus more on developing the external labor forces rather than internal ones.                                                                               | T     | F     |
+| 9.   | The principle "Subordination of individual interest to the general interest" helps promote unity and ethical behavior in an organization.                                   | T     | F     |
+| 10.  | Job enlargement involves increasing an employee's responsibilities by assigning them to a higher-level role.                                                                | T     | F     |
 
 **II. Please circle on the most right answer to fulfill the blank or to answer the flowing questions(20 points)**
 

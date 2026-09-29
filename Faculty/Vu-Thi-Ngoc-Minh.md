@@ -48,7 +48,6 @@ Môn này trông thi khá khó, khó cheat, học cô chill mà trông thi cô n
 ## Trivia
 - **TS. Vũ Thị Ngọc Minh** được sinh viên K69 xếp hạng 'A tier' mặc dù điểm tổng kết trung bình khá thấp. Trong một bài khảo sát chất lượng, giảng viên được sinh viên đánh giá với số điểm 8.18/10
 
-
 [profile-image]: https://research.hust.edu.vn/minh.vuthingoc
 [scls_profile]: https://scls.hust.edu.vn/vi/organs/person/Khoa-Ky-thuat-Hoa-hoc-16/TS-Vu-Thi-Ngoc-Minh-235/
 [chm-1142]: ../CHM-1142/

@@ -20,11 +20,15 @@
 
 ## Học vấn
 
+<div align="center">
+
 | Năm nhận bằng | Văn bằng | Cơ sở đào tạo |
 | --- | --- | --- |
 | 2007 | [Cử nhân Lịch sử, hệ chính quy chất lượng cao][academic-cv] | Trường Đại học Khoa học Xã hội và Nhân văn, Đại học Quốc gia Hà Nội |
 | 2013 | [Thạc sĩ Lịch sử][academic-cv] | Đại học Inha, Hàn Quốc |
 | 2019 | [Tiến sĩ Lịch sử Thế giới][phd-graduation] | Trường Đại học Khoa học Xã hội và Nhân văn, Đại học Quốc gia Hà Nội |
+
+</div>
 
 Luận án tiến sĩ của thầy là [*Sự xâm lược Đại Việt của triều Minh trong bối cảnh Đông Á đầu thế kỷ XV*][doctoral-thesis], do GS. Vũ Dương Ninh hướng dẫn. Công trình tìm hiểu cuộc chiến trong quan hệ giữa các nước Đông Á, từ chính sách của triều Minh đến phản ứng của những quốc gia trong khu vực.
 

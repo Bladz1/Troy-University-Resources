@@ -17,6 +17,8 @@
 
 ## Học vấn và quá trình công tác
 
+<div align="center">
+
 | Thời gian         | Học tập và công tác                                                                                                                   |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | 09/2003 - 07/2008 | Học Tin học tại Đại học Kỹ thuật Quốc gia Volgograd (Volgograd State Technical University), Nga.                                      |
@@ -24,6 +26,8 @@
 | Từ 03/2011        | Giảng viên tại Đại học Bách khoa Hà Nội.                                                                                              |
 | 09/2015 - 08/2018 | Nghiên cứu tiến sĩ về lý thuyết đồ thị tại TU Bergakademie Freiberg, Đức; nhận bằng ngày 07/08/2018.                                  |
 | 04/2020 - 04/2021 | Thực tập sinh sau tiến sĩ (postdoc) tại Phòng Cơ sở toán học của Tin học, Viện Toán học, Viện Hàn lâm Khoa học và Công nghệ Việt Nam. |
+
+</div>
 
 - **Luận án tiến sĩ**: *[Proper Connection Number of Graphs][doctoral-thesis]*.
 - **Người hướng dẫn**: GS. Ingo Schiermeyer. GS. Arnfried Kemnitz tham gia phản biện luận án.

@@ -16,11 +16,15 @@
 
 ## Học vấn
 
+<div align="center">
+
 | Năm  | Văn bằng, chuyên ngành                                                     | Cơ sở đào tạo                   |
 | ---- | -------------------------------------------------------------------------- | ------------------------------- |
 | 2005 | [Kỹ sư Công nghệ thông tin][author-bio]                                    | Trường Đại học Bách khoa Hà Nội |
 | 2007 | [Thạc sĩ Tin học – Toán ứng dụng][academic-profile]                        | Đại học Joseph Fourier, Pháp    |
 | 2011 | [Tiến sĩ Công nghệ thông tin, tự động và xử lý tín hiệu][academic-profile] | Grenoble INP, Pháp              |
+
+</div>
 
 Luận án tiến sĩ của thầy mang tên [*Développement de méthodes intelligentes pour la gestion énergétique des bâtiments, utilisant des capteurs sans fils*][doctoral-thesis], về phát triển các phương pháp quản lý năng lượng thông minh cho tòa nhà bằng mạng cảm biến không dây. Nghiên cứu hướng tới điều khiển phụ tải theo thời gian thực, giảm công suất tiêu thụ đỉnh và chi phí điện trong khi vẫn duy trì tiện nghi nhiệt cho người sử dụng.
 

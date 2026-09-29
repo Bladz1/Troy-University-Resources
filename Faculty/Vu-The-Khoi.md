@@ -67,6 +67,9 @@ Ko tra đ làm đc bài nó thẳng."
 — **Giấu tên**
 
 Bảng điểm của lớp thi trước (03) kì Spring-2026:
+
+<div align="center">
+
 | Điểm | Số lượng | Tỷ lệ phần trăm |
 |------|----------|-----------------|
 | **A** | 5       | 9.43%           |
@@ -74,9 +77,15 @@ Bảng điểm của lớp thi trước (03) kì Spring-2026:
 | **C** | 11      | 20.75%          |
 | **D** | 15      | 28.30%          |
 | **F** | 14      | 26.42%          |
+
+</div>
+
 *Điểm tổng kết trung bình: `65.92/100`*
 
 Bảng điểm của lớp thi sau đó (đã nhận được intel là đề bất khả thi, bắt buộc phải chép):
+
+<div align="center">
+
 | Điểm | Số lượng | Tỷ lệ phần trăm |
 |------|----------|-----------------|
 | **A** | 15      | 25.42%          |
@@ -84,6 +93,9 @@ Bảng điểm của lớp thi sau đó (đã nhận được intel là đề b�
 | **C** | 14      | 23.73%          |
 | **D** | 3       | 5.08%           |
 | **F** | 5       | 8.47%           |
+
+</div>
+
 *Điểm tổng kết trung bình: `79.01/100`*
 
 ## Chỉ số và sức mạnh

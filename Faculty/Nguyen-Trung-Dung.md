@@ -3,7 +3,7 @@
 > "Perhaps the archives are incomplete."  
 > — **Obi-Wan Kenobi**
 
-**TS. Nguyễn Trung Dũng** là [giảng viên Khoa Toán–Tin, Đại học Bách khoa Hà Nội][research-profile].
+**TS. Nguyễn Trung Dũng** là giảng viên Khoa Toán–Tin, Đại học Bách khoa Hà Nội.
 
 ## Thông tin giảng viên
 
@@ -72,7 +72,6 @@ Thầy nghiên cứu [bài toán ngược và mô phỏng sóng địa chấn đ
 
 [profile-image]: https://fami.hust.edu.vn/wp-content/uploads/IMG_1813.jpg
 [academic-profile]: https://fami.hust.edu.vn/giang-vien/?name=dungnt2
-[research-profile]: https://research.hust.edu.vn/en/dung.nguyentrung2
 [research-group]: https://fami.hust.edu.vn/don-vi/toi-uu-hoa-va-tinh-toan-khoa-hoc/gioi-thieu/
 [clarkson-phd]: https://faculty.eng.ufl.edu/khiem-tran/people/
 [researchgate-profile]: https://www.researchgate.net/profile/Trung-Dung-Nguyen-2

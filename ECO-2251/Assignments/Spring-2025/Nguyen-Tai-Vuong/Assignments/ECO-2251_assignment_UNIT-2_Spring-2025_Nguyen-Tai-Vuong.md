@@ -24,19 +24,18 @@ Which of the following transactions or activities would be counted in your count
 
 In a simple economy, suppose that all income is either compensation of employees or profits. Suppose also that there are no indirect taxes. Calculate gross domestic product from the following set of numbers. (Use the expenditure approach)
 
-| Item | Value |
-| :--- | :--- |
-| Consumption | \$9,500 |
-| Investment | 3,000 |
-| Depreciation | 1,750 |
-| Profits | 2,400 |
-| Exports | 850 |
-| Compensation of employees | 11,500 |
-| Government purchases | 3,200 |
-| Direct taxes | 1,200 |
-| Saving | 1,600 |
-| Imports | 900 |
-
+| Item                      | Value   |
+| :------------------------ | :------ |
+| Consumption               | \$9,500 |
+| Investment                | 3,000   |
+| Depreciation              | 1,750   |
+| Profits                   | 2,400   |
+| Exports                   | 850     |
+| Compensation of employees | 11,500  |
+| Government purchases      | 3,200   |
+| Direct taxes              | 1,200   |
+| Saving                    | 1,600   |
+| Imports                   | 900     |
 
 **Problem 3:**
 
@@ -55,43 +54,40 @@ a. Use the production and price information in the table to calculate nominal GD
 b. Use the production and price information in the table to calculate real GDP for 20X1, 20X2 and 20X3 using 20X1 as the base year. What is the growth rate of real GDP from 20X1 to 20X2 and from 20X2 to 20X3?  
 c. Use the production and price information in the table to calculate real GDP for 20X1, 20X2, and 20X3 using 20X2 as the base year. What is the growth rate of real GDP from 20X1 to 20X2 and from 20X2 to 20X3?  
 
-| | **20X1** | | **20X2** | | **20X3** | |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| | **Quantity** | **Price** | **Quantity** | **Price** | **Quantity** | **Price** |
-| Sugar cane | 240 | \$0.80 | 240 | \$1.00 | 300 | \$1.15 |
-| Yo-yos | 600 | 2.50 | 700 | 3.00 | 750 | 4.00 |
-| Rum | 150 | 10.00 | 160 | 12.00 | 180 | 15.00 |
-| Peanuts | 500 | 2.00 | 450 | 2.50 | 450 | 2.50 |
-| Harmonicas | 75 | 25.00 | 75 | 30.00 | 85 | 30.00 |
-| Peanut butter | 100 | 4.50 | 85 | 4.50 | 85 | 5.00 |
-
+|               | **20X1**     |           | **20X2**     |           | **20X3**     |           |
+| :------------ | :----------: | :-------: | :----------: | :-------: | :----------: | :-------: |
+|               | **Quantity** | **Price** | **Quantity** | **Price** | **Quantity** | **Price** |
+| Sugar cane    | 240          | \$0.80    | 240          | \$1.00    | 300          | \$1.15    |
+| Yo-yos        | 600          | 2.50      | 700          | 3.00      | 750          | 4.00      |
+| Rum           | 150          | 10.00     | 160          | 12.00     | 180          | 15.00     |
+| Peanuts       | 500          | 2.00      | 450          | 2.50      | 450          | 2.50      |
+| Harmonicas    | 75           | 25.00     | 75           | 30.00     | 85           | 30.00     |
+| Peanut butter | 100          | 4.50      | 85           | 4.50      | 85           | 5.00      |
 
 **Problem 5:**
 
 The following table contains nominal and real GDP data, in billions of dollars, from the General Statistics for 2021 and 2022. The data is listed per quarter, and the real GDP data was calculated using 2020 as the base year. Fill in the columns for the GDP deflator and for the percent increase in price level.
 
-| | Nominal GDP | Real GDP | GDP Deflator | Percent Increase in Price Level |
-| :--- | :---: | :---: | :---: | :---: |
-| 2021 q1 | 16,502.4 | 15,538.4 | | |
-| 2021 q2 | 16,619.2 | 15,606.6 | | |
-| 2021 q3 | 16,872.3 | 15,779.9 | | |
-| 2021 q4 | 17,078.3 | 15,916.2 | | |
-| 2022 q1 | 17,044.0 | 15,831.7 | | |
-| 2022 q2 | 17,328.2 | 16,010.4 | | |
-| 2022 q3 | 17,599.8 | 16,205.6 | | |
-| 2022 q4 | 17,703.7 | 16,294.7 | | |
-
+|         | Nominal GDP | Real GDP | GDP Deflator | Percent Increase in Price Level |
+| :------ | :---------: | :------: | :----------: | :-----------------------------: |
+| 2021 q1 | 16,502.4    | 15,538.4 |              |                                 |
+| 2021 q2 | 16,619.2    | 15,606.6 |              |                                 |
+| 2021 q3 | 16,872.3    | 15,779.9 |              |                                 |
+| 2021 q4 | 17,078.3    | 15,916.2 |              |                                 |
+| 2022 q1 | 17,044.0    | 15,831.7 |              |                                 |
+| 2022 q2 | 17,328.2    | 16,010.4 |              |                                 |
+| 2022 q3 | 17,599.8    | 16,205.6 |              |                                 |
+| 2022 q4 | 17,703.7    | 16,294.7 |              |                                 |
 
 **Problem 6:**
 
 Consider an economy that produces and consumes hot dogs and hamburgers. In the following table are data for two different years.
 
-| | **2010** | | **2015** | |
-| :--- | :---: | :---: | :---: | :---: |
-| **Good** | **Quantity** | **Price** | **Quantity** | **Price** |
-| Hot dogs | 200 | \$2 | 250 | \$4 |
-| Hamburgers | 200 | \$3 | 500 | \$4 |
-
+|            | **2010**     |           | **2015**     |           |
+| :--------- | :----------: | :-------: | :----------: | :-------: |
+| **Good**   | **Quantity** | **Price** | **Quantity** | **Price** |
+| Hot dogs   | 200          | \$2       | 250          | \$4       |
+| Hamburgers | 200          | \$3       | 500          | \$4       |
 
 a. Using 2010 as the base year, compute the following statistics for each year: nominal GDP, real GDP, the implicit price deflator for GDP, and a fixed-weight price index such as the CPI.  
 b. By what percentage did prices rise between 2010 and 2015? Give the answer for each good and also for the two measures of the overall price level. Compare the answers given by the Laspeyres and Paasche price indexes. Explain the difference.  
@@ -100,11 +96,11 @@ b. By what percentage did prices rise between 2010 and 2015? Give the answer for
 
 A country tracks inflation using a simple basket of two goods: Rice (kg) and Milk (liter). The table below shows the price per unit of each good over three years.
 
-| Year | Price of Rice (per kg) | Price of Milk (per liter) |
-| :---: | :---: | :---: |
-| 2021 | \$2.50 | \$3.00 |
-| 2022 | \$2.75 | \$3.20 |
-| 2023 | \$3.10 | \$3.50 |
+| Year  | Price of Rice (per kg) | Price of Milk (per liter) |
+| :---: | :--------------------: | :-----------------------: |
+| 2021  | \$2.50                 | \$3.00                    |
+| 2022  | \$2.75                 | \$3.20                    |
+| 2023  | \$3.10                 | \$3.50                    |
 
 A household typically buys 100 kg of rice and 50 liters of milk each year. Assume 2021 as the base year.
 

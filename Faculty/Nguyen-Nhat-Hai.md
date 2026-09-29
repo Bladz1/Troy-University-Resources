@@ -89,7 +89,6 @@ Thầy Hải chill, không lo lắng, kê cao gối, học vui vẻ, môn thì d
 [profile-en]: https://soict.hust.edu.vn/en/ph-d-nguyen-nhat-hai.html
 [doctoral-thesis]: https://theses.fr/2011GRENT080
 [director-appointment]: https://hust.edu.vn/vi/news/tin-tuc-su-kien/bach-khoa-ha-noi-don-nhieu-tin-vui-chieu-cuoi-nam-2023-654949.html
-[ehust-2023]: https://hust.edu.vn/vi/news/tin-tuc-su-kien/ehust-trinh-lang-hoi-thao-clb-kh-cn-cac-truong-dh-ky-thuat-lan-thu-58-654857.html
 [resnet-2024]: https://doi.org/10.54654/isj.v2i22.1036
 [vifin-gen]: https://doi.org/10.1109/ATC63255.2024.10908340
 [ia-ratd-2026]: https://jst.vn/index.php/etsd/article/view/1105

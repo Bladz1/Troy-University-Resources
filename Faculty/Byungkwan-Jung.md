@@ -124,7 +124,6 @@ Một số công trình của thầy và các đồng nghiệp:
 [troy-hack-2023]: https://today.troy.edu/news/troy-university-students-compete-in-hackathon/
 [troy-hack-2025]: https://today.troy.edu/news/teams-create-real-world-solutions-in-annual-troy-hackathon/
 [acmse-organizing]: https://acmse.net/2026/committee-organizing/
-[honors-2026]: https://today.troy.edu/news/students-honored-for-academic-excellence-achievement-and-service-during-annual-honors-convocation/
 [mqry-2020]: https://www.myweb.ttu.edu/slim/lab/papers/byungkwan_system_journal_20.pdf
 [strike-plus-2025]: https://isca-hq.org/Documents/Journal/Archive/2025/2025volume3204/2025volume320402.pdf
 [smartalaska-2026]: https://researchwith.njit.edu/en/publications/smartalaska-can-smart-cities-deliver-during-earthquakes/

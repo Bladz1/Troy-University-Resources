@@ -22,11 +22,11 @@ Các mốc dưới đây theo [hồ sơ do Đại học Hòa Bình công bố][h
 
 <div align="center">
 
-| Năm  | Văn bằng                                                         | Cơ sở đào tạo                                            |
-| ---- | ---------------------------------------------------------------- | -------------------------------------------------------- |
-| 1986 | Kỹ sư Vô tuyến – Điện tử                                         | Đại học Công nghệ Sofia, Bulgaria                        |
-| 1998 | Thạc sĩ Kỹ thuật, chuyên ngành Công nghệ thông tin và Viễn thông | Đại học Adelaide, Úc                                     |
-| 2007 | Tiến sĩ Kỹ thuật, chuyên ngành Điện tử và Viễn thông             | Học viện Công nghệ Bưu chính Viễn thông (PTIT), Việt Nam |
+| Năm   | Văn bằng                                                         | Cơ sở đào tạo                                            |
+| :---: | :--------------------------------------------------------------- | :------------------------------------------------------- |
+| 1986  | Kỹ sư Vô tuyến – Điện tử                                         | Đại học Công nghệ Sofia, Bulgaria                        |
+| 1998  | Thạc sĩ Kỹ thuật, chuyên ngành Công nghệ thông tin và Viễn thông | Đại học Adelaide, Úc                                     |
+| 2007  | Tiến sĩ Kỹ thuật, chuyên ngành Điện tử và Viễn thông             | Học viện Công nghệ Bưu chính Viễn thông (PTIT), Việt Nam |
 
 </div>
 
@@ -35,7 +35,7 @@ Các mốc dưới đây theo [hồ sơ do Đại học Hòa Bình công bố][h
 <div align="center">
 
 | Thời gian | Công việc                                                                                                                                                                        |
-| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1987–1995 | Làm việc tại Viện Nghiên cứu Bưu điện; tham gia công việc về vi xử lý, vận hành thiết bị viễn thông và phần mềm tính cước. [Nguồn][hbu-profile].                                 |
 | 01/2023   | HaUI công bố kéo dài thời gian giữ chức Giám đốc Trung tâm Đào tạo Sau đại học của thầy. [Nguồn ngày 12/01/2023][haui-appointment].                                              |
 | 07/2023   | Đã công tác tại Đại học Hòa Bình. Bản tin về buổi bảo vệ khóa luận ngày 20/07/2023 ghi chức vụ **Phó trưởng khoa, phụ trách Khoa CNTT–ĐTVT**. [Nguồn ngày 22/07/2023][hbu-2023]. |
@@ -55,13 +55,13 @@ Các mốc dưới đây theo [hồ sơ do Đại học Hòa Bình công bố][h
 
 <div align="center">
 
-| Năm  | Công trình hoặc chủ đề                                              | Nơi công bố và tác giả                                                                                                                                                                                                    |
-| ---- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2018 | Thiết bị thu thập dữ liệu cho tàu cá qua kênh vô tuyến ICOM         | Dư Đình Viên, Trần Đình Thông; **Tạp chí KH&CN HaUI**, số 48, bài bắt đầu ở tr. 113. [Mục lục chính thức, bài 22][haui-2018].                                                                                             |
-| 2018 | Dùng tối ưu SDP cho công suất chuyển tiếp trong mạng MIMO           | Trần Đình Thông, Dư Đình Viên, Lê Thanh Hải; **Tạp chí KH&CN HaUI**, số 48, bài bắt đầu ở tr. 138. [Mục lục chính thức, bài 27][haui-2018].                                                                               |
-| 2022 | Chatbot phục vụ đào tạo đại học bằng Microsoft Power Platform       | Bài đồng tác giả với Hà Mạnh Đào, Phạm Văn Hiệp và Hoàng Văn Hoành; **Tạp chí KH&CN HaUI**, tập 58, số 6B, bài bắt đầu ở tr. 47. DOI: [`10.57001/huih5804.86`][chatbot-2022-doi]. [Mục lục chính thức, bài 9][haui-2022]. |
-| 2023 | Sinh tham số cho giao thức Diffie–Hellman bằng chuỗi giả ngẫu nhiên | Dư Đình Viên, Trần Cảnh Dương; **Tạp chí KH&CN Trường Đại học Hòa Bình**, số 10, tháng 12/2023, tr. 71–77. [Toàn văn][security-2023].                                                                                     |
-| 2026 | Đánh giá chatbot chuyên biệt hỗ trợ sinh viên Y học cổ truyền       | Dư Đình Viên là một trong bảy đồng tác giả; **Tạp chí KH&CN Trường Đại học Hòa Bình**, công bố tháng 04/2026. [Trang bài báo][chatbot-2026]; DOI: [`10.71192/078771qumnyo`][chatbot-2026-doi].                            |
+| Năm   | Công trình hoặc chủ đề                                              | Nơi công bố và tác giả                                                                                                                                                                                                    |
+| :---: | :------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2018  | Thiết bị thu thập dữ liệu cho tàu cá qua kênh vô tuyến ICOM         | Dư Đình Viên, Trần Đình Thông; **Tạp chí KH&CN HaUI**, số 48, bài bắt đầu ở tr. 113. [Mục lục chính thức, bài 22][haui-2018].                                                                                             |
+| 2018  | Dùng tối ưu SDP cho công suất chuyển tiếp trong mạng MIMO           | Trần Đình Thông, Dư Đình Viên, Lê Thanh Hải; **Tạp chí KH&CN HaUI**, số 48, bài bắt đầu ở tr. 138. [Mục lục chính thức, bài 27][haui-2018].                                                                               |
+| 2022  | Chatbot phục vụ đào tạo đại học bằng Microsoft Power Platform       | Bài đồng tác giả với Hà Mạnh Đào, Phạm Văn Hiệp và Hoàng Văn Hoành; **Tạp chí KH&CN HaUI**, tập 58, số 6B, bài bắt đầu ở tr. 47. DOI: [`10.57001/huih5804.86`][chatbot-2022-doi]. [Mục lục chính thức, bài 9][haui-2022]. |
+| 2023  | Sinh tham số cho giao thức Diffie–Hellman bằng chuỗi giả ngẫu nhiên | Dư Đình Viên, Trần Cảnh Dương; **Tạp chí KH&CN Trường Đại học Hòa Bình**, số 10, tháng 12/2023, tr. 71–77. [Toàn văn][security-2023].                                                                                     |
+| 2026  | Đánh giá chatbot chuyên biệt hỗ trợ sinh viên Y học cổ truyền       | Dư Đình Viên là một trong bảy đồng tác giả; **Tạp chí KH&CN Trường Đại học Hòa Bình**, công bố tháng 04/2026. [Trang bài báo][chatbot-2026]; DOI: [`10.71192/078771qumnyo`][chatbot-2026-doi].                            |
 
 </div>
 

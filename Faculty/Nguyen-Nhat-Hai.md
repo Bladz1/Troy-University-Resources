@@ -18,11 +18,11 @@
 
 <div align="center">
 
-| Năm  | Văn bằng, chuyên ngành                                                     | Cơ sở đào tạo                   |
-| ---- | -------------------------------------------------------------------------- | ------------------------------- |
-| 2005 | [Kỹ sư Công nghệ thông tin][author-bio]                                    | Trường Đại học Bách khoa Hà Nội |
-| 2007 | [Thạc sĩ Tin học – Toán ứng dụng][academic-profile]                        | Đại học Joseph Fourier, Pháp    |
-| 2011 | [Tiến sĩ Công nghệ thông tin, tự động và xử lý tín hiệu][academic-profile] | Grenoble INP, Pháp              |
+| Năm   | Văn bằng, chuyên ngành                                                     | Cơ sở đào tạo                   |
+| :---: | :------------------------------------------------------------------------- | :------------------------------ |
+| 2005  | [Kỹ sư Công nghệ thông tin][author-bio]                                    | Trường Đại học Bách khoa Hà Nội |
+| 2007  | [Thạc sĩ Tin học – Toán ứng dụng][academic-profile]                        | Đại học Joseph Fourier, Pháp    |
+| 2011  | [Tiến sĩ Công nghệ thông tin, tự động và xử lý tín hiệu][academic-profile] | Grenoble INP, Pháp              |
 
 </div>
 

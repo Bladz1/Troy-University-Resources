@@ -14,11 +14,11 @@
   
 <div align="center">
 
-  |                   |                                 Troy                                  |                                           BK                                            |
-  | :---------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
-  | Tính chất môn học |  Hầu hết các môn quan trọng đều có project (Required Major Courses)   |                                  Chủ yếu là lý thuyết                                   |
-  | Đồ án tốt nghiệp  | Không, thay vào đó là các project xuyên suốt, học đủ tín là ra trường |  Có, đồ án chính là một phần mà các đại học VN chịu ảnh hưởng từ nền giáo dục Liên Xô   |
-  |  Điểm 'qua môn'   |                     Thường là 6 hoặc 7 điểm tổng                      | Thường là 3 điểm cuối kì đổ lên (mức 3 điểm cuối kì ở Troy coi như chả qua được môn gì) |
+  |                   | Troy                                                                  | BK                                                                                      |
+  | :---------------: | :-------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
+  | Tính chất môn học | Hầu hết các môn quan trọng đều có project (Required Major Courses)    | Chủ yếu là lý thuyết                                                                    |
+  | Đồ án tốt nghiệp  | Không, thay vào đó là các project xuyên suốt, học đủ tín là ra trường | Có, đồ án chính là một phần mà các đại học VN chịu ảnh hưởng từ nền giáo dục Liên Xô    |
+  | Điểm 'qua môn'    | Thường là 6 hoặc 7 điểm tổng                                          | Thường là 3 điểm cuối kì đổ lên (mức 3 điểm cuối kì ở Troy coi như chả qua được môn gì) |
 
 </div>
 
@@ -83,11 +83,11 @@ Tóm lại:
 
 <div align="center">
 
-|          Tiêu chí          | Troy                                                                                                                                                                                                                                     | BK                                                                                                                                                                    |
-| :------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  Ngưỡng cảnh báo học tập   | - Institutional GPA < 2.00 → Academic Probation.<br/>- Nếu đang probation mà Institutional GPA của kỳ tiếp theo < 2.00 → Academic Suspension.                                                                                            | - Nợ > 8 tín chỉ/học kỳ → +1 mức cảnh báo.<br/>- Nợ > 16 tín chỉ/học kỳ hoặc bỏ học/không đăng ký → +2 mức cảnh báo.<br/>- Nợ tích lũy > 24 tín chỉ → Cảnh báo mức 3. |
+| Tiêu chí                   | Troy                                                                                                                                                                                                                                     | BK                                                                                                                                                                    |
+| :------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ngưỡng cảnh báo học tập    | - Institutional GPA < 2.00 → Academic Probation.<br/>- Nếu đang probation mà Institutional GPA của kỳ tiếp theo < 2.00 → Academic Suspension.                                                                                            | - Nợ > 8 tín chỉ/học kỳ → +1 mức cảnh báo.<br/>- Nợ > 16 tín chỉ/học kỳ hoặc bỏ học/không đăng ký → +2 mức cảnh báo.<br/>- Nợ tích lũy > 24 tín chỉ → Cảnh báo mức 3. |
 | Tăng mức cảnh báo/đình chỉ | - Suspension lần 1: đình chỉ 1 kỳ.<br/>- Lần 2: đình chỉ 2 kỳ.<br/>- Lần 3: đình chỉ vô thời hạn.                                                                                                                                        | - Nợ tín chỉ nhiều hơn theo ngưỡng sẽ nâng cảnh báo.<br/>- Có thể nâng 1 hoặc 2 mức tùy mức độ.                                                                       |
-|       Buộc thôi học        | - Với B.S.B.A: một môn business chỉ được thử tối đa 3 lần (điểm D coi là đậu nếu không yêu cầu cao hơn). Nếu không đạt sau 3 lần → buộc thôi học khỏi ngành/chuyên sâu đó.<br/>- Sinh viên CS thì không có yêu cầu gì lạ hơn để bị đuổi. | - Bị cảnh báo mức 3 hai lần liên tiếp.<br/>- Học chậm quá thời hạn cho phép hoặc không còn khả năng tốt nghiệp đúng hạn.                                              |
+| Buộc thôi học              | - Với B.S.B.A: một môn business chỉ được thử tối đa 3 lần (điểm D coi là đậu nếu không yêu cầu cao hơn). Nếu không đạt sau 3 lần → buộc thôi học khỏi ngành/chuyên sâu đó.<br/>- Sinh viên CS thì không có yêu cầu gì lạ hơn để bị đuổi. | - Bị cảnh báo mức 3 hai lần liên tiếp.<br/>- Học chậm quá thời hạn cho phép hoặc không còn khả năng tốt nghiệp đúng hạn.                                              |
 
 </div>
 

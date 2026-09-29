@@ -22,11 +22,11 @@
 
 <div align="center">
 
-| Năm nhận bằng | Văn bằng | Cơ sở đào tạo |
-| --- | --- | --- |
-| 2007 | [Cử nhân Lịch sử, hệ chính quy chất lượng cao][academic-cv] | Trường Đại học Khoa học Xã hội và Nhân văn, Đại học Quốc gia Hà Nội |
-| 2013 | [Thạc sĩ Lịch sử][academic-cv] | Đại học Inha, Hàn Quốc |
-| 2019 | [Tiến sĩ Lịch sử Thế giới][phd-graduation] | Trường Đại học Khoa học Xã hội và Nhân văn, Đại học Quốc gia Hà Nội |
+| Năm nhận bằng | Văn bằng                                                    | Cơ sở đào tạo                                                       |
+| :-----------: | :---------------------------------------------------------- | :------------------------------------------------------------------ |
+| 2007          | [Cử nhân Lịch sử, hệ chính quy chất lượng cao][academic-cv] | Trường Đại học Khoa học Xã hội và Nhân văn, Đại học Quốc gia Hà Nội |
+| 2013          | [Thạc sĩ Lịch sử][academic-cv]                              | Đại học Inha, Hàn Quốc                                              |
+| 2019          | [Tiến sĩ Lịch sử Thế giới][phd-graduation]                  | Trường Đại học Khoa học Xã hội và Nhân văn, Đại học Quốc gia Hà Nội |
 
 </div>
 

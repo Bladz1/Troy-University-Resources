@@ -19,7 +19,7 @@
 <div align="center">
 
 | Tốt nghiệp | Học vị và chuyên ngành                                                           | Cơ sở đào tạo                         |
-| ---------- | -------------------------------------------------------------------------------- | ------------------------------------- |
+| :--------: | :------------------------------------------------------------------------------- | :------------------------------------ |
 | 12/2005    | [Cử nhân Khoa học máy tính (B.S.)][troy_profile]                                 | Oklahoma State University, Mĩ         |
 | 05/2008    | [Thạc sĩ Khoa học máy tính và thông tin (M.S.)][troy_profile]                    | University of Florida, Mĩ             |
 | 05/2009    | [Thạc sĩ Khoa học máy tính, chuyên ngành Kĩ thuật phần mềm (M.S.)][troy_profile] | The University of Texas at Dallas, Mĩ |
@@ -32,7 +32,7 @@
 <div align="center">
 
 | Thời gian       | Công việc                                                                                                 |
-| --------------- | --------------------------------------------------------------------------------------------------------- |
+| :-------------: | :-------------------------------------------------------------------------------------------------------- |
 | 08/2012–07/2013 | [Visiting Assistant Professor, Khoa Khoa học và Kĩ thuật máy tính, Johnson C. Smith University][chang-cv] |
 | 08/2013–07/2014 | [Assistant Professor tại Johnson C. Smith University][chang-cv]                                           |
 | 08/2014–07/2020 | [Assistant Professor tại Khoa Khoa học máy tính, Đại học Troy, cơ sở Montgomery][chang-cv]                |

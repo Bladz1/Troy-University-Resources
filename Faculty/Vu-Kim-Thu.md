@@ -22,11 +22,11 @@
 
 <div align="center">
 
-| Năm | Quá trình đào tạo |
-| --- | --- |
-| 1998 | Tham gia [chương trình trao đổi tại Maine College of Art][mmca_bio], Hoa Kỳ, với học bổng của Indochina Arts Partnership. |
-| 1999 | Tốt nghiệp Cử nhân Mỹ thuật (BFA), Trường Đại học Mỹ thuật Hà Nội. |
-| 2003 | Tốt nghiệp Thạc sĩ Mỹ thuật (MFA), School of the Art Institute of Chicago (SAIC), Hoa Kỳ. |
+| Năm   | Quá trình đào tạo                                                                                                         |
+| :---: | :------------------------------------------------------------------------------------------------------------------------ |
+| 1998  | Tham gia [chương trình trao đổi tại Maine College of Art][mmca_bio], Hoa Kỳ, với học bổng của Indochina Arts Partnership. |
+| 1999  | Tốt nghiệp Cử nhân Mỹ thuật (BFA), Trường Đại học Mỹ thuật Hà Nội.                                                        |
+| 2003  | Tốt nghiệp Thạc sĩ Mỹ thuật (MFA), School of the Art Institute of Chicago (SAIC), Hoa Kỳ.                                 |
 
 </div>
 

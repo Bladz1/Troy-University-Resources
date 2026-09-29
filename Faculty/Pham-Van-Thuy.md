@@ -21,12 +21,12 @@
 
 <div align="center">
 
-| Năm tốt nghiệp | Văn bằng | Cơ sở đào tạo |
-| --- | --- | --- |
-| 2005 | [Cử nhân Lịch sử, chuyên ngành Lịch sử thế giới][vinuni-profile] | Trường Đại học Khoa học Xã hội và Nhân văn, Đại học Quốc gia Hà Nội |
-| 2007 | [Cử nhân Lịch sử (bằng cử nhân thứ hai)][vinuni-profile] | Đại học Leiden, Hà Lan |
-| 2009 | [Thạc sĩ Lịch sử (MPhil)][vinuni-profile] | Đại học Leiden, Hà Lan |
-| 2014 | [Tiến sĩ Lịch sử][vinuni-profile] | Đại học Leiden, Hà Lan |
+| Năm tốt nghiệp | Văn bằng                                                         | Cơ sở đào tạo                                                       |
+| :------------: | :--------------------------------------------------------------- | :------------------------------------------------------------------ |
+| 2005           | [Cử nhân Lịch sử, chuyên ngành Lịch sử thế giới][vinuni-profile] | Trường Đại học Khoa học Xã hội và Nhân văn, Đại học Quốc gia Hà Nội |
+| 2007           | [Cử nhân Lịch sử (bằng cử nhân thứ hai)][vinuni-profile]         | Đại học Leiden, Hà Lan                                              |
+| 2009           | [Thạc sĩ Lịch sử (MPhil)][vinuni-profile]                        | Đại học Leiden, Hà Lan                                              |
+| 2014           | [Tiến sĩ Lịch sử][vinuni-profile]                                | Đại học Leiden, Hà Lan                                              |
 
 </div>
 

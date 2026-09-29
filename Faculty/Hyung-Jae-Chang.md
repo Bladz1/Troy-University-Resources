@@ -125,7 +125,7 @@ I LOVE Prof. CHANGGGGG!!!!!! ❤️
 
 [america-against-america]: ../Miscellaneous/Assets/Books/America-Against-America.pdf
 
-[profile-image]: https://www.troy.edu/_assets/college-arts-sciences/departments/computer-science/_images/chang.jpg
+[profile-image]: https://spectrum.troy.edu/hjchang/images/pic_3.jpg
 
 [troy_profile]: https://spectrum.troy.edu/hjchang/
 

@@ -62,7 +62,6 @@ Same as PHY/L-2252
 ## Trivia
 - Trong một bài khảo sát chất lượng, **PGS. TS. Nguyễn Hoàng Thoan** đã được các sinh viên K69 xếp hạng 'B tier' với số điểm 8.03/10.
 
-
 [profile-image]: https://sep.hust.edu.vn/wp-content/uploads/002.049.00053.jpg
 [academic-profile]: https://sep.hust.edu.vn/can-bo/pgs-ts-nguyen-hoang-thoan.html
 [facebook-profile]: https://www.facebook.com/profile.php?id=1791224015

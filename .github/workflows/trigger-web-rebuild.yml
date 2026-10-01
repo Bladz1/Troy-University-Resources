@@ -26,6 +26,7 @@ jobs:
       - name: Trigger web deployment
         env:
           DEPLOY_HOOK_URL: ${{ secrets.UPDATE_HOOK }}
+          DEPLOY_HOOK_URL_WORKER: ${{ secrets.UPDATE_HOOK_WORKER }}
         shell: bash
         run: |
           if [[ -z "$DEPLOY_HOOK_URL" ]]; then
@@ -42,4 +43,15 @@ jobs:
             --request POST \
             "$DEPLOY_HOOK_URL"
 
-          echo "Web deployment triggered successfully."
+          if [[ -n "$DEPLOY_HOOK_URL_WORKER" ]]; then
+            curl \
+              --fail-with-body \
+              --show-error \
+              --silent \
+              --retry 3 \
+              --retry-all-errors \
+              --request POST \
+              "$DEPLOY_HOOK_URL_WORKER"
+          fi
+
+          echo "Pages and Worker deployments triggered successfully."

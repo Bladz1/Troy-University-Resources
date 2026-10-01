@@ -8,28 +8,26 @@
 
 **Student name:** ........................................................ **Student ID:** ........................ **Signature:** ........................................
 
-| Grade | Signature of lecturer | Signature of supervisor |
-| :--- | :--- | :--- |
-| &nbsp; | &nbsp; | &nbsp; |
-
+| Grade  | Signature of lecturer | Signature of supervisor |
+| :----- | :-------------------- | :---------------------- |
+| &nbsp; | &nbsp;                | &nbsp;                  |
 
 Note: Students do not allow to use the material, books, mobile phone, computer
 
 **I. Please circle on the True or Fault for the following questions: (20 points)**
 
-| No. | Statement | | |
-| :--- | :--- | :---: | :---: |
-| 1. | Job rotation allows employees to work in different roles or departments without changing their job level. | T | F |
-| 2. | Tactical plans focus on the establishment of general goals and the position of the company within its environment | T | F |
-| 3. | Improvements in working conditions or supervision may fail to truly motivate employees because they only reduce dissatisfaction rather than increase motivation. | T | F |
-| 4. | Departmentalization means assigning one employee to handle all tasks within an organization. | T | F |
-| 5. | Evaluating feasibility in planning helps determine whether the plan is realistic and achievable. | T | F |
-| 6. | A narrow span of control is ideal when managers want to minimize supervision and be less involved. | T | F |
-| 7. | Leadership is understood as the influence from manager to the followers in achieving a vision or a set of goals | T | F |
-| 8. | Feedback control is the most desirable type of control because it prevents problems before they occur. | T | F |
-| 9. | One positive aspect of organizational expansion is that it leads to increased training costs, which always benefits the company by improving employee skills and efficiency. | T | F |
-| 10. | Turnover rate refers to the rate at which employees leave a company and are replaced. | T | F |
-
+| No.  | Statement                                                                                                                                                                    |       |       |
+| :--- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---: | :---: |
+| 1.   | Job rotation allows employees to work in different roles or departments without changing their job level.                                                                    | T     | F     |
+| 2.   | Tactical plans focus on the establishment of general goals and the position of the company within its environment                                                            | T     | F     |
+| 3.   | Improvements in working conditions or supervision may fail to truly motivate employees because they only reduce dissatisfaction rather than increase motivation.             | T     | F     |
+| 4.   | Departmentalization means assigning one employee to handle all tasks within an organization.                                                                                 | T     | F     |
+| 5.   | Evaluating feasibility in planning helps determine whether the plan is realistic and achievable.                                                                             | T     | F     |
+| 6.   | A narrow span of control is ideal when managers want to minimize supervision and be less involved.                                                                           | T     | F     |
+| 7.   | Leadership is understood as the influence from manager to the followers in achieving a vision or a set of goals                                                              | T     | F     |
+| 8.   | Feedback control is the most desirable type of control because it prevents problems before they occur.                                                                       | T     | F     |
+| 9.   | One positive aspect of organizational expansion is that it leads to increased training costs, which always benefits the company by improving employee skills and efficiency. | T     | F     |
+| 10.  | Turnover rate refers to the rate at which employees leave a company and are replaced.                                                                                        | T     | F     |
 
 **II. Please circle on the most right answer to fulfill the blank or to answer the flowing questions (20 points)**
 

@@ -33,6 +33,8 @@ Nhưng, vì đã ngoài 40, trải qua nhiều trường lớp, thật sự th�
 
 Môn này với lí do là môn 'Foundations' nên anh không cho thi mà cho thuyết trình lấy điểm, khá dị, phần nào liên tưởng chúng ta đến với môn SPH-2241, tuy nhiên nếu thuyết trình ngon thì A khá rủng rỉnh, nhiều A là đằng khác, vậy đầu tiên hãy cố ngoan trong lớp anh trước nhé!! 🍀
 
+![le-chi-ngoc-ass]
+
 ## Chỉ số và sức mạnh
 
 - **Điểm tổng kết trung bình gần nhất:** `74.61/100`
@@ -121,7 +123,6 @@ Môn này với lí do là môn 'Foundations' nên anh không cho thi mà cho th
 - **PGS. TS. Lê Chí Ngọc** đã fail ít nhất một bài thuyết trình chính ngay cả [cháu ruột của mình][trivia_image_1] trong kì học Fall-2025.
 - **PGS. TS. Lê Chí Ngọc** có sở thích bóng đá, cầu lông, bóng bàn, bơi lội, nhiếp ảnh, du lịch, đọc sách, âm nhạc, điện ảnh.
 
-
 [whiplash-fletcher]: https://www.youtube.com/watch?v=l9VViSscQvA
 [profile-image]: https://fami.hust.edu.vn/wp-content/uploads/IMG_0559.jpg
 [fami_profile]: https://fami.hust.edu.vn/giang-vien/?name=ngoclc
@@ -130,5 +131,6 @@ Môn này với lí do là môn 'Foundations' nên anh không cho thi mà cho th
 [cs-2255]: ../CS-2255/
 [cs-3310]: ../CS-3310/
 [le-chi-ngoc-no-way]: https://i.imgur.com/V276SPm.jpeg
+[le-chi-ngoc-ass]: https://github.com/user-attachments/assets/3ac83c88-0b0c-4323-a176-22fa9cea7f46
 [trivia_image_1]: https://i.imgur.com/IxdBWNh.jpeg
 [contributing]: ../CONTRIBUTING.md

@@ -7,7 +7,7 @@
 
 **Tiến sĩ Suman Kumar** xuất thân từ Bihar, Ấn Độ, từng đỗ IIT năm 1999 và chuyển từ Kỹ thuật Điện sang Khoa học Máy tính vì nhìn ra sớm tiềm năng của ngành, sau đó làm việc tại Tata Consultancy Services và nghiên cứu ở Đại học Bang North Carolina trước khi trở thành Trưởng khoa tại Đại học Troy <sup>[[1]](#ref-1)</sup>.
 
-**Tiến sĩ Suman Kumar** là kiểu người làm khoa học rất thực tế, không màu mè lý thuyết. Các dự án của ông luôn nhắm thẳng vào vấn đề thật của xã hội như an toàn giao thông, thiên tai hay các công nghệ mới kiểu blockchain và tính toán lấy cảm hứng sinh học. Dù giữ vai trò lãnh đạo tại khoa Khoa học Máy tính, ông vẫn khá khiêm tốn, dễ tiếp cận và đặt lợi ích chung của sinh viên cùng sự phát triển dài hạn của khoa lên trên hết. Overall, cho thấy sự kết hợp rõ ràng giữa tư duy học thuật nghiêm túc và tinh thần “làm được việc” <sup>[[2]](#ref-2)</sup>, <sup>[[3]](#ref-3)</sup>.
+**Tiến sĩ Suman Kumar** là kiểu người làm khoa học rất thực tế, không màu mè lý thuyết. Các dự án của ông luôn nhắm thẳng vào vấn đề thật của xã hội như an toàn giao thông, thiên tai hay các công nghệ mới kiểu blockchain và tính toán lấy cảm hứng sinh học. Dù giữ vai trò lãnh đạo tại khoa Khoa học Máy tính, ông vẫn khá khiêm tốn, dễ tiếp cận và đặt lợi ích chung của sinh viên cùng sự phát triển dài hạn của khoa lên trên hết. Có thể thấy rằng ông là người mang nặng tinh thần “làm được việc” hơn là lý thuyết suông <sup>[[2]](#ref-2)</sup>, <sup>[[3]](#ref-3)</sup>.
 
 ## Thông tin cơ bản
 
@@ -52,22 +52,28 @@ Chuyện trên là một chuyện, cái nữa là Kumar dạy rất kiểu Ấn,
 ## Chỉ số và sức mạnh
 
 - **Điểm tổng kết trung bình:** `?/100`
+  
   - Độ lệch chuẩn: TBA
   - Tỉ lệ được A: TBA
-    
+  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 - **Độ bám sát bài học của đề thi:** `?/10`
   
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 - **Độ hợp lí, cân bằng của khối lượng bài vở và sức khỏe tinh thần:** `?/10`
   
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 - **Khả năng truyền đạt kiến thức và chuyên môn sư phạm:** `?/10`
   
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 - **Tác phong, tính cách và mức độ hỗ trợ sinh viên:** `?/10`
   
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*

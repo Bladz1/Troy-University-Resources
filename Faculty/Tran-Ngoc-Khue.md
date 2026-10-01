@@ -49,7 +49,6 @@
 ## Trivia
 - Trong một bài khảo sát chất lượng, **TS. Trần Ngọc Khuê** đã được các sinh viên K69 xếp hạng 'S tier' với số điểm 9.1/10.
 
-
 [profile-image]: https://fami.hust.edu.vn/wp-content/uploads/IMG_1651.jpg
 [academic-profile]: https://fami.hust.edu.vn/giang-vien/?name=khue.tranngoc
 [facebook-profile]: https://www.facebook.com/profile.php?id=100001568158119

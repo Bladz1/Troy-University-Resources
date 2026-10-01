@@ -39,7 +39,7 @@
 **Question 5:** Write the full and shortened electron configurations of $\text{Cr}$, $\text{Cr}^{+3}$, and $\text{Cr}^{+6}$. No explanation is required.
 
 | Atom/Ion | Full electron configuration | Shortened electron configurations |
-| :--- | :--- | :--- |
-| **Cr** | | |
-| **Cr⁺³** | | |
-| **Cr⁺⁶** | | |
+| :------- | :-------------------------- | :-------------------------------- |
+| **Cr**   |                             |                                   |
+| **Cr⁺³** |                             |                                   |
+| **Cr⁺⁶** |                             |                                   |

@@ -313,15 +313,6 @@ sections:
         inactive: true
 
       - stt: 35
-        code: "CS-3325"
-        name: "Operations Research"
-        credits: 3
-        prerequisite: "MTH 1125"
-        tier: ""
-        folder: ""
-        inactive: true
-
-      - stt: 36
         code: "CS-3331"
         name: "Fundamentals of Artificial Intelligence"
         credits: 3
@@ -330,7 +321,7 @@ sections:
         folder: "CS-3331"
         inactive: false
 
-      - stt: 37
+      - stt: 36
         code: "CS-4443"
         name: "Web Application Development"
         credits: 3
@@ -339,25 +330,7 @@ sections:
         folder: ""
         inactive: true
 
-      - stt: 38
-        code: "CS-3361"
-        name: "Concepts of Object-Oriented Programming II"
-        credits: 3
-        prerequisite: "CS 3360"
-        tier: ""
-        folder: ""
-        inactive: true
-
-      - stt: 39
-        code: "CS-4401"
-        name: "Advanced Artificial Intelligence"
-        credits: 3
-        prerequisite: "CS 3331"
-        tier: ""
-        folder: ""
-        inactive: true
-
-      - stt: 40
+      - stt: 37
         code: "CS-4410"
         name: "Introduction to Machine Learning"
         credits: 3
@@ -366,25 +339,7 @@ sections:
         folder: "CS-4410"
         inactive: false
 
-      - stt: 41
-        code: "CS-4461"
-        name: "Software Engineering II"
-        credits: 3
-        prerequisite: "CS 3332"
-        tier: ""
-        folder: ""
-        inactive: true
-
-      - stt: 42
-        code: "CS-4462"
-        name: "Special Topics in Object-Oriented Programming"
-        credits: 3
-        prerequisite: "CS 3361"
-        tier: ""
-        folder: ""
-        inactive: true
-
-      - stt: 43
+      - stt: 38
         code: "CS-4495"
         name: "Special Topics in Computer Science"
         credits: 3
@@ -396,7 +351,7 @@ sections:
   - title: "Free Electives (19 credits at least)"
     subtitle: "# Có thể học khoảng từ 6 đến 7 môn tùy phương án"
     courses:
-      - stt: 44
+      - stt: 39
         code: "MTH-1112"
         name: "Pre-Calculus Algebra"
         credits: 3
@@ -405,7 +360,7 @@ sections:
         folder: "MTH-1112"
         inactive: false
 
-      - stt: 45
+      - stt: 40
         code: "MTH-1114"
         name: "Pre-Calculus Trigonometry"
         credits: 3
@@ -414,7 +369,7 @@ sections:
         folder: "MTH-1114"
         inactive: false
 
-      - stt: 46
+      - stt: 41
         code: "MGT-3300"
         name: "Principles of Management"
         credits: 3
@@ -423,7 +378,7 @@ sections:
         folder: "MGT-3300"
         inactive: false
 
-      - stt: 47
+      - stt: 42
         code: "MGT-4440"
         name: "Developing and Leading Effective Teams"
         credits: 3
@@ -433,7 +388,27 @@ sections:
         inactive: false
         note: "(Sinh viên IT không cần đáp ứng Prerequisite, môn này là Free Elective)"
 
-      - stt: 48
+      - stt: 43
+        code: "MGT-4460"
+        name: "Introduction to Project Management"
+        credits: 3
+        prerequisite: "Lower-level Core, MGT 3300, QM 3345"
+        tier: ""
+        folder: "MGT-4460"
+        inactive: false
+        note: "(Sinh viên IT không cần đáp ứng Prerequisite, môn này là Free Elective)"
+
+      - stt: 44
+        code: "MGT-4471"
+        name: "Leadership and Change"
+        credits: 3
+        prerequisite: "Lower-level Core, MGT 3300"
+        tier: ""
+        folder: "MGT-4471"
+        inactive: false
+        note: "(Sinh viên IT không cần đáp ứng Prerequisite, môn này là Free Elective)"
+
+      - stt: 45
         code: "IS-2241"
         name: "Computer Concepts and Applications"
         credits: 3
@@ -442,7 +417,7 @@ sections:
         folder: "IS-2241"
         inactive: false
 
-      - stt: 49
+      - stt: 46
         code: "ENG-2206"
         name: "World Literature after 1660"
         credits: 3
@@ -451,7 +426,7 @@ sections:
         folder: "ENG-2206"
         inactive: false
 
-      - stt: 50
+      - stt: 47
         code: "LAW-2221"
         name: "Legal Environment of Business"
         credits: 3
@@ -460,7 +435,7 @@ sections:
         folder: "LAW-2221"
         inactive: false
 
-      - stt: 51
+      - stt: 48
         code: "MKT-3300"
         name: "Principles of Marketing"
         credits: 3
@@ -469,7 +444,7 @@ sections:
         folder: "MKT-3300"
         inactive: false
 
-      - stt: 52
+      - stt: 49
         code: "ACT-2291"
         name: "Principles of Accounting I"
         credits: 3
@@ -478,46 +453,46 @@ sections:
         folder: ""
         inactive: false
 
-      - stt: 53
+      - stt: 50
         code: "QM-2241"
         name: "Business Statistics"
         credits: 3
         prerequisite: "MTH 1112 and IS 2241"
         tier: ""
         folder: "QM-2241"
-        inactive: false
+        inactive: true
 
-      - stt: 54
+      - stt: 51
         code: "MTH-2201"
         name: "Calculus and its Applications"
         credits: 3
         prerequisite: "MTH 1112 or 1114 with C"
         tier: ""
         folder: "MTH-2201"
-        inactive: false
+        inactive: true
 
-      - stt: 55
+      - stt: 52
         code: "SCI/L-2233"
         name: "Physical Science and Lab"
         credits: 4
         prerequisite: ""
         tier: "PEAK"
         folder: "SCI-2233"
-        inactive: false
+        inactive: true
 
-      - stt: 56
+      - stt: 53
         code: "BIO/L-1100"
         name: "Principles of Biology & Lab"
         credits: 4
         prerequisite: ""
         tier: ""
         folder: "BIO-1100"
-        inactive: false
+        inactive: true
 
   - title: "5 môn Triết"
     prerequisite_header: "Thứ tự học"
     courses:
-      - stt: 57
+      - stt: 54
         code: "SSH1111Q"
         name: "Triết học Mác - Lênin"
         credits: 3
@@ -526,7 +501,7 @@ sections:
         folder: "Ly-Luan-Chinh-Tri"
         inactive: false
 
-      - stt: 58
+      - stt: 55
         code: "SSH1121Q"
         name: "Kinh tế chính trị Mác - Lênin"
         credits: 2
@@ -535,7 +510,7 @@ sections:
         folder: "Ly-Luan-Chinh-Tri"
         inactive: false
 
-      - stt: 59
+      - stt: 56
         code: "SSH1131Q"
         name: "Chủ nghĩa xã hội khoa học"
         credits: 2
@@ -544,7 +519,7 @@ sections:
         folder: "Ly-Luan-Chinh-Tri"
         inactive: false
 
-      - stt: 60
+      - stt: 57
         code: "SSH1141Q"
         name: "Lịch sử Đảng Cộng sản Việt Nam"
         credits: 2
@@ -553,7 +528,7 @@ sections:
         folder: "Ly-Luan-Chinh-Tri"
         inactive: false
 
-      - stt: 61
+      - stt: 58
         code: "SSH1151Q"
         name: "Tư tưởng Hồ Chí Minh"
         credits: 2

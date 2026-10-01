@@ -47,7 +47,6 @@
 ## Trivia
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
-
 [profile-image]: https://soict.hust.edu.vn/wp-content/uploads/2017/03/DHP_5783.jpg
 [soict-profile]: https://soict.hust.edu.vn/ts-nguyen-thi-thu-huong.html
 [cs-3372]: ../CS-3372/

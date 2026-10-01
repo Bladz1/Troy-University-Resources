@@ -78,16 +78,16 @@ D. Compilation Error
 
 ### II. True or False (20 pts)
 
-| # | T | F | Question |
-|---|---|---|---|
-| 1 | T | F | Variable names may begin with a number. |
-| 2 | T | F | x >= y is the same as (x > y && x == y). |
-| 3 | T | F | The cout statement in the following program segment will display 8:<br> `int x = 8;`<br> `cout << ++x;` |
-| 4 | T | F | The for loop is a posttest loop. |
-| 5 | T | F | When an if statement is nested in the if part of another statement, the only time the inner if is executed is when the expression of the outer if is true. |
-| 6 | T | F | The continue statement causes a terminated loop to resume. |
-| 7 | T | F | The scope of a variable is limited to the block in which it is defined. |
-| 8 | T | F | When you call an ofstream object’s open member function, the specified file will be erased if it already exists. |
+| #    | T    | F    | Question                                                                                                                                                   |
+| :--- | :--- | :--- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | T    | F    | Variable names may begin with a number.                                                                                                                    |
+| 2    | T    | F    | x >= y is the same as (x > y && x == y).                                                                                                                   |
+| 3    | T    | F    | The cout statement in the following program segment will display 8:<br> `int x = 8;`<br> `cout << ++x;`                                                    |
+| 4    | T    | F    | The for loop is a posttest loop.                                                                                                                           |
+| 5    | T    | F    | When an if statement is nested in the if part of another statement, the only time the inner if is executed is when the expression of the outer if is true. |
+| 6    | T    | F    | The continue statement causes a terminated loop to resume.                                                                                                 |
+| 7    | T    | F    | The scope of a variable is limited to the block in which it is defined.                                                                                    |
+| 8    | T    | F    | When you call an ofstream object’s open member function, the specified file will be erased if it already exists.                                           |
 
 ### III. What will the following programs print on the screen? (20 pts)
 

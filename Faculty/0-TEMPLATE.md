@@ -52,7 +52,6 @@
 ## Trivia
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
-
 [profile-image]: https://example.png
 [academic-profile]: https://example.com/
 [facebook-profile]: https://www.facebook.com/profile.php?id=4

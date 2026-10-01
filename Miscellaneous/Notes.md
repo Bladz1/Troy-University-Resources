@@ -12,11 +12,15 @@
 
 - Về khối lượng học của Troy và BK:
   
-  |                   |                                 Troy                                  |                                           BK                                            |
-  | :---------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
-  | Tính chất môn học |  Hầu hết các môn quan trọng đều có project (Required Major Courses)   |                                  Chủ yếu là lý thuyết                                   |
-  | Đồ án tốt nghiệp  | Không, thay vào đó là các project xuyên suốt, học đủ tín là ra trường |  Có, đồ án chính là một phần mà các đại học VN chịu ảnh hưởng từ nền giáo dục Liên Xô   |
-  |  Điểm 'qua môn'   |                     Thường là 6 hoặc 7 điểm tổng                      | Thường là 3 điểm cuối kì đổ lên (mức 3 điểm cuối kì ở Troy coi như chả qua được môn gì) |
+<div align="center">
+
+  |                   | Troy                                                                  | BK                                                                                      |
+  | :---------------: | :-------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
+  | Tính chất môn học | Hầu hết các môn quan trọng đều có project (Required Major Courses)    | Chủ yếu là lý thuyết                                                                    |
+  | Đồ án tốt nghiệp  | Không, thay vào đó là các project xuyên suốt, học đủ tín là ra trường | Có, đồ án chính là một phần mà các đại học VN chịu ảnh hưởng từ nền giáo dục Liên Xô    |
+  | Điểm 'qua môn'    | Thường là 6 hoặc 7 điểm tổng                                          | Thường là 3 điểm cuối kì đổ lên (mức 3 điểm cuối kì ở Troy coi như chả qua được môn gì) |
+
+</div>
 
 - Thực ra tự nhiên mà làm một cái so sánh giữa Troy và BK ở đây là tôi thấy hơi sai trái về mặt đạo đức 🙂, thực ra tôi không muốn so sánh như vậy, tôi bị f... Dù không muốn nhưng mà cũng không thể bỏ qua được vì nó chứa thông tin có thể hữu ích nên không bỏ được, nhưng mà để mà thành thật thì đừng mang tư duy so sánh giữa ngành ta và phần còn lại (BK), so sánh này thực ra là mang tính *vuốt ve peter* của một số người muốn làm bảng so sánh này thôi, *thẩm du tinh thần* ấy!! Chứ mình học thật sự là nhẹ hơn BK cũng đáng kể đấy, không có cửa mà so với BK đâu nhé... Lấy một ví dụ mà tôi coi là cái gốc của mọi ngành, Toán nhé? Chúng ta nhìn thẳng vào cái môn Toán đầu tiên mà được học tại Troy ấy ([MTH-1112](../MTH-1112/README.md)), đấy là cách BK tiến hành một môn học, đi thi là không mang cái gì vào (ngoài 🧠), vào ngồi thi căng - thầy sẵn sàng var thẳng đứa nào nhờn (những cái này tôi đã nói kĩ hơn trong link ở cái mở ngoặc tên môn kia), đấy môn đấy đơn giản vậy đã trượt 1 đống rồi, giờ mà giả sử đống Toán còn lại ở Troy mà cũng tiến hành như thế hoặc cứ vài môn như thế thì chắc *chết như ngả rạ* chứ đùa đâu. 🥳🥳
 
@@ -77,11 +81,15 @@ Tóm lại:
 
 ## Humanity of Troy University
 
-|          Tiêu chí          | Troy                                                                                                                                                                                                                                     | BK                                                                                                                                                                    |
-| :------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  Ngưỡng cảnh báo học tập   | - Institutional GPA < 2.00 → Academic Probation.<br/>- Nếu đang probation mà Institutional GPA của kỳ tiếp theo < 2.00 → Academic Suspension.                                                                                            | - Nợ > 8 tín chỉ/học kỳ → +1 mức cảnh báo.<br/>- Nợ > 16 tín chỉ/học kỳ hoặc bỏ học/không đăng ký → +2 mức cảnh báo.<br/>- Nợ tích lũy > 24 tín chỉ → Cảnh báo mức 3. |
+<div align="center">
+
+| Tiêu chí                   | Troy                                                                                                                                                                                                                                     | BK                                                                                                                                                                    |
+| :------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ngưỡng cảnh báo học tập    | - Institutional GPA < 2.00 → Academic Probation.<br/>- Nếu đang probation mà Institutional GPA của kỳ tiếp theo < 2.00 → Academic Suspension.                                                                                            | - Nợ > 8 tín chỉ/học kỳ → +1 mức cảnh báo.<br/>- Nợ > 16 tín chỉ/học kỳ hoặc bỏ học/không đăng ký → +2 mức cảnh báo.<br/>- Nợ tích lũy > 24 tín chỉ → Cảnh báo mức 3. |
 | Tăng mức cảnh báo/đình chỉ | - Suspension lần 1: đình chỉ 1 kỳ.<br/>- Lần 2: đình chỉ 2 kỳ.<br/>- Lần 3: đình chỉ vô thời hạn.                                                                                                                                        | - Nợ tín chỉ nhiều hơn theo ngưỡng sẽ nâng cảnh báo.<br/>- Có thể nâng 1 hoặc 2 mức tùy mức độ.                                                                       |
-|       Buộc thôi học        | - Với B.S.B.A: một môn business chỉ được thử tối đa 3 lần (điểm D coi là đậu nếu không yêu cầu cao hơn). Nếu không đạt sau 3 lần → buộc thôi học khỏi ngành/chuyên sâu đó.<br/>- Sinh viên CS thì không có yêu cầu gì lạ hơn để bị đuổi. | - Bị cảnh báo mức 3 hai lần liên tiếp.<br/>- Học chậm quá thời hạn cho phép hoặc không còn khả năng tốt nghiệp đúng hạn.                                              |
+| Buộc thôi học              | - Với B.S.B.A: một môn business chỉ được thử tối đa 3 lần (điểm D coi là đậu nếu không yêu cầu cao hơn). Nếu không đạt sau 3 lần → buộc thôi học khỏi ngành/chuyên sâu đó.<br/>- Sinh viên CS thì không có yêu cầu gì lạ hơn để bị đuổi. | - Bị cảnh báo mức 3 hai lần liên tiếp.<br/>- Học chậm quá thời hạn cho phép hoặc không còn khả năng tốt nghiệp đúng hạn.                                              |
+
+</div>
 
 ### Một số bổ sung
 

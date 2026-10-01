@@ -54,23 +54,27 @@ H. Pishro-Nik, *Introduction to Probability, Statistics, and Random Processes*, 
 
 ### Tentative class schedule
 
-| No | Date | Sections | Topics | Remarks |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | 10-Oct | Ch 1 | Basic Concepts | |
-| 2 | 24-Oct | Ch 2 | Combinatorics: Counting Methods | |
-| 3 | 31-Oct | Ch 3 | Discrete Random Variables, I | |
-| 4 | 7-Nov | | Discrete Random Variables, II | **Quiz 1 (Ch 1 & 2)** |
-| 5 | 14-Nov | Ch 4 | Continuous Random Variables, I | |
-| 6 | 21-Nov | | Continuous Random Variables, II | **Quiz 2 (Ch 3)** |
-| 7 | 28-Nov | Ch 5 | Joint probability distributions <br> Review for Midterm | |
-| 8 | 5-Dec | | **Question & Answer** | **Midterm Exam** <br> (Chapters 1, 2, 3 & 4) |
-| 9 | 12-Dec | Ch 7 | Law of large numbers and the central limit theorem | |
-| 10 | 19-Dec | Ch 8 | Point Estimation | |
-| 11 | 26-Dec | | Interval Estimation (Confidence Intervals) | **Quiz 3 (Ch 5 & 7)** |
-| 12 | 2-Jan | | Hypothesis Testing | |
-| 13 | 9-Jan | | Linear Regression | **Quiz 4 (Ch 8)** |
-| 14 | 16-Jan | | Project presentation, Final review | |
-| 15 | 23-Jan | | **Question & Answer** | **Final Exam** |
+<div align="center">
+
+| No   | Date   | Sections | Topics                                                  | Remarks                                      |
+| :--- | :----: | :------- | :------------------------------------------------------ | :------------------------------------------- |
+| 1    | 10-Oct | Ch 1     | Basic Concepts                                          |                                              |
+| 2    | 24-Oct | Ch 2     | Combinatorics: Counting Methods                         |                                              |
+| 3    | 31-Oct | Ch 3     | Discrete Random Variables, I                            |                                              |
+| 4    | 7-Nov  |          | Discrete Random Variables, II                           | **Quiz 1 (Ch 1 & 2)**                        |
+| 5    | 14-Nov | Ch 4     | Continuous Random Variables, I                          |                                              |
+| 6    | 21-Nov |          | Continuous Random Variables, II                         | **Quiz 2 (Ch 3)**                            |
+| 7    | 28-Nov | Ch 5     | Joint probability distributions <br> Review for Midterm |                                              |
+| 8    | 5-Dec  |          | **Question & Answer**                                   | **Midterm Exam** <br> (Chapters 1, 2, 3 & 4) |
+| 9    | 12-Dec | Ch 7     | Law of large numbers and the central limit theorem      |                                              |
+| 10   | 19-Dec | Ch 8     | Point Estimation                                        |                                              |
+| 11   | 26-Dec |          | Interval Estimation (Confidence Intervals)              | **Quiz 3 (Ch 5 & 7)**                        |
+| 12   | 2-Jan  |          | Hypothesis Testing                                      |                                              |
+| 13   | 9-Jan  |          | Linear Regression                                       | **Quiz 4 (Ch 8)**                            |
+| 14   | 16-Jan |          | Project presentation, Final review                      |                                              |
+| 15   | 23-Jan |          | **Question & Answer**                                   | **Final Exam**                               |
+
+</div>
 
 ---
 

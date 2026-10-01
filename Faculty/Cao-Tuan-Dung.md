@@ -122,7 +122,6 @@
 
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
-
 [profile-image]: https://soict.hust.edu.vn/wp-content/uploads/2019/06/DHP_5196.jpg
 [soict-profile]: https://soict.hust.edu.vn/pgs-ts-cao-tuan-dung.html
 [facebook-profile]: https://www.facebook.com/profile.php?id=100014228280311

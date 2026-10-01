@@ -66,9 +66,9 @@
 * [ ] $P[G_2] = 0.5$
 
 **Question 10.** The discrete random variable $X$ has the following probability distribution
-| X | 0 | 1 | 2 | 3 | 4 |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **P(X = $x_i$)** | 0.15 | c | 0.35 | 0.2 | 0.1 |
+| X                | 0    | 1    | 2    | 3    | 4    |
+| :--------------- | :--- | :--- | :--- | :--- | :--- |
+| **P(X = $x_i$)** | 0.15 | c    | 0.35 | 0.2  | 0.1  |
 
 Which of the following statements are correct?
 * [ ] $Var[X] = 1.39$

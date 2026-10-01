@@ -1,6 +1,6 @@
 # TS. Hồ Minh Toàn
 
->"Bẹn này lèm cũng đúng nè, nhưng mà tui xin lõi nha, tui chỉ coọng đỉm cho bẹn đào tin thoi."  
+>"Yalo."  
 — **TS. Hồ Minh Toàn**
 
 **TS. Hồ Minh Toàn** là giảng viên phòng Hình học và Tôpô, Viện Toán Học, VHLKHVCNVN.
@@ -117,7 +117,6 @@ A GOOD MAN 👍👍👍
 - Trong quá khứ, **TS. Hồ Minh Toàn** thường có một trợ giảng gác thi cùng. Thiên hạ từng truyền tai nhau:
   - >"Nên học hành cẩn thận, sẽ có Mr. Cường (đệ của thầy) trông thi, đồ sát quét sạch, gần như không thể cheat, hoặc nhìn bài."
   - Tuy nhiên, từ kì Fall-2025, đã không còn ai thấy bóng dáng của "Mr. Cường" nữa.
-
 
 [profile-image]: https://math.ac.vn/uploads/images/Toan_HoMinh.jpg
 [academic-profile]: https://math.ac.vn/staff/ho-minh-toan

@@ -58,7 +58,6 @@
 ## Trivia
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
-
 [profile-image]: https://luuquangtrung.github.io/assets/img/cv.jpg
 [academic-profile]: https://seee.hust.edu.vn/vi/suborgans/person/Khoa-Ky-thuat-truyen-thong-6/TS-Luu-Quang-Trung-138/
 [facebook-profile]: https://www.facebook.com/profile.php?id=1777035470

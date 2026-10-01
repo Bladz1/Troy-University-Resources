@@ -42,14 +42,17 @@ Department of Management Science and Law, School of Economics and Management, HU
 
 **Grading system**
 
-| Grade | Score Range |
-| :--- | :--- |
-| A | 90-100 |
-| B | 80-89 |
-| C | 70-79 |
-| D | 60-69 |
-| F | under 60 |
+<div align="center">
 
+| Grade | Score Range |
+| :---: | :---------- |
+| A     | 90-100      |
+| B     | 80-89       |
+| C     | 70-79       |
+| D     | 60-69       |
+| F     | under 60    |
+
+</div>
 
 **_Important Note:_** _serious penalty (e.g: one lower letter grade) will be given for cheating and plagiarism and students will be required to retake a course if they get D or worse for that course._
 
@@ -71,20 +74,24 @@ Stephen Robbins, Mary Coulter, & David DeCenzo, 2017. Fundamentals of Management
 
 ### Class Schedules
 
-| CLASS | Date | Lecture topics |
-| :---: | :--- | :--- |
-| **1** | | Course Introduction<br>**Introduction of Management**<br>Reading Part 1, chap. 1 |
-| **2** | | **Historical foundation of management** |
-| **3** | | Environment & Diversity<br>Reading Part 1, chap 2 |
-| **4** | | **Planning**<br>Planning and Strategic Management<br>Reading Part 2, chap 3, 4 |
-| **5** | | Decision Making<br>Reading Part 2, chap 5 |
-| **6** | | **Organizing**<br>Basic elements of organization structure<br>Reading Part 3, chap 6 |
-| **7** | | Organizational Design<br>Reading Part 3, chap 7 |
-| **8** | | **_Mid term exam_**<br>Human Resource Management<br>Reading Part 3, chap 8 |
-| **9** | | **Leading**<br>Basic elements of individual behavior in organizations<br>Reading Part 4, chap 9 |
-| **10** | | Managing employee Motivation and performance<br>Reading Part 4, chap 10 |
-| **11** | | **Leadership**<br>Reading Part 4, chap 11 |
-| **12** | | Managerial Communications<br>Reading Part 4, chap 12 |
-| **13** | | Teams and team work<br>Reading Part 4, chap 13 |
-| **14** | | **Controlling**<br>Reading part 5, chap 14-15 |
-| **15** | | **Examination** |
+<div align="center">
+
+| CLASS  | Date | Lecture topics                                                                                  |
+| :----: | :--- | :---------------------------------------------------------------------------------------------- |
+| **1**  |      | Course Introduction<br>**Introduction of Management**<br>Reading Part 1, chap. 1                |
+| **2**  |      | **Historical foundation of management**                                                         |
+| **3**  |      | Environment & Diversity<br>Reading Part 1, chap 2                                               |
+| **4**  |      | **Planning**<br>Planning and Strategic Management<br>Reading Part 2, chap 3, 4                  |
+| **5**  |      | Decision Making<br>Reading Part 2, chap 5                                                       |
+| **6**  |      | **Organizing**<br>Basic elements of organization structure<br>Reading Part 3, chap 6            |
+| **7**  |      | Organizational Design<br>Reading Part 3, chap 7                                                 |
+| **8**  |      | **_Mid term exam_**<br>Human Resource Management<br>Reading Part 3, chap 8                      |
+| **9**  |      | **Leading**<br>Basic elements of individual behavior in organizations<br>Reading Part 4, chap 9 |
+| **10** |      | Managing employee Motivation and performance<br>Reading Part 4, chap 10                         |
+| **11** |      | **Leadership**<br>Reading Part 4, chap 11                                                       |
+| **12** |      | Managerial Communications<br>Reading Part 4, chap 12                                            |
+| **13** |      | Teams and team work<br>Reading Part 4, chap 13                                                  |
+| **14** |      | **Controlling**<br>Reading part 5, chap 14-15                                                   |
+| **15** |      | **Examination**                                                                                 |
+
+</div>

@@ -16,9 +16,13 @@ Time frame: 2 hours and 45 minutes
 
 **Requirements:** regular and punctual attendance (see class regulations below), required home assignments, class participation, midterm, a final project including a presentation.
 
-| REQUIRED TO PASS THE COURSE | In class project participation: 20% |
-| :--- | :--- |
+<div align="center">
+
+| REQUIRED TO PASS THE COURSE                                                                                                                             | In class project participation: 20%                                                                                                                                                                      |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1) Mid-term presentation: (30%)**<br>**2) Final project and presentation in class: (40%)**<br>**3) Museum masterpiece challenges presentation (10%)** | _1) **Mona Lisa Project (collage) (5%)**_<br>_2) **Clay sculpture (5%)**_<br>_3) **Field trip to the Museum of Fine Art Report (5%)**_<br>_4) **When a cardboard box becomes a miniature gallery (5%)**_ |
+
+</div>
 
 ***
 
@@ -27,15 +31,19 @@ A: 90 – 100, B: 80 – 89,99 , C : 70 – 79,99, D : 60 – 69,99, F : under 6
 
 ### Class syllabus:
 
-| | Content of the class | Studio practice |
-| :--- | :--- | :--- |
-| **Class 1** | **Introduction of the class and its elements**<br>+ What is art? What is the purpose of art?<br>+ The language and vocabulary of art (composition, form, color, line, shape, mass, contrast, hue, mark, perspectives…). | _**Exercise of line drawing, form, and interaction with objects.**_ |
-| **Class 2** | **Art and Religions** | _**When puzzles become a challenge.**_ |
-| **Class 3** | **Genre of paintings: _History painting (religious, allegorical works)_**<br>**Portrait:** _**Individual, group and self-portrait**_<br>**Genre painting:** _**Scenes of everyday life activities**_<br>**Landscape painting**<br>**Sill-life painting** | _**Mona Lisa Project (collage) (5%)**_<br>• _**Pick up the subject for midterm exam**_ |
-| **Class 4** | **From 19th Century – Century of styles**<br>**Modernism and Post Modernism:**<br>Impressionism, Fauvism, Cubism, Surrealism<br>Abstract Expressionism, Pop Art, Minimalism, Conceptual Art | _**Clay sculpture (5%)**_<br>_**2D becomes 3D.**_ |
-| **Class 5** | **Midterm exam:** _**Individual presentation on chosen subjects (30%)**_ | |
-| **Class 6 (FIELD TRIP)** | **Field trip to the Museum of Fine Art - 66 Nguyen Thai Hoc str (5%)** | |
-| **Class 7** | **_When a cardboard box becomes a miniature gallery (5%)_**<br>(SHOWING SAMPLE OF PREVIOUS FINAL PROJECTS) | |
-| **Class 8** | **Public Art** | **Museum masterpiece challenges presentation (10%)** |
-| **Class 9** | **Final studio project presentation (in group or individual) (40%)** | |
-| **Class 10** | **My art practice** | |
+<div align="center">
+
+|                          | Content of the class                                                                                                                                                                                                                                     | Studio practice                                                                        |
+| :----------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------- |
+| **Class 1**              | **Introduction of the class and its elements**<br>+ What is art? What is the purpose of art?<br>+ The language and vocabulary of art (composition, form, color, line, shape, mass, contrast, hue, mark, perspectives…).                                  | _**Exercise of line drawing, form, and interaction with objects.**_                    |
+| **Class 2**              | **Art and Religions**                                                                                                                                                                                                                                    | _**When puzzles become a challenge.**_                                                 |
+| **Class 3**              | **Genre of paintings: _History painting (religious, allegorical works)_**<br>**Portrait:** _**Individual, group and self-portrait**_<br>**Genre painting:** _**Scenes of everyday life activities**_<br>**Landscape painting**<br>**Sill-life painting** | _**Mona Lisa Project (collage) (5%)**_<br>• _**Pick up the subject for midterm exam**_ |
+| **Class 4**              | **From 19th Century – Century of styles**<br>**Modernism and Post Modernism:**<br>Impressionism, Fauvism, Cubism, Surrealism<br>Abstract Expressionism, Pop Art, Minimalism, Conceptual Art                                                              | _**Clay sculpture (5%)**_<br>_**2D becomes 3D.**_                                      |
+| **Class 5**              | **Midterm exam:** _**Individual presentation on chosen subjects (30%)**_                                                                                                                                                                                 |                                                                                        |
+| **Class 6 (FIELD TRIP)** | **Field trip to the Museum of Fine Art - 66 Nguyen Thai Hoc str (5%)**                                                                                                                                                                                   |                                                                                        |
+| **Class 7**              | **_When a cardboard box becomes a miniature gallery (5%)_**<br>(SHOWING SAMPLE OF PREVIOUS FINAL PROJECTS)                                                                                                                                               |                                                                                        |
+| **Class 8**              | **Public Art**                                                                                                                                                                                                                                           | **Museum masterpiece challenges presentation (10%)**                                   |
+| **Class 9**              | **Final studio project presentation (in group or individual) (40%)**                                                                                                                                                                                     |                                                                                        |
+| **Class 10**             | **My art practice**                                                                                                                                                                                                                                      |                                                                                        |
+
+</div>

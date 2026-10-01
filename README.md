@@ -446,6 +446,22 @@
     </tr>
     <tr>
       <td align="center"><b>48</b></td>
+      <td align="left"><a href="./MGT-4460/"><kbd>MGT&#8209;4460</kbd></a></td>
+      <td align="left">Introduction to Project Management <br><i>(Sinh viên IT không cần đáp ứng Prerequisite, môn này là Free Elective)</i></td>
+      <td align="center">3</td>
+      <td align="center">Lower-level Core, MGT 3300, QM 3345</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>49</b></td>
+      <td align="left"><a href="./MGT-4471/"><kbd>MGT&#8209;4471</kbd></a></td>
+      <td align="left">Leadership and Change <br><i>(Sinh viên IT không cần đáp ứng Prerequisite, môn này là Free Elective)</i></td>
+      <td align="center">3</td>
+      <td align="center">Lower-level Core, MGT 3300</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>50</b></td>
       <td align="left"><a href="./IS-2241/"><kbd>IS&#8209;2241</kbd></a></td>
       <td align="left">Computer Concepts and Applications</td>
       <td align="center">3</td>
@@ -453,7 +469,7 @@
       <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
-      <td align="center"><b>49</b></td>
+      <td align="center"><b>51</b></td>
       <td align="left"><a href="./ENG-2206/"><kbd>ENG&#8209;2206</kbd></a></td>
       <td align="left">World Literature after 1660</td>
       <td align="center">3</td>
@@ -461,7 +477,7 @@
       <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/SUCK.svg"></td>
     </tr>
     <tr>
-      <td align="center"><b>50</b></td>
+      <td align="center"><b>52</b></td>
       <td align="left"><a href="./LAW-2221/"><kbd>LAW&#8209;2221</kbd></a></td>
       <td align="left">Legal Environment of Business</td>
       <td align="center">3</td>
@@ -469,7 +485,7 @@
       <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/SUCK.svg"></td>
     </tr>
     <tr>
-      <td align="center"><b>51</b></td>
+      <td align="center"><b>53</b></td>
       <td align="left"><a href="./MKT-3300/"><kbd>MKT&#8209;3300</kbd></a></td>
       <td align="left">Principles of Marketing</td>
       <td align="center">3</td>
@@ -477,7 +493,7 @@
       <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
-      <td align="center"><b>52</b></td>
+      <td align="center"><b>54</b></td>
       <td align="left"><kbd>ACT&#8209;2291</kbd></td>
       <td align="left">Principles of Accounting I</td>
       <td align="center">3</td>
@@ -485,33 +501,33 @@
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><b>53</b></td>
+      <td align="center"><b>55</b></td>
       <td align="left"><a href="./QM-2241/"><kbd>QM&#8209;2241</kbd></a></td>
-      <td align="left">Business Statistics</td>
+      <td align="left"><s>Business Statistics</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">MTH 1112 and IS 2241</td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><b>54</b></td>
+      <td align="center"><b>56</b></td>
       <td align="left"><a href="./MTH-2201/"><kbd>MTH&#8209;2201</kbd></a></td>
-      <td align="left">Calculus and its Applications</td>
+      <td align="left"><s>Calculus and its Applications</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">MTH 1112 or 1114 with C</td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><b>55</b></td>
+      <td align="center"><b>57</b></td>
       <td align="left"><a href="./SCI-2233/"><kbd>SCI/L&#8209;2233</kbd></a></td>
-      <td align="left">Physical Science and Lab</td>
+      <td align="left"><s>Physical Science and Lab</s> <br><i>(May not be offered)</i></td>
       <td align="center">4</td>
       <td align="center"></td>
       <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/PEAK.svg"></td>
     </tr>
     <tr>
-      <td align="center"><b>56</b></td>
+      <td align="center"><b>58</b></td>
       <td align="left"><a href="./BIO-1100/"><kbd>BIO/L&#8209;1100</kbd></a></td>
-      <td align="left">Principles of Biology & Lab</td>
+      <td align="left"><s>Principles of Biology & Lab</s> <br><i>(May not be offered)</i></td>
       <td align="center">4</td>
       <td align="center"></td>
       <td align="center"></td>
@@ -524,7 +540,7 @@
       <td></td>
     </tr>
     <tr>
-      <td align="center"><b>57</b></td>
+      <td align="center"><b>59</b></td>
       <td align="left"><a href="./Ly-Luan-Chinh-Tri/"><kbd>SSH1111Q</kbd></a></td>
       <td align="left">Triết học Mác - Lênin</td>
       <td align="center">3</td>
@@ -532,7 +548,7 @@
       <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
-      <td align="center"><b>58</b></td>
+      <td align="center"><b>60</b></td>
       <td align="left"><a href="./Ly-Luan-Chinh-Tri/"><kbd>SSH1121Q</kbd></a></td>
       <td align="left">Kinh tế chính trị Mác - Lênin</td>
       <td align="center">2</td>
@@ -540,7 +556,7 @@
       <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
-      <td align="center"><b>59</b></td>
+      <td align="center"><b>61</b></td>
       <td align="left"><a href="./Ly-Luan-Chinh-Tri/"><kbd>SSH1131Q</kbd></a></td>
       <td align="left">Chủ nghĩa xã hội khoa học</td>
       <td align="center">2</td>
@@ -548,7 +564,7 @@
       <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
-      <td align="center"><b>60</b></td>
+      <td align="center"><b>62</b></td>
       <td align="left"><a href="./Ly-Luan-Chinh-Tri/"><kbd>SSH1141Q</kbd></a></td>
       <td align="left">Lịch sử Đảng Cộng sản Việt Nam</td>
       <td align="center">2</td>
@@ -556,7 +572,7 @@
       <td align="center"><img src="./Miscellaneous/Assets/Badges/Tier/FAIR.svg"></td>
     </tr>
     <tr>
-      <td align="center"><b>61</b></td>
+      <td align="center"><b>63</b></td>
       <td align="left"><a href="./Ly-Luan-Chinh-Tri/"><kbd>SSH1151Q</kbd></a></td>
       <td align="left">Tư tưởng Hồ Chí Minh</td>
       <td align="center">2</td>

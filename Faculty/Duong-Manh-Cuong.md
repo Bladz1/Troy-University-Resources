@@ -49,7 +49,6 @@
 ## Trivia
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
-
 [profile-image]: https://cite.ueb.edu.vn/Uploads/Article/lanntp@vnu.edu.vn/2021_8/images/cda627b42965e554039e1248e1934172-16.jpg
 [academic-profile]: https://sem.hust.edu.vn/lecturers/ts-duong-manh-cuong
 [facebook-profile]: https://www.facebook.com/profile.php?id=625114441

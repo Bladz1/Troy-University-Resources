@@ -47,7 +47,6 @@
 ## Trivia
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
-
 [profile-image]: https://sem.hust.edu.vn/wp-content/uploads/2023/12/ThS-Thuy-Hang.jpeg
 [academic-profile]: https://sem.hust.edu.vn/lecturers/ths-nguyen-thi-thuy-hang
 [law-2221]: ../LAW-2221/

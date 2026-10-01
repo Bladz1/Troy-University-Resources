@@ -58,9 +58,9 @@
 ### II. Multiple choice questions (Students need to find ALL correct answers)
 
 **Question 9.** The discrete random variable $X$ has the following probability distribution
-| X | 0 | 1 | 2 | 3 | 4 |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **P(X = $x_i$)** | 0.15 | c | 0.3 | 0.2 | 0.1 |
+| X                | 0    | 1    | 2    | 3    | 4    |
+| :--------------- | :--- | :--- | :--- | :--- | :--- |
+| **P(X = $x_i$)** | 0.15 | c    | 0.3  | 0.2  | 0.1  |
 
 Which of the following statements are correct?
 * [ ] $Var[X] = 8.2725$

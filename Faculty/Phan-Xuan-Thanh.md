@@ -50,7 +50,6 @@
 ## Trivia
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
-
 [profile-image]: https://fami.hust.edu.vn/wp-content/uploads/IMG_0494.jpg
 [academic-profile]: https://fami.hust.edu.vn/giang-vien/?name=thanhpx
 [facebook-profile]: https://www.facebook.com/profile.php?id=590048006

@@ -3,17 +3,40 @@
 > "Thế cuối cùng ông tên là [**REDACTED**] hay ông tên là [**REDACTED**]?"  
 > — **TS. Đoàn Duy Trung**, *với một sinh viên vừa bị phát hiện điểm danh hộ bạn*
 
-**TS. Đoàn Duy Trung** là Phó Trưởng Khoa Toán-Tin, ĐHBKHN.
+**TS. Đoàn Duy Trung** là **Phó Trưởng khoa Toán - Tin, Đại học Bách khoa Hà Nội**.
 
 ## Thông tin cơ bản
 
 - **Ngoại hình**: [Đoàn Duy Trung][profile-image]
 - **Lý lịch**: [FAMI - Đoàn Duy Trung][academic-profile]
 - **Giới tính**: Nam
-- **Học vị cao nhất**: Tiến sĩ
-- **Khoa**: Toán-Tin
+- **Năm sinh, nơi sinh**: 1984, Hải Phòng.
+- **Học vị cao nhất**: Tiến sĩ (Dr. rer. nat.), TU Bergakademie Freiberg, Đức, năm 2018.
 - **Email**: trung.doanduy@hust.edu.vn
 - **Facebook**: [Facebook - Đoàn Duy Trung][facebook-profile]
+- **Hồ sơ nghiên cứu**: [ResearchGate - Trung Duy Doan][researchgate-profile]
+
+## Học vấn và quá trình công tác
+
+<div align="center">
+
+| Thời gian         | Học tập và công tác                                                                                                                   |
+| :---------------: | :------------------------------------------------------------------------------------------------------------------------------------ |
+| 09/2003 - 07/2008 | Học Tin học tại Đại học Kỹ thuật Quốc gia Volgograd (Volgograd State Technical University), Nga.                                      |
+| 09/2008 - 07/2010 | Tiếp tục học tập trong lĩnh vực Tin học tại Đại học Kỹ thuật Quốc gia Volgograd.                                                      |
+| Từ 03/2011        | Giảng viên tại Đại học Bách khoa Hà Nội.                                                                                              |
+| 09/2015 - 08/2018 | Nghiên cứu tiến sĩ về lý thuyết đồ thị tại TU Bergakademie Freiberg, Đức; nhận bằng ngày 07/08/2018.                                  |
+| 04/2020 - 04/2021 | Thực tập sinh sau tiến sĩ (postdoc) tại Phòng Cơ sở toán học của Tin học, Viện Toán học, Viện Hàn lâm Khoa học và Công nghệ Việt Nam. |
+
+</div>
+
+- **Luận án tiến sĩ**: *[Proper Connection Number of Graphs][doctoral-thesis]*.
+- **Người hướng dẫn**: GS. Ingo Schiermeyer. GS. Arnfried Kemnitz tham gia phản biện luận án.
+- **Học bổng**: Học bổng của bang Sachsen (Đức), hỗ trợ sinh hoạt phí trong ba năm tại Freiberg.
+
+## Hướng nghiên cứu và hoạt động học thuật
+
+Thầy nghiên cứu **toán rời rạc, đặc biệt là lý thuyết đồ thị**. Các công trình tập trung vào cách tô màu các cạnh hoặc đỉnh và điều kiện để nối các đỉnh bằng những đường đi có tính chất màu nhất định.
 
 ## Lịch sử giảng dạy
 
@@ -69,9 +92,10 @@
 - Môn học MTH-1112 của **TS. Đoàn Duy Trung** là một trong những môn học có tỉ lệ sinh viên trượt môn cao nhất ngành Troy.
 - Trong một bài khảo sát chất lượng, **TS. Đoàn Duy Trung** được các sinh viên K69 xếp hạng 'A tier' với số điểm 8.88/10.
 
-
 [profile-image]: https://fami.hust.edu.vn/wp-content/uploads/IMG_1443.jpg
 [academic-profile]: https://fami.hust.edu.vn/giang-vien/?name=trungdd
+[researchgate-profile]: https://www.researchgate.net/profile/Trung-Doan-3
+[doctoral-thesis]: https://d-nb.info/1226100597/34
 [facebook-profile]: https://www.facebook.com/profile.php?id=100000025793205
 [mth-1112]: ../MTH-1112/
 [qm-2241]: ../QM-2241/

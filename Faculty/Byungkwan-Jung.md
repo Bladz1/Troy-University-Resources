@@ -19,15 +19,11 @@
 
 ## Học vấn
 
-<div align="center">
-
 | Văn bằng                                                   | Cơ sở đào tạo                     | Năm tốt nghiệp         |
 |:---------------------------------------------------------- |:--------------------------------- |:----------------------:|
 | Cử nhân, chuyên ngành [Kế toán – Thuế][ttu-seminar]        | Kyung Hee University, Hàn Quốc    | —                      |
 | [Thạc sĩ Khoa học máy tính (M.S.)][troy-cybersecurity]     | South Dakota State University, Mĩ | [2014][sdstate-thesis] |
 | [Tiến sĩ Khoa học máy tính (Ph.D.)][ttu-commencement-2019] | Texas Tech University, Mĩ         | 2019                   |
-
-</div>
 
 Luận văn thạc sĩ của thầy mang tên [*Shape Based Breast Medical Image Retrieval System using Arc Difference Rate*][sdstate-thesis], do **Sung Y. Shin** hướng dẫn. Công trình nghiên cứu cách tìm kiếm các ảnh nhũ ảnh có hình dạng khối u tương tự, sử dụng phương pháp *Arc Difference Ratio* (ADR).
 
@@ -35,15 +31,11 @@ Luận án tiến sĩ của thầy là [*Region-aware Querying Strategies in Inf
 
 ## Quá trình công tác
 
-<div align="center">
-
 | Giai đoạn          | Công việc                                                                                                                      |
 |:------------------:|:------------------------------------------------------------------------------------------------------------------------------ |
 | Khi học tiến sĩ    | [Trợ lí nghiên cứu tại Institute for Measurement, Methodology, Analysis & Policy (IMMAP), Texas Tech University][ttu-seminar]. |
 | Trước khi đến Troy | [Nghiên cứu viên sau tiến sĩ tại Baylor University, Waco, Texas][troy-cybersecurity].                                          |
 | Từ 2020            | [Công tác tại Đại học Troy, ban đầu với chức danh Assistant Professor][troy-catalog-2023].                                     |
-
-</div>
 
 ## Hoạt động học thuật
 

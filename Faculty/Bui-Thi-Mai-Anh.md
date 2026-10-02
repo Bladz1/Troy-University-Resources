@@ -16,15 +16,11 @@
 
 ## Học vấn
 
-<div align="center">
-
 | Năm   | Cơ sở đào tạo                                    | Văn bằng – Chuyên ngành                    |
 | :---: | :----------------------------------------------- | :----------------------------------------- |
 | 2007  | Đại học Bách khoa Hà Nội, Việt Nam               | [Kĩ sư Công nghệ thông tin][soict_profile] |
 | 2011  | Université de La Rochelle, Pháp                  | [Thạc sĩ Khoa học máy tính][soict_profile] |
 | 2016  | Université Pierre et Marie Curie (Paris 6), Pháp | [Tiến sĩ Khoa học máy tính][soict_profile] |
-
-</div>
 
 Cô bảo vệ luận án [*Séparation des Préoccupations en Épidémiologie*][lip6-thesis] ngày **09/12/2016**, dưới sự hướng dẫn của **Mikal Ziane**, với **Serge Stinckwich** và **Benjamin Roche** cùng hướng dẫn. Luận án phát triển **Kendrick**, một ngôn ngữ chuyên biệt và nền tảng mô phỏng giúp xây dựng các mô hình dịch tễ học từ những thành phần có thể kết hợp và tái sử dụng.
 

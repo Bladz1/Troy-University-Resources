@@ -17,15 +17,11 @@
 
 ## Học vấn
 
-<div align="center">
-
 | Học vị                                                                        | Cơ sở đào tạo                                                     | Năm tốt nghiệp        |
 |:----------------------------------------------------------------------------- |:----------------------------------------------------------------- |:---------------------:|
 | [Cử nhân Khoa học máy tính và Kĩ thuật thông tin (B.S.)][uca-profile]         | Fu Jen Catholic University (Đại học Công giáo Phụ Nhân), Đài Loan | [2002][chen-2008-bio] |
 | [Thạc sĩ (M.S.)][troy-faculty]                                                | Georgia State University, Mĩ                                      | —                     |
 | [Tiến sĩ Khoa học máy tính, hướng Tin sinh học (Ph.D.)][wineinformatics-book] | Georgia State University, Mĩ                                      | 2008                  |
-
-</div>
 
 Luận án tiến sĩ của thầy mang tên [*Discovery and Extraction of Protein Sequence Motif Information that Transcends Protein Family Boundaries*][chen-dissertation], do **GS. Yi Pan** hướng dẫn. Công trình tập trung phát hiện và trích xuất các mẫu lặp trong chuỗi protein (*motif*) có thể xuất hiện ở nhiều họ protein khác nhau.
 
@@ -33,15 +29,11 @@ Trong thời gian học tiến sĩ, thầy nhận hỗ trợ từ [chương trì
 
 ## Quá trình công tác
 
-<div align="center">
-
 | Năm  | Dấu mốc                                                                                                                             |
 |:----:|:----------------------------------------------------------------------------------------------------------------------------------- |
 | 2008 | [Gia nhập Khoa Khoa học máy tính, University of Central Arkansas][uca-appointment-2008].                                            |
 | 2014 | [Được thăng chức danh Associate Professor và nhận tenure tại UCA][uca-promotion-2014].                                              |
 | 2025 | [Gia nhập Đại học Troy với chức danh Professor][troy-new-faculty-2025]; [giữ vị trí Trưởng khoa Khoa học máy tính][troy-hack-2025]. |
-
-</div>
 
 ## Hướng nghiên cứu
 
@@ -84,23 +76,14 @@ Như phần lớn sinh viên Mẽo đã đánh giá trong RateMyProfessors, Chen
   </blockquote>
   </details>
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `9.5/10`
-  
   - Mỗi bài nếu bị trừ điểm, giảng viên sẽ comment trên canvas giải thích vì sao, khá minh bạch. Tuy nhiên ông khá dị, chấm code không chạy mà tự nhẩm trong đầu nên đổi khi sai. Rep trên canvas thì ông sẽ không đọc, bạn sẽ phải giải trình trực tiếp với ông.
-
 - **Độ bám sát bài học của đề thi:** `9/10`
-  
   - Không có gì đáng chê.
-
 - **Độ hợp lí, cân bằng của khối lượng bài vở và sức khỏe tinh thần:** `9/10`
-  
   - BTVN không có gì quá vô lý.
-
 - **Khả năng truyền đạt kiến thức và chuyên môn sư phạm:** `7/10`
-  
   - Ông thì nói khá rõ ràng, không lí nhí, nhưng những cái mà ông dạy nó khá bề mặt. Python thì ông dạy cơ bản lại trong 3 buổi đầu trong khi hơn 10 tuần truớc đã làm đống bài tập rồi. Slide riêng của ông thì không đến nỗi tệ. Nói chung là ông không kém về khả năng truyền đạt nhưng cái mà ông chọn truyền đạt khá lom dom.
-
 - **Tác phong, tính cách và mức độ hỗ trợ sinh viên:** `9/10`
-  
   - Chen thì coi như là free A, tuy nhiên nếu bạn muốn phúc khảo thì chỉ có thể phúc khảo nếu gặp ông ở trên lớp. Nhắn trên canvas ông sẽ không rep. Nghĩa là không thể phúc khảo được điểm bài cuối kì vì lúc đấy ông bay về Mẽo rồi.
 
 ## Cơ chế trông thi
@@ -137,7 +120,6 @@ Như phần lớn sinh viên Mẽo đã đánh giá trong RateMyProfessors, Chen
 [rate-my-professors-profile]: https://www.ratemyprofessors.com/professor/1364622
 [cs50p-course-link]: https://cs50.harvard.edu/python/
 [contributing]: ../CONTRIBUTING.md
-
 [troy-faculty]: https://www.troy.edu/academics/colleges-schools/college-science-engineering/departments/computer-science/faculty-staff.html
 [uca-profile]: https://faculty.uca.edu/bchen/
 [chen-2008-bio]: https://www.researchgate.net/publication/220132006_Efficient_Super_Granular_SVM_Feature_Elimination_Super_GSVM-FE_Model_for_Protein_Sequence_Motif_Information_Extraction

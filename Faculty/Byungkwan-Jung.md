@@ -23,7 +23,7 @@
 
 | Văn bằng                                                   | Cơ sở đào tạo                     | Năm tốt nghiệp         |
 |:---------------------------------------------------------- |:--------------------------------- |:----------------------:|
-| Cử nhân, chuyên ngành [Kế toán – Thuế][ttu-seminar]        | Kyung Hee University, Hàn Quốc    | —                      |
+| Cử nhân, chuyên ngành [Kế toán – Thuế][ttu-seminar]        | Kyung Hee University, Hàn Quốc    | 2010                   |
 | [Thạc sĩ Khoa học máy tính (M.S.)][troy-cybersecurity]     | South Dakota State University, Mĩ | [2014][sdstate-thesis] |
 | [Tiến sĩ Khoa học máy tính (Ph.D.)][ttu-commencement-2019] | Texas Tech University, Mĩ         | 2019                   |
 

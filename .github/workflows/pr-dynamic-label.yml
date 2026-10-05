@@ -33,7 +33,7 @@ jobs:
 
                   # Get changed file list compared to target branch
                   git fetch origin ${{ github.base_ref }} --depth=1 >/dev/null 2>&1
-                  FILES=$(git diff --name-only origin/${{ github.base_ref }})
+                  FILES=$(git -c core.quotepath=false diff --name-only origin/${{ github.base_ref }})
 
                   echo "Changed files:"
                   echo "$FILES"

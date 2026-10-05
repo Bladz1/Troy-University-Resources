@@ -56,7 +56,11 @@ Gần đây, các công trình của thầy mở rộng sang trí tuệ nhân t�
   > 祸必重来  
   > Họa vô đơn chí
 
-![dinh-van-k68-grades]
+  <div align="center">
+
+  ![dinh-van-k68-grades]
+
+  </div>
 
 ## Chỉ số và sức mạnh
 

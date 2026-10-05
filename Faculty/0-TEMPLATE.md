@@ -1,21 +1,21 @@
-# TS. John Doe
+# TS. John/Jane Doe
 
 >"Perhaps the archives are incomplete."  
 — **Obi-Wan Kenobi**
 
-**TS. John Doe** là mẫu template giảng viên của repo này.
+**TS. John/Jane Doe** là mẫu template giảng viên của repo này.
 
 ## Thông tin giảng viên
-- **Ngoại hình**: [John Doe][profile-image]
-- **Lý lịch**: [John Doe][academic-profile]
+- **Ngoại hình**: [John/Jane Doe][profile-image]
+- **Lý lịch**: [John/Jane Doe][academic-profile]
 - **Ngày sinh**: 01/01/1970
-- **Giới tính**: Nam
+- **Giới tính**: Nam/Nữ
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: TBA
 - **Trường**: TBA
 - **Phòng**: TBA
 - **Email**: johndoe@email.com
-- **Facebook**: [Facebook - John Doe][facebook-profile]
+- **Facebook**: [Facebook - John/Jane Doe][facebook-profile]
 - **Website**: www.example.com
 
 ## Lịch sử giảng dạy

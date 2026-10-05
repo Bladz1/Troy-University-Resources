@@ -33,7 +33,7 @@
 
 - Tuy môn này nằm trong bộ ba môn khó nhất Bách Khoa đối với sinh viên IT (Công nghệ phần mềm, Thuật toán ứng dụng, OOP), đồng thời rất quan trọng, nhưng nếu học thầy Dũng thì thực tế lại không quá khó. Mức độ “thực học” cũng không cao bằng khi học thầy Kumar. Tuy vậy, chắc đến tầm năm ba thì anh em cũng bắt đầu ham muốn đi làm rồi, nên chọn học thầy Dũng cho nhẹ nhàng, đỡ áp lực cũng là một lựa chọn ổn.
   
-![image-17]
+![cao-tuan-dung-soict-image]
 
 ## Chỉ số và sức mạnh
 - **Điểm tổng kết trung bình:** `?/100`
@@ -74,7 +74,6 @@
 ## Trivia
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
-
 [profile-image]: https://soict.hust.edu.vn/wp-content/uploads/2019/06/DHP_5196.jpg
 [soict-profile]: https://soict.hust.edu.vn/pgs-ts-cao-tuan-dung.html
 [facebook-profile]: https://www.facebook.com/profile.php?id=100014228280311
@@ -83,4 +82,4 @@
 [cs-3360]: ../CS-3360/
 [contributing]: ../CONTRIBUTING.md
 [youtube-bomman]: https://youtu.be/LWXw0ZssAdU?t=982
-[image-17]: ../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image17.jpg
+[cao-tuan-dung-soict-image]: ../Miscellaneous/Assets/Images/Cao-Tuan-Dung.jpg

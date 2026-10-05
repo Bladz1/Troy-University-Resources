@@ -1,0 +1,30 @@
+1. Explain the ideas of Polymorphism in OOP C++? 
+2. Explain the primary purpose of the following function?
+
+void mysteryFunction()
+{
+    const int SIZE = 2; 
+    GradedActivity** ptrArray = new GradedActivity*[SIZE];
+    
+    ptrArray[0] = new PassFailExam(100, 25, 80.0);
+    ptrArray[1] = new PassFailActivity(80.0); 
+    ptrArray[1]->setScore(75.0);
+
+    for (int i = 0; i < SIZE; i++)
+    {
+        cout << "Activity " << (i + 1) << ":\n";
+        cout << "The activity's numeric score is "
+             << ptrArray[i]->getScore() << endl;
+        cout << "The activity's letter grade is "
+             << ptrArray[i]->getLetterGrade() << endl;
+        cout << "---------------------------\n";
+    }
+
+    for (int i = 0; i < SIZE; i++)
+    {
+        delete ptrArray[i]; 
+    }
+    delete[] ptrArray;      
+}
+
+3. Integrate these functions into the project and run a demo

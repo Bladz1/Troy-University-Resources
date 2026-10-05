@@ -3,7 +3,7 @@
 >"I'm an engineer. That means I solve problems. Not problems like 'What is beauty?', 'cause that would fall within the purview of your conundrums of philosophy. I solve practical problems."  
 — **The Engineer**, *Team Fortress 2*
 
-**CS-3332** là một môn học 3 tín chỉ với điều kiện tiên quyết là [CS-2255][cs-2255].
+**CS-3332** là một môn học 3 tín chỉ với điều kiện tiên quyết là [CS-3323][cs-3323].
 
 ## Đánh giá
 
@@ -15,7 +15,7 @@
 - [TS. Dư Đình Viên][du-dinh-vien]: `Spring-2026`
 
 
-[cs-2255]: ../CS-2255/
+[cs-3323]: ../CS-3323/
 [cao-tuan-dung]: ../Faculty/Cao-Tuan-Dung.md
 [du-dinh-vien]: ../Faculty/Du-Dinh-Vien.md
 [contributing]: ../CONTRIBUTING.md

@@ -47,7 +47,6 @@
 ## Trivia
 - Trong một bài khảo sát chất lượng, **TS. Nguyễn Thanh Hương** đã được các sinh viên K69 xếp hạng 'S tier' với số điểm 9.7/10.
 
-
 [profile-image]: https://sem.hust.edu.vn/wp-content/uploads/2023/09/MEkX_Nguyen-Thanh-Huong.jpg
 [academic-profile]: https://sem.hust.edu.vn/lecturers/ts-nguyen-thanh-huong
 [facebook-profile]: https://www.facebook.com/profile.php?id=1304216319

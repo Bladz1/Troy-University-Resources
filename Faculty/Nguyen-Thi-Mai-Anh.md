@@ -48,7 +48,6 @@
 ## Trivia
 - **TS. GVC. Nguyễn Thị Mai Anh** được nhận xét là có ngoại hình khá tương đồng với [một thí sinh trùng tên][wwtbam-nguyen-thi-mai-anh] từng tham gia chương trình Ai là triệu phú vào năm 2017.
 
-
 [profile-image]: https://sem.hust.edu.vn/wp-content/uploads/2023/09/bWl2_Nguyen-Thi-Mai-Anh.jpg
 [academic-profile]: https://sem.hust.edu.vn/lecturers/ts-nguyen-thi-mai-anh
 [mkt-3300]: ../MKT-3300/

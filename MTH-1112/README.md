@@ -20,7 +20,7 @@ Có lẽ đây là 1 trong những môn được offer trong kì đầu tiên t�
 
 ## Lịch sử giảng dạy
 
-- [TS. Đoàn Duy Trung][doan-duy-trung]: `Fall-2021`, `Fall-2024`, `Summer-2025`, `Fall-2025`
+- [TS. Đoàn Duy Trung][doan-duy-trung]: `Fall-2021`, `Fall-2024`, `Summer-2025`, `Fall-2025`, `Summer-2026`
 
 
 [doan-duy-trung]: ../Faculty/Doan-Duy-Trung.md

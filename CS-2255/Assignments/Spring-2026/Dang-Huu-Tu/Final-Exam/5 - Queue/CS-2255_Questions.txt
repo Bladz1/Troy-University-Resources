@@ -1,0 +1,40 @@
+1. Explain the algorithm ideas behind the enqueue, dequeue, isFull, isEmpty functions? 
+2. Explain the primary purpose of the following functions?
+
+// Function 1 int IntQueue::mysteryFunction1(int target) const {
+    int count = 0;
+    for (int i = 0; i < numItems; i++) {
+        int index = (front + 1 + i) % queueSize;
+        if (queueArray[index] == target) {
+            count++;
+        }
+    }
+    return count;
+}
+
+// Function 2 
+void IntQueue::mysteryFunction2() {
+    for (int i = 0; i < numItems / 2; i++) {
+        int leftIndex = (front + 1 + i) % queueSize;
+        int rightIndex = (front + 1 + numItems - 1 - i) % queueSize;
+
+        int temp = queueArray[leftIndex];
+        queueArray[leftIndex] = queueArray[rightIndex];
+        queueArray[rightIndex] = temp;
+    }
+}
+
+// Function 3 
+bool IntQueue::mysteryFunction3(int num) {
+    if (isFull()) {
+        return false;
+    }
+    
+    queueArray[front] = num;
+    front = (front - 1 + queueSize) % queueSize;
+    numItems++;
+    
+    return true;
+}
+
+3. Integrate these functions into the project and run a demo

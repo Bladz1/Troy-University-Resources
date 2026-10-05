@@ -1,11 +1,14 @@
 # CV. Nguyễn Kiều Anh
 
->"Could you please..."  
-— **Nguyễn Kiều Anh**'s catchphrase
+> "Could you please..."  
+> — **Nguyễn Kiều Anh**'s catchphrase
 
 **CV. Nguyễn Kiều Anh** là chuyên viên phụ trách chuyên chương trình đào tạo quốc tế (chương trình TROY- Hoa Kỳ).
 
-## Thông tin giảng viên
+Bên cạnh vai trò đầu mối của chương trình TROY, công việc được phân công hiện nay còn bao gồm quản lý đào tạo và hồ sơ sinh viên chương trình hợp tác với Đại học Troy, lập kế hoạch học tập và giảng dạy, hỗ trợ tư vấn thủ tục chuyển tiếp và đăng ký học tập, hỗ trợ sinh viên các chương trình quốc tế về học tập và tiếng Anh tăng cường, đồng thời hỗ trợ các chương trình Elitech giảng dạy bằng tiếng Anh.
+
+## Thông tin cơ bản
+
 - **Ngoại hình**: [Nguyễn Kiều Anh][profile-image]
 - **Lý lịch**: [CTT - Nguyễn Kiều Anh][ctt-profile]
 - **Giới tính**: Nữ
@@ -13,63 +16,132 @@
 - **Đơn vị**: Ban Đào tạo
 - **Phòng**: 315-C1 - Bàn số 02
 - **Email**: anh.nguyenkieu@hust.edu.vn
+- **Số điện thoại**: (84) 912.383.754
+- **Học vị**: Thạc sĩ
 - **Facebook**: [Nguyễn Kiều Anh][facebook-profile]
 
 ## Lịch sử giảng dạy
+
 - `ENG-1101` ([Composition And Modern English I][eng-1101]): Fall-2024, Fall-2025
 - `ENG-1102` ([Composition and Modern English II][eng-1102]): Spring-2025, Spring-2026
-- `TROY-1101`([The University Experience][troy-1101]): Summer-2025
+- `TROY-1101`([The University Experience][troy-1101]): Summer-2025, Summer-2026
 
 ## Đánh giá
+
 ### ENG-1101 - Composition And Modern English I
+
 Đến với môn đầu tiên trong series 4 môn ENG, thật may mắn nếu người dạy của bạn không phải cô KA, còn nếu đã lỡ rồi thì... Well, hãy cố gắng và chúng ta sẽ gặp lại trong guide của ENG-1102 nhé!! 🍀🍀🍀
 
 ### TROY-1101 - The University Experience
+
 - Low B - High C tier. Chấm điểm cực căng. Nếu trong 5 buổi không giơ tay phát biểu trừ 10 điểm vào điểm tổng kết. Bài cuối kì sai 3 câu thôi là tụt nguyên 1 điểm chữ.
 
 ## Chỉ số và sức mạnh
-- **Điểm tổng kết trung bình:** `81.90/100`
-  - Độ lệch chuẩn: 9.05
-  - Tỉ lệ được A (Fall-2025): 4.17% (1/24)
+
+- **Điểm tổng kết trung bình gần nhất:** `83.81/100`
+  
+  - Độ lệch chuẩn: 9.75
+  
+  - Tỉ lệ được A: 30.77% (12/39)
+    
+    <details>
+    <summary><i>Lịch sử điểm tổng kết</i></summary>
+    <blockquote markdown="1">
+  
+  - ENG-1102 - Spring-2026
+    
+    - **Điểm tổng kết trung bình:** `83.81/100`
+      - Độ lệch chuẩn: 9.75
+      - Tỉ lệ được A: 30.77% (12/39)
+  
+  - ENG-1101 - Fall-2025
+    
+    - **Điểm tổng kết trung bình:** `81.90/100`
+      - Độ lệch chuẩn: 9.05
+      - Tỉ lệ được A: 4.17% (1/24)
+  
+  - TROY-1101 - Summer-2025
+    
+    - **Điểm tổng kết trung bình:** `67.80/100`
+      - Độ lệch chuẩn: 14.22
+      - Tỉ lệ được A: 4.55% (3/66)
+        
+        </blockquote>
+        </details>
+
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
+  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 - **Độ bám sát bài học của đề thi:** `?/10`
+  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 - **Độ hợp lí, cân bằng của khối lượng bài vở và sức khỏe tinh thần:** `?/10`
+  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 - **Khả năng truyền đạt kiến thức và chuyên môn sư phạm:** `?/10`
+  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 - **Tác phong, tính cách và mức độ hỗ trợ sinh viên:** `?/10`
+  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Cơ chế trông thi
+
+### Chung
+
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 ### ENG-1101 - Composition And Modern English I
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ### ENG-1102 - Composition and Modern English II
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ### TROY-1101 - The University Experience
+
 - Không có gì đáng nói. Quiz giữa kì thời gian khá nhanh (vài phút) và cuối kì làm bài trên máy.
 
 ## Tips
+
+### Chung
+
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 ### ENG-1101 - Composition And Modern English I
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ### ENG-1102 - Composition and Modern English II
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ### TROY-1101 - The University Experience
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Trivia
-- Trong một bài khảo sát chất lượng, **CV. Nguyễn Kiều Anh** đã được sinh viên đánh giá với con số 8.67/10 (A tier) cho môn học ENG-1101 và 6.83/10 (C tier) cho môn học TROY-1101.
 
+- Trong một [bài viết của Đại học Bách khoa Hà Nội][nguyen-bao-ngoc-hust] về thủ khoa K66 ngành Quản trị kinh doanh chương trình liên kết Troy, **Nguyễn Bảo Ngọc** nhắc đến **CV. Nguyễn Kiều Anh** như một người cố vấn tận tình và người đồng hành, hỗ trợ cân bằng giữa học tập và các hoạt động ngoại khóa 🤧.
+- Trong một bài khảo sát chất lượng, **CV. Nguyễn Kiều Anh** đã được sinh viên đánh giá với con số 8.67/10 (A tier) cho môn học ENG-1101 và 6.83/10 (C tier) cho môn học TROY-1101.
+- Do sự chênh lệch cực kì đáng kể giữa chuyên môn sư phạm, trải nghiệm và phân bố điểm của các giảng viên trong cùng một môn học, để bảo vệ GPA của mình, nhiều sinh viên phải lựa chọn việc đăng ký nhiều lớp trong cùng một môn để giữ chỗ trước khi biết được giảng viên của lớp đó.
+  - Tuy nhiên, thay vì ghi nhận và tìm cách giải quyết cốt lõi sự chênh lệch giữa khả năng và sự thiếu công bằng đó của các giảng viên, ví dụ như làm phổ điểm, tiêu chí chấm công khai, công bằng và minh bạch, cũng như ghi nhận đánh giá, xem xét trình độ và sự chênh lệch giữa các kiến thức đạt của các giảng viên qua từng kì học để từ đó tìm cách cải thiện, **C.V. Nguyễn Kiều Anh** lựa chọn một giải pháp mang tính kinh tế hơn:
+    - Đó là cho giảng viên thích làm mẹ gì thì làm, bố mày không quan tâm. Đứa nào đăng ký nhiều lớp giữ chỗ bố dọa giam học muộn.
+    - ![nguyen-kieu-anh-threat-1]
+    - ![nguyen-kieu-anh-threat-2]
 
 [profile-image]: https://i.imgur.com/zfLYXrK.jpeg
 [ctt-profile]: https://ctt.hust.edu.vn/DisplayWeb/DisplayMenu?menu=32
 [facebook-profile]: https://www.facebook.com/profile.php?id=1102264432
+[nguyen-bao-ngoc-hust]: https://hust.edu.vn/vi/news/tin-tuc-su-kien/bach-khoa-da-cho-toi-nhieu-hon-ca-mot-tam-bang-655686.html
 [eng-1101]: ../ENG-1101/
 [eng-1102]: ../ENG-1102/
 [troy-1101]: ../TROY-1101/
+[nguyen-kieu-anh-threat-1]: ../Miscellaneous/Assets/Images/Nguyen-Kieu-Anh-Threat-1.png
+[nguyen-kieu-anh-threat-2]: ../Miscellaneous/Assets/Images/Nguyen-Kieu-Anh-Threat-2.jpeg
 [contributing]: ../CONTRIBUTING.md

@@ -1,0 +1,57 @@
+name: Rebuild Troy Web
+
+run-name: Rebuild website after resource update
+
+on:
+  push:
+    branches:
+      - main
+
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: troy-web-rebuild
+  cancel-in-progress: true
+
+jobs:
+  trigger-deployment:
+    if: ${{ !github.event.repository.fork }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+
+    steps:
+      - name: Trigger web deployment
+        env:
+          DEPLOY_HOOK_URL: ${{ secrets.UPDATE_HOOK }}
+          DEPLOY_HOOK_URL_WORKER: ${{ secrets.UPDATE_HOOK_WORKER }}
+        shell: bash
+        run: |
+          if [[ -z "$DEPLOY_HOOK_URL" ]]; then
+            echo "::error::Missing repository secret UPDATE_HOOK"
+            exit 1
+          fi
+
+          curl \
+            --fail-with-body \
+            --show-error \
+            --silent \
+            --retry 3 \
+            --retry-all-errors \
+            --request POST \
+            "$DEPLOY_HOOK_URL"
+
+          if [[ -n "$DEPLOY_HOOK_URL_WORKER" ]]; then
+            curl \
+              --fail-with-body \
+              --show-error \
+              --silent \
+              --retry 3 \
+              --retry-all-errors \
+              --request POST \
+              "$DEPLOY_HOOK_URL_WORKER"
+          fi
+
+          echo "Pages and Worker deployments triggered successfully."

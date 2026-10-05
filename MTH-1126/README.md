@@ -11,8 +11,8 @@
 
 ## Lịch sử giảng dạy
 
-- [TS. Hồ Minh Toàn][ho-minh-toan]: `Summer-2025`
-- [PGS. TS Vũ Thế Khôi][vu-the-khoi]: `Summer-2025`
+- [TS. Hồ Minh Toàn][ho-minh-toan]: `Summer-2025`, `Summer-2026`
+- [PGS. TS Vũ Thế Khôi][vu-the-khoi]: `Summer-2025`, `Summer-2026`
 
 
 [vu-the-khoi]: ../Faculty/Vu-The-Khoi.md

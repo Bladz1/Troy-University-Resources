@@ -1,0 +1,20 @@
+1. Explain the ideas of try, catch in Exception C++?
+
+2. Explain the primary purpose of the following function?
+
+void mysteryFunction(Rectangle& rect, double val) {
+    try {
+        rect.setWidth(val);
+        rect.setLength(val);
+    } 
+    catch (Rectangle::NegativeWidth) {
+        cout << "Fixing width automatically..." << endl;
+        rect.setWidth(0);
+        // throw; 
+    } 
+    catch (...) {
+        cout << "An unknown error occurred!" << endl;
+    }
+}
+
+3. Integrate these functions into the project and run a demo

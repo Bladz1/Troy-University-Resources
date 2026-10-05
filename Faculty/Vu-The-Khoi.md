@@ -19,7 +19,7 @@
 
 - `MTH-1114` ([Pre-Calculus Trigonometry][mth-1114]): Fall-2025
 - `MTH-1125` ([Calculus I][mth-1125]): Spring-2025
-- `MTH-1126` ([Calculus II][mth-1126]): Summer-2025
+- `MTH-1126` ([Calculus II][mth-1126]): Summer-2025, Summer-2026
 - `MTH-2215` ([Applied Discrete Mathematics][mth-2215]): Spring-2026
 
 ## Đánh giá
@@ -67,23 +67,35 @@ Ko tra đ làm đc bài nó thẳng."
 — **Giấu tên**
 
 Bảng điểm của lớp thi trước (03) kì Spring-2026:
-| Điểm | Số lượng | Tỷ lệ phần trăm |
-|------|----------|-----------------|
-| **A** | 5       | 9.43%           |
-| **B** | 8       | 15.09%          |
-| **C** | 11      | 20.75%          |
-| **D** | 15      | 28.30%          |
-| **F** | 14      | 26.42%          |
+
+<div align="center">
+
+| Điểm  | Số lượng | Tỷ lệ phần trăm |
+| :---: | :------: | :-------------- |
+| **A** | 5        | 9.43%           |
+| **B** | 8        | 15.09%          |
+| **C** | 11       | 20.75%          |
+| **D** | 15       | 28.30%          |
+| **F** | 14       | 26.42%          |
+
+</div>
+
 *Điểm tổng kết trung bình: `65.92/100`*
 
 Bảng điểm của lớp thi sau đó (đã nhận được intel là đề bất khả thi, bắt buộc phải chép):
-| Điểm | Số lượng | Tỷ lệ phần trăm |
-|------|----------|-----------------|
-| **A** | 15      | 25.42%          |
-| **B** | 22      | 37.29%          |
-| **C** | 14      | 23.73%          |
-| **D** | 3       | 5.08%           |
-| **F** | 5       | 8.47%           |
+
+<div align="center">
+
+| Điểm  | Số lượng | Tỷ lệ phần trăm |
+| :---: | :------: | :-------------- |
+| **A** | 15       | 25.42%          |
+| **B** | 22       | 37.29%          |
+| **C** | 14       | 23.73%          |
+| **D** | 3        | 5.08%           |
+| **F** | 5        | 8.47%           |
+
+</div>
+
 *Điểm tổng kết trung bình: `79.01/100`*
 
 ## Chỉ số và sức mạnh
@@ -181,7 +193,6 @@ Thầy Khôi giờ đã không còn như xưa.
 
 - Trong một bài khảo sát chất lượng kì Fall-2025, **PGS. TS Vũ Thế Khôi** đã được các sinh viên K69 xếp hạng 'D tier' với số điểm 5.47/10.
 - Trong một bài khảo sát chất lượng kì Spring-2026, **PGS. TS Vũ Thế Khôi** đã được các sinh viên K69 xếp hạng 'F tier' với số điểm 3.73/10.
-
 
 [profile-image]: https://math.ac.vn/uploads/images/Khoi_VuThe.jpg
 [academic-profile]: https://math.ac.vn/staff/vu-the-khoi

@@ -1,0 +1,36 @@
+1. Explain the ideas of Operator Overloading and Object Conversion in OOP C++? 
+2. Explain the primary purpose of the following functions?
+
+// Function 1
+bool mysteryFunction1(const Point2D& other) {
+    return (this->x == other.x && this->y == other.y);
+}
+
+// Function 2 
+friend Point2D mysteryFunction2(int val, const Point2D& p) {
+    return Point2D(p.x + val, p.y + val);
+}
+
+// Function 3 
+operator double() const {
+    return x * x + y * y; 
+}
+
+// Function 4 
+friend ostream& mysteryFunction4(ostream& os, const Point2D& p) {
+    os << "Point(" << p.x << ", " << p.y << ")";
+    return os;
+}
+
+// Function 5 
+int& mysteryFunction5(int index) {
+    if (index == 0) {
+        return x;
+    } else if (index == 1) {
+        return y;
+    } else {
+        throw out_of_range("Invalid index! Use 0 for X, 1 for Y.");
+    }
+}
+
+3. Integrate these functions into the project and run a demo

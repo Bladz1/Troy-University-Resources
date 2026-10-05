@@ -48,7 +48,6 @@
 ## Trivia
 - Trong một bài khảo sát chất lượng, **ThS. Nguyễn Thị Thùy Phương** đã được các sinh viên K69 đánh giá 'B tier' với số điểm 7.62/10.
 
-
 [profile-image]: https://cite.ueb.edu.vn/Uploads/Article/lanntp@vnu.edu.vn/2021_8/images/cda627b42965e554039e1248e1934172-32.jpg
 [academic-profile]: https://cite.ueb.edu.vn/article-ThS.-Nguyen-Thi-Thuy-Phuong-18856-2351.html
 [troy-1101]: ../TROY-1101/

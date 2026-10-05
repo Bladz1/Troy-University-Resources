@@ -12,7 +12,7 @@
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Toán – Cơ – Tin học
 - **Trường**: Đại học Khoa học Tự nhiên
-- **Email**: taipd@vnu.edu.vn
+- **Email**: taipd@vnu.edu.vn; phoductai@hus.edu.vn
 - **Website**: https://sites.google.com/site/phoductai/
 
 ## Lịch sử giảng dạy
@@ -71,7 +71,6 @@
 
 ## Trivia
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
-
 
 [profile-image]: http://mim.hus.vnu.edu.vn/sites/default/files/styles/thumbnail/public/pictures/picture-34-1635305941.jpg
 [academic-profile]: http://mim.hus.vnu.edu.vn/vi/canbo/taipd

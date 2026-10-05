@@ -1,11 +1,11 @@
-# TS. John Doe
+# TS. John/Jane Doe
 
 > "Perhaps the archives are incomplete."  
 > — **Obi-Wan Kenobi**
 
 <!-- Đây là câu trích dẫn mở đầu của profile, nên để một quote nào đó giảng viên đã nói hoặc thích hợp với vibe của giảng viên. -->
 
-**TS. John Doe** là mẫu template hồ sơ giảng viên của repo này, nhằm cho việc tham khảo khi tạo hồ sơ cho giảng viên mới hoặc chỉnh sửa hồ sơ của giảng viên cũ. Trong file markdown này sẽ có những comment hướng dẫn từng phần. Các comment đó nên được xóa đi khỏi các file hồ sơ thật.
+**TS. John/Jane Doe** là mẫu template hồ sơ giảng viên của repo này, nhằm cho việc tham khảo khi tạo hồ sơ cho giảng viên mới hoặc chỉnh sửa hồ sơ của giảng viên cũ. Trong file markdown này sẽ có những comment hướng dẫn từng phần. Các comment đó nên được xóa đi khỏi các file hồ sơ thật.
 
 <!-- Đây là phần giới thiệu nhanh giảng viên. Phần này nên để ngắn gon, tầm 1 đoạn mô tả qua những thứ cơ bản và đáng nhớ nhất. -->
 
@@ -13,18 +13,18 @@
 
 <!-- Phần thông tin cơ bản sẽ có những dòng dưới đây. Dòng nào không tìm được thông tin thì xóa. -->
 
-- **Ngoại hình**: [John Doe][profile-image]
-- **Lý lịch**: [John Doe][academic-profile]
+- **Ngoại hình**: [John/Jane Doe][profile-image]
+- **Lý lịch**: [John/Jane Doe][academic-profile]
 - **Ngày sinh**: 01/01/1970
-- **Giới tính**: Nam
+- **Giới tính**: Nam/Nữ
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: TBA
 - **Trường**: TBA
 - **Phòng**: TBA
 - **Email**: johndoe@email.com
-- **Facebook**: [Facebook - John Doe][facebook-profile]
+- **Facebook**: [Facebook - John/Jane Doe][facebook-profile]
 - **Website**: www.example.com
-- **Rate My Professors**: [Rate My Professors - John Doe][rate-my-professors-profile]
+- **Rate My Professors**: [Rate My Professors - John/Jane Doe][rate-my-professors-profile]
 
 ## Lịch sử giảng dạy
 

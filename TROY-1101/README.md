@@ -14,7 +14,7 @@ Môn này là môn để biết về quy chế ngành - nothing special.
 
 ## Lịch sử giảng dạy
 
-- [CV. Nguyễn Kiều Anh][nguyen-kieu-anh]: `Summer-2025`
+- [CV. Nguyễn Kiều Anh][nguyen-kieu-anh]: `Summer-2025`, `Summer-2026`
 - [ThS. Nguyễn Thị Thùy Phương][nguyen-thi-thuy-phuong]: `Summer-2025`
 
 

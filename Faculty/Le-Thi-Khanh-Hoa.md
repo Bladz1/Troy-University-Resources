@@ -1,11 +1,12 @@
 # ThS. Lê Thị Khánh Hòa
 
->"There are no two words in the English language more harmful than 'good job'."  
-— **Terence Fletcher**, *Whiplash*
+> "There are no two words in the English language more harmful than 'good job'."  
+> — **Terence Fletcher**, *Whiplash*
 
 **ThS. Lê Thị Khánh Hòa** là giảng viên đến từ trường Đại Học Hà Nội.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
+
 - **Lý lịch**: [HANU - Lê Thị Khánh Hòa][hanu_profile]
 - **Giới tính**: Nữ
 - **Học vị cao nhất**: Thạc sĩ
@@ -13,16 +14,39 @@
 - **Email**: hoaltk@hanu.edu.vn
 
 ## Lịch sử giảng dạy
+
 - `COM-2241` ([Fundamentals of Speech][com-2241]): Summer-2024, Summer-2025, Summer-2026
 
 ## Đánh giá
+
 ### COM-2241 - Fundamentals of Speech
+
 Môn này là môn học về thuyết trình, nhưng quyết định được A hay không không phải là nhờ thuyết trình, mà phải vượt qua bài thi lí thuyết giấy (không tài liệu, phone), càng viết được nhiều (dĩ nhiên phải sát kiến thức trong slide), thì càng được điểm cao, các khóa gần đây chỉ có 1 con A là nhiều nhất.
 
 ## Chỉ số và sức mạnh
-- **Điểm tổng kết trung bình:** `70.51/100`
-  - Độ lệch chuẩn: `17.74`
-  - Tỉ lệ được A (kì Summer-2025): `1.43%` (1/70)
+
+- **Điểm tổng kết trung bình gần nhất:** `73.38/100`
+  - Độ lệch chuẩn: `6.32`
+  - Tỉ lệ được A: `1.59%` (1/63)
+  <details>
+  <summary><i>Lịch sử điểm tổng kết</i></summary>
+  <blockquote markdown="1">
+
+  - COM-2241 - Summer-2026
+    - **Điểm tổng kết trung bình:** `73.38/100`
+      - Độ lệch chuẩn: `6.32`
+      - Tỉ lệ được A: `1.59%` (1/63)
+  - COM-2241 - Summer-2025
+    - **Điểm tổng kết trung bình:** `70.51/100`
+      - Độ lệch chuẩn: `17.74`
+      - Tỉ lệ được A: `1.43%` (1/70)
+  - COM-2241 - Summer-2024
+    - **Điểm tổng kết trung bình:** `?/100`
+      - Độ lệch chuẩn: `TBA`
+      - Tỉ lệ được A: `TBA` (TBA/TBA)
+      > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+  </blockquote>
+  </details>
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `3/10`
   - Tiêu chuẩn không minh bạch, rõ ràng, chấm cảm tính, hời hợt.
 - **Độ bám sát bài học của đề thi:** `9/10`
@@ -35,14 +59,27 @@ Môn này là môn học về thuyết trình, nhưng quyết định được A
   - Không tệ cũng không tốt
 
 ## Cơ chế trông thi
+
+### Chung
+
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 ### COM-2241 - Fundamentals of Speech
+
 - Giảng viên sẽ đi lại khá nhiều, tuy nhiên trông thi không quá khắt khe đến mức không thể thi hành tà đạo. 
 
 ## Tips
+
+### Chung
+
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 ### COM-2241 - Fundamentals of Speech
+
 - Đáp án bài thi giữa kì có hết ở trong slide, rất dập khuôn. Nên cố học thuộc.
 
 ## Trivia
+
 - **ThS. Lê Thị Khánh Hòa** được các sinh viên K69 xếp hạng ở mức 'D Tier'. Trong một bài khảo sát chất lượng, giảng viên đã được sinh viên đánh giá với mức điểm 5.58/10
 - **ThS. Lê Thị Khánh Hòa** được nhận xét là ngoại hình có nét giống nhân vật [Stormfront][stormfront-the-boys] trong sê-ri truyền hình [The Boys][the-boys-wikipedia].
 

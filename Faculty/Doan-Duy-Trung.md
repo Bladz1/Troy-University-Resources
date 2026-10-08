@@ -5,7 +5,8 @@
 
 **TS. Đoàn Duy Trung** là **Phó Trưởng khoa Toán - Tin, Đại học Bách khoa Hà Nội**.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
+
 - **Ngoại hình**: [Đoàn Duy Trung][profile-image]
 - **Lý lịch**: [FAMI - Đoàn Duy Trung][academic-profile]
 - **Giới tính**: Nam

@@ -1,7 +1,8 @@
 # ThS. NCS. Lê Nguyên Long
 
-> "Hỏng ngay!"  
-> — **ThS. NCS. Lê Nguyên Long**
+> **“Thôi đành nhắm mắt đưa chân,**  
+> **Để xem tạo hoá xoay vần làm sao.”**  
+> — **Nguyễn Du**, *Truyện Kiều*, câu 1115–1116.
 
 **ThS. NCS. Lê Nguyên Long** là giảng viên Bộ môn Văn học nước ngoài và Nghiên cứu so sánh, Khoa Văn học, Trường Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia Hà Nội.
 

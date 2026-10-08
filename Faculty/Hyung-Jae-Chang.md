@@ -5,7 +5,7 @@
 
 **TS. Hyung Jae (Chris) Chang** là một giảng viên người Mĩ gốc Hàn (đến từ [Seoul, Hàn Quốc][cs-newsletter]), hiện là [Associate Professor tại Khoa Khoa học máy tính, Đại học Troy][troy-faculty].
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 
 - **Ngoại hình**: [Hyung Jae (Chris) Chang][profile-image]
 - **Lý lịch**: [Troy - Hyung Jae (Chris) Chang][troy_profile]
@@ -16,8 +16,6 @@
 
 ## Học vấn
 
-<div align="center">
-
 | Tốt nghiệp | Học vị và chuyên ngành                                                           | Cơ sở đào tạo                         |
 | :--------: | :------------------------------------------------------------------------------- | :------------------------------------ |
 | 12/2005    | [Cử nhân Khoa học máy tính (B.S.)][troy_profile]                                 | Oklahoma State University, Mĩ         |
@@ -25,11 +23,7 @@
 | 05/2009    | [Thạc sĩ Khoa học máy tính, chuyên ngành Kĩ thuật phần mềm (M.S.)][troy_profile] | The University of Texas at Dallas, Mĩ |
 | 08/2012    | [Tiến sĩ Khoa học máy tính (Ph.D.)][troy_profile]                                | The University of Texas at Dallas, Mĩ |
 
-</div>
-
 ## Quá trình công tác
-
-<div align="center">
 
 | Thời gian       | Công việc                                                                                                 |
 | :-------------: | :-------------------------------------------------------------------------------------------------------- |
@@ -37,8 +31,6 @@
 | 08/2013–07/2014 | [Assistant Professor tại Johnson C. Smith University][chang-cv]                                           |
 | 08/2014–07/2020 | [Assistant Professor tại Khoa Khoa học máy tính, Đại học Troy, cơ sở Montgomery][chang-cv]                |
 | 08/2020         | [Bắt đầu giữ chức danh Associate Professor tại Đại học Troy][chang-cv]                                    |
-
-</div>
 
 Thầy từng đảm nhiệm vị trí [Associate Chair từ tháng 8/2019][chang-cv] và [Interim Chair của Khoa Khoa học máy tính vào năm 2022][troy-icpc-2022].
 
@@ -88,40 +80,47 @@ I LOVE Prof. CHANGGGGG!!!!!! ❤️
 
 ## Chỉ số và sức mạnh
 
-- **Điểm tổng kết trung bình:** `?/100`
-  
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
-  
+- **Điểm tổng kết trung bình gần nhất:** `?/100`
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA` (TBA/TBA)
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+  <details>
+  <summary><i>Lịch sử điểm tổng kết</i></summary>
+  <blockquote markdown="1">
 
+  - CS-2220 - Spring-2025
+    - **Điểm tổng kết trung bình:** `?/100`
+      - Độ lệch chuẩn: `TBA`
+      - Tỉ lệ được A: `TBA` (TBA/TBA)
+      > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+  </blockquote>
+  </details>
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
-  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
-
 - **Độ bám sát bài học của đề thi:** `?/10`
-  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
-
 - **Độ hợp lí, cân bằng của khối lượng bài vở và sức khỏe tinh thần:** `?/10`
-  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
-
 - **Khả năng truyền đạt kiến thức và chuyên môn sư phạm:** `?/10`
-  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
-
 - **Tác phong, tính cách và mức độ hỗ trợ sinh viên:** `?/10`
-  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Cơ chế trông thi
+
+### Chung
+
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ### CS-2220 - Numerical Methods in Computing
 
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Tips
+
+### Chung
+
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ### CS-2220 - Numerical Methods in Computing
 
@@ -131,38 +130,22 @@ I LOVE Prof. CHANGGGGG!!!!!! ❤️
 
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
+
 [america-against-america]: ../Miscellaneous/Assets/Books/America-Against-America.pdf
-
 [profile-image]: https://spectrum.troy.edu/hjchang/images/pic_3.jpg
-
 [troy_profile]: https://spectrum.troy.edu/hjchang/
-
 [cs-2220]: ../CS-2220/
-
 [cs-3329]: ../CS-3329/
-
 [contributing]: ../CONTRIBUTING.md
-
 [rate-my-professors-profile]: https://www.ratemyprofessors.com/professor/2138262
-
 [vuong-ho-ninh]: https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_H%E1%BB%97_Ninh
-
 [party-with-chang-image]: ../Miscellaneous/Assets/Images/Party-With-Chang.jpeg
-
 [past-live-image]: ../Miscellaneous/Assets/Images/Past-Lives.jpg
-
 [troy-faculty]: https://www.troy.edu/academics/colleges-schools/college-science-engineering/departments/computer-science/faculty-staff.html
-
 [chang-cv]: https://spectrum.troy.edu/hjchang/CV.pdf
-
 [cs-newsletter]: https://spectrum.troy.edu/csclub/assets/newsletter/CS%20Newsletter.pdf
-
 [troy-icpc-2022]: https://today.troy.edu/news/troy-team-competes-at-intercollegiate-collegiate-programming-contests-north-america-championship/
-
 [mots-2013]: https://doi.org/10.1002/dac.2328
-
 [ml-students-2025]: https://doi.org/10.1177/1932202X251362944
-
 [skin-ensembles-2026]: https://doi.org/10.1145/3746467.3801505
-
 [acmse-posters-2026]: https://acmse.net/2026/schedule-posters/

@@ -1,7 +1,8 @@
 # TS. Dư Đình Viên
 
-> "Perhaps the archives are incomplete."  
-> — **Obi-Wan Kenobi**
+> **“Thịt gà, xôi nếp, đàn bà,
+> Cả ba thứ ấy phải là… dùng tay.”**
+> — *Dân gian Việt Nam*
 
 **TS. Dư Đình Viên** hiện là **Trưởng khoa Công nghệ thông tin và Điện tử – Viễn thông, Trường Đại học Hòa Bình** (**Trường Đại học Victoria Hòa Bình**). Thông tin thầy là Giám đốc Trung tâm Đào tạo Sau đại học, Trường Đại học Công nghiệp Hà Nội (HaUI), thuộc giai đoạn công tác trước. [Nguồn: giới thiệu khoa năm 2026][hbu-faculty], [thông báo nhân sự HaUI tháng 01/2023][haui-appointment].
 

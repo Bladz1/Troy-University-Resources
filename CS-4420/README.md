@@ -11,10 +11,15 @@
 
 ## Lịch sử giảng dạy
 
-- [TS. Nguyễn Đình Văn][nguyen-dinh-van]: `Fall-2024`, `Fall-2025`
+- [TS. Nguyễn Đình Văn][nguyen-dinh-van]: `Fall-2024`, `Fall-2025`, `Fall-2026`
+  - [CN. Nguyễn Thu Hương][ta-nguyen-thu-huong]: `Fall-2026`
+  - [Lê Chí Anh][ta-le-chi-anh]: `Fall-2026`
 
 
 [xkcd-327]: https://xkcd.com/327
 [cs-3323]: ../CS-3323/
 [nguyen-dinh-van]: ../Faculty/Nguyen-Dinh-Van.md
+[ta-nguyen-thu-huong]: ../Faculty/TA_Nguyen-Thu-Huong.md
+[ta-le-chi-anh]: ../Faculty/TA_Le-Chi-Anh.md
 [contributing]: ../CONTRIBUTING.md
+

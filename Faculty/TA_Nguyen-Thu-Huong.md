@@ -3,7 +3,7 @@
 > "Perhaps the archives are incomplete."  
 — **Obi-Wan Kenobi**
 
-**CN. Nguyễn Thu Hương** hiện là **Trợ giảng hợp đồng** tại **Khoa Kỹ thuật truyền thông, Trường Điện - Điện tử, Đại học Bách khoa Hà Nội**.
+**CN. Nguyễn Thu Hương** hiện là **Trợ giảng hợp đồng** tại **Khoa Kỹ thuật truyền thông, Trường Điện - Điện tử, Đại học Bách khoa Hà Nội**. Chị được [TS. Nguyễn Đình Văn][nguyen-dinh-van] giới thiệu là chuyên về nghiên cứu.
 
 ## Thông tin trợ giảng
 - **Ngoại hình**: [Nguyễn Thu Hương][profile-image]

@@ -1,0 +1,1169 @@
+% !TeX program = xelatex
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=25mm,footskip=12mm]{geometry}
+\usepackage{fontspec}
+\setmainfont{Latin Modern Roman}
+\setsansfont{Latin Modern Sans}
+\usepackage{amsmath,amssymb}
+\providecommand{\ul}[1]{#1}
+\providecommand{\hl}[1]{\textbf{#1}}
+\usepackage{graphicx,adjustbox}
+\usepackage{array,booktabs}
+\usepackage{enumitem}
+\usepackage{titlesec,needspace}
+\usepackage{newunicodechar}
+\usepackage{xcolor,tikz}
+\usepackage[hidelinks,unicode]{hyperref}
+\hypersetup{pdftitle={DISCRETE LOGIC},pdfauthor={}}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{5pt plus 1pt minus 1pt}
+\linespread{1.07}
+\setlength{\emergencystretch}{2em}
+\raggedbottom
+\pagestyle{plain}
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{2}
+\widowpenalty=10000
+\clubpenalty=10000
+\displaywidowpenalty=10000
+\setlist{leftmargin=1.55em,itemsep=2pt,parsep=2pt,topsep=4pt,partopsep=0pt}
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\(\circ\)}
+\setlist[itemize,3]{label=\(\blacksquare\)}
+\setlist[itemize,4]{label=\textbullet}
+\titleformat{\section}{\normalfont\large\bfseries}{}{0pt}{}
+\titleformat{\subsection}{\normalfont\normalsize\bfseries}{}{0pt}{}
+\titleformat{\subsubsection}{\normalfont\normalsize\bfseries}{}{0pt}{}
+\titlespacing*{\section}{0pt}{15pt plus 3pt minus 2pt}{6pt}
+\titlespacing*{\subsection}{0pt}{11pt plus 2pt minus 2pt}{4pt}
+\titlespacing*{\subsubsection}{0pt}{9pt plus 2pt minus 2pt}{3pt}
+\newcommand{\tightlist}{\setlength{\itemsep}{2pt}\setlength{\parskip}{2pt}}
+\newcommand{\DocImage}[3]{%
+  \par\addvspace{5pt}%
+  \noindent\makebox[\linewidth][c]{%
+    \adjustbox{max width=\linewidth,max totalheight=.88\textheight}{%
+      \includegraphics[width=#2\linewidth,trim=#3,clip]{#1}}}%
+  \par\addvspace{5pt}}
+\newcommand{\InlineDocImage}[3]{%
+  \adjustbox{valign=c,max width=.42\linewidth}{%
+    \includegraphics[width=#2\linewidth,trim=#3,clip]{#1}}}
+\newcommand{\ImagePair}[6]{%
+  % These anchored pictures occur in reverse horizontal order in Word XML.
+  \par\addvspace{6pt}\noindent
+  \begin{minipage}[t]{.48\linewidth}\vspace{0pt}\centering
+    \adjustbox{max width=\linewidth,max totalheight=.87\textheight}{%
+      \includegraphics[width=\linewidth,trim=#6,clip]{#4}}
+  \end{minipage}\hfill
+  \begin{minipage}[t]{.48\linewidth}\vspace{0pt}\centering
+    \adjustbox{max width=\linewidth,max totalheight=.87\textheight}{%
+      \includegraphics[width=\linewidth,trim=#3,clip]{#1}}
+  \end{minipage}\par\addvspace{6pt}}
+\newunicodechar{¬}{\ensuremath{\neg}}
+\newunicodechar{∧}{\ensuremath{\land}}
+\newunicodechar{∨}{\ensuremath{\lor}}
+\newunicodechar{→}{\ensuremath{\to}}
+\newunicodechar{↔}{\ensuremath{\leftrightarrow}}
+\newunicodechar{∀}{\ensuremath{\forall}}
+\newunicodechar{∃}{\ensuremath{\exists}}
+\newunicodechar{∈}{\ensuremath{\in}}
+\newunicodechar{∉}{\ensuremath{\notin}}
+\newunicodechar{∪}{\ensuremath{\cup}}
+\newunicodechar{∩}{\ensuremath{\cap}}
+\newunicodechar{≡}{\ensuremath{\equiv}}
+\newunicodechar{≥}{\ensuremath{\geq}}
+\newunicodechar{Σ}{\ensuremath{\Sigma}}
+\newunicodechar{∑}{\ensuremath{\sum}}
+\newunicodechar{φ}{\ensuremath{\varphi}}
+\newunicodechar{²}{\textsuperscript{2}}
+\newunicodechar{↪}{\ensuremath{\hookrightarrow}}
+\newunicodechar{❤}{\textcolor{red!80!black}{\ensuremath{\heartsuit}}}
+\newunicodechar{✔}{\ensuremath{\checkmark}}
+\newunicodechar{❌}{\textcolor{red!80!black}{\ensuremath{\boldsymbol{\times}}}}
+\newunicodechar{❗}{\textcolor{red!80!black}{\textbf{!}}}
+\newunicodechar{🔹}{\textcolor{blue!65!cyan}{\ensuremath{\blacklozenge}}}
+\newcommand{\SourcePin}{%
+  \tikz[x=.7em,y=.7em,baseline=-.13em]{%
+    \draw[line width=.06em,black!70] (.45,.42)--(.15,.08);
+    \fill[red!75!black] (.3,.55)--(.5,.37)--(.75,.62)--(.82,.57)--(.98,.75)--(.66,1.0)--(.51,.82)--(.57,.75)--cycle;}}
+\newunicodechar{📌}{\SourcePin}
+\newcommand{\SourceTearSmile}{%
+  \tikz[x=1em,y=1em,baseline=-.14em]{%
+    \filldraw[fill=yellow!75!orange,draw=orange!65!black,line width=.03em] (.5,.5) circle (.46);
+    \fill[black!85] (.34,.64) circle (.045);
+    \fill[black!85] (.66,.64) circle (.045);
+    \draw[black!85,line width=.055em] (.27,.37) .. controls (.42,.20) and (.58,.20) .. (.73,.37);
+    \filldraw[fill=cyan!70!blue,draw=blue!55!cyan,line width=.025em] (.74,.64) .. controls (.85,.46) and (.94,.35) .. (.82,.29) .. controls (.68,.25) and (.66,.44) .. (.74,.64);}}
+\newunicodechar{🥲}{\SourceTearSmile}
+\newunicodechar{️}{}
+\newunicodechar{​}{}
+\pdfstringdefDisableCommands{%
+  \def\SourcePin{}\def\SourceTearSmile{}\def\textcolor#1#2{#2}\def\ensuremath#1{#1}}
+\begin{document}
+
+\vspace*{\fill}
+\begin{center}
+{\Huge\bfseries DISCRETE LOGIC\par}
+\vspace{12pt}
+{\large\bfseries TROY UNIVERSITY\par}
+\vspace{5pt}
+{\normalsize\bfseries HANOI UNIVERSITY OF SCIENCE AND TECHNOLOGY\par}
+{\normalsize Instructor: TS. Hồ Minh Toàn\par}
+\vspace{22pt}
+\includegraphics[width=0.975568\linewidth,trim=0.000000bp 0.000000bp 0.000000bp 0.000000bp,clip]{media/image1.png}
+\end{center}
+\vspace*{\fill}
+\clearpage
+
+\begin{itemize}
+\item
+  Đây là tài liệu tôi đã mang vào thi (môn này được mang tài liệu cả GK lẫn CK), tổng hợp được gần như đầy đủ các kiến thức Toán rời rạc, tuy vậy vẫn còn thiếu nhiều kiến thức do kiến thức đấy quá dễ nên tôi đã tự lược bỏ. Và vì ở các học phần sau này, bạn có thể cần viết báo cáo bằng LaTeX, nên tôi đã convert file này sang LaTeX, bạn có thể lấy mã nguồn LaTeX cùng với thư mục chứa PDF nếu có nhu cầu tinh chỉnh. Feel free to edit any way you want.
+\item
+  Bắt đầu in từ trang 3 là đẹp ❤️. Good luck in this course!!!
+\end{itemize}
+
+\clearpage
+
+\Needspace{112.0pt}
+
+\section{\texorpdfstring{\textbf{I. Logic (Logic)}}{I. Logic (Logic)}}
+
+Logic, hay còn gọi là \emph{lý luận học}, là nền tảng của toán học và khoa học máy tính. Nó cung cấp các quy tắc để suy luận và chứng minh một cách chính xác. Chúng ta sẽ tập trung vào hai phần chính: \emph{mệnh đề} (propositional logic) và \emph{vị từ} (predicate logic).
+
+\begin{itemize}
+\item
+  \textbf{Mệnh đề (Proposition):}
+
+  \begin{itemize}
+  \item
+    Là một câu khẳng định có thể \emph{đúng} (True - T) hoặc \emph{sai} (False - F), nhưng không thể vừa đúng vừa sai.
+  \item
+    Ví dụ:
+
+    \begin{itemize}
+    \item
+      ``Hà Nội là thủ đô của Việt Nam.'' (Đúng)
+    \item
+      ``2 + 2 = 5.'' (Sai)
+    \item
+      ``Hôm nay trời đẹp không?'' (Không phải mệnh đề - câu hỏi)
+    \item
+      ``Hãy ngồi xuống!'' (Không phải mệnh đề - câu mệnh lệnh)
+    \end{itemize}
+  \end{itemize}
+\item
+  \textbf{Các toán tử logic (Logical Operators):}
+
+  \begin{itemize}
+  \item
+    Dùng để kết hợp các mệnh đề đơn giản thành mệnh đề phức tạp.
+  \item
+    Các toán tử cơ bản:
+
+    \begin{itemize}
+    \item
+      \textbf{Phủ định (Negation - ¬ hoặc \textasciitilde):} ``Không p'' (¬p). Đảo ngược giá trị chân lý của mệnh đề.
+
+      \begin{itemize}
+      \item
+        Ví dụ: p: ``Trời đang mưa.'' ¬p: ``Trời không mưa.''
+      \end{itemize}
+    \item
+      \textbf{Và (Conjunction - ∧):} ``p và q'' (p ∧ q). Chỉ đúng khi cả p và q đều đúng.
+
+      \begin{itemize}
+      \item
+        Ví dụ: p: ``Trời đang mưa.'' q: ``Tôi có ô.'' p ∧ q: ``Trời đang mưa và tôi có ô.''
+      \end{itemize}
+    \item
+      \textbf{Hoặc (Disjunction - ∨):} ``p hoặc q'' (p ∨ q). Chỉ sai khi cả p và q đều sai.
+
+      \begin{itemize}
+      \item
+        Ví dụ: p: ``Tôi sẽ đi xem phim.'' q: ``Tôi sẽ đi ăn tối.'' p ∨ q: ``Tôi sẽ đi xem phim hoặc tôi sẽ đi ăn tối.''
+      \end{itemize}
+    \item
+      \textbf{Kéo theo (Implication - →):} ``Nếu p thì q'' (p → q). Chỉ sai khi p đúng và q sai. (p là \emph{điều kiện đủ}, q là \emph{điều kiện cần}).
+
+      \begin{itemize}
+      \item
+        Ví dụ: p: ``Trời mưa.'' q: ``Đường ướt.'' p → q: ``Nếu trời mưa thì đường ướt.''
+      \end{itemize}
+    \item
+      \textbf{Tương đương (Equivalence - ↔):} ``p khi và chỉ khi q'' (p ↔ q). Đúng khi p và q có cùng giá trị chân lý.
+
+      \begin{itemize}
+      \item
+        Ví dụ: p: ``Tam giác ABC là tam giác đều.'' q: ``Tam giác ABC có ba cạnh bằng nhau.'' p ↔ q: ``Tam giác ABC là tam giác đều khi và chỉ khi tam giác ABC có ba cạnh bằng nhau.''
+      \end{itemize}
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\Needspace{172.4pt}
+
+\subsection{Bảng chân trị (Truth Table):}
+
+\begin{itemize}
+\item
+  Liệt kê tất cả các trường hợp có thể xảy ra của các biến mệnh đề và giá trị chân lý của mệnh đề phức tạp tương ứng.
+\item
+  Ví dụ (Bảng chân trị cho các toán tử cơ bản):
+\end{itemize}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.22}
+\setlength{\tabcolsep}{13pt}
+\begin{tabular}{*{7}{c}}
+\toprule
+\(p\) & \(q\) & \(\neg p\) & \(p\land q\) & \(p\lor q\) & \(p\to q\) & \(p\leftrightarrow q\) \\
+\midrule
+T & T & F & T & T & T & T \\
+T & F & F & F & T & F & F \\
+F & T & T & F & T & T & F \\
+F & F & T & F & F & T & T \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\DocImage{media/image2.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\begin{itemize}
+\item
+  \textbf{Logic vị từ (Predicate Logic):}
+
+  \begin{itemize}
+  \item
+    Mở rộng của logic mệnh đề, cho phép biểu diễn các mệnh đề liên quan đến \emph{biến} và \emph{tập hợp}.
+  \item
+    \textbf{Vị từ (Predicate):} Một mệnh đề chứa biến, trở thành mệnh đề khi biến được gán giá trị cụ thể.
+
+    \begin{itemize}
+    \item
+      Ví dụ: P(x): ``x là số nguyên tố.''
+
+      \begin{itemize}
+      \item
+        P(2): ``2 là số nguyên tố.'' (Đúng)
+      \item
+        P(4): ``4 là số nguyên tố.'' (Sai)
+      \end{itemize}
+    \end{itemize}
+  \item
+    \textbf{Lượng từ (Quantifiers):}
+
+    \begin{itemize}
+    \item
+      \textbf{Với mọi (Universal Quantifier - ∀):} ``Với mọi x, P(x) đúng.''
+
+      \begin{itemize}
+      \item
+        Ví dụ: ∀x (x ∈ Số thực, x² ≥ 0): ``Với mọi số thực x, bình phương của x luôn lớn hơn hoặc bằng 0.''
+      \end{itemize}
+    \item
+      \textbf{Tồn tại (Existential Quantifier - ∃):} ``Tồn tại x sao cho P(x) đúng.''
+
+      \begin{itemize}
+      \item
+        Ví dụ: ∃x (x ∈ Số nguyên, x² = 9): ``Tồn tại số nguyên x sao cho bình phương của x bằng 9.'' (Đúng, vì x = 3 hoặc x = -3)
+      \end{itemize}
+    \end{itemize}
+  \end{itemize}
+\item
+  \textbf{Ngụy biện logic (logical fallacies):} Các lập luận sai, nhưng có vẻ đúng.
+\end{itemize}
+
+\Needspace{513.8pt}
+
+\section{II. Propositional Equivalences (Các tương đương mệnh đề)}
+
+\begin{itemize}
+\item
+  Hai mệnh đề phức tạp được gọi là \emph{tương đương logic} nếu chúng có cùng giá trị chân lý trong mọi trường hợp. Ký hiệu: ≡
+\item
+  Ví dụ:
+
+  \begin{itemize}
+  \item
+    \(\neg(p\land q)\equiv\neg p\lor\neg q\) (Luật De Morgan)
+  \item
+    \(p\to q\equiv\neg p\lor q\)
+  \item
+    \(p\lor(q\land r)\equiv(p\lor q)\land(p\lor r)\) (Luật phân phối)
+  \end{itemize}
+\end{itemize}
+
+\DocImage{media/image3.png}{0.679235}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image4.png}{0.900000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\begin{itemize}
+\item
+  Converse (đảo) của p → q là q → p.
+\item
+  Contrapositive (phản đảo) của p → q là ¬q → ¬p. Contrapositive có cùng giá trị chân lý với conditional statement ban đầu.
+\item
+  Inverse (phủ định) của p → q là ¬p → ¬q.
+\end{itemize}
+
+\DocImage{media/image5.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\textbf{BUT == AND}
+
+Note that in logic the word ``but'' sometimes is used instead of ``and'' in a conjunction. For example, the statement ``The sun is shining, but it is raining'' is another way of saying ``The sun is shining and it is raining.'' (In natural language, there is a subtle difference in meaning between ``and'' and ``but''; we will not be concerned with this nuance here.)
+
+\Needspace{163.0pt}
+
+\subsection{Only if}
+
+\DocImage{media/image6.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image7.png}{0.556577}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{227.0pt}
+
+\subsection{Negation of Quantifiers}
+
+\DocImage{media/image8.png}{0.850000}{0.000000bp 151.258613bp 0.000000bp 0.000000bp}
+
+\Needspace{70.0pt}
+
+\subsubsection{\texorpdfstring{\textbf{Với mọi thì dùng kéo theo, tồn tại thì dùng and}}{Với mọi thì dùng kéo theo, tồn tại thì dùng and}}
+
+\Needspace{311.7pt}
+
+\subsection{Precedence of Logical Operators}
+
+\DocImage{media/image9.png}{0.792420}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{355.3pt}
+
+\subsection{Rules of Inference}
+
+\Needspace{327.3pt}
+
+Premise entails sth
+
+\DocImage{media/image10.png}{0.896625}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image11.png}{0.896625}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{346.3pt}
+
+\subsection{Rules of Inference for Quantified Statements}
+
+\DocImage{media/image12.png}{0.900000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{254.5pt}
+
+\subsection{Fallacy}
+
+\DocImage{media/image13.png}{0.626773}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image14.png}{0.760000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{351.6pt}
+
+\subsection{\texorpdfstring{Prove sth: }{Prove sth: }}
+
+\DocImage{media/image15.png}{0.900000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{289.2pt}
+
+\subsection{Các phương pháp chứng minh trong logic toán học}
+
+\DocImage{media/image16.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{299.1pt}
+
+\textbf{Counterexample: 1 phương pháp khá hữu ích}
+
+\DocImage{media/image17.png}{0.800000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{443.4pt}
+
+\subsection{Chứng minh phản chứng (indirect proof):}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Ta luôn đi từ giả sử mệnh đề đầu là sai
+\item
+  \(\Rightarrow\) ra 1 cái đúng
+\item
+  Ta sẽ từ mệnh đề đúng suy ra 1 cái mà phủ định đc vs cái ta đã giả sử là sai, contradiction
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi})}
+\item
+  Với dạng \(p\to q\) ta giả sử \(p\to q\) wrong \(\Rightarrow\) mệnh đề này chỉ wrong khi p đúng và q sai, nghĩa là q sai thì \(\sim q\) chắc chắn đúng
+\item
+  Ta có mệnh đề true mới mà ta vừa establish là p true and \(\sim q\) true, \(p\to\sim q\) true.
+\item
+  Ta bắt đầu với giả sử mới là \(\sim q\) true then ta làm thế nào đi đến 1 cái \(\sim p\) từ đó ta kết luận đc contradiction
+\end{enumerate}
+
+\DocImage{media/image18.png}{0.584011}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image19.png}{0.971136}{0.000000bp 0.000000bp 21.633935bp 0.000000bp}
+
+\DocImage{media/image20.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image21.png}{0.972244}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{171.4pt}
+
+\section{\texorpdfstring{\textbf{III. Sets and Set Operations (Tập hợp và các phép toán tập hợp)}}{III. Sets and Set Operations (Tập hợp và các phép toán tập hợp)}}
+
+\begin{itemize}
+\item
+  \textbf{Tập hợp (Set):} Một nhóm các đối tượng phân biệt (không lặp lại).
+
+  \begin{itemize}
+  \item
+    Ví dụ: A = \{1, 2, 3\}, B = \{a, b, c\}
+  \end{itemize}
+\item
+  \textbf{Các phép toán:}
+
+  \begin{itemize}
+  \item
+    \textbf{Hợp (Union - ∪):} A ∪ B = \{x \textbar{} x ∈ A hoặc x ∈ B\}
+  \item
+    \textbf{Giao (Intersection - ∩):} A ∩ B = \{x \textbar{} x ∈ A và x ∈ B\}
+  \item
+    \textbf{Hiệu (Difference - \(\setminus\)):} A \(\setminus\) B = \{x \textbar{} x ∈ A và x ∉ B\}
+  \item
+    \textbf{Phần bù (Complement - A\textquotesingle):} A\textquotesingle{} = \{x \textbar{} x ∉ A\} (trong một tập vũ trụ U nào đó) \InlineDocImage{media/image22.png}{0.324733}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+  \end{itemize}
+
+  \DocImage{media/image23.png}{0.801063}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+\end{itemize}
+
+\Needspace{348.2pt}
+
+\subsection{Prove by set builder:}
+
+\DocImage{media/image24.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{174.7pt}
+
+\subsection{Powerset of the empty set}
+
+\DocImage{media/image25.png}{0.780000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{367.2pt}
+
+\subsection{Venn diagrams}
+
+\DocImage{media/image26.png}{0.606531}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{510.5pt}
+
+\subsection{Công thức tập}
+
+\Needspace{482.5pt}
+
+Membership table: giống truth table
+
+\DocImage{media/image27.png}{0.658234}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image28.png}{0.558417}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image29.png}{0.468551}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image30.png}{0.704914}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image31.png}{0.743873}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image32.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{125.2pt}
+
+\section{IV. Functions (Hàm số)}
+
+\begin{itemize}
+\item
+  \textbf{Hàm số (Function):} Một ánh xạ từ tập hợp A (miền xác định) đến tập hợp B (miền giá trị), sao cho mỗi phần tử trong A tương ứng với \emph{duy nhất} một phần tử trong B.
+
+  \begin{itemize}
+  \item
+    Ký hiệu: \(f\colon A\to B\)
+  \item
+    Ví dụ: \(f(x)=x^2\) (với x là số thực)
+  \end{itemize}
+\end{itemize}
+
+\DocImage{media/image33.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image34.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{113.8pt}
+
+\subsection{Hàm trần và sàn}
+
+\DocImage{media/image35.png}{0.557918}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{415.0pt}
+
+\section{V. Sequences and Summations (Dãy số và tổng)}
+
+\begin{itemize}
+\item
+  \textbf{Dãy số (Sequence):} Một hàm số từ tập hợp số tự nhiên (hoặc tập con của nó) đến một tập hợp khác.
+
+  \begin{itemize}
+  \item
+    Ví dụ: \(a_n=2n\) (dãy số chẵn)
+  \end{itemize}
+\item
+  \textbf{Tổng (Summation):} Tổng của các phần tử trong một dãy số.
+
+  \begin{itemize}
+  \item
+    Ký hiệu: Σ (Sigma)
+  \item
+    Ví dụ: \(\sum_{i=1}^{n} a_i = a_1 + a_2 + \cdots + a_n\)
+  \end{itemize}
+\end{itemize}
+
+\DocImage{media/image36.png}{0.850000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image37.png}{0.880000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{279.8pt}
+
+\subsection{Explicit Formula}
+
+\DocImage{media/image38.png}{0.717965}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{336.5pt}
+
+\subsection{Công thức truy hồi thuần nhất hệ số hằng}
+
+\DocImage{media/image39.png}{0.762007}{0.000000bp 0.000000bp 322.965081bp 0.000000bp}
+
+\DocImage{media/image40.png}{0.865048}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image41.png}{0.851752}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{157.3pt}
+
+\subsection{Để tìm recurrence relation, explicit formula (solution)}
+
+\Needspace{129.3pt}
+
+Số term = order
+
+\DocImage{media/image42.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{169.9pt}
+
+Nghĩa là lặp 1 lần (bậc 2 thì + \(Bnr^n\))
+
+\DocImage{media/image43.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{231.8pt}
+
+Bậc 3 thì
+
+\DocImage{media/image44.png}{0.815466}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{169.7pt}
+
+Còn các bậc khác ko xét vì ko thi
+
+\DocImage{media/image45.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+Làm xong nhớ mở ngoặc điều kiện của n
+
+\Needspace{108.3pt}
+
+\subsection{Tổng kiểu Telescoping (ống nhòm)}
+
+\DocImage{media/image46.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{298.5pt}
+
+\section{Big O: so sánh độ hiệu quả thuật toán}
+
+\DocImage{media/image47.png}{0.750000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{129.5pt}
+
+Ký hiệu:
+
+\DocImage{media/image48.png}{0.604952}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{353.5pt}
+
+\subsection{Phương pháp chứng minh}
+
+\DocImage{media/image49.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image50.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{104.0pt}
+
+Trên là bất đẳng thức tam giác, ngoài ra cũng có dạng:
+
+\DocImage{media/image51.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image52.png}{1.000000}{84.258200bp 0.000000bp 0.000000bp 37.387440bp}
+
+\Needspace{344.8pt}
+
+\subsection{Common Complexity Functions}
+
+\DocImage{media/image53.png}{0.900000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image54.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{273.9pt}
+
+\subsection{Phương pháp chứng minh big O khác (đi thi không được dùng)}
+
+\DocImage{media/image55.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{232.6pt}
+
+\section{Thuật toán Euclid tìm gcd (lcm tìm bằng công thức liên hệ sau khi có gcd)}
+
+\DocImage{media/image56.png}{1.000000}{38.770257bp 38.092515bp 117.819201bp 34.915911bp}
+
+\Needspace{249.7pt}
+
+\section{\texorpdfstring{Thuật toán Euclid mở rộng để tìm \emph{\textbf{an inverse of a modulo m}}}{Thuật toán Euclid mở rộng để tìm an inverse of a modulo m}}
+
+\DocImage{media/image57.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{248.2pt}
+
+Rút ngược liên tục là tìm đc inverse thôi
+
+\DocImage{media/image58.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{91.4pt}
+
+\subsection{Giải phương trình đồng dư:}
+
+\DocImage{media/image59.png}{0.875851}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+Nhân cả 2 vế với tk inverse
+
+\Needspace{143.5pt}
+
+\section{Đồng dư (mod)}
+
+\DocImage{media/image60.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image61.png}{0.689878}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image62.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{142.3pt}
+
+\subsection{Inverse of a modulo m}
+
+\DocImage{media/image63.png}{0.879107}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image64.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{112.4pt}
+
+\subsection{Khai triển a mũ m + 1 (m lẻ)}
+
+\DocImage{media/image65.png}{0.626973}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{112.0pt}
+
+\section{Hàm Euler φ-function}
+
+\DocImage{media/image66.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image67.png}{0.424796}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+Trong đó p là các \textbf{ước số nguyên tố khác nhau} của n.
+
+Công thức này check key thôi
+
+\Needspace{115.9pt}
+
+\section{\texorpdfstring{Chứng minh quy nạp (\textbf{Induction)}}{Chứng minh quy nạp (Induction)}}
+
+\DocImage{media/image68.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\textbf{Nghĩa là khi thay \(k+1\) vào thì ta tách 1 lúc thấy giống với những cái giả sử k}
+
+\Needspace{70.0pt}
+
+\subsection{Well-Ordering}
+
+Thực chất là giải thích logic cho cái quy nạp kco ý nghĩa mấy
+
+\Needspace{442.2pt}
+
+\subsection{Strong Induction}
+
+Là kĩ thuật c/m để dùng tất cả các bước trước đó để chứng minh bước tiếp theo
+
+\Needspace{400.2pt}
+
+Khá khó 1 cách tổng quát nhưng cơ bản là
+
+\DocImage{media/image69.jpg}{1.000000}{65.502360bp 323.302320bp 68.109480bp 78.590160bp}
+
+\Needspace{317.8pt}
+
+\subsection{\texorpdfstring{\href{https://mathoverflow.net/questions/23153/frobenius-number-for-three-numbers}{\ul{Frobenius number}}}{Frobenius number}}
+
+\DocImage{media/image70.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\ImagePair{media/image71.jpg}{0.484484}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}{media/image72.jpg}{0.530319}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\clearpage
+
+\Needspace{112.0pt}
+
+\section{Quy tắc đếm}
+
+\Needspace{70.0pt}
+
+\subsection{\texorpdfstring{Quy tắc cộng: }{Quy tắc cộng: }}
+
+\begin{itemize}
+\item
+  Nếu hai việc là rời nhau chả liên quan gì nhau thì ta có thể cộng số cách làm hai việc với nhau
+\end{itemize}
+
+\Needspace{70.0pt}
+
+\subsection{Quy tắc nhân:}
+
+\begin{itemize}
+\item
+  Hai việc liên quan đến nhau vì hai việc là 2 công đoạn của 1 việc lớn thì ta nhân 2 việc để ra số cách làm việc lớn, ví dụ: số cách chọn 1 học sinh giỏi trong 1 lớp, ta tìm số cách chọn 1 học sinh có GPA lớn hơn 8 nhân với số cách chọn 1 học sinh hạnh kiểm tốt trong đống học sinh có GPA lớn hơn 8 đấy
+\end{itemize}
+
+\Needspace{199.4pt}
+
+\subsection{Nguyên lý Bù trừ (Inclusion-Exclusion Principle)}
+
+\DocImage{media/image73.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{331.3pt}
+
+\subsection{Tree diagram}
+
+\DocImage{media/image74.png}{0.851085}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+Cơ bản thì đây là kiểu ta vẽ ra các nhánh trường hợp rồi đếm, ngoài việc làm lâu thì chắc chắn k thể sai
+
+\Needspace{146.4pt}
+
+\subsection{Pigeonhole Principle}
+
+\textbf{Phát biểu: Nếu bạn có nhiều bồ câu hơn số hòm để nhốt}, thì \textbf{ít nhất một hòm} sẽ phải chứa \textbf{từ hai con bồ câu trở lên}.
+
+// không cần chứng minh
+
+\Needspace{85.7pt}
+
+Tổng quát hơn để làm bài:
+
+\DocImage{media/image75.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+// hàm ở trên làm tròn trên ceiling đã đề cập ở đâu đó trong file này
+
+\Needspace{70.0pt}
+
+\subsection{Công thức tính số lượng số hạng của 1 csc}
+
+\InlineDocImage{media/image76.png}{0.375602}{0.000000bp 0.000000bp 0.000000bp 0.000000bp} Suy ra từ: \InlineDocImage{media/image77.png}{0.368954}{0.000000bp 0.000000bp 53.999400bp 0.000000bp}
+
+\Needspace{190.6pt}
+
+\subsection{Permutations (Hoán vị)}
+
+\Needspace{162.6pt}
+
+Thứ tự quan trọng, ko lặp
+
+\DocImage{media/image78.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{160.8pt}
+
+\subsection{Combinations (Tổ hợp)}
+
+\Needspace{132.8pt}
+
+Thứ tự ko quan trọng mọi thứ đều có ý nghĩa tương đương nhau, ko lặp
+
+\DocImage{media/image79.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image80.png}{0.835382}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image81.png}{0.427987}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image82.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image83.png}{0.899108}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{330.0pt}
+
+\subsection{Binomial Theorem}
+
+\DocImage{media/image84.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{188.1pt}
+
+\subsection{Sum of binomial coefficients}
+
+\DocImage{media/image85.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image86.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image87.png}{0.728934}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{112.0pt}
+
+\section{Xác suất}
+
+\Needspace{127.1pt}
+
+\subsection{Công thức Bayes:}
+
+\Needspace{99.1pt}
+
+Đây là công thức xác suất có điều kiện, cho biết xác suất của sự kiện A xảy ra khi biết sự kiện B đã xảy ra. nhân quả tùm lum (causal knowledge)
+
+\DocImage{media/image88.png}{0.637360}{15.712188bp 0.000000bp 100.773956bp 0.000000bp}
+
+\DocImage{media/image89.png}{0.331560}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+Nếu A và B độc lập thì xác suất điều kiện bằng đúng A.
+
+\begin{itemize}
+\item
+  Khi tìm xác suất 2 sự kiện cùng xảy ta nhân xác suất xảy ra từng cái với nhau (ko liên quan nhau)
+\item
+  Các sự kiện rời nhau thì cộng thôi
+\end{itemize}
+
+\DocImage{media/image90.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{172.1pt}
+
+\subsection{Phân phối Nhị thức (Binomial Probability): Bernoulli đúng sai}
+
+\DocImage{media/image91.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\textbf{Giá trị kì vọng:} thực chất là tiền ăn đc nhân với xác suất, kiểu cược mu mà ăn đc 10k thua mất 5k thì expected value = 10k.(xs ăn) + 5k.(xs thua)
+
+\Needspace{137.9pt}
+
+\(E(x)=\operatorname{sum}(x_i\cdot p_i)\)
+
+\DocImage{media/image92.png}{0.909090}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image93.png}{0.179408}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{112.0pt}
+
+\section{Đồ thị (graph)}
+
+Gồm tập đỉnh (vertices) V và tập cạnh (edges) E, ký hiệu: \(G=(V,E)\)
+
+\Needspace{154.8pt}
+
+\subsection{\texorpdfstring{\textbf{Simple Graph}: không có cạnh lặp và không có vòng (loop). đơn giản nhất mỗi đường đi qua 1 lần}{Simple Graph: không có cạnh lặp và không có vòng (loop). đơn giản nhất mỗi đường đi qua 1 lần}}
+
+\DocImage{media/image94.png}{0.244146}{0.000000bp 0.000000bp 237.207560bp 0.000000bp}
+
+\Needspace{212.6pt}
+
+\subsection{\texorpdfstring{\textbf{Multigraph}: cho phép nhiều cạnh giữa hai đỉnh.}{Multigraph: cho phép nhiều cạnh giữa hai đỉnh.}}
+
+\DocImage{media/image94.png}{0.370598}{98.997120bp 0.000000bp 113.996990bp 0.000000bp}
+
+\Needspace{238.1pt}
+
+\subsection{\texorpdfstring{\textbf{Pseudograph}: cả cạnh lặp có cả loop}{Pseudograph: cả cạnh lặp có cả loop}}
+
+\DocImage{media/image94.png}{0.426295}{218.648970bp 0.000000bp 0.000000bp 0.000000bp}
+
+\textbf{Directed Graph}: cạnh là các cặp có thứ tự (u, v). nghĩa là đi từ u đến v (có hướng)
+
+\Needspace{218.9pt}
+
+\textbf{Adjacent}: hai đỉnh liền kề có cạnh nối chúng.
+
+\DocImage{media/image95.png}{0.357320}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{222.7pt}
+
+\textbf{Incident}: hai cạnh liên quan đến đỉnh nào đó.
+
+\DocImage{media/image96.png}{0.458700}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\textbf{Degree of vertex}: bậc của đỉnh là số cạnh kề (loop tính gấp đôi). (chả cần quan tâm loop vì ko thi)
+
+\Needspace{282.1pt}
+
+\textbf{Complete Graph (\(K_n\))}: mọi cặp đỉnh đều được nối, không tồn tại 2 đỉnh bất kì không được nối bởi 2 cạnh, ta gọi 1 graph là \(K_n\) khi n đỉnh đều được nối complete hoàn toàn
+
+\DocImage{media/image97.png}{0.684679}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{259.7pt}
+
+\textbf{Cycle Graph (\(C_n\))}: chu trình đơn khép kín với \(n\geq3\). vì n dưới 3 không tạo thành vòng tròn khép kín
+
+\DocImage{media/image98.png}{0.499281}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+Ngoài ra chu trình nghĩa là tất cả các đỉnh phải connected (mỗi đỉnh bậc 2)
+
+\Needspace{155.7pt}
+
+\textbf{Wheel Graph (\(W_n\))}: cycle cộng thêm một đỉnh nối đến tất cả đỉnh của chu trình. (n là số đỉnh của chu trình như dưới \(W_3\) NOT \(W_4\))
+
+\DocImage{media/image99.png}{0.855575}{8.376284bp 31.569087bp 27.536494bp 35.548617bp}
+
+\Needspace{101.9pt}
+
+\textbf{Subgraph}: là một phần của đồ thị mẹ.
+
+\DocImage{media/image100.png}{0.850000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image101.png}{0.780000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{333.9pt}
+
+\(C_5\) là subgraph của \(K_5\)
+
+\DocImage{media/image102.png}{0.900000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{70.0pt}
+
+\subsection{Tính liên thông}
+
+\textbf{Path}: dãy liên tiếp các đỉnh có cạnh nối.
+
+Length = tổng các path, ví dụ: 10 path \(\Rightarrow\) length = 10
+
+\textbf{Circuit}: path bắt đầu và kết thúc tại cùng một đỉnh.
+
+\textbf{Simple Path}: không lặp cạnh. nghĩa là ko đi lại đường cũ
+
+\Needspace{185.6pt}
+
+\textbf{Connected Graph}: mọi cặp đỉnh đều có đường đi giữa chúng.
+
+\DocImage{media/image103.png}{0.489662}{75.000000bp 61.000000bp 57.996000bp 11.000000bp}
+
+Do chỉ học undirected graph nên:
+
+Paths in Undirected Graphs
+
+\begin{itemize}
+\item
+  A path or circuit is said to pass through the vertices \(v_0,v_1,v_2,\ldots,v_n\) or traverse the edges \(e_1,e_2,\ldots,e\)
+\item
+  Ở đây nghĩa là đồ thị vô hướng nên ta liệt kê các đỉnh theo thứ tự đi coi như là hướng
+\end{itemize}
+
+\begin{itemize}
+\item
+  \textbf{Connected Components}: nếu đồ thị không liên thông → gồm nhiều thành phần con liên thông.
+\item
+  1 đồ thị liên thông thì tồn tại thành phần liên thông duy nhất là chính nó
+\item
+  Đồ thị liên thông là đồ thị mà bất kì đỉnh nào đi đến đỉnh nào cũng có path để đến
+\end{itemize}
+
+\DocImage{media/image104.png}{0.768114}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image105.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+Ở đây ví dụ c và e là cut vertex vì xóa c,e tạo ra 2 thằng liên thông con
+
+Còn ce là cut edge rõ ràng
+
+\Needspace{70.0pt}
+
+\subsection{QUAN TRỌNG!!!!}
+
+\Needspace{70.0pt}
+
+\subsection{Euler Path}
+
+Là \textbf{một đường đi} trong đồ thị mà:
+
+\begin{itemize}
+\item
+  \textbf{Đi qua mỗi cạnh đúng một lần} (không lặp cạnh).
+\item
+  Có thể \textbf{không cần quay lại điểm xuất phát}.
+\item
+  Có thể lặp đỉnh (nhưng không lặp cạnh).
+\end{itemize}
+
+\Needspace{70.0pt}
+
+\subsubsection{Euler Circuit / Eulerian Circuit (Chu trình Euler):}
+
+Là \textbf{một Euler Path} có thêm điều kiện:
+
+\begin{itemize}
+\item
+  \textbf{Bắt đầu và kết thúc tại cùng một đỉnh} (tạo thành chu trình).
+\end{itemize}
+
+\Needspace{70.0pt}
+
+\subsubsection{\texorpdfstring{\textbf{Điều kiện tồn tại:}}{Điều kiện tồn tại:}}
+
+\Needspace{70.0pt}
+
+\subsubsection{\texorpdfstring{\textbf{🔹 Euler Circuit tồn tại khi và chỉ khi:}}{🔹 Euler Circuit tồn tại khi và chỉ khi:}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{Đồ thị liên thông} \emph{(bỏ qua các đỉnh bậc 0) }
+\item
+  \textbf{Tất cả các đỉnh đều có bậc chẵn}
+\end{enumerate}
+
+\textbf{🔹 Euler Path (nhưng không có circuit) tồn tại khi và chỉ khi:}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{Đồ thị liên thông} \emph{(bỏ qua các đỉnh bậc 0) }
+\item
+  \textbf{Có đúng 2 đỉnh bậc lẻ}, các đỉnh còn lại bậc chẵn
+\end{enumerate}
+
+\Needspace{70.0pt}
+
+\subsubsection{\texorpdfstring{\textbf{Nếu bài yêu cầu tìm Euler Circuit:}}{Nếu bài yêu cầu tìm Euler Circuit:}}
+
+↪️ Chọn \textbf{bất kỳ đỉnh nào} (có bậc khác 0) làm điểm bắt đầu.
+
+\Needspace{70.0pt}
+
+\subsubsection{\texorpdfstring{\textbf{📌 Vì:}}{📌 Vì:}}
+
+\begin{itemize}
+\item
+  Tất cả các đỉnh đều có bậc chẵn.
+\item
+  Đường đi sẽ quay lại đúng chỗ xuất phát, nên bắt đầu đâu cũng được.
+\end{itemize}
+
+\Needspace{70.0pt}
+
+\subsubsection{\texorpdfstring{\textbf{Nếu bài yêu cầu tìm Euler Path (không phải circuit):}}{Nếu bài yêu cầu tìm Euler Path (không phải circuit):}}
+
+↪️ Bắt đầu từ \textbf{một trong hai đỉnh có bậc lẻ}
+
+\Needspace{70.0pt}
+
+\subsubsection{\texorpdfstring{\textbf{📌 Vì:}}{📌 Vì:}}
+
+\begin{itemize}
+\item
+  Euler Path tồn tại khi \textbf{có đúng 2 đỉnh bậc lẻ}.
+\item
+  Đường đi \textbf{phải bắt đầu ở một đỉnh lẻ và kết thúc ở đỉnh lẻ còn lại}.
+\end{itemize}
+
+\Needspace{70.0pt}
+
+\subsection{Hamilton Path:}
+
+Là một \textbf{đường đi qua mỗi đỉnh đúng 1 lần}, không yêu cầu quay lại đỉnh ban đầu. ❗ Có thể không đi qua tất cả cạnh, chỉ quan tâm đến đỉnh.
+
+\Needspace{271.5pt}
+
+\subsubsection{🔹 Hamilton Circuit (còn gọi là Hamilton Cycle):}
+
+\Needspace{243.5pt}
+
+Là một \textbf{Hamilton Path khép kín} --- bắt đầu và kết thúc tại cùng một đỉnh.
+
+\DocImage{media/image106.png}{0.870000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+Điều kiện có circuit, có circuit là có path
+
+Cách tìm đường đi Hamilton
+
+\Needspace{140.0pt}
+
+\subsubsection{\texorpdfstring{\textbf{I. Kiểm tra nhanh khả năng tồn tại}}{I. Kiểm tra nhanh khả năng tồn tại}}
+
+\Needspace{70.0pt}
+
+\subsubsection{\texorpdfstring{\textbf{📌 Bước 1: Kiểm tra số đỉnh bậc thấp}}{📌 Bước 1: Kiểm tra số đỉnh bậc thấp}}
+
+\begin{itemize}
+\item
+  Nếu có đỉnh \textbf{bậc 0} → ❌ Không thể có Hamilton path/circuit.
+\item
+  Nếu có nhiều đỉnh bậc nhỏ hơn 2 → rất nghi ngờ.
+\end{itemize}
+
+\Needspace{70.0pt}
+
+\subsubsection{\texorpdfstring{\textbf{📌 Bước 2: Dùng định lý đủ nếu có thể}}{📌 Bước 2: Dùng định lý đủ nếu có thể}}
+
+\begin{itemize}
+\item
+  Nếu mọi đỉnh có bậc \(\geq \frac{n}{2}\) → ✔️ \textbf{Dirac} → Có circuit.
+\end{itemize}
+
+Sau khi biết có tồn tại: \textbf{Nếu có đỉnh bậc thấp (1, 2)} thì \textbf{ưu tiên chọn làm điểm bắt đầu}. rồi dò
+
+\Needspace{324.0pt}
+
+\subsubsection{\texorpdfstring{\textbf{Không có chu trình nhỏ hơn chứa trong chu trình Hamilton}}{Không có chu trình nhỏ hơn chứa trong chu trình Hamilton}}
+
+\Needspace{296.0pt}
+
+Một \textbf{chu trình nhỏ hơn (subcycle)} nghĩa là: bạn tạo một vòng khép kín \textbf{trước khi đi hết tất cả các đỉnh}.
+
+\DocImage{media/image107.png}{0.900000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\textbf{Đỉnh cô lập (isolated vertex):} là đỉnh không có cạnh nối với bất kỳ đỉnh nào khác (bậc = 0). \textbf{Đỉnh treo (pendant vertex):} là đỉnh chỉ nối với đúng một đỉnh khác (bậc = 1).
+
+\textbf{Định lý Bắt tay (Handshaking Theorem), trong 1 đồ thị vô hướng thì luôn có điều này (dùng để check xem có tồn tại đồ thị không?)}:
+
+Tổng degree của tất cả các đỉnh = 2 * (tổng số cạnh)
+
+Bổ sung định lý để xác định chu trình Hamiltonian, \hl{lưu ý là 2 định lý này chỉ là điều kiện đủ, nghĩa là thỏa mãn thì đương nhiên có chu trình nhưng không thỏa mãn thì chưa chắc là không có chu trình, cách tốt nhất là tự nhìn 1 cái path hợp lí}
+
+\Needspace{142.7pt}
+
+Ore\textquotesingle s Theorem
+
+\DocImage{media/image108.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\DocImage{media/image109.png}{1.000000}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{92.4pt}
+
+Nghĩa là giả sử có ma trận kề A rồi ta bỏ vào máy tính nhân r lần lên thì sẽ tính ra ma trận với elements vị trí ij và giá trị tại ô đó là:
+
+\DocImage{media/image110.png}{0.932357}{0.000000bp 0.000000bp 0.000000bp 0.000000bp}
+
+\Needspace{145.2pt}
+
+Cái trên để làm bài Find the number of paths of length n between two different vertices
+
+\DocImage{media/image111.png}{0.880438}{0.000000bp 20.476891bp 0.000000bp 127.698800bp}
+
+\DocImage{media/image112.png}{0.920457}{0.000000bp 63.154075bp 0.000000bp 103.561615bp}
+
+\DocImage{media/image113.png}{0.920457}{0.000000bp 17.357663bp 0.000000bp 103.739975bp}
+
+\end{document}

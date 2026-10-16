@@ -50,7 +50,13 @@ Hôm nay là một ngày đẹp trời, mai là Quốc khánh, phải hơn 1 tu�
 
 OK, ta bắt đầu luôn, giảng viên của môn này và môn ENG-2206 ở toàn miền Bắc mấy năm gần đây chính là 'nhà nghiên cứu' Lê Nguyên Long. Vâng, là 'nhà nghiên cứu'. Tại sao lại vậy nhỉ? Chuyện này phải nói là dai dẳng, bắt nguồn từ những kỳ trước của các anh chị khóa trên: điểm thấp, tạch, review như ... về Long Le rất nhiều. Vì vậy tôi mới đặt ra câu hỏi: 'Why is that? Why is he so bad?'.
 
-![long-le-2-image]
+<p align="center">
+  <img
+    src="../Miscellaneous/Assets/Images/Long-Le-2.jpg"
+    alt="Long Le"
+    width="28%"
+  >
+</p>
 
 Sau khi học hết course này, tôi cũng dần hiểu: có lẽ Long Le không phải là một 'Lecturer' như mọi người hằng mong, mà đúng hơn là một 'Researcher'. Một nhà nghiên cứu thì thường có những tính cách như **khắt khe, cầu toàn**, thậm chí hơi 'khó gần' vì quá tập trung vào công việc. Nó khác với giảng viên ở chỗ kỹ năng sư phạm (kiên nhẫn, truyền đạt) không phải là thế mạnh của họ.
 
@@ -64,7 +70,13 @@ Yes, Long Le không thực sự giỏi về những kỹ năng ấy; ông muốn
 
 Hồi trước thì ông hay cáu bẳn, khó chịu với bọn sinh viên, kiểu không tìm được tiếng nói chung giữa cái bài thuyết trình và ý niệm trong đầu ổng. Nhưng chắc dần dần ổng cũng nhận ra: 'bọn này cũng chỉ là SV thôi mà', nên thái độ cũng nhẹ nhàng hơn. Giờ bài nào ngu quá thì mới chửi sml.
 
-![long-le-1-image]
+<p align="center">
+  <img
+    src="../Miscellaneous/Assets/Images/Long-Le-1.jpg"
+    alt="Long Le"
+    width="24%"
+  >
+</p>
 
 #### Ảnh hưởng đến sinh viên
 

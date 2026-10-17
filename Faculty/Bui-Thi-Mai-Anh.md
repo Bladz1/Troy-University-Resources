@@ -1,7 +1,7 @@
 # TS. Bùi Thị Mai Anh
 
->"I am the storm that is approaching..."  
-— **Vergil**, *Devil May Cry*
+> "I am the storm that is approaching..."  
+> — **Vergil**, *Devil May Cry*
 
 **TS. Bùi Thị Mai Anh** là [giảng viên Khoa Khoa học Máy tính, Trường Công nghệ Thông tin và Truyền thông, Đại học Bách khoa Hà Nội][soict_profile].
 
@@ -16,15 +16,11 @@
 
 ## Học vấn
 
-<div align="center">
-
 | Năm   | Cơ sở đào tạo                                    | Văn bằng – Chuyên ngành                    |
 | :---: | :----------------------------------------------- | :----------------------------------------- |
 | 2007  | Đại học Bách khoa Hà Nội, Việt Nam               | [Kĩ sư Công nghệ thông tin][soict_profile] |
 | 2011  | Université de La Rochelle, Pháp                  | [Thạc sĩ Khoa học máy tính][soict_profile] |
 | 2016  | Université Pierre et Marie Curie (Paris 6), Pháp | [Tiến sĩ Khoa học máy tính][soict_profile] |
-
-</div>
 
 Cô bảo vệ luận án [*Séparation des Préoccupations en Épidémiologie*][lip6-thesis] ngày **09/12/2016**, dưới sự hướng dẫn của **Mikal Ziane**, với **Serge Stinckwich** và **Benjamin Roche** cùng hướng dẫn. Luận án phát triển **Kendrick**, một ngôn ngữ chuyên biệt và nền tảng mô phỏng giúp xây dựng các mô hình dịch tễ học từ những thành phần có thể kết hợp và tái sử dụng.
 
@@ -63,9 +59,9 @@ Từ **10/2023 đến 03/2025**, cô chủ trì [đề tài ứng dụng học s
 
 ## Chỉ số và sức mạnh
 
-- **Điểm tổng kết trung bình gần nhất:** `73.23/100`
-  - Độ lệch chuẩn: `12.25`
-  - Tỉ lệ được A: `0%` (0/47)
+- **Điểm tổng kết trung bình gần nhất:** `68.71/100`
+  - Độ lệch chuẩn: `19.47`
+  - Tỉ lệ được A: `2.56%` (1/39)
   <details>
   <summary><i>Lịch sử điểm tổng kết</i></summary>
   <blockquote markdown="1">
@@ -73,31 +69,34 @@ Từ **10/2023 đến 03/2025**, cô chủ trì [đề tài ứng dụng học s
   - CS-2250 - Fall-2024
     - **Điểm tổng kết trung bình:** `?/100`
       - Độ lệch chuẩn: `TBA`
-      - Tỉ lệ được A: `TBA`
+      - Tỉ lệ được A: `TBA` (TBA/TBA)
       > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
   - IS-2241 - Fall-2024
-    - **Điểm tổng kết trung bình:** `?/100`
-      - Độ lệch chuẩn: `TBA`
-      - Tỉ lệ được A: `TBA`
-      > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+    - **Điểm tổng kết trung bình:** `68.71/100`
+      - Độ lệch chuẩn: `19.47`
+      - Tỉ lệ được A: `2.56%` (1/39)
   - IS-2241 - Spring-2024
     - **Điểm tổng kết trung bình:** `73.23/100`
       - Độ lệch chuẩn: `12.25`
       - Tỉ lệ được A: `0%` (0/47)
   </blockquote>
   </details>
-- **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
+- **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `5.17/10`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ bám sát bài học của đề thi:** `?/10`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
-- **Độ hợp lí, cân bằng của khối lượng bài vở và sức khỏe tinh thần:** `?/10`
+- **Độ hợp lí, cân bằng của khối lượng bài vở và sức khỏe tinh thần:** `4.67/10`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
-- **Khả năng truyền đạt kiến thức và chuyên môn sư phạm:** `?/10`
+- **Khả năng truyền đạt kiến thức và chuyên môn sư phạm:** `5.33/10`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
-- **Tác phong, tính cách và mức độ hỗ trợ sinh viên:** `?/10`
+- **Tác phong, tính cách và mức độ hỗ trợ sinh viên:** `4.33/10`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Cơ chế trông thi
+
+### Chung
+
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ### IS-2241 - Computer Concepts and Applications
 
@@ -110,6 +109,10 @@ Từ **10/2023 đến 03/2025**, cô chủ trì [đề tài ứng dụng học s
 - K68 thì đệ của **Mai Anh** là tay **Kiều Giang Biên**, Mai Anh nhặt được hắn ở trong lab nên kéo về trợ giảng, học IT2, có lẽ do IT2 và ngành ta có cái 'khoảng cách vô hình' mà hắn cực kì thái độ với anh em chúng ta, nhất là đoạn thi cuối kì, anh em đang vất vả làm bài hắn vừa đi vừa liếc, 'nhìn đểu', hết giờ bắt đầu hét lớn 'TẤT CẢ LÀM SAI BÀI GIẢI THUẬT RỒI NHÉ!!!', 1 giọng điệu khó chịu, thiếu hòa đồng, bẩn thỉu, con hàng bựa nhất trong các thể loại, để dùng 1 icon tả gương mặt hắn thì là 😏 Vâng! Đúng là khuôn mặt đấy, 1 thằng khốn nạn!! 
 
 ## Tips
+
+### Chung
+
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ### IS-2241 - Computer Concepts and Applications
 

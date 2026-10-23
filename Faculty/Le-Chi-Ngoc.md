@@ -1,7 +1,7 @@
 # PGS. TS. Lê Chí Ngọc
 
->"get back get back"  
-— **PGS. TS. Lê Chí Ngọc**, *với sinh viên đang thuyết trình môn CS-3310* 
+> "get back get back"  
+> — **PGS. TS. Lê Chí Ngọc**, *với sinh viên đang thuyết trình môn CS-3310* 
 
 **PGS. TS. Lê Chí Ngọc** là giảng viên khoa Toán-Tin. Với tính cách thiên vị, bản tính tàn nhẫn và thái độ trịch thượng tựa [Fletcher trong Whiplash][whiplash-fletcher], giảng viên này là một trong những biến số khó lường nhất trong server Troy BK.
 
@@ -48,6 +48,21 @@ Môn này với lí do là môn 'Foundations' nên anh không cho thi mà cho th
     - **Điểm tổng kết trung bình:** `74.61/100`
       - Độ lệch chuẩn: `22.41`
       - Tỉ lệ được A: `22.22%` (12/54)
+  - CS-3310 - Fall-2025
+    - **Điểm tổng kết trung bình:** `?/100`
+      - Độ lệch chuẩn: `TBA`
+      - Tỉ lệ được A: `TBA` (TBA/TBA)
+      > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+  - CS-3310 - Fall-2024
+    - **Điểm tổng kết trung bình:** `?/100`
+      - Độ lệch chuẩn: `TBA`
+      - Tỉ lệ được A: `TBA` (TBA/TBA)
+      > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+  - CS-2250 - Fall-2024
+    - **Điểm tổng kết trung bình:** `?/100`
+      - Độ lệch chuẩn: `TBA`
+      - Tỉ lệ được A: `TBA` (TBA/TBA)
+      > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
   - CS-2250 - Fall-2023
     - **Điểm tổng kết trung bình:** `75.45/100`
       - Độ lệch chuẩn: `17.89`
@@ -122,6 +137,7 @@ Môn này với lí do là môn 'Foundations' nên anh không cho thi mà cho th
 
 - **PGS. TS. Lê Chí Ngọc** đã fail ít nhất một bài thuyết trình chính ngay cả [cháu ruột của mình][trivia_image_1] trong kì học Fall-2025.
 - **PGS. TS. Lê Chí Ngọc** có sở thích bóng đá, cầu lông, bóng bàn, bơi lội, nhiếp ảnh, du lịch, đọc sách, âm nhạc, điện ảnh.
+
 
 [whiplash-fletcher]: https://www.youtube.com/watch?v=l9VViSscQvA
 [profile-image]: https://fami.hust.edu.vn/wp-content/uploads/IMG_0559.jpg

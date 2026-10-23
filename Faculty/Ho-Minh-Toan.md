@@ -1,7 +1,7 @@
 # TS. Hồ Minh Toàn
 
->"Yalo."  
-— **TS. Hồ Minh Toàn**
+> "Yalo."  
+> — **TS. Hồ Minh Toàn**
 
 **TS. Hồ Minh Toàn** là giảng viên phòng Hình học và Tôpô, Viện Toán Học, VHLKHVCNVN.
 
@@ -33,20 +33,35 @@ Solid A tier.
 ## Chỉ số và sức mạnh
 
 - **Điểm tổng kết trung bình gần nhất:** `82.54/100`
-  - Độ lệch chuẩn: 11.42
-  - Tỉ lệ được A: 30.93% (30/97)
+  - Độ lệch chuẩn: `11.42`
+  - Tỉ lệ được A: `30.93%` (30/97)
   <details>
   <summary><i>Lịch sử điểm tổng kết</i></summary>
   <blockquote markdown="1">
 
+  - MTH-1126 - Summer-2026
+    - **Điểm tổng kết trung bình:** `?/100`
+      - Độ lệch chuẩn: `TBA`
+      - Tỉ lệ được A: `TBA` (TBA/TBA)
+      > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
   - MTH-1125 - Spring-2026
     - **Điểm tổng kết trung bình:** `82.54/100`
-      - Độ lệch chuẩn: 11.42
-      - Tỉ lệ được A: 30.93% (30/97)
+      - Độ lệch chuẩn: `11.42`
+      - Tỉ lệ được A: `30.93%` (30/97)
   - MTH-1114 - Fall-2025
     - **Điểm tổng kết trung bình:** `82.22/100`
-      - Độ lệch chuẩn: 10.00
-      - Tỉ lệ được A: 23.81% (10/42)
+      - Độ lệch chuẩn: `10.00`
+      - Tỉ lệ được A: `23.81%` (10/42)
+  - MTH-1126 - Summer-2025
+    - **Điểm tổng kết trung bình:** `?/100`
+      - Độ lệch chuẩn: `TBA`
+      - Tỉ lệ được A: `TBA` (TBA/TBA)
+      > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+  - MTH-2215 - Spring-2025
+    - **Điểm tổng kết trung bình:** `?/100`
+      - Độ lệch chuẩn: `TBA`
+      - Tỉ lệ được A: `TBA` (TBA/TBA)
+      > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
   </blockquote>
   </details>
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `8.0/10`
@@ -117,6 +132,7 @@ A GOOD MAN 👍👍👍
 - Trong quá khứ, **TS. Hồ Minh Toàn** thường có một trợ giảng gác thi cùng. Thiên hạ từng truyền tai nhau:
   - >"Nên học hành cẩn thận, sẽ có Mr. Cường (đệ của thầy) trông thi, đồ sát quét sạch, gần như không thể cheat, hoặc nhìn bài."
   - Tuy nhiên, từ kì Fall-2025, đã không còn ai thấy bóng dáng của "Mr. Cường" nữa.
+
 
 [profile-image]: https://math.ac.vn/uploads/images/Toan_HoMinh.jpg
 [academic-profile]: https://math.ac.vn/staff/ho-minh-toan

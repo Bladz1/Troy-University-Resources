@@ -1,11 +1,12 @@
 # TS. Dương Mạnh Cường
 
->"Perhaps the archives are incomplete."  
-— **Obi-Wan Kenobi**
+> "Perhaps the archives are incomplete."  
+> — **Obi-Wan Kenobi**
 
 **TS. Dương Mạnh Cường** là Phó Trưởng Khoa Quản lý, Trưởng Bộ môn Quản lý Công nghiệp, ĐHBKHN.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
+
 - **Ngoại hình**: [Dương Mạnh Cường][profile-image]
 - **Lý lịch**: [SEM - Dương Mạnh Cường][academic-profile]
 - **Giới tính**: Nam
@@ -16,17 +17,32 @@
 - **Facebook**: [Facebook - Dương Mạnh Cường][facebook-profile]
 
 ## Lịch sử giảng dạy
+
 - `MGT-4440` ([Developing and Leading Effective Teams][mgt-4440]): Spring-2026
 
 ## Đánh giá
+
 ### MGT-4440 - Developing and Leading Effective Teams
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Chỉ số và sức mạnh
-- **Điểm tổng kết trung bình:** `?/100`
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+
+- **Điểm tổng kết trung bình gần nhất:** `?/100`
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA` (TBA/TBA)
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+  <details>
+  <summary><i>Lịch sử điểm tổng kết</i></summary>
+  <blockquote markdown="1">
+
+  - MGT-4440 - Spring-2026
+    - **Điểm tổng kết trung bình:** `?/100`
+      - Độ lệch chuẩn: `TBA`
+      - Tỉ lệ được A: `TBA` (TBA/TBA)
+      > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+  </blockquote>
+  </details>
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ bám sát bài học của đề thi:** `?/10`
@@ -39,15 +55,29 @@
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Cơ chế trông thi
+
+### Chung
+
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 ### MGT-4440 - Developing and Leading Effective Teams
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Tips
+
+### Chung
+
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 ### MGT-4440 - Developing and Leading Effective Teams
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Trivia
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 
 [profile-image]: https://cite.ueb.edu.vn/Uploads/Article/lanntp@vnu.edu.vn/2021_8/images/cda627b42965e554039e1248e1934172-16.jpg
 [academic-profile]: https://sem.hust.edu.vn/lecturers/ts-duong-manh-cuong

@@ -9,7 +9,8 @@
 - **Ngoại hình**: [Đoàn Duy Trung][profile-image]
 - **Lý lịch**: [FAMI - Đoàn Duy Trung][academic-profile]
 - **Giới tính**: Nam
-- **Năm sinh, nơi sinh**: 1984, Hải Phòng.
+- **Ngày sinh**: 30/06/1984
+- **Nơi sinh**: Hải Phòng
 - **Học vị cao nhất**: Tiến sĩ (Dr. rer. nat.), TU Bergakademie Freiberg, Đức, năm 2018.
 - **Email**: trung.doanduy@hust.edu.vn
 - **Facebook**: [Facebook - Đoàn Duy Trung][facebook-profile]

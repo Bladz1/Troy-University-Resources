@@ -10,7 +10,7 @@
 - **Ngoại hình**: [Nguyễn Đình Hân][profile-image]
 - **Lý lịch**: [FAMI - Nguyễn Đình Hân][fami-profile]
 - **Giới tính**: Nam
-- **Năm sinh**: 19/12/1977
+- **Ngày sinh**: 19/12/1977
 - **Nơi sinh**: Hưng Yên
 - **Học vị cao nhất**: Tiến sĩ
 - **Phòng làm việc**: Phòng 104, nhà D3

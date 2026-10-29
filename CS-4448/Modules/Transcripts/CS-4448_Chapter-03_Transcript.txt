@@ -1,0 +1,236 @@
+﻿Byungkwan Jung: Byungkwan Jung started transcription
+[0:07] Byungkwan Jung: Hello everyone. This week we are going to proceed to the chapter 3. So this is a little bit of a long chapter, the process. So in this, so previously we learned what operating systems do and how they provide the services and then how the operating systems are structured internally.
+[00:30] Byungkwan Jung: Now we are moving into one of the most important concepts in the entire course, which is processes. In fact, the processes are the foundation of the modern operating system. Almost everything a computer does involves processes. When you open a Chrome, when you open a Microsoft Word,
+[00:52] Byungkwan Jung: Or, when you run a Python program, process is created.
+[00:57] Byungkwan Jung: Even operating system services themselves execute as processes. Throughout the rest of this course, many topics will build on our understanding of these processes later in the chapters.
+[01:14] Byungkwan Jung: So in this chapter, so that you'll be understanding what the process is and how the processes are represented and how they're scheduled and how they communicate and they are terminated and such.
+[01:29] Byungkwan Jung: So, in this in this chapter, I mean, we have the the we have these topics and also that we have the objectives here.
+[01:43] Byungkwan Jung: And what we're going to do is understand the difference between the program and the process, which we already talked about in the last chapter, last chapter, I believe. So let's just go straight to these concepts first.
+[01:58] Byungkwan Jung: First of all, the operating system executes many different programs. Depending on the environment, these programs may have different names, like batch systems. In batch systems, the programs are often called jobs. Historically, users submitted jobs
+[02:20] Byungkwan Jung: For execution.
+[02:23] Byungkwan Jung: Now, time-sharing assistance programs are often called as tasks or processes.
+[02:30] Byungkwan Jung: In this textbook, it knows that the terms like jobs and processors are sometimes used interchangeably.
+[02:38] Byungkwan Jung: Now, however, in modern operating systems, process is a modern common term, and is the most common term here.
+[02:48] Byungkwan Jung: So what is a process? Program and execution. This is a one thing that you should look in very closely here. Again, I know that this is mentioned, this is mentioned in the last chapter, but it's not a program. A process is not a program. Program that is an execution is a process.
+[03:11] Byungkwan Jung: OK, this distinction is very important here.
+[03:17] Byungkwan Jung: And this slide also shows a major component of the process in the.
+[03:24] Byungkwan Jung: Like text sections.
+[03:27] Byungkwan Jung: The process, it has a text sections that contains the program instructions, which is the executable codes, and then the current activity that includes the program counters and the CPU registers. This tells the CPU the where execution currently resizing.
+[03:49] Byungkwan Jung: And also contains the stack that stores the temporary information.
+[03:55] Byungkwan Jung: Data sections which contains the global variables.
+[03:59] Byungkwan Jung: And the heap that stores the dynamic LK memories.
+[04:08] Byungkwan Jung: So, the process...
+[04:10] Byungkwan Jung: The process is a the one the program that is in execution.
+[04:15] Byungkwan Jung: So, it can be called as a somewhat an active.
+[04:20] Byungkwan Jung: Program, however, being the one that is just being stored, we can just call it as a passive entity.
+[04:30] Byungkwan Jung: So a program becomes a process when it is loaded into the memory and execution begins. This can happen through the mouse click, command line, script, execution, and such.
+[04:47] Byungkwan Jung: An important observation is that one program can create multiple processes. Let's say that, like, you have 5 users open Chrome simultaneously, all are running on the same program, all running are running the same program, but each user creates a separate processes.
+[05:06] Byungkwan Jung: Each process that has its own memory, its own execution states, and its own its own resources.
+[05:18] Byungkwan Jung: Here we see a figure that shows that how process memories is organized. Please look at the layout. We talked about the text section data and a heap and a stack already. So you can see that how that stack.
+[05:37] Byungkwan Jung: This growing downwards and the heat growing upwards. Heat bands that grow towards each other. If either grows excessively, the problems can occur.
+[05:48] Byungkwan Jung: Like stack overflow for too much of stack usages, memory exhaustion, so that heap consumes available memories.
+[06:00] Byungkwan Jung: Now we look into the state of the processes. Process does not remain in one condition forever. It transitions through the multiple states, like new when process is being created, and the resources are being allocated
+[06:20] Byungkwan Jung: The running, where the instructions are actively executing on the CPU, and the waiting, which is a process of waiting for an event, and the ready, where the process is prepared to execute, waiting for the CPU assignment and such. This is a very important distinction.
+[06:41] Byungkwan Jung: Because ready means this is ready to run, waiting means is that waiting for an event.
+[06:49] Byungkwan Jung: So, you need to understand the difference between the wait and ready.
+[06:57] Byungkwan Jung: Terminated is when execution is completed and the resource is reclaimed and the process has been removed.
+[07:08] Byungkwan Jung: Here, we have the figure that shows how processes move between the states.
+[07:15] Byungkwan Jung: You can see that the process is created that moves into the new. And when the process is admitted by the operating system, it is moved to the running. And scheduler selects the process that it moves to the running state. And there are several possibilities that can happen when the event waits.
+[07:38] Byungkwan Jung: And...
+[07:39] Byungkwan Jung: So we have the running state that is changing to the waiting states.
+[07:45] Byungkwan Jung: In an event completion, then the waiting state now becomes the ready state.
+[07:52] Byungkwan Jung: And then we have the completion. So after the running that we have, that is after the running and it has been completed, then it's terminated.
+[08:08] Byungkwan Jung: One thing about these processes is that you also need to learn that the information that can store the information needs to be stored when we have some stops in stops in running the.
+[08:28] Byungkwan Jung: processes. We call this as a PCB control, I'm sorry, PCB, the process control block.
+[08:36] Byungkwan Jung: This is the what operating system stores information about each processes, and think of this as like a file folder for a process, or think of it as like a save file.
+[08:53] Byungkwan Jung: So, it needs to save the process states.
+[08:57] Byungkwan Jung: and the program counter, CP registers, scheduling information, memory management information, and accounting information, and of course, the input information, and without these PCB, multitasking will be impossible.
+[09:18] Byungkwan Jung: So, if you look at the figure, you can see that the two processes exist.
+[09:24] Byungkwan Jung: Let's say that the process P0 is currently running, and the scheduler decides that the process P1 to execute.
+[09:36] Byungkwan Jung: Then it will be saving the process of P0 information into the PCB and the load process P1 to load process P1 information from the PCB to continue or run it.
+[09:56] Byungkwan Jung: Once you continue to run, and then once it has been finished, it will be stored. Once it needs to be calling the process P0 again, then it will be storing the P1 into the PCB, and then it will be recalling the PCB.
+[10:15] Byungkwan Jung: Of the process 0 to from the PCB from the PCB to continue from the where it has left off.
+[10:27] Byungkwan Jung: So this operation is known as context switch, which we will be discussing it in greater in the later on.
+[10:37] Byungkwan Jung: So up to this point, the one process contains the one program counter and the one execution path. This is called as a single-threaded execution. Modern system often support the multiple threads. That is inside the one process.
+[10:58] Byungkwan Jung: Each thread possesses its own execution path, its own program counters, which means that the multiple activities can occur simultaneously.
+[11:11] Byungkwan Jung: Like web browser, if it has a one thread, then it means that it can download a web page, another can render the graphics, another play videos and such.
+[11:23] Byungkwan Jung: We'll be studying more about the threads in the next chapter.
+[11:30] Byungkwan Jung: This slide shows the part of Linux process structures. We have this task struct. Linux stores its process information inside this structure. Notice the similarities to the PCB here. It includes the field like the PID, which is a processor identifier.
+[11:51] Byungkwan Jung: And then it has the state, time slices, its parent, and its children, its file structures, files, and an MM structure memory address space of this processes as such.
+[12:07] Byungkwan Jung: This demonstrates the PCB concepts, and they are not just theoretical. Real operating systems implement them directly.
+[12:19] Byungkwan Jung: Next, we look into these process scheduling.
+[12:24] Byungkwan Jung: CPU is usually the most valuable resource in a computer, and the operating system, therefore, attempts to maximize the CPU utilization.
+[12:38] Byungkwan Jung: Means that the CPU CPU busy. It means that the keeping CPU busy whenever possible. The process scheduler selects which process executes next. There are several queues exist.
+[12:57] Byungkwan Jung: One is a job queue, where all processors in the systems are lined in. Ready queue is where the processor is ready to be executed, and we have a device queue where the processor is waiting for the device, like printers, disk, and networks, and such.
+[13:16] Byungkwan Jung: Processes continuously migrate among these queues during the executions.
+[13:25] Byungkwan Jung: Let's have a look at these ready queue and the device queues.
+[13:30] Byungkwan Jung: Ready queues contain the process waiting for the CPU, and device queue contains a process waiting for the input-output.
+[13:39] Byungkwan Jung: So process requests disk read. It moves from the running to the disk queue. And we have these when a disk completes an operation, the process returns to the ready queue. The scheduler constantly moves a process among these locations.
+[14:00] Byungkwan Jung: This dynamic movement is what enables the multi-programming.
+[14:08] Byungkwan Jung: So next, we look into the representation of these process scheduling.
+[14:15] Byungkwan Jung: The queuing diagram summarizes the process movements through the system. Think of the processes as customers moving through the service stations. The ready queue is waiting for the CPU, and the CPU that is currently executing the process.
+[14:35] Byungkwan Jung: Device queue is where it waits for the input-output, and the processes continually flow between the CPU and the input-output devices. This model becomes extremely important when studying the CPU scheduling algorithm, performance analysis, and operating system efficiencies.
+[14:56] Byungkwan Jung: Understand this flow that helps explain why the operating system needs a sophisticated scheduler.
+[15:04] Byungkwan Jung: Scheduler is the scheduler is the what controls the movement.
+[15:14] Byungkwan Jung: It is an operating system component that selects the processes for the execution. Think of it as a traffic controller at the busy airports. Many airplanes want to use the runway and the controller decides who goes first, who waits, and who departs next. Operating system does exactly the same thing.
+[15:33] Byungkwan Jung: Or processes.
+[15:37] Byungkwan Jung: This slide introduces the three types of the scheduler. Number one, the long-term scheduler.
+[15:45] Byungkwan Jung: Control admissions of the processes into the memory, and then we have the short-term scheduler that chooses which ready processes receive the CPU. Mid-term scheduler is a temporarily removes the processes from the memory.
+[16:05] Byungkwan Jung: Each schedule serves as a different purpose, and together they help to maintain efficient system operations.
+[16:14] Byungkwan Jung: So, we look into these the term of we look into.
+[16:22] Byungkwan Jung: The medium term scheduler once more. So medium term scheduler can be added if degree of the multiple programming needs to decrease. It moves, remove the process from the memory store and disk, brings back into the, bring back in from the disk and continue execution.
+[16:42] Byungkwan Jung: With the swappings.
+[16:46] Byungkwan Jung: So, multitasking in the mobile systems.
+[16:52] Byungkwan Jung: Due to the screen in the real estate, user interfaces limits the iOS that provides for the single foreground processes that is controlled by user interface and the multiple background processes are multiple background processes in memory running, but not on display. Android runs the foreground and background with a fewer limits.
+[17:14] Byungkwan Jung: So the background processor uses a service to perform tasks, and the service can keep running even if the background process is suspended.
+[17:27] Byungkwan Jung: Context switch, we talked about the context switch before, so that this is again a when a CPU switches another processes, the system must save the state of the old process and load the same state for the new processes via context switch.
+[17:46] Byungkwan Jung: So, the context is a process represented in the PCB.
+[18:02] Byungkwan Jung: Okay and.
+[18:08] Byungkwan Jung: Here, so that in the context switch, the context switch time is the overhead. The system does no useful work while switching. This is an interesting idea that.
+[18:27] Byungkwan Jung: Because, because then the more CPU, because that this is a very important thing about the overhead here is that because...
+[18:38] Byungkwan Jung: This overheaded means that this is a necessary when a processor needs to be switched over in a CPU. So we need to find a way to remove these overheads as much as possible.
+[19:01] Byungkwan Jung: The modern processors still include the hardware support to reduce the switching overhead. Still, context switches remain expensive relative to the normal instruction execution.
+[19:19] Byungkwan Jung: Processes do not simply appear and disappear.
+[19:23] Byungkwan Jung: The operating system manages their entire life cycle. Two major operating operations exist. One is a process creation and determinations. Creation occurs when the user launches an application or the process creates a child processes.
+[19:43] Byungkwan Jung: Or, operating system starts a service. Termination occurs when a process completes, error occurs, user stopping a program, or operating system intervenes. Understand that these operations is critical because...
+[20:02] Byungkwan Jung: Every running application depends upon them.
+[20:07] Byungkwan Jung: When a process creates another process, the original becomes the parent process, and the newly created process becomes a child process. This creates a hierarchy where the parent will be creating the child, the child will create the grandchildren,
+[20:27] Byungkwan Jung: and the grandchildren were great in creating the great-grandchildren and so forth. Modern operating systems often organize processes into these process trees.
+[20:39] Byungkwan Jung: These operating systems tracks these relationship of these processes with those with the trace there.
+[20:48] Byungkwan Jung: Parent-child relationships simplify the management and the resource controls. Like in Linux, when you execute a command from a shell, the shell becomes the parent and the command becomes a child as such.
+[21:17] Byungkwan Jung: Unix uses A2 famous system call, such as the fork and execute.
+[21:28] Byungkwan Jung: Fork creates a new process. The child initially becomes nearly identical to the parent. Both continue the executions. So after the fork, 2 processes exist, the parent and the child.
+[21:48] Byungkwan Jung: Execution replaced the process memory with a new program. This transforms child into a different application. So, the typical sequence is that shell executes a fork, child is created, child executes it.
+[22:07] Byungkwan Jung: Child executes an execution function and desired a program it starts, so design, so this design provides tremendous flexibilities.
+[22:38] Byungkwan Jung: Hey.
+[22:40] Byungkwan Jung: Next, we look into the process termination.
+[22:46] Byungkwan Jung: So, for the creating these programs forking with the C program and for the Windows API, I just I think that you can just have a look at them and and and you can see the difference in then the command.
+[23:05] Byungkwan Jung: But the...
+[23:06] Byungkwan Jung: Basically.
+[23:08] Byungkwan Jung: The way they perform is the same.
+[23:11] Byungkwan Jung: So next we look into the process termination.
+[23:16] Byungkwan Jung: Processes cannot run forever; eventually, they need to terminate, so that there is a normal completion, so where the program finishes successfully, and it can also end with the error condition.
+[23:30] Byungkwan Jung: Of course, there are some of these fatal exceptions, like illegal operations, memory violations, division by zeros, or user requests, or operating system intervention that will be terminating the processes.
+[23:51] Byungkwan Jung: Consider a parent process within multiple children. What would happen if the parent terminates? The answer depends on the operating system policy, though. One possibility is the cascading termination. So when the parent terminates, all...
+[24:10] Byungkwan Jung: children terminates automatically.
+[24:13] Byungkwan Jung: The advantage of this is that it prevents orphaned processes, and it simplifies the cleanup. Another possibility is that so the children can continue independently, where different operating systems support the different approaches.
+[24:33] Byungkwan Jung: Unix typically allows children to continue on the adoption mechanism. Other systems may terminate the entire process groups. The operating system must carefully manage these relationships to avoid resource leaks and inconsistent execution.
+[24:52] Byungkwan Jung: This concludes our discussion of the process creation and determination.
+[25:05] Byungkwan Jung: So we have the multi-process architecture for the Chrome browser. Is it what can be some of the examples of how these, how a parent process having a multiple processes as a child? So if you have like many web browser running on a single process,
+[25:26] Byungkwan Jung: And let's say the Google Chrome browser. It multi-processes with three different types of processes. So the browser process manage, the user interface, disk and the network IO, renderer process renders web page, and the plugin process for each type of the plugins.
+[25:47] Byungkwan Jung: So, and also the each tab represents the separate processes, so the entire browser you can have multiple, multiple, multiple processes generated, and if you have them dragged out and if you can close them, you basically you can have a cascading termination effect.
+[26:06] Byungkwan Jung: Also, but you also can have a one tab to be a new browser, which means that a...
+[26:15] Byungkwan Jung: child browser tab can survive even though there was a cascading termination.
+[26:25] Byungkwan Jung: Next, we look into the inter-process communication.
+[26:30] Byungkwan Jung: So we talked about these processes as individual entities. However, modern computing rarely consists of completely independent processes. They need to cooperate, they need to exchange information, and share resources.
+[26:49] Byungkwan Jung: Inter-process communication refers mechanisms that allow processes to communicate and synchronize their activities, like web browsers communicating with the network service, data server communicating with the client applications, and a parent process communicating with the child processes.
+[27:08] Byungkwan Jung: We thought of the IPC that every processor would operate in isolation.
+[27:15] Byungkwan Jung: So, the modern operating system would be far less useful.
+[27:20] Byungkwan Jung: This slide identifies 2 major reasons for the process cooperation.
+[27:26] Byungkwan Jung: Information sharing, where multiple processors may require access to the common information, computation speedups, tasks may divide the model of multiple operating processes that improves the performance, modularity for the large software system becoming easier to design,
+[27:48] Byungkwan Jung: when divided into cooperative processes, and convenience, where users frequently run multiple related activities simultaneously.
+[28:02] Byungkwan Jung: We also have these, we have these cooperating processes that is classified as independent or cooperating.
+[28:14] Byungkwan Jung: I'm sorry, the processes that may be classified as independent or cooperating based on what we discussed, right? So here we have these independent processes that cannot affect other processes and cooperating processes that can affect and be affected by the other processes.
+[28:35] Byungkwan Jung: And then for the and for these IPC models, there are two of them. One is that that is the shared one is using the shared memory that process communicate through the common memory region and the and the multiple processes of that access the same memory and the message passing where the process exchange messages through the operating system services.
+[28:59] Byungkwan Jung: These represent the fundamentally different philosophies. So, the shared memory, the advantage is that it is very fast and has a minimal operating system involvement after the setup. This advantage is that the processor must carefully...
+[29:19] Byungkwan Jung: coordinated axis and synchronization becomes very important here. You can see that in these figure as well.
+[29:29] Byungkwan Jung: In the shared memory system, you see that process A and process B both accessing the same memory space. Once established, the process communicates simply by the reading data and the writing the data. After this setup, the operating system is minimally involved.
+[29:48] Byungkwan Jung: And the communication software directly, where now we have the so that where we have the message passing systems, so we have these processes exchange messages rather than the shared memory, and it involves involves operating systems to manage them.
+[30:10] Byungkwan Jung: So, the basic operations include sending a send message and the receive message. The advantage of these message passing or message passing is that it is a simpler design, it improves the protections, and it's useful for the.
+[30:29] Byungkwan Jung: distributed systems. Of course, this advantage is that there is additional overhead and the message must be transferred through the operating system mechanisms.
+[30:48] Byungkwan Jung: Okay, so we did talk about the independent and corporate processes that the information sharing, the information sharing, computation speed of modularity, convenience as the advantages of the process cooperation. Next, we look into the producer-consumer problem.
+[31:11] Byungkwan Jung: Paradigm for the corporate processes, we have the producer process that produces information, and there is a one that is consumed by the consumer processes. Unbounded buffer places, there is no practical limit on the size of the buffer, and the bounded buffer assumes that there is a fixed size buffer.
+[31:32] Byungkwan Jung: Of course, then in the actual realistic realistic buffer will be the bounded buffer, right? Because there is, we do not have unlimited memory. Unlimited memory, then unbounded buffer means a a completely is a completely doesn't.
+[31:52] Byungkwan Jung: It doesn't matches the ideas of the realistic computers these days. So, here we have the bounded buffer that has a shared memory solution. You can see that we have these, we have the buffer size set.
+[32:12] Byungkwan Jung: As A 10, and then we end, I'm sorry, the buffer size is set as 10, then then you can just simply see that it is accessed with the with the.
+[32:27] Byungkwan Jung: Subscripts, subscripts, and we have total access to the buffer size -1 items.
+[32:35] Byungkwan Jung: Here, we have the producer producer prop process here. It is a infinite loop that is that is performing these loops, these while while loop, and of course access to these buffers, and then
+[32:55] Byungkwan Jung: buffers and then we have the consumer that is exactly doing the same thing, but is actually interacting with these buffers that has been a buffer that has been filled by these producer.
+[33:10] Byungkwan Jung: This shared memory, this in the inter-process communication, they are using these, we can see that how you can see that how these kind of buffers that is the same buffers that is accessed by these producer, two different two different.
+[33:29] Byungkwan Jung: printed processes altogether. So do they need any kind of operating systems helps? No, they do not need those.
+[33:44] Byungkwan Jung: In the message passing, the mechanism is about having that send and receive message used with the operating system services.
+[33:58] Byungkwan Jung: So if the process P&Q wishes to communicate, they need to establish a communication link. How they are established? Automatically, explicitly. And can a link connect more than two processes?
+[34:16] Byungkwan Jung: Well, some systems allow this, some do not. And how many can exist? It can be one or multiple.
+[34:27] Byungkwan Jung: or what is the capacity of it? And what direction is the communication?
+[34:34] Byungkwan Jung: And is the link undirectional and bidirectional?
+[34:45] Byungkwan Jung: So another thing, so that we, since we talked about these ideas of these, is it going to be a...
+[34:52] Byungkwan Jung: On unidirectional and the bidirectional, let's now talk about, okay, then what about it is a, what about the communications? Let's talk about these communications in a process of communicating to the process directly.
+[35:11] Byungkwan Jung: So we have a direct communication here.
+[35:15] Byungkwan Jung: process explicitly identify each other when they perform this kind of message share.
+[35:24] Byungkwan Jung: So process A or the process A, like talking to the process B directly. So in here are slides, we can see that they send P message. You can see that they send a message to the process P and then receive. It shows that the receiving message from the process Q as such.
+[35:45] Byungkwan Jung: The advantage of this is that it's very simple and easy to understand. However, it is the process becomes a very tightly coupled and each process must know the identity of the communication partners.
+[35:58] Byungkwan Jung: Now, in this case, changes become more difficult if the system grows.
+[36:07] Byungkwan Jung: So if there is a direct communication, we also have the indirect communication. Indirect communication, we have these processes they communicate through the mailboxes or ports, known as, so it is also referred as ports. So instead of sending the directly to the another processes,
+[36:29] Byungkwan Jung: They send messages to these ports, and then receiving processor reads from these ports. The advantage of this is that the processor becomes less dependent on each other, and there's greater flexibilities because they do not need to know the...
+[36:48] Byungkwan Jung: Direct partners.
+[36:50] Byungkwan Jung: Multiple processes, they may share some of these mailboxes, so...
+[36:57] Byungkwan Jung: This model appears in many modern operating systems.
+[37:10] Byungkwan Jung: We talked about when these processes they communicate, we also need to think about their synchronizations in the message passing.
+[37:20] Byungkwan Jung: When messages are exchanged, timing matters, and the two common operations exist. One is blocking and another is non-blocking.
+[37:35] Byungkwan Jung: Blocking send is when sender waits until the message is accepted. Blocking receive is when receiver waits until the message arrives. This creates A synchronization automatically, sometimes called as.
+[37:55] Byungkwan Jung: Rondez view.
+[37:56] Byungkwan Jung: So if you have a two process that is performing blocking send, blocking receive, and they are partners, we have a rendezvous, we have a rendezvous communications from the two processes.
+[38:13] Byungkwan Jung: We also have non-blocking send, which sender continues immediately after the send, and the receiver continues even if message is unavailable is called as non-blocking receive. Different applications prefer these different models.
+[38:37] Byungkwan Jung: So, here we have a, so we have a producer and consumer, producer and consumer that becomes a trivial here. We have a send, we have a send, and then and the we have a send.
+[38:56] Byungkwan Jung: I'm sorry, then you have the message that is the next produce. We can see that the message is being sent from the one producer, and then it can be it can be consumed. It can be consumed when it has received, so you can have these two of the send and receive operations.
+[39:15] Byungkwan Jung: For each of the processes, so that they can, they can, they can perform, they can perform the send and receive for their processes.
+[39:29] Byungkwan Jung: message when they are sent, then we need some kind of a memory to store them, a temporary memory known as buffer. There are three common approaches that exist that has zero capacity, number one, 0 capacity, no waiting. So
+[39:48] Byungkwan Jung: Sender must synchronize directly with the receiver. So it's basically asking for a rendezvous kind of communication.
+[39:57] Byungkwan Jung: And then we have the bounded capacity, which is talking about the finite number of queue that has limited the number of the message stored, and unbounded capacity for the infinite length infinite length where sender never waits, which is very unusual for the
+[40:18] Byungkwan Jung: the computers in the real real life.
+[40:24] Byungkwan Jung: There are some examples of the IPC systems in the POSIX, so the POSIX share memory.
+[40:36] Byungkwan Jung: The project is shared memory. It stands, so project shared memory. So the project stands for the Portable Operating System Interface. It provides A standardized interface for Unix and the Linux system. So the step one is that you create each shared memory object.
+[40:55] Byungkwan Jung: and then you set the size, and then map memory into process address space, and then you read, write, share data. Once mapped, the communication becomes extremely fast because the process directly access memory.
+[41:19] Byungkwan Jung: You can look at the producer and the consumer that is created with the POSIX shared memory system.
+[41:28] Byungkwan Jung: We also have the example of the mug using the message passing.
+[41:35] Byungkwan Jung: MOG is a famous microkernel operating system. Unlike the traditional Unix system, it heavily relies on the message passing. Note that microkernels move many services out of the kernel space, so the communication becomes essential.
+[41:54] Byungkwan Jung: This mock introduces ports, ports that is actually like a mailbox.
+[42:01] Byungkwan Jung: So the advantage here is that the modularity, security, and the flexibility. However, it's talking about message passing. That means it has a more overhead. So this illustrates the classic operating systems trade-off.
+[42:25] Byungkwan Jung: So...
+[42:27] Byungkwan Jung: Uh, I thought we had...
+[42:30] Byungkwan Jung: Okay, Windows.
+[42:34] Byungkwan Jung: Microsoft Windows supports numerous IPC mechanisms, like shared memory, pipes, sockets, and remote procedure calls in the message queues. And it attempts to provide, so the Windows attempts to provide the flexibilities.
+[42:53] Byungkwan Jung: Developers choose communication methods based on their application requirements.
+[43:03] Byungkwan Jung: So, message passing is sent via advanced local procedure call facility. It only works the processor on the same system and uses supports to establish and maintain communication channels. So, the communication it follows with a client opening a handle to the subsystems
+[43:23] Byungkwan Jung: Connection port object, and then client sends a connection request, and the server creates A2 private communication ports, and then returns the handle to one of them into the client, and the client and server uses a corresponding port handle to send messages or callbacks.
+[43:42] Byungkwan Jung: And to listen for replies, so here we have the we have the how local procedure calls works for Windows, so we have the connection port that is that's a connection port that is going through with the client and server.
+[44:02] Byungkwan Jung: And we have these two distinguished ports that will handle each one. The client communication port handles with the client, and the server communication port handles with the server. And through this client communication port and the server communication port, you can see those two
+[44:22] Byungkwan Jung: Are you can see those two are communicating and sharing the data?
+[44:31] Byungkwan Jung: So, a communications in a class of systems uses the remote procedure calls, sockets, pipes, and remote invocations for the Java.
+[44:46] Byungkwan Jung: Sockets is defined as an endpoint for the communication. It's A concatenation of the IP address and the port.
+[44:56] Byungkwan Jung: And so it includes a number at the start of the message packet to differentiate a network service on a host.
+[45:08] Byungkwan Jung: So port number is identify the service, like port 80 is for the HTTP, like port 25 is for the SMTP for the mail service and such.
+[45:27] Byungkwan Jung: This figure illustrates the class server communication using the sockets.
+[45:32] Byungkwan Jung: Note that client creates sockets and client connects to the server sockets. Communication occurs through the network and server receives a request and processes a request and returns responses. They are all happening through these sockets they create.
+[45:58] Byungkwan Jung: Of course, you can see that the sockets created in the Java as well.
+[46:03] Byungkwan Jung: So I think that we'll be looking into some of these exercises about the socket programming, and I think it will be interesting.
+[46:14] Byungkwan Jung: So, there are three types of sockets in Java for the connection-oriented connection-less and the multicast sockets. I will not go in deep with these differences between the TCP and the UDP, just thinking of as the TCP is asking for more permission, more.
+[46:32] Byungkwan Jung: Trying to have a more reliable communication, and UDP is more likely just a design for the fast transmission of the data.
+[46:45] Byungkwan Jung: Remote procedure calls. This introduces the powerful idea.
+[46:52] Byungkwan Jung: Suppose a program needs to execute the code on another machine. Traditionally, programmer will manually handle through these networks and remote procedure call, it hides this kind of a complicity.
+[47:11] Byungkwan Jung: It allows programmers to invoke remote functions almost as if they were the local functions. Conceptually, like instead of writing, sending a message, send a message, wait for response, and the process will response, and you simply call a function.
+[47:31] Byungkwan Jung: And the remote procedure call will handle all of the communication.
+[47:36] Byungkwan Jung: The advantage of this is that it's a very simple program, simpler programming, and it will be improving the abstraction.
+[47:44] Byungkwan Jung: And the disadvantage of the remote procedure call is that there is additional complexity in the implementation and, of course, the potential communication delays.
+[47:57] Byungkwan Jung: So, let's have a look at the architecture.
+[48:02] Byungkwan Jung: So first we have the stubs, the client stub, client stub, which act as, I think that we have these figure. I think this will be more better for the understanding. So what we have is that remote procedure creates a client stub.
+[48:23] Byungkwan Jung: Which act as a local representative over a remote procedure, and the server stub works as the one that receives a request and invokes the actual server procedures, and the communication occurs automatically, so the programmer sees a function call and the operating system network.
+[48:44] Byungkwan Jung: Infrastructure performs a message transfer, transfer itself.
+[48:50] Byungkwan Jung: So these stubs, they are basically, they are client-side proxies for the actual procedure on the server. And this client-side stub locates the server and marshals the parameters. What does the marshal mean? Basically, it's dumping the oldest
+[49:11] Byungkwan Jung: parameters to the server side. So server side stuff receives this message and unpacks the marshal parameters and performs the procedure on the server.
+[49:24] Byungkwan Jung: On Windows, stock code compiled from the specification written in the Microsoft Interface Definition Language.
+[49:34] Byungkwan Jung: Data representations are handled via external data representations format to account for the different architectures. For different architectures that we have called big Indian and little Indian for the different computer architecture. This is basically talking about
+[49:53] Byungkwan Jung: the different computer architecture of these of the computers. Sometimes computers can be built very differently from what you know. Of course, nowadays, many of the, well, most of the architectures are very unique.
+[50:13] Byungkwan Jung: very uniform so that you may not see the differences, but the architecture of the computers were supposed to be different for many, many, many different kinds of them back in the 70s and 80s. So Big Indian and Little Indian
+[50:31] Byungkwan Jung: What that means is that basically you can have a computer that reads from zero to 10 as zero, one, two, three, 4, 5, 6, 7, 9, 10. And if you have another computer architecture that reads, you can have them as like a 10, 9, 8, 7, 6, 5, 4, three, two, one.
+[50:53] Byungkwan Jung: Remote procedure, remote communication. If you have this kind of remote communication between these computers of the different architecture, that can cause problems. So you can have these failed scenarios for these kind of two different kind of the computer architectures.
+[51:15] Byungkwan Jung: Next, we look into the pipes. It provides simple IPC mechanism, or you can just think of it as the data enters one end and data access the another. Pipes is basically is a, you can call it as a conduit.
+[51:34] Byungkwan Jung: It is a conduit, a line 2 process to communicate. The issue is that whether it is a bidirectional or unidirectional, or is a two-way or is a half or the full duplex.
+[51:49] Byungkwan Jung: In the ordinary pipes, cannot be accessed from the outside of process that created. Typically, parent processes create a pipe and use it to communicate with the child process that is created. Name pipes can't be accessed without parent-child.
+[52:08] Byungkwan Jung: Relationships.
+[52:11] Byungkwan Jung: We look into the ordinary pipes here. It has very interesting characteristics. First is unidirectional. Information from the one distance, the one directions. And it is a parent-child communication. It is a, and also it's temporary.
+[52:30] Byungkwan Jung: It exists only while the process executes.
+[52:36] Byungkwan Jung: And then we have the name pipes. Name pipes solves limitation of the ordinary pipes. Unlike the ordinary pipes, name pipes possesses name in file systems. The advantage is that the process need not be related, and the communications can occur between unrelated processes.
+[52:57] Byungkwan Jung: Name points often persist beyond the process lifetime.
+[53:06] Byungkwan Jung: So that's the end of the chapter 3. I know it was a very long chapter, but it is a one that is worth it. So I'll see you guys with the chapter 4 soon. Thank you.
+Byungkwan Jung: Byungkwan Jung stopped transcription

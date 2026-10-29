@@ -1,0 +1,428 @@
+Byungkwan Jung: Byungkwan Jung started transcription
+[0:06] Byungkwan Jung: All right.
+[00:10] Byungkwan Jung: Hello, everyone. Today, this is our first time that we are going actual meetings for our chapter one here.
+[00:22] Byungkwan Jung: So like I said the last week, this is our official week that will go over each of the chapters.
+[00:32] Byungkwan Jung: Note that each of the chapters, I will try to cover every chapter a single day, so two chapters a week, but if there is a need for a more of more of the examples, or should I say it needs more.
+[00:51] Byungkwan Jung: tension then I'll try to stay there, stay a focus for that chapter 11 more longer.
+[00:59] Byungkwan Jung: So starting this week, I really wish that we can finish up this up to the chapter 5 because my initial guess is to have like chapter 5 as a part of our midterm. But you know, since we were already
+[01:20] Byungkwan Jung: We are going to really push the head. I mean, this will take a little bit a...
+[01:27] Byungkwan Jung: Well, we have to see.
+[01:30] Byungkwan Jung: So as we already have our plans to have that midterm on the 5th week, I think we should really proceed a little bit more faster. All right, so
+[01:42] Byungkwan Jung: Ohh, let me just...
+[01:48] Byungkwan Jung: OK, so let's start with our Chapter One Introductions. This is a more of introductory chapters of inter chapter of the all these contents that we'll be discussing in this in this course.
+[02:06] Byungkwan Jung: So that we understand what is the objective of the chapters, and then we proceed.
+[02:16] Byungkwan Jung: We proceeded with the actual content. Let's see our actual slide 5.
+[02:26] Byungkwan Jung: What is an operating system?
+[02:29] Byungkwan Jung: So, operating system is a program that acts as an intermediary between the user and the computer.
+[02:38] Byungkwan Jung: So that means it's a middleman. So the operating system is a middleman to the machine and the person.
+[02:47] Byungkwan Jung: So, it's like a waiter in a restaurant. I mean, you go into the restaurant and you are not going to get those, you know, tell the cook to actually cook for you. Instead, you tell the waiter, you tell the waiter to communicate with the kitchen, and this is what the operating system acts as similarly.
+[03:08] Byungkwan Jung: The users request actions and application request actions, and operating system communicates with the hardware. So, the example is like when you click a save file, I mean...
+[03:21] Byungkwan Jung: Does the Microsoft directly move these disk centers? No, the request goes through the operating systems, so that operating system that handles those the storages.
+[03:34] Byungkwan Jung: So the goal of the operating system is to execute the user programs. So the operating system helps run the program successfully. Number 2 is for the convenience. Operating these operating systems makes the computers to be easier to use.
+[03:52] Byungkwan Jung: So, without an operating system, the users would directly manipulate hardware instructions, which is very difficult.
+[04:01] Byungkwan Jung: And the goal here is the efficiency. The operating system ensures the hardware resources that are used effectively. Like, the CPU sits idle while waiting for input-output. I mean, that's a very inefficient.
+[04:16] Byungkwan Jung: So, what the operating system do is it schedules the tasks to these the two these.
+[04:25] Byungkwan Jung: CPUs, so it cannot be idle.
+[04:29] Byungkwan Jung: So...
+[04:32] Byungkwan Jung: The computer system structure.
+[04:34] Byungkwan Jung: So we are looking at the basics of the computer system structures here, which probably that you might, you probably already went over this multiple times in your up in your computer science one. And of course, some of those who took the foundation of the computer science class, you will, you
+[04:53] Byungkwan Jung: probably finished everything.
+[04:56] Byungkwan Jung: But let's just, you know, just go a little bit about what they are. So we already have the hardware, right? The hardware is the what provides the computing resources that has like CPU, memory, the keyboard, monitor, disk, everything that is a real, right?
+[05:15] Byungkwan Jung: So, this is a more of the physical equipment, but the harder itself, we cannot manage it.
+[05:23] Byungkwan Jung: So what we have is operating system. This is what sits above the hardware. Its job is control and coordinate the hardware use in plan, like traffic control in the airports. Many plane wants to land to the port, but
+[05:42] Byungkwan Jung: Someone needs to coordinate them, right? You cannot just let anything that just land at the same time. So, the Opera system works the same. It tries to schedule, control all of those hardwares, resources, and its usages.
+[06:02] Byungkwan Jung: Application programs. Application defines how resources are actually used, like web browsers, games, compilers, spreadsheets. They are what we use to solve our problems. And these applications rely on the operating systems. But
+[06:21] Byungkwan Jung: Yeah, and remember, like Google Chrome.
+[06:24] Byungkwan Jung: the one that the browsers, anything that you use. It cannot directly manage your hardware safely. So what does it do? It asks the operating systems. And of course, users.
+[06:36] Byungkwan Jung: Users can be humans, machines, remote controls, and other computers, of course.
+[06:47] Byungkwan Jung: Sometimes, another computer acts as if it's a user.
+[06:52] Byungkwan Jung: Like when we have used a Netflix, Netflix streams video to your TVs, machines that communicates with the machines, so you see...
+[07:07] Byungkwan Jung: You will have a platform and you'll have your machine. They are communicating to show or to give you a service. So that's how a computer is affecting another computer for this usages.
+[07:26] Byungkwan Jung: Just give me one second.
+[07:33] Byungkwan Jung: In the next.
+[07:37] Byungkwan Jung: So here we have the four components. We have the four components of our computer system here.
+[07:46] Byungkwan Jung: Notice that.
+[07:48] Byungkwan Jung: We have...
+[07:50] Byungkwan Jung: On the top, you have the users, and we have the layer structures. And what we have here is at the bottom, we have the computer hardware, and then operating system, and a system and application programs. From this, what we are understanding is the...
+[08:10] Byungkwan Jung: From the physical equipment, we have the operating system equipped on top of it, and on top of the operating system, we have the actual system and application programs.
+[08:21] Byungkwan Jung: But why are we having as app? Why are we having them as a layered?
+[08:29] Byungkwan Jung: Because abstractions, it simplifies the complexity. I mean, there are, of course, a lot of things are happening in each of these layers, each of these operating systems, hardwares, and application programs. I mean, if you have studied the computer architecture and you already know what's happening for each of the physical equipments,
+[08:50] Byungkwan Jung: then you probably understand what I'm saying. So this is just for the abstraction, so.
+[08:56] Byungkwan Jung: If you look at this, then we will have the all the users on the top. But why do we have the all the users that are working with the system and application programs, not directly to the operating systems or the hardware? We cannot manually ignite a fuel inside of the engine cylinders and such.
+[09:15] Byungkwan Jung: Like when you're doing with the car, like we we cannot do that. What we do? We reuse the accelerators to actually get the car money right. We don't directly fire up the old engines with our manually.
+[09:31] Byungkwan Jung: That's how we how we treat our machines. That's how we how we communicate with our computers through these use of the system, these programs that will be put into the opera systems that will be interacting with the physical equipment, the hardware to get the job done.
+[09:51] Byungkwan Jung: Then, what operating systems does it do?
+[09:55] Byungkwan Jung: For our normal users, for it's a convenience, convenience that matters. We want to make sure that it meets the speed and usability and responsiveness. We don't want a machine that is very slow. We don't want that machine that takes forever.
+[10:13] Byungkwan Jung: We want to make sure that is a very useful and to the well, well, very responsive to the what you query.
+[10:24] Byungkwan Jung: Now, for our share systems.
+[10:27] Byungkwan Jung: The fairness is what matters.
+[10:30] Byungkwan Jung: Like university server, many students will share resources and operating systems will keep everyone reasonably satisfied with these resources. Smartphones, battery life matters. Phones are, they are very limited with the resources, the power.
+[10:50] Byungkwan Jung: right? And those operating systems in the smartphones, they will be more stretched for the optimization of the energy. For our embedded systems, sometimes there is no visible interface at all, like microwave open. Do you see any of those visible interfaces?
+[11:11] Byungkwan Jung: Car controllers, medical monitors, all of us.
+[11:17] Byungkwan Jung: So you see, this is not just about, so it's not, computer is not always about the efficiencies or it's not about the responsiveness, about the users. It is its purpose, based on its purpose, its goals and what matters the most will be different from the what kind of system that is.
+[11:38] Byungkwan Jung: So, operating system can be viewed in two major ways: one as a resource allocator. These resources including CPU, memory, storage, input, output devices. So, it decides what gets what, for how long, and when, and this becomes what we call it as...
+[11:58] Byungkwan Jung: Scheduling.
+[12:00] Byungkwan Jung: And, of course, operating system is also called as a control program. It prevents misuses, like buggy applications should not override another application's memory without a control. The systems without control, then it will be reading to the...
+[12:20] Byungkwan Jung: System instabilities.
+[12:23] Byungkwan Jung: So, like, for instance, like imagine a classroom without no instructors, then it means that everyone will be doing their own things, right? Everyone's talk simultaneously, there's no organizations, so operating system is like an instructor.
+[12:45] Byungkwan Jung: So, one interesting fact there is, there is actually, there is no universal definition of an operating system because the systems differ.
+[12:58] Byungkwan Jung: Like how phones are different, different from the servers and cloud difference from the auto devices.
+[13:07] Byungkwan Jung: So, there is a what we have as a practical definition, what is called as everything shipped with the with the operating system, but technically the kernel is the core.
+[13:20] Byungkwan Jung: The kernel is the is the program that is always running.
+[13:28] Byungkwan Jung: Everything else is a call as a system programs or the applications.
+[13:36] Byungkwan Jung: So, everything is, and then so the so the kernels never stop, and the kernel is like what is called as a brain.
+[13:46] Byungkwan Jung: So, in Windows, applications open and close, but kernels will remain active.
+[13:56] Byungkwan Jung: Then let's think about the computer startup, right? When you power on your computer, the operating system does not magically appear. First, what we'll do is run the bootstrap, okay? It is also called as a bootloader that is stored in the firmware.
+[14:16] Byungkwan Jung: And...
+[14:18] Byungkwan Jung: This job is initialize the hardwares, and then check the components, load the operating system kernel, then transfer the execution. So, the sequence of the bootstrap program is to power on, and then from the firmware to the bootstrap.
+[14:37] Byungkwan Jung: And the bootstrap will load the kernel, and the kernel will be running the operating systems.
+[14:43] Byungkwan Jung: Yeah.
+[14:47] Byungkwan Jung: So...
+[14:49] Byungkwan Jung: So this slide introduces the overall computer system organizations. The modern day system contains CPU, memory, and device controller. They are connected through the buses. Think of the buses like a highway of the communication. And the components communicate through
+[15:08] Byungkwan Jung: The shared pathways.
+[15:10] Byungkwan Jung: These CPU and devices, they compete for resources.
+[15:17] Byungkwan Jung: like keyboard inputs, disk grading, and memory access, they're all happening together. Therefore, for all of those activities, CPU must...
+[15:27] Byungkwan Jung: CPU and devices will need to will need to compete for those resources to get their jobs done.
+[15:41] Byungkwan Jung: Now, if you look at the operation of the computer system, CPU and devices they execute concurrently, and each device controller is in charge of a particular device types. So this device controller is what responsible for the device management.
+[16:03] Byungkwan Jung: Like this controller and keyboard controller, these controller contains what is called as local buffer.
+[16:11] Byungkwan Jung: These local buffer is a temporary storage that, and of course, like a data that is like a keystrokes, what kind of keys is stored and what needs to be loaded out and what needs to be stored and loaded. Everything is stored in temporary.
+[16:30] Byungkwan Jung: And this is the where it keeps the most of the most of the items that needs to be printed or to be stored into the into the.
+[16:43] Byungkwan Jung: The operating systems operating systems to use as input and output is what is having or what is stored in this in these kind of local buffers.
+[16:56] Byungkwan Jung: CPU transfers the data between the memory and these controller buffers. When device finishes, it generates an interrupt, which is essential because it interrupts, tell the CPU, hey, I finished such jobs. So, for instance, let's say you print a document.
+[17:16] Byungkwan Jung: And printer works independently, so when it finishes, it interested in and forms the CPU.
+[17:24] Byungkwan Jung: So, this interrupt is the basis of the column functions.
+[17:32] Byungkwan Jung: Without these interests, modern operating system would be extremely inefficient. So this is like a signal tenant CPU that something needs attention. Like what kind of key is pressed? Is it finished? Is the disk finished reading data? Or the timer expired?
+[17:55] Byungkwan Jung: These interrupt transfers executions to the interrupt service routines, and this is a what is interrupt service routine. ISR is a special function that handles the event, and the CPU temporary pauses the current work.
+[18:14] Byungkwan Jung: And handle events and the returns back.
+[18:18] Byungkwan Jung: Sometimes there are some of these concerns with what's the difference between the trap and exception. Trap and exception is basically there are the software generated interim. So they are so software generated interim.
+[18:36] Byungkwan Jung: So, let's say for division by zero, this is a illegal memory access, so the system code we and then division by zeros and illegal memory accesses and system code that is requested, all of that is what is executes what is kind of a...
+[18:58] Byungkwan Jung: Triggers this kind of entrance.
+[19:01] Byungkwan Jung: Key takeaway here is that operating systems are interrupt-driven, so the operating system constantly reacts to events.
+[19:14] Byungkwan Jung: This is like how the teachers, whenever teachers teaching a class, then students raises their hand and teach it, the teacher pauses briefly in response and continue the lecture. This is like the interrupt. So the interrupt is not a, it's a bad thing, it's actually essential.
+[19:34] Byungkwan Jung: that trap an exception.
+[19:37] Byungkwan Jung: is a essential, which is a causing the causing the interrupt to and is a signal of an event that operating system needs to look into.
+[19:52] Byungkwan Jung: Interp handling.
+[19:54] Byungkwan Jung: So we introduced the interrupt, right? Now let us look at what actually happens internally when the interrupt occurs. So imagine when you are working on your homework summit and suddenly receive an emergency phone call. Do you permanently forget your homework?
+[20:12] Byungkwan Jung: I don't think so. I don't think that somehow, let's say you were playing a game and then all of a sudden that you get a phone from your friend for a party and you lock up for a party and when you come back, you completely forget about what you played for a game.
+[20:34] Byungkwan Jung: I don't think so. You pause temporarily, you remember where you stop, and then so you handle the encryptions, and then you come back and continue. CPU, they work similarly. When an interrupt occurs, the operating system must...
+[20:53] Byungkwan Jung: preserve the current state of the CPU, which means these register values, program counters, execution states, they are all saved. Why? Because after the inter finishes, the CPU must continue exactly where it stopped.
+[21:15] Byungkwan Jung: Otherwise, the program would crash or behave unpredictably.
+[21:21] Byungkwan Jung: So, what kind of the interrupt occurs? There are two common methods: polling and the vector interrupt system.
+[21:31] Byungkwan Jung: Calling is when checking devices one by one.
+[21:37] Byungkwan Jung: Think of this as a teacher walking around a classroom and asking, do you need help? Hey, do you need help?
+[21:45] Byungkwan Jung: Which is works, but this is a very inefficient.
+[21:51] Byungkwan Jung: Vectored inter system.
+[21:54] Byungkwan Jung: Is a much faster.
+[21:56] Byungkwan Jung: This is where the interrupt is already identifies which service routine to execute. So instead of asking everyone who needs some help, it's like a student raises their hand and directly says, I need help with the question, fine.
+[22:13] Byungkwan Jung: Which saves time.
+[22:15] Byungkwan Jung: The operating system then execute the specific code to respond appropriately, appropriately.
+[22:23] Byungkwan Jung: So, difference between the polling and the vectored interrupt system.
+[22:31] Byungkwan Jung: Polling is about how we have how we have these systems. They are check checking the all these devices to see the weather what kind of help they need.
+[22:45] Byungkwan Jung: where the vector intersystem is every device is sending a signal.
+[22:54] Byungkwan Jung: That.
+[22:55] Byungkwan Jung: Has a information about what needs an help.
+[23:04] Byungkwan Jung: So, here we have the interrupt timeline.
+[23:08] Byungkwan Jung: This slide visualizes the timing of the interrupts.
+[23:13] Byungkwan Jung: So, initially, the CPU executes a user program.
+[23:19] Byungkwan Jung: Everything proceeds normally, then suddenly an interrupt occurs. The CPU pauses the current execution and controls transfers to the interrupt service routine.
+[23:34] Byungkwan Jung: The interrupt service routine will perform the necessary work, like receiving keyboard input, processing the disk completion, responding to the tolerant expirations, these interrupts.
+[23:49] Byungkwan Jung: Once finished, the CPU will restore the previous states, then execution resumes. Notice something important here, that the original program continues. The interp does not permanently replace it whatsoever. So the interp handling
+[24:08] Byungkwan Jung: is a temporary.
+[24:11] Byungkwan Jung: It's like driving A car. You stop briefly at the red light. Once the green light appears, you continue driving. The route remains the same.
+[24:26] Byungkwan Jung: Input-output structure. These input and output, input and output, right? IO is the input and output. The input devices like a keyboard, mouse, and microphones, and the output devices like monitors, printers, and speakers.
+[24:42] Byungkwan Jung: Suppose your program requests your program requests disk access. Should the CPU sit and wait? That would waste time. Instead, operating system support different input-output structures, like blocking input-outputs.
+[25:02] Byungkwan Jung: This is what CPU waits. Program pauses until the operations finish.
+[25:10] Byungkwan Jung: This is like how reading a file from the disk, the CPU may wait for its completions. So this is what it means by...
+[25:20] Byungkwan Jung: you will be waiting until the job finishes. That's the blocking.
+[25:27] Byungkwan Jung: Non-blocking, or what we call as an asynchronous behavior, is when the CPU is continuously working.
+[25:37] Byungkwan Jung: The program proceeds with the device performing operations independently, which is more efficient, of course.
+[25:45] Byungkwan Jung: This slide introduces the system calls.
+[25:51] Byungkwan Jung: Which is a request from the user program to the operating system, like open up the file, save up the file, allocate the memory.
+[26:00] Byungkwan Jung: Programs cannot directly access hardwares, so they ask the opera systems through these system calls.
+[26:08] Byungkwan Jung: And we have device status table.
+[26:12] Byungkwan Jung: This is how the operating system tracks devices.
+[26:18] Byungkwan Jung: These include device types, address, and the current states.
+[26:24] Byungkwan Jung: This is like, um, like hospital dashboard that shows the room availabilities.
+[26:33] Byungkwan Jung: Here, we have a storage definition and notation review here, which I'm not going to go over each one of them, like for the bits, kilobytes, megabytes, and gigabytes and such. I mean, we already know this, right? The bit is about the zero and one, right?
+[26:52] Byungkwan Jung: And of course, the byte is 8 bits, like a word is a word is depending on architecture, but like 64 bit CPU is meaning that you'll be using the 64 bit word and the CPU process data naturally in these word size chunks.
+[27:11] Byungkwan Jung: And we also have what is called as kilobytes, megabytes, gigabytes, and terabytes and petabytes. So please, I mean, you can have a good reading of this. Just think of this word as a way to execute, think of this as a block that can be a
+[27:32] Byungkwan Jung: called by the CPU to get the job done. So that's something for the other day.
+[27:40] Byungkwan Jung: Let's have a look at the storage structures. There are multiple storage types inside the computer. The main memory we have, what is called as random access memory. The characteristic is that it is directly accessible by the CPU. It's fast, volatile. The volatile means...
+[28:00] Byungkwan Jung: that if the power is off, then data disappears. We also have the secondary storage, which is a long-term storage, like a hard disk and SSDs. These are non-volatile. It has larger capacity and is slower than the RAM memory.
+[28:19] Byungkwan Jung: The hard disk drives, I mean, these are what uses the magnetic planners. The data are stored in those rotating disks in tracks. The logical structure is that from the tracks it has sectors. So all the data that are read.
+[28:37] Byungkwan Jung: and stored, they will be using those, they will be using those disk heads to locate the correct tracks and work on those sectors. So these mechanical movement of those disk heads make these hard disk drives
+[28:57] Byungkwan Jung: still slow. Where solid state drives, it doesn't have any mechanical parts whatsoever, so it's fast, it's durable, and it's constantly dominant in the modern day computer systems.
+[29:19] Byungkwan Jung: Not all storages are equal at all.
+[29:24] Byungkwan Jung: like what we saw with the SSDs. Solid state drives, they are fast, and still some of them are expensive, yes, and they are small though.
+[29:34] Byungkwan Jung: Others can be very slow and cheap and large. Therefore, computers organize storages hierarchy if you're using these multiple different storage data types.
+[29:50] Byungkwan Jung: The factors include speed, which is the...
+[29:55] Byungkwan Jung: Faster storages cost more.
+[29:58] Byungkwan Jung: The cost, which is meaning that cheap storages tends to be slow, volatility, the sumless storages disappear after a solid storage disappears after the power loss, and caching.
+[30:13] Byungkwan Jung: which is a crucial concept.
+[30:16] Byungkwan Jung: the frequently used information that is copied to a faster storage.
+[30:21] Byungkwan Jung: This is a storage that is a cache is a storage that is very located very closely to the CPU. So why?
+[30:32] Byungkwan Jung: Because of the speed, the more close it's located, that means it's faster to call those back.
+[30:41] Byungkwan Jung: Let's say that you open up a web page multiple times, repeatedly.
+[30:48] Byungkwan Jung: In your computer.
+[30:51] Byungkwan Jung: These pieces of the web pages, like objects of the web pages, they are stored there. So that whenever you call those page in the next day, it will be having a faster access.
+[31:10] Byungkwan Jung: Device drivers. Each hardware controller has a driver, which is a translator between the hardware and the operating system.
+[31:23] Byungkwan Jung: These drivers, unlike, for instance, printer drivers, they allow operating systems to communicate with your new printer.
+[31:44] Byungkwan Jung: The figure shows a hierarchy from the fast to slowest. At the top we have the register.
+[31:52] Byungkwan Jung: This is a very tiny storage that is inside a CPU.
+[31:57] Byungkwan Jung: And then we have a cache, which is small but very extremely fast. This stores frequently used information here.
+[32:08] Byungkwan Jung: Main memory, the RAM, is a moderate speed. Secondary storage, SSD, and a hard disk, they are much larger but a little bit slower.
+[32:19] Byungkwan Jung: But note on there, note the trade-off of these storages. As we go downwards, capacity increases, cost decreases, speed decreases.
+[32:32] Byungkwan Jung: This trade-off shapes the computer architecture.
+[32:39] Byungkwan Jung: Caching appears everywhere: phones, browsers, operating systems, CPU, but the ideal idea is very simple.
+[32:50] Byungkwan Jung: Copy frequently used data to the faster storage temporarily.
+[32:55] Byungkwan Jung: Let's say that you repeatedly access the lecture slides, so instead of reopening back from the disk every time, the cache keeps the copy nearby.
+[33:11] Byungkwan Jung: So, for processes.
+[33:14] Byungkwan Jung: What they do.
+[33:16] Byungkwan Jung: is that first they check the cache. If they found it, then it's a what we call it as a cache hit. So if there is a cache for that item, then congratulations, no need to fetch it from the storages. So your job is finished very fast.
+[33:36] Byungkwan Jung: If there is no hit, then that is what is called as cache miss. Then you need to retrieve the data from the slower storages.
+[33:48] Byungkwan Jung: And then you store it temporarily in your cache again.
+[33:52] Byungkwan Jung: Cash management's mad.
+[33:56] Byungkwan Jung: Like.
+[33:58] Byungkwan Jung: Like, how like large, how large should a cache be? I mean, if we are really wants to have those temporary data to be stored right near a CPU, can we just have the all the data brought near a CPU?
+[34:19] Byungkwan Jung: But is it really efficient? Having that large amount of data is efficient? That's the question. And another.
+[34:28] Byungkwan Jung: Suppose that we cannot have those large caches, then...
+[34:34] Byungkwan Jung: If we have a full cache, then what data needs to be replaced?
+[34:40] Byungkwan Jung: Now, this becomes now the replacement policies, which we'll be looking into them in the later in the chapters.
+[34:54] Byungkwan Jung: Direct memory access. Direct memory access is basically about CPU moves the data manually.
+[35:04] Byungkwan Jung: This is a...
+[35:07] Byungkwan Jung: About so direct memory access, I mean to talk about it, so CPU move the data very data manually is very efficient, so like how think about the how you move.
+[35:22] Byungkwan Jung: Like when you are like having a...
+[35:26] Byungkwan Jung: cup of coffee. You're using a teaspoon to every single teaspoon that you're moving from another to the another cup. That's very inefficient, right?
+[35:36] Byungkwan Jung: The DMA, this direct memory access, improves its efficiency. The device controller transfers blocks of data directly to the memory, which have a very, which is very different. The CPU involvement becomes very minimal. Only one interrupt occurs
+[35:55] Byungkwan Jung: After the block transfer finishes.
+[35:59] Byungkwan Jung: So block is basically like a chunk of the data. So without a DMA, interrupt per byte would happen, which is very expensive. With the DMA, we have interrupt per block, which means that we are now moving by chunks.
+[36:18] Byungkwan Jung: For example, like streaming video or moving the large files benefit greatly from these kind of DNA.
+[36:30] Byungkwan Jung: The diagram shows the classic Von Uyen architecture that shows the CPU, memory, storage, and an input-output device. Instructions and data both are residing in the memory, and CPU repeatedly performs fetch, decode, and
+[36:48] Byungkwan Jung: Execute.
+[36:53] Byungkwan Jung: So, so it repeats those.
+[36:56] Byungkwan Jung: So, modern computers still is largely following this model.
+[37:01] Byungkwan Jung: You can see that how the device is having a direct access to the memory with the DMA there.
+[37:13] Byungkwan Jung: Many computer architecture in the system, we have a single processor, which is a one general purpose CPU. But, you know, this has been a really in the past. Nowadays, we have what is called as multiprocessors.
+[37:33] Byungkwan Jung: Multiprocessors, that is, increase the throughputs. And then of course, economy of scale by the sharing resources, reducing the costs. And reliability, and how the one processor failure may not kill the entire systems.
+[37:51] Byungkwan Jung: And 2 major forms of those multiprocessing is a asymmetric multiprocessing, where specific tasks are assigned and master work, and it's more like how we have the master and the worker style of a multiprocessing.
+[38:10] Byungkwan Jung: Symmetric multiprocessing is where all processors are treated equally, and most modern systems are using the symmetric multiprocessing method.
+[38:24] Byungkwan Jung: Here, we have the symmetric multiprocessing architecture. We have the memory bus and operating systems. Each processor can perform each of the tasks. There's no single ball CPU whatsoever. The benefit of this...
+[38:42] Byungkwan Jung: Is because it is the better workload distribution, parallel processing, and improved responsiveness.
+[38:52] Byungkwan Jung: Here, we have a dual-core design.
+[38:55] Byungkwan Jung: This dual-core processor means they have multiple CPU cores inside the one chip. Each core executes independently. Think of it like a multiple workers are sharing in one office. So modern CPU often contains more cores, 4 cores, 8 cores, and...
+[39:15] Byungkwan Jung: 16 cores and even dozens. This improves the multitasking and the parallelisms.
+[39:23] Byungkwan Jung: Cluster system.
+[39:25] Byungkwan Jung: Is a where we have the multiple computers that works together that shares these storages.
+[39:36] Byungkwan Jung: It has a high availability.
+[39:39] Byungkwan Jung: If one fails, the others continue, like bank servers, hospital systems, class systems. You also have the asymmetric clustering, where one machine waits in a standby mode as a backup rule.
+[39:55] Byungkwan Jung: Or we can have a symmetric clustering, which has the multiple active nodes that cooperate to like monitoring each other. High-performance computing is suitable for the scientific simulations, weather forecasting, and AI trainings.
+[40:15] Byungkwan Jung: Here, we have the figure that illustrates a cluster system. The multiple computers are connected with the shared storage drives. Observe this failure of A1 system does not necessarily stop the device. These clusters
+[40:35] Byungkwan Jung: Improves the fault tolerance, scalability, and performance.
+[40:44] Byungkwan Jung: Modern cloud computing heavily depends on clustering. The clusters like Google's, I'm sorry, like Google, Amazon, and Netflix, they all utilize this clustering to provide services.
+[41:03] Byungkwan Jung: Now, we move on to the operating system structure and begin discussing the extremely important concept of the multi-programming.
+[41:12] Byungkwan Jung: To understand why multiprogramming exists, let us first think about a problem.
+[41:18] Byungkwan Jung: Imagine an early computer system where only one user program runs at a time. Suppose the program needs to read the data from the disk. What happens? CPU will wait and wait and wait. During this time, CPU sits idle, doing nothing.
+[41:38] Byungkwan Jung: That is extremely inefficient because the CPUs are expensive and powerful resources. So engineers asked, can we keep the CPU busy even when one program is waiting? The answer is the more.
+[41:57] Byungkwan Jung: Type programming.
+[42:00] Byungkwan Jung: We have the multiple jobs that are kept in memory, so the CPU always have something to use, something, it will be having something useful, useful waiting for it to execute. So think of it like cooking multiple dishes.
+[42:20] Byungkwan Jung: Suppose like past the pasta needs a 10 minutes to boil. Do you stand still and stare at the boiling water? You don't. You prepare salads or stew something while waiting. Similarly, when one processor waits for input and output,
+[42:39] Byungkwan Jung: The operating system switches to another job. It also talks about the subset of jobs that remains in the memory. Why subset? Because memory is limited. We cannot load everything at once, so the operating system...
+[42:57] Byungkwan Jung: Operating system chooses which job remains available.
+[43:04] Byungkwan Jung: Job scheduling.
+[43:06] Byungkwan Jung: Operating system selects the job, and this selection process is called scheduling. Later chapters, we'll explore more about these scheduling algorithms, but the key idea is that CPU should never sit idle if the work exists.
+[43:27] Byungkwan Jung: Ohh.
+[43:28] Byungkwan Jung: We also have the time-sharing.
+[43:32] Byungkwan Jung: Also called as multitasking.
+[43:35] Byungkwan Jung: Many students assume that multitasking means a true simultaneous execution. It's not, actually.
+[43:43] Byungkwan Jung: CPU switches between the jobs extremely quickly.
+[43:50] Byungkwan Jung: So quickly that users feel the programs that are running simultaneously.
+[43:55] Byungkwan Jung: Like, spot, like, for you, like...
+[44:01] Byungkwan Jung: Spotify.
+[44:03] Byungkwan Jung: Playing music, Chrome Brothers open, Zoom meetings running, and file downloading.
+[44:09] Byungkwan Jung: They are all independent programs, right? Doing their own jobs. But your CPU repeatedly switches among them. That creates the illusion of the simultaneous executions.
+[44:25] Byungkwan Jung: These responsive times, for this kind of a time sharing, this responsive time should be less than a one second. Why? Because you humans perceive the delays differently. If interaction becomes too slow, the system feels
+[44:44] Byungkwan Jung: Unresponsiveness and modern operating systems tries to maintain the fast responses.
+[44:52] Byungkwan Jung: The processes is a...
+[44:58] Byungkwan Jung: So each of the executing programs, they all become a process. Remember, program is a passive code where the process is a active execution.
+[45:15] Byungkwan Jung: Note that this kind of a term processor will appear quite often in the operating systems.
+[45:23] Byungkwan Jung: If several jobs are ready simultaneously.
+[45:29] Byungkwan Jung: Operating system will decide who runs next. This is called the CPU scheduling.
+[45:36] Byungkwan Jung: If the memory becomes full, processes move between the memory and storage temporarily, and this is called as a swapping.
+[45:47] Byungkwan Jung: This allows the more programs to run, even if we have those limited memory space.
+[45:55] Byungkwan Jung: Virtual memory is a when we.
+[46:00] Byungkwan Jung: So we cannot, so virtual memory is a very important concept here. So programs.
+[46:09] Byungkwan Jung: They can execute even if they are not entirely in the ramp. We'll dedicate this entire chapter about the virtual memory on that chapter as we go through, as we process multiple.
+[46:29] Byungkwan Jung: the weeks coming after.
+[46:32] Byungkwan Jung: But we'll get to that. We'll get to the understanding of the virtual memories later on.
+[46:38] Byungkwan Jung: We have Chapter 30, we have the, I'm sorry, Chapter 33, Slide 33. Here we have the memory layout for the multi-program system. We have how the figure that shows the memory organization where multiple programs are here to execute. Note that the memory is divided among.
+[46:58] Byungkwan Jung: The separate jobs like job A, job B, job C, and job D, like here we have job one, two, three, and four. They all coexist. The CPU switches among them. Why is this useful though? Let's say that we have a job one that waits for this.
+[47:17] Byungkwan Jung: Access, instead of idling, the CPU will switch its jobs to job two or three.
+[47:28] Byungkwan Jung: So as it waits, it can do other jobs.
+[47:33] Byungkwan Jung: So, this kind of a switching is a this kind of switching is improving the efficiency.
+[47:43] Byungkwan Jung: Like, think about waiting it at the DMV.
+[47:47] Byungkwan Jung: Would you prefer the one employee serving you a or serving A1 customer while the others wait, or you want to have the multiple counters serving a different customers?
+[48:00] Byungkwan Jung: Multiprogramming increases the productivity here.
+[48:11] Byungkwan Jung: We talked about how the operating system is interrupt driven. We discussed these, we are going to discuss this interrupt here, and we're going to look into those categories of those interrupts. Number one,
+[48:30] Byungkwan Jung: Hardware interrupts. Hardware interrupts are generated by devices like keyboard press, timer signals, like disk completions, mouse clicks. These devices tell the CPU.
+[48:46] Byungkwan Jung: That attention is needed.
+[48:48] Byungkwan Jung: Another is these software interrupts, also called as exceptions or traps.
+[48:55] Byungkwan Jung: They are generated by these software events.
+[48:59] Byungkwan Jung: Like division by zeros or.
+[49:04] Byungkwan Jung: Illegal operations.
+[49:06] Byungkwan Jung: The CPU triggers these exceptions when there is an event.
+[49:13] Byungkwan Jung: Even this kind of software event has actually happened.
+[49:18] Byungkwan Jung: System call requests.
+[49:21] Byungkwan Jung: the application asks, operating system for service. Like, and of course, there might be some kind of a, like,
+[49:32] Byungkwan Jung: Process problems like infinite loops.
+[49:36] Byungkwan Jung: And the memory corruptions.
+[49:39] Byungkwan Jung: They are all part of those events, illegal events.
+[49:46] Byungkwan Jung: That can trigger something.
+[49:49] Byungkwan Jung: To prevent such chaos, opera system introduces a protection mechanism, of course.
+[49:59] Byungkwan Jung: This slide introduces the dual mode that allows operating systems to protect itself.
+[50:09] Byungkwan Jung: Well, why not let the users do anything?
+[50:16] Byungkwan Jung: Because the unset behavior would destroy the system's stability, so CPU provides 2 modes: user mode, which has limited privileges, application that will execute here.
+[50:31] Byungkwan Jung: We have the kernel, which has full privileges and operating systems is what is executed here, like access, memory, hardware, devices, and privileges instructions.
+[50:43] Byungkwan Jung: Hardware uses the mode bits, which is an indicator that determines the current mode.
+[50:52] Byungkwan Jung: So, the user mode is restricted and the kernel mode is unrestricted.
+[50:58] Byungkwan Jung: This privilege instructions is only executable in the kernel mode, like shut down a computer, configure the hardware.
+[51:08] Byungkwan Jung: And we have the system call. There are temporary transitions that can occur from the user mode to the kernel mode.
+[51:18] Byungkwan Jung: Operating system will perform the task, then the kernel mode will be changed to the user mode.
+[51:24] Byungkwan Jung: Analogy here is how we have this airport security. And passengers cannot enter the control tower. Only authorized staff can enter those control towers. These kernel mode is what the control tower is.
+[51:50] Byungkwan Jung: We have time.
+[51:52] Byungkwan Jung: The supposed one process enters an infinite loop. Without a control, the CPU becomes trapped here forever and the system will freeze. That's a bad thing, right? To prevent this, operating system will set up a timer. How it works? The operating system will schedule a process and the timer will be initialized.
+[52:16] Byungkwan Jung: And then clocks countdown, timer expires, and interp is generated, and the operating system regains the control, then it will be decided to continue, pause, terminate, or the switch process.
+[52:29] Byungkwan Jung: Only operating system can configure this timer. Why? Because the timer setup is privileged. If a program controlled timer themselves, the malicious program could disable the interruption.
+[52:48] Byungkwan Jung: Process management.
+[52:51] Byungkwan Jung: So, process is a programming and execution.
+[52:58] Byungkwan Jung: Many of the students actually get confused by the program and the process. Remember, program is passive. They are stored in a disk. Process is active one. Okay.
+[53:14] Byungkwan Jung: So...
+[53:16] Byungkwan Jung: We all, these processes, these processes will need resources, like CPU time, memory, files, input, output devices. I mean, without a resource, it executes nothing.
+[53:31] Byungkwan Jung: Initialization data is also required here.
+[53:35] Byungkwan Jung: Programs need need starting values.
+[53:42] Byungkwan Jung: And when process finishes, operating system.
+[53:47] Byungkwan Jung: Reclaims those resources and memory is released, files closed, and CPU is reassigned.
+[53:54] Byungkwan Jung: Single-threaded process contains one program corner.
+[53:59] Byungkwan Jung: This program counters track what instruction executes next.
+[54:05] Byungkwan Jung: Execution occurs sequentially, one instruction at a time.
+[54:13] Byungkwan Jung: Multi-threaded processes is what the modern systems support now these days.
+[54:21] Byungkwan Jung: Instead of an A or one execution path, there are multiple thread executes. Each thread has its own program counter. This enables what we call as concurrency.
+[54:35] Byungkwan Jung: Operating systems typically run on many processes simultaneously, like system services, background updates, browsers, music players, antiviruses, and also other things. Concurrency occurs through the CPU multiplexing. CPU switches among the processes repeatedly.
+[54:56] Byungkwan Jung: Even one CPU can appear the multitasking here.
+[55:03] Byungkwan Jung: The system performs many process-related tasks, like creating the process, deleting the process, suspending the process, resuming the process, and synchronization, of course. The process often there will be cooperate, and for the cooperation, they need a coordination.
+[55:25] Byungkwan Jung: Communications, process exchanging information is also another one. And A deadlock handling. Sometimes process blocks each other forever. We call this as a deadlock. And we will be having a chapter discussing about the deadlock later on.
+[55:46] Byungkwan Jung: Memory management: to execute a program, instruction must exist in the memory, and data must also exist in the memory, so without a memory, CPU has nothing to process.
+[55:58] Byungkwan Jung: Operating system decides what stays in the memory, when, for whom.
+[56:04] Byungkwan Jung: This becomes the memory management.
+[56:07] Byungkwan Jung: So, goals include improving the CPU utilizations, responsiveness, and fairness, operating system responsibilities, like...
+[56:18] Byungkwan Jung: Tracking memory usages - who owns that?
+[56:24] Byungkwan Jung: I mean, it, I mean, you, you need to like decide deciding movements, like who moves to the memory and then we how the processor are out of the memory and how the allocation is worked, how the deallocation is worked.
+[56:44] Byungkwan Jung: And all of this.
+[56:48] Byungkwan Jung: All of this. Well, who owns that? Operating systems. It's operating systems' responsibility here.
+[57:02] Byungkwan Jung: Storage management provides the logical view of the information.
+[57:08] Byungkwan Jung: User C like file.
+[57:10] Byungkwan Jung: Not the sectors.
+[57:13] Byungkwan Jung: So you say like open report documents like in a Word file. You do not say that read the sector 19482 or something.
+[57:24] Byungkwan Jung: Our persistent abstract complexity here.
+[57:28] Byungkwan Jung: For this, a logical view of the information.
+[57:32] Byungkwan Jung: File System Management.
+[57:34] Byungkwan Jung: which allows the file organizations into the directories, or known as folders. And of course, access controls. Who may read, who may write, permissions, who gives the permissions.
+[57:51] Byungkwan Jung: And how many permissions do we have? Those access controls. So, operating system responsibilities include creating, deleting the files, create the directories.
+[58:04] Byungkwan Jung: Organizing the storages, mapping the files to the physical disk, and the backup of the data, as such.
+[58:14] Byungkwan Jung: Mass Storage Management.
+[58:17] Byungkwan Jung: Mass storages are more like a long-term storage systems, like hard disk drives and SSDs.
+[58:28] Byungkwan Jung: Why these storages are important? Because RAM is limited and data must persist.
+[58:38] Byungkwan Jung: Operating system is responsible for the free space management.
+[58:42] Byungkwan Jung: And, of course, storage allocation and disk scheduling.
+[58:53] Byungkwan Jung: It is also.
+[58:55] Byungkwan Jung: Uh, some of the storages need not to be fast.
+[59:01] Byungkwan Jung: Like storages, like optical disk and magnetic tapes, they are very slow. They are used for the backups, archival storages, and a large-scale retention here.
+[59:15] Byungkwan Jung: There are some of these terms.
+[59:18] Byungkwan Jung: For worm, being a write once, read many times, that you cannot rewrite that. For optical disk, that is, many of them are in a worm status. You can just write once, and that can be read by multiple times. And we also have
+[59:38] Byungkwan Jung: Rewritable, read and write, this allows reusable storages.
+[59:47] Byungkwan Jung: This slot shows the comparison of storage technologies.
+[59:52] Byungkwan Jung: Registers are extremely fast, they're tiny, and of course, cache, RAM, SSDs, hard disks.
+[01:00:03] Byungkwan Jung: You can see those numbers and these differences.
+[01:00:09] Byungkwan Jung: You can notice the trend here. The speed decreases, capacity decreases, cost per byte decreases. This hierarchy derives a system design. An operating system this size, movement between these levels, between those levels.
+[01:00:29] Byungkwan Jung: The quick question then, why can't we just have everything back in the, have everything in a cache?
+[01:00:38] Byungkwan Jung: And the answer is the cost.
+[01:00:42] Byungkwan Jung: I mean, we cannot build, I mean, to build a memory space that resides very close to the CPU.
+[01:00:51] Byungkwan Jung: It's a really, really difficult.
+[01:01:00] Byungkwan Jung: So, here...
+[01:01:02] Byungkwan Jung: We have the migration of the data A from this to register.
+[01:01:08] Byungkwan Jung: This slide, it shows the data movement.
+[01:01:12] Byungkwan Jung: So, eventually, that we have the data that is moving from the disk to the RAM to the cache to the register, and it moves upwards towards to the CPU.
+[01:01:21] Byungkwan Jung: Then, what if the what if copies differ?
+[01:01:28] Byungkwan Jung: Like 2 processors modify same modify same value, and who and then who owns the newest versions?
+[01:01:40] Byungkwan Jung: So the changes, these kind of changes, this kind of thing causes what we call as a cache chorus problem. Multiprocessor systems require mechanisms in ensuring the consistency. And district systems becomes even harder. Many copies may exist simultaneously, though,
+[01:01:59] Byungkwan Jung: that we solve these through these synchronizations and the coherence protocols later in the course.
+[01:02:09] Byungkwan Jung: Input-output subsystems.
+[01:02:13] Byungkwan Jung: Input-output subsystem is about the input and then output that we already talked about what they are. Let's think about an important question here. Should every application directly understand how every hardware device works, like Chrome, Zoom, or Word, and every applications?
+[01:02:33] Byungkwan Jung: had individuals individually understand this printer hardware, keyboard, electronics, and USB protocols and such. That would be a chaos. So instead, operating systems hide the hardware complexity. And this slide says the one purpose of operating system is to hide
+[01:02:53] Byungkwan Jung: the peculiarities of the hardware devices, meaning application C is a simplified interface. So you click print, right? You click print to actually print. You do not manually control the printer voltage or the motor speed whatsoever.
+[01:03:14] Byungkwan Jung: The operating system performs several tasks, like a buffering that is a temporary storage while the data transfers, and of course caching, and we have also what we call as spooling, which is a very important concept. Spooling means it's overlapping device operations, like...
+[01:03:33] Byungkwan Jung: printer queue.
+[01:03:36] Byungkwan Jung: Suppose 5 students print simultaneously, then operating system places its jobs in a queue, and printer handles them one at a time. Without A spooling, one student could print at a time, one student could print at a time manually.
+[01:03:55] Byungkwan Jung: So, how it organizes them with what through the spooling here?
+[01:04:03] Byungkwan Jung: Device drivers, device specific softwares, they allow communication between the operating system and the hardware. The graphic driver, printer driver, Wi-Fi drivers, everything is about these drivers are what communicates for these devices to communicate with.
+[01:04:22] Byungkwan Jung: The hardware.
+[01:04:24] Byungkwan Jung: Protection and Security.
+[01:04:27] Byungkwan Jung: Students often confuse the protection and the security. They are some similar, but they are not identical. Protection is more like protection control accesses.
+[01:04:42] Byungkwan Jung: Protection of controls accesses, like who can access what?
+[01:04:47] Byungkwan Jung: Like, can A1 program read another program's memory? Can Student A like modify Student B's files? Protections answer these questions. Security is what protects systems from attacks like viruses, malwares, ransomwares, denial of service attacks, like identity threat.
+[01:05:07] Byungkwan Jung: A theft, the security defense system's integrity.
+[01:05:13] Byungkwan Jung: So, the operating system first identifies users.
+[01:05:19] Byungkwan Jung: And each user received a user ID, which is a digital identity.
+[01:05:25] Byungkwan Jung: And the operating system associates the file processes permissions with these user identity.
+[01:05:32] Byungkwan Jung: Group ID is when we have the users that belongs to the groups, like faculty, student, administrator, they will all have the permissions, may assign it very collectively.
+[01:05:46] Byungkwan Jung: Privilege escalations. Sometimes temporary elevated permissions can occur.
+[01:05:59] Byungkwan Jung: Kernel data structures.
+[01:06:02] Byungkwan Jung: The operating system constantly organizes the information.
+[01:06:08] Byungkwan Jung: like running processes, memory blocks, files, scheduling queues. To do this efficiently, the kernel uses the data structure so that many resemble structures that you learn in the data structure course. Like singly linked list, the node points the port forward only.
+[01:06:29] Byungkwan Jung: Like test tubes.
+[01:06:31] Byungkwan Jung: which is very simple, low memory overhead, and of course, the disadvantage is the backward traversal is difficult. Double linked list, each node now have the previous pointer and the next pointer, which allows an easy insertion and removal, and you can move backwards and more flexible.
+[01:06:51] Byungkwan Jung: Circular linked list, where the last node points back to 1st, is useful for round-robin scheduling, because the execution cycles repeatedly.
+[01:07:03] Byungkwan Jung: I mean, so that you what you learned in the data structure is the key to the learning of these operating systems.
+[01:07:12] Byungkwan Jung: We also have the binary search trees, very useful for searching.
+[01:07:20] Byungkwan Jung: And also that we have.
+[01:07:24] Byungkwan Jung: We have the hash functions that can create a hash map.
+[01:07:31] Byungkwan Jung: Why is these hash functions useful for fast lookup?
+[01:07:36] Byungkwan Jung: Like for instance, like you search the username in the system database instead of scanning every users, we jump near the target immediately. Hash map and hash table stores the key value relationships that, so like how the username is needed for the account.
+[01:07:55] Byungkwan Jung: account information, file descriptors needed for the file information.
+[01:08:01] Byungkwan Jung: Average lookup performance becomes extremely fast and is often close to the big global one as a constant time.
+[01:08:10] Byungkwan Jung: Meaning that lookup speed stays nearly the same as the dataset grows.
+[01:08:19] Byungkwan Jung: Bitmap is efficiently represents the status information. Each bit indicates a condition, like one as an occupied and a zero as a free. Suppose a memory blocks exist. Bitmap quickly indicates the available memory, like...
+[01:08:39] Byungkwan Jung: You can instantly see the three locations by understanding which one is occupied and which one is free.
+[01:08:58] Byungkwan Jung: Then why is it efficient? It's very compact. I mean, low memory usages.
+[01:09:09] Byungkwan Jung: Next is the computing environments.
+[01:09:12] Byungkwan Jung: When many people here operate system, they think like Windows.
+[01:09:19] Byungkwan Jung: Windows laptop or like MacBook, Linux desktop, but operating systems exist everywhere.
+[01:09:29] Byungkwan Jung: like smartphones, smart TVs, call servers, and mobile devices, and even in IOTs. They all have different environments that requires different priorities. Laptops may look for the performance, phone may look for the battery efficiency, embedded systems it will look for the reliabilities, and the cloud system is for the scalabilities and such.
+[01:09:54] Byungkwan Jung: Traditional computing.
+[01:09:57] Byungkwan Jung: VR refers to the classic desktop and the server systems.
+[01:10:08] Byungkwan Jung: Wait, wait, yes, here it is.
+[01:10:15] Byungkwan Jung: Traditional, OK, so...
+[01:10:19] Byungkwan Jung: So an example, like office computers, university labs, enterprise servers. Originally, then we might have a single user, so we'll have a single machine and a single standalone operations. But over time, now the system becomes networked and shared resources increased.
+[01:10:38] Byungkwan Jung: Client-server interactions emerge, and of course, traditional computing still remains important.
+[01:10:49] Byungkwan Jung: Mobile computing changed the operating system's design dramatically.
+[01:10:56] Byungkwan Jung: Like a battery life, like these, there are constraints though, like battery life, wireless connectivity, limited resources, and such.
+[01:11:10] Byungkwan Jung: Uh, let's see. Okay.
+[01:11:18] Byungkwan Jung: These two systems, there means that multiple computers cooperate, work together, appear like one system, like Google search, cloud computing, and large databases. The advantage for this is the reliabilities, resource sharing, parallel processing, and scalabilities.
+[01:11:39] Byungkwan Jung: Of course, we also have, we also need to have the understanding of those local area networks, wide area networks, the metropolitan area networks as such, but that is more a fit for the network data communication and networking class. So just to understand what is the distributed network
+[01:12:00] Byungkwan Jung: Disability computing is, I think that is the what it needs there.
+[01:12:05] Byungkwan Jung: Client-server computing the architecture of the client-server requests these clients to request the server for a service, and the server will be providing the service to the clients, like web browsers that is.
+[01:12:24] Byungkwan Jung: Working as a client for a web server.
+[01:12:28] Byungkwan Jung: The phone apps, which is a client of 40, the cloud server of that application.
+[01:12:35] Byungkwan Jung: The advantage of this client-server computing is the centralized management, resource sharing, and consistencies.
+[01:12:45] Byungkwan Jung: In peer-to-peer service, there is no strict server hierarchy that exists. The device communicate more equally, and each machine may request service, provide service at a time.
+[01:13:01] Byungkwan Jung: Vantage is that it's scalable, it's less central dependent, but the challenge is about the securities, coordination, and reliabilities.
+[01:13:14] Byungkwan Jung: Virtualization allows multiple operating systems running on the same physical hardware.
+[01:13:23] Byungkwan Jung: The benefits for these virtualizations is the isolations, testing, and a server consolidations and efficiencies. There are special hardwares like hypervisor.
+[01:13:38] Byungkwan Jung: that manages the virtual machines like VMware, VirtualBox, and Hyper-Vs.
+[01:13:45] Byungkwan Jung: Of course, we will look into the more of the virtualizations later on and more.
+[01:13:55] Byungkwan Jung: For more, like these real-time embedded systems, open source operating systems, and such, there are lots of, there are not just a like Windows and a Mac. We also have these open source operating systems like Linux as well.
+[01:14:15] Byungkwan Jung: Why is it important? Because researchers love the transparencies, and students can explore the internal mechanisms more, and developers improve their systems collaboratively.
+[01:14:28] Byungkwan Jung: So, there are examples such as like a Linux and Android and BSD, but they are these are more of a Linux-based, more of the open source that is that is based in Linux, and of course there are the I'm sorry.
+[01:14:47] Byungkwan Jung: They are based on the Unix Inspire systems, and for the benefits, we have the flexibilities, customizations, community-driven development, and learning opportunities. Of course, the contrast is what we call as a closed source systems like Windows.
+[01:15:08] Byungkwan Jung: So, that kind of covers the most of that covers the introduction of the sections that we covered in the in the rest of the chapters. So, just look at this as a very introductory to the all the chapters that we provided in this course.
+[01:15:27] Byungkwan Jung: And we will see you in the Chapter Two on Thursday. Thank you.
+Byungkwan Jung: Byungkwan Jung stopped transcription

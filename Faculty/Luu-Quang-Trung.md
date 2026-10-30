@@ -9,6 +9,7 @@
 - **Ngoại hình**: [Lưu Quang Trung][profile-image]
 - **Lý lịch**: [SEEE - Lưu Quang Trung][academic-profile]
 - **Giới tính**: Nam
+- **Năm sinh**: 1990
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Kỹ thuật Truyền thông
 - **Trường**: Điện - Điện tử

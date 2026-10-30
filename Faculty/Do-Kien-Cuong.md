@@ -9,6 +9,8 @@
 - **Ngoại hình**: [Đỗ Kiên Cường][profile-image]
 - **Lý lịch**: [UEB - Đỗ Kiên Cường][academic-profile]
 - **Giới tính**: Nam
+- **Năm sinh**: 1975
+- **Quê quán**: Hà Nội
 - **Học vị cao nhất**: Thạc sĩ
 - **Trường**: Đại Học Kinh tế, ĐHQGHN
 - **Email**: Lecturer.TROY4@hust.edu.vn

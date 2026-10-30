@@ -9,6 +9,7 @@
 - **Ngoại hình**: [Nguyễn Văn Hạnh][profile-image]
 - **Lý lịch**: [FAMI - Nguyễn Văn Hạnh][academic-profile]
 - **Giới tính**: Nam
+- **Năm sinh**: 1989
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Toán-Tin
 - **Email**: hanh.nguyenvan1@hust.edu.vn

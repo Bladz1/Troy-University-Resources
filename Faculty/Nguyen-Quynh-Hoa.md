@@ -10,6 +10,7 @@
 - **Ngoại hình**: [Nguyễn Quỳnh Hoa][profile-image]
 - **Lý lịch**: [Nguyễn Quỳnh Hoa][academic-profile]
 - **Giới tính**: Nữ
+- **Ngày sinh**: 17/03/1980
 - **Học vị cao nhất**: Thạc sĩ
 - **Khoa**: Quản lý
 - **Trường**: Kinh tế

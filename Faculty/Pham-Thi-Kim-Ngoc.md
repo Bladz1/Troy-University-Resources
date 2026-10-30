@@ -9,6 +9,8 @@
 - **Ngoại hình**: [Phạm Thị Kim Ngọc][profile-image]
 - **Lý lịch**: [SEM - Phạm Thị Kim Ngọc][academic-profile]
 - **Giới tính**: Nữ
+- **Ngày sinh**: 23/08/1974
+- **Quê quán**: Quế Sơn, Quảng Nam
 - **Học vị cao nhất**: Tiến sĩ
 - **Trường**: Kinh tế
 - **Email**: ngoc.phamthikim@hust.edu.vn

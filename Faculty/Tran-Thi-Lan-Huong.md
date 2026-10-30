@@ -3,7 +3,7 @@
 >"Perhaps the archives are incomplete."  
 — **Obi-Wan Kenobi**
 
-**ThS. Trần Thị Lan Hương** là giảng viên trường Quốc tế – ĐHQGHN.
+**ThS. Trần Thị Lan Hương** là giảng viên Khoa Ngôn ngữ ứng dụng, Trường Quốc tế – Đại học Quốc gia Hà Nội (VNU-IS).
 
 ## Thông tin giảng viên
 - **Ngoại hình**: [Trần Thị Lan Hương][profile-image]

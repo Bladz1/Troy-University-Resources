@@ -3,7 +3,7 @@
 >"Perhaps the archives are incomplete."  
 — **Obi-Wan Kenobi**
 
-**TS. Alberto Arteta** là Phó Giáo sư tại Khoa Khoa học Máy tính của Đại học Troy. Ông nhận bằng Thạc sĩ về Toán học và Khoa học Máy tính (chương trình 5 năm) tại Đại học Complutense Madrid vào năm 2000 và hoàn thành bằng Tiến sĩ Khoa học Máy tính vào năm 2010. Năm tiếp theo, ông lấy bằng Thạc sĩ về Trí tuệ Nhân tạo tại Đại học Bách khoa Madrid.
+**TS. Alberto Arteta** (*tên đầy đủ: Alberto Arteta Albert*) là Phó Giáo sư (Associate Professor) tại Khoa Khoa học Máy tính của Đại học Troy, Hoa Kỳ.
 
 ## Thông tin giảng viên
 - **Ngoại hình**: [Alberto Arteta][profile-image]
@@ -14,6 +14,18 @@
 - **Email**: aarteta@troy.edu
 - **Facebook**: [Facebook - Alberto Arteta][facebook-profile]
 - **Rate My Professors**: [Rate My Professors - Alberto Arteta][rate-my-professors-profile]
+
+## Học vấn
+
+<div align="center">
+
+| Học vị / Văn bằng                                   | Cơ sở đào tạo                                  | Năm tốt nghiệp |
+|:--------------------------------------------------- |:---------------------------------------------- |:--------------:|
+| Chương trình 5 năm về Toán học và Khoa học máy tính | Universidad Complutense de Madrid, Tây Ban Nha | 2000           |
+| Tiến sĩ Khoa học máy tính (Ph.D.)                   | Universidad Politécnica de Madrid, Tây Ban Nha | 2010           |
+| Thạc sĩ Trí tuệ nhân tạo (M.S.)                     | Universidad Politécnica de Madrid, Tây Ban Nha | 2011           |
+
+</div>
 
 ## Lịch sử giảng dạy
 - `CS-4410` ([Introduction to Machine Learning][cs-4410]): Summer-2026

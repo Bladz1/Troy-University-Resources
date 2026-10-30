@@ -9,6 +9,7 @@
 - **Ngoại hình**: [Nguyễn Thanh Hương][profile-image]
 - **Lý lịch**: [SEM - Nguyễn Thanh Hương][academic-profile]
 - **Giới tính**: Nữ
+- **Ngày sinh**: 20/08/1989
 - **Học vị cao nhất**: Tiến sĩ
 - **Trường**: Kinh tế
 - **Email**: huong.nguyenthanh4@hust.edu.vn

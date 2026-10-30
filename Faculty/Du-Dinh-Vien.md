@@ -12,6 +12,7 @@
 - **Hồ sơ chính thức**: [Bài giới thiệu của Đại học Hòa Bình][hbu-profile].
 - **Hồ sơ học thuật**: [Google Scholar][gg-scholar-profile]; [ResearchGate][researchgate-profile].
 - **Giới tính**: Nam
+- **Ngày sinh**: 02/09/1962
 - **Học vị cao nhất**: Tiến sĩ
 - **Email**: ddvien@daihochoabinh.edu.vn; viendd@haui.edu.vn
 

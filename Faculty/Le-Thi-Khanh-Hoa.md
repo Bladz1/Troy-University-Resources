@@ -3,7 +3,7 @@
 >"There are no two words in the English language more harmful than 'good job'."  
 — **Terence Fletcher**, *Whiplash*
 
-**ThS. Lê Thị Khánh Hòa** là giảng viên đến từ trường Đại Học Hà Nội.
+**ThS. Lê Thị Khánh Hòa** là giảng viên Khoa Tiếng Anh chuyên ngành, Trường Đại học Hà Nội (HANU).
 
 ## Thông tin giảng viên
 - **Lý lịch**: [HANU - Lê Thị Khánh Hòa][hanu_profile]

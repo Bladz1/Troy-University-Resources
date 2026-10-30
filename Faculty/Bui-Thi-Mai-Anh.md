@@ -10,6 +10,7 @@
 - **Ngoại hình**: [Bùi Thị Mai Anh][profile-image]
 - **Lý lịch**: [SoICT – Bùi Thị Mai Anh][soict_profile]
 - **Giới tính**: Nữ
+- **Ngày sinh**: 13/10/1984
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Khoa học Máy tính
 - **Email**: anhbtm@soict.hust.edu.vn; [anh.buithimai@hust.edu.vn][hust-profile]

@@ -13,6 +13,17 @@
 - **Học vị cao nhất**: Tiến sĩ
 - **Email**: hmtoan@math.ac.vn
 
+## Học vấn
+
+<div align="center">
+
+| Học vị / Văn bằng        | Cơ sở đào tạo                                   | Năm tốt nghiệp |
+|:------------------------ |:----------------------------------------------- |:--------------:|
+| Cử nhân Toán học         | Đại học Quy Nhơn                                | 1996           |
+| Tiến sĩ Toán học (Ph.D.) | Đại học Toronto (University of Toronto), Canada | 2006           |
+
+</div>
+
 ## Lịch sử giảng dạy
 
 - `MTH-1114` ([Pre-Calculus Trigonometry][mth-1114]): Fall-2025

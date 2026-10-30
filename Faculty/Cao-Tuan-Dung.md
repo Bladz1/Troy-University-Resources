@@ -9,6 +9,7 @@
 - **Ngoại hình**: [Cao Tuấn Dũng][profile-image]
 - **Lý lịch**: [SOICT - Cao Tuấn Dũng][soict-profile]
 - **Giới tính**: Nam
+- **Ngày sinh**: 25/06/1977
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Khoa học Máy tính
 - **Email**: dung.caotuan@hust.edu.vn

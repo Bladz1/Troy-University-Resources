@@ -3,14 +3,13 @@
 >"Perhaps the archives are incomplete."  
 — **Obi-Wan Kenobi**
 
-**ThS. Nguyễn Thị Thùy Phương** là điều phối viên, đại diện của Đại học Troy tại Hà Nội.
+**ThS. Nguyễn Thị Thùy Phương** là điều phối viên chương trình Cử nhân Quản trị Kinh doanh (BSBA) của Đại học Troy tại Việt Nam, công tác tại Viện Đào tạo Quốc tế (SITE), Trường Đại học Kinh tế – Đại học Quốc gia Hà Nội.
 
 ## Thông tin giảng viên
 - **Ngoại hình**: [Nguyễn Thị Thùy Phương][profile-image]
 - **Lý lịch**: [UEB - Nguyễn Thị Thùy Phương][academic-profile]
 - **Giới tính**: Nữ
 - **Học vị cao nhất**: Thạc sĩ
-- **Viện**: Đào tạo quốc tế
 - **Trường**: Đại học Kinh tế, ĐHQGHN
 - **Email**: pnguyen59272@troy.edu
 

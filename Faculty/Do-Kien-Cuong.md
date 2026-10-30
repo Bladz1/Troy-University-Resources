@@ -3,12 +3,14 @@
 >"Perhaps the archives are incomplete."  
 — **Obi-Wan Kenobi**
 
-**ThS. Đỗ Kiên Cường** là giảng viên bộ môn hòa tấu - Học viên âm nhạc quốc gia Việt Nam.
+**ThS. Đỗ Kiên Cường** là giảng viên bộ môn hòa tấu - Học viện Âm nhạc Quốc gia Việt Nam.
 
 ## Thông tin giảng viên
 - **Ngoại hình**: [Đỗ Kiên Cường][profile-image]
 - **Lý lịch**: [UEB - Đỗ Kiên Cường][academic-profile]
 - **Giới tính**: Nam
+- **Năm sinh**: 1975
+- **Nơi sinh**: Hà Nội
 - **Học vị cao nhất**: Thạc sĩ
 - **Trường**: Đại Học Kinh tế, ĐHQGHN
 - **Email**: Lecturer.TROY4@hust.edu.vn

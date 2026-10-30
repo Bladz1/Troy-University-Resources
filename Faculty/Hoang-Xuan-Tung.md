@@ -10,6 +10,7 @@
 - **Ngoại hình**: [Hoàng Xuân Tùng][profile-image]
 - **Lý lịch**: [Google Scholar - Hoàng Xuân Tùng][academic-profile]
 - **Giới tính**: Nam
+- **Ngày sinh**: 07/03/1977
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Công nghệ thông tin
 - **Email**: tunghx@vnu.edu.vn

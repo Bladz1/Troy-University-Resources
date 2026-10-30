@@ -1,4 +1,4 @@
-# PGS. TS Vũ Thế Khôi
+# PGS. TS. Vũ Thế Khôi
 
 >"Ai không thích học thì cứ tự nhiên ra về nhé, tôi không điểm danh đâu nên anh chị cứ đi về thoải mái."  
 — **PGS. TS Vũ Thế Khôi**, *ít phút trước khi lôi danh sách ra điểm danh*
@@ -10,6 +10,7 @@
 - **Ngoại hình**: [Vũ Thế Khôi][profile-image]
 - **Lý lịch**: [AC - Vũ Thế Khôi][academic-profile]
 - **Giới tính**: Nam
+- **Năm sinh**: 1974
 - **Học vị cao nhất**: Tiến sĩ
 - **Email**: vtkhoi@gmail.com; vtkhoi@math.ac.vn
 - **Website**: https://viasm.edu.vn/nhan-su/chi-tiet/vu-the-khoi

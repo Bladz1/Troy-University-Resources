@@ -9,6 +9,7 @@
 - **Ngoại hình**: [Vũ Thị Ngọc Minh][profile-image]
 - **Lý lịch**: [SCLS - Vũ Thị Ngọc Minh][scls_profile]
 - **Giới tính**: Nữ
+- **Ngày sinh**: 12/11/1978
 - **Học vị cao nhất**: Tiến sĩ
 - **Trường**: Hóa và Khoa học sự sống
 - **Email**: minh.vuthingoc@hust.edu.vn

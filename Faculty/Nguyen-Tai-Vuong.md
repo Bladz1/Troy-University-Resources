@@ -10,6 +10,7 @@
 - **Ngoại hình**: [Nguyễn Tài Vượng][profile-image]
 - **Lý lịch**: [SEM - Nguyễn Tài Vượng][sem-profile]
 - **Giới tính**: Nam
+- **Ngày sinh**: 30/09/1970
 - **Học vị cao nhất**: Thạc sĩ
 - **Chuyên ngành**: Quản trị kinh doanh
 - **Email**: [vuong.nguyentai@hust.edu.vn](mailto:vuong.nguyentai@hust.edu.vn)

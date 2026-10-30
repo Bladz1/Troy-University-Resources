@@ -3,7 +3,7 @@
 >"Trí khôn tôi để ở nhà. Ðể tôi về lấy cho anh xem. Anh có cần, tôi sẽ cho anh một ít."  
 — **Anh nông dân**, *Truyện cổ tích "Trí khôn của ta đây"*
 
-**PGS. TS. Phó Đức Tài** là trưởng khoa Toán – Cơ – Tin học, Trường Đại học Khoa học Tự nhiên, ĐHQGHN.
+**PGS. TS. Phó Đức Tài** là nguyên Trưởng khoa Toán – Cơ – Tin học, Trường Đại học Khoa học Tự nhiên, ĐHQGHN.
 
 ## Thông tin giảng viên
 - **Ngoại hình**: [Phó Đức Tài][profile-image]

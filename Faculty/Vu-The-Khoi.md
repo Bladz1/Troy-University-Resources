@@ -1,4 +1,4 @@
-# PGS. TS Vũ Thế Khôi
+# PGS. TS. Vũ Thế Khôi
 
 >"Ai không thích học thì cứ tự nhiên ra về nhé, tôi không điểm danh đâu nên anh chị cứ đi về thoải mái."  
 — **PGS. TS Vũ Thế Khôi**, *ít phút trước khi lôi danh sách ra điểm danh*

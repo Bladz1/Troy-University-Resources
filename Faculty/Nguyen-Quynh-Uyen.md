@@ -3,7 +3,7 @@
 >"Perhaps the archives are incomplete."  
 — **Obi-Wan Kenobi**
 
-**TS. Nguyễn Quỳnh Uyển** là giảng viên Viện Vi sinh vật và Công nghệ Sinh học, Đại Học Quốc Gia Hà Nội.
+**TS. Nguyễn Quỳnh Uyển** là giảng viên, nghiên cứu viên tại Viện Vi sinh vật và Công nghệ Sinh học, Đại học Quốc gia Hà Nội.
 
 ## Thông tin giảng viên
 - **Lý lịch**: [VNU - Nguyễn Quỳnh Uyển][vnu-profile]

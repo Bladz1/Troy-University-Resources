@@ -10,6 +10,7 @@
 - **Ngoại hình**: [Nguyễn Trung Dũng][profile-image]
 - **Lý lịch**: [FAMI - Nguyễn Trung Dũng][academic-profile]
 - **Giới tính**: Nam
+- **Ngày sinh**: 14/12/1986
 - **Học vị cao nhất**: Tiến sĩ
 - **Nhóm chuyên môn**: [Tối ưu hóa và Tính toán khoa học][research-group]
 - **Email**: dung.nguyentrung2@hust.edu.vn

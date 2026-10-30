@@ -9,6 +9,7 @@
 - **Ngoại hình**: [Dương Mạnh Cường][profile-image]
 - **Lý lịch**: [SEM - Dương Mạnh Cường][academic-profile]
 - **Giới tính**: Nam
+- **Ngày sinh**: 28/01/1974
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Quản lý
 - **Trường**: Kinh tế

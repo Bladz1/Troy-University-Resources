@@ -9,6 +9,7 @@
 - **Ngoại hình**: [Nguyễn Thị Mai Anh][profile-image]
 - **Lý lịch**: [SEM - Nguyễn Thị Mai Anh][academic-profile]
 - **Giới tính**: Nữ
+- **Ngày sinh**: 13/01/1968
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Quản lý
 - **Trường**: Kinh tế

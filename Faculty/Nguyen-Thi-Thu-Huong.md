@@ -9,6 +9,7 @@
 - **Ngoại hình**: [Nguyễn Thị Thu Hương][profile-image]
 - **Lý lịch**: [SOICT - Nguyễn Thị Thu Hương][soict-profile]
 - **Giới tính**: Nữ
+- **Ngày sinh**: 07/09/1964
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Công nghệ thông tin và truyền thông
 - **Email**: huongnt@soict.hust.edu.vn

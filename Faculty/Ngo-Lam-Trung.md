@@ -9,6 +9,7 @@
 - **Ngoại hình**: [Ngô Lam Trung][profile-image]
 - **Lý lịch**: [SOICT - Ngô Lam Trung][soict-profile]
 - **Giới tính**: Nam
+- **Ngày sinh**: 03/11/1981
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Kỹ thuật Máy tính
 - **Email**: trung.ngolam@hust.edu.vn

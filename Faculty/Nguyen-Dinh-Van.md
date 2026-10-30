@@ -11,6 +11,7 @@
 - **Hồ sơ SEEE**: [Nguyễn Đình Văn][seee-profile]
 - **Hồ sơ nghiên cứu**: [Research HUST][research-profile]
 - **Giới tính**: Nam
+- **Ngày sinh**: 15/12/1990
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Kỹ thuật truyền thông
 - **Văn phòng**: E809 - C7

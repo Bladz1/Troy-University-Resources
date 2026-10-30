@@ -9,6 +9,7 @@
 - **Ngoại hình**: [Nguyễn Thị Thúy Hằng][profile-image]
 - **Lý lịch**: [SEM - Nguyễn Thị Thúy Hằng][academic-profile]
 - **Giới tính**: Nữ
+- **Ngày sinh**: 01/05/1986
 - **Học vị cao nhất**: Thạc sĩ
 - **Trường**: Kinh Tế
 - **Email**: hang.nguyenthithuy@hust.edu.vn

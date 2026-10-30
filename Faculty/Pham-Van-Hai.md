@@ -9,6 +9,7 @@
 - **Ngoại hình**: [Phạm Văn Hải][profile-image]
 - **Lý lịch**: [SOICT - Phạm Văn Hải][academic-profile]
 - **Giới tính**: Nam
+- **Ngày sinh**: 21/10/1975
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Khoa học máy tính
 - **Trường**: Công nghệ Thông tin và truyền thông

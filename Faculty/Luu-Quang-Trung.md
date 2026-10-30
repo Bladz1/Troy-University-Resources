@@ -3,7 +3,7 @@
 > "Ad meliora et ad maiora semper."  
 — *Towards better and greater things, always.*
 
-**TS. Lưu Quang Trung** bảo vệ thành công học vị Tiến sĩ về Mạng thông tin và truyền thông năm 2021 tại Đại học Paris-Saclay, Cộng hòa Pháp và có một năm làm nghiên cứu sau tiến sĩ tại Trung tâm Nghiên cứu Khoa học Quốc gia Pháp (CNRS) tại Toulouse, Cộng hoà Pháp. Từ năm 2023, TS. Trung là giảng viên tại Khoa Kỹ thuật Truyền thông, Trường Điện - Điện tử, Đại học Bách khoa Hà Nội.
+**TS. Lưu Quang Trung** bảo vệ thành công luận án Tiến sĩ về Mạng thông tin và truyền thông ngày 07/06/2021 tại Đại học Paris-Saclay, Cộng hòa Pháp và có thời gian làm nghiên cứu sau tiến sĩ tại Trung tâm Nghiên cứu Khoa học Quốc gia Pháp (LAAS-CNRS) tại Toulouse. Thầy từng là giảng viên tại Khoa Kỹ thuật Truyền thông, Trường Điện - Điện tử, Đại học Bách khoa Hà Nội giai đoạn 2023–2025, trước khi đảm nhiệm vị trí tại Phòng thí nghiệm Tín hiệu và Hệ thống (L2S), Đại học Paris-Saclay từ ngày 01/09/2025.
 
 ## Thông tin giảng viên
 - **Ngoại hình**: [Lưu Quang Trung][profile-image]

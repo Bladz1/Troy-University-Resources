@@ -19,11 +19,11 @@
 
 <div align="center">
 
-| Học vị / Văn bằng | Cơ sở đào tạo | Năm tốt nghiệp |
-|:--- |:--- |:---:|
-| Chương trình 5 năm về Toán học và Khoa học máy tính | Universidad Complutense de Madrid, Tây Ban Nha | 2000 |
-| Tiến sĩ Khoa học máy tính (Ph.D.) | Universidad Politécnica de Madrid, Tây Ban Nha | 2010 |
-| Thạc sĩ Trí tuệ nhân tạo (M.S.) | Universidad Politécnica de Madrid, Tây Ban Nha | 2011 |
+| Học vị / Văn bằng                                   | Cơ sở đào tạo                                  | Năm tốt nghiệp |
+|:--------------------------------------------------- |:---------------------------------------------- |:--------------:|
+| Chương trình 5 năm về Toán học và Khoa học máy tính | Universidad Complutense de Madrid, Tây Ban Nha | 2000           |
+| Tiến sĩ Khoa học máy tính (Ph.D.)                   | Universidad Politécnica de Madrid, Tây Ban Nha | 2010           |
+| Thạc sĩ Trí tuệ nhân tạo (M.S.)                     | Universidad Politécnica de Madrid, Tây Ban Nha | 2011           |
 
 </div>
 

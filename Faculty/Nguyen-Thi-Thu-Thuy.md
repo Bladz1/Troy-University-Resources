@@ -10,7 +10,7 @@
 - **Ngoại hình**: [Nguyễn Thị Thu Thủy][profile-image]
 - **Lý lịch**: [SEM - Nguyễn Thị Thu Thủy][academic-profile]
 - **Giới tính**: Nữ
-- **Năm sinh**: [1981][pgs-2023]
+- **Ngày sinh**: 20/10/1981
 - **Quê quán**: [Gia Lâm, Hà Nội][pgs-2023]
 - **Học vị cao nhất**: Tiến sĩ
 - **Nhóm chuyên môn**: Kinh tế học

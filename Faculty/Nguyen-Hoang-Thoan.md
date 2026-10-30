@@ -9,7 +9,7 @@
 - **Ngoại hình**: [Nguyễn Hoàng Thoan][profile-image]
 - **Lý lịch**: [SEP - Nguyễn Hoàng Thoan][academic-profile]
 - **Giới tính**: Nữ
-- **Năm sinh**: 1981
+- **Ngày sinh**: 01/02/1981
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Vật lý kỹ thuật
 - **Email**: thoan.nguyenhoang@hust.edu.vn

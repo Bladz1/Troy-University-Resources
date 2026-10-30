@@ -9,6 +9,7 @@
 - **Ngoại hình**: [Phó Đức Tài][profile-image]
 - **Lý lịch**: [VNU - Phó Đức Tài][academic-profile]
 - **Giới tính**: Nam
+- **Năm sinh**: 1972
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Toán – Cơ – Tin học
 - **Trường**: Đại học Khoa học Tự nhiên

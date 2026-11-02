@@ -11,7 +11,7 @@
 
 ## Lịch sử giảng dạy
 
-- [ThS. Vũ Kim Thư][vu-kim-thu]: `Fall-2023`, `Fall-2024`, `Fall-2025`
+- [ThS. Vũ Kim Thư][vu-kim-thu]: `Fall-2023`, `Fall-2024`, `Fall-2025`, `Fall-2026`
 
 
 [vu-kim-thu]: ../Faculty/Vu-Kim-Thu.md

@@ -16,7 +16,7 @@ someone who is good at the economy please help me budget this. my family is dyin
 
 ## Lịch sử giảng dạy
 
-- [ThS. Nguyễn Tài Vượng][nguyen-tai-vuong]: `Fall-2023`, `Fall-2025`
+- [ThS. Nguyễn Tài Vượng][nguyen-tai-vuong]: `Fall-2023`, `Fall-2025`, `Fall-2026`
 - [PGS. Nguyễn Thị Thu Thủy][nguyen-thi-thu-thuy]: `Fall-2025`
 
 

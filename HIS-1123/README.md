@@ -11,7 +11,7 @@
 
 ## Lịch sử giảng dạy
 
-- [PGS. TS. Phạm Văn Thủy][pham-van-thuy]: `Spring-2024`, `Fall-2024`
+- [PGS. TS. Phạm Văn Thủy][pham-van-thuy]: `Spring-2024`, `Fall-2024`, `Fall-2026`
 - [TS. Nguyễn Nhật Linh][nguyen-nhat-linh]: `Spring-2024`
 
 

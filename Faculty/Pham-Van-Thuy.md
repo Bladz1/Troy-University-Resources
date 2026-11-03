@@ -48,7 +48,7 @@ Một số công trình tiêu biểu:
 ## Lịch sử giảng dạy
 
 - `HIS-1122` ([World History to 1500][his-1122]): Spring-2022, Spring-2025
-- `HIS-1123` ([World History from 1500][his-1123]): Spring-2024, Fall-2024
+- `HIS-1123` ([World History from 1500][his-1123]): Spring-2024, Fall-2024, Fall-2026
 
 ## Đánh giá
 

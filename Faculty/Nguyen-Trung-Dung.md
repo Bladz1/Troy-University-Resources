@@ -25,7 +25,7 @@ Thầy nghiên cứu [bài toán ngược và mô phỏng sóng địa chấn đ
 
 ## Lịch sử giảng dạy
 
-- `IS-2241` ([Computer Concepts and Applications][is-2241]): Fall-2025
+- `IS-2241` ([Computer Concepts and Applications][is-2241]): Fall-2025, Fall-2026
 
 ## Đánh giá
 

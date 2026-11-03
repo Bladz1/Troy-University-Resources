@@ -12,7 +12,7 @@
 ## Lịch sử giảng dạy
 
 - [PGS. TS Vũ Thế Khôi][vu-the-khoi]: `Fall-2025`
-- [TS. Hồ Minh Toàn][ho-minh-toan]: `Fall-2025`
+- [TS. Hồ Minh Toàn][ho-minh-toan]: `Fall-2025`, `Fall-2026`
 - [PGS. TS. Phó Đức Tài][pho-duc-tai]: `Spring-2022`
 
 

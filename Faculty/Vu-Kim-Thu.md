@@ -38,7 +38,7 @@ Những chuyến đi, cảnh quan và kiến trúc địa phương là nguồn c
 
 ## Lịch sử giảng dạy
 
-- `ART-1133` ([Visual Arts][art-1133]): Fall-2023, Fall-2024, Fall-2025
+- `ART-1133` ([Visual Arts][art-1133]): Fall-2023, Fall-2024, Fall-2025, Fall-2026
 
 ## Đánh giá
 

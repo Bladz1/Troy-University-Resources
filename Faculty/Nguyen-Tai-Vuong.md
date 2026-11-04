@@ -70,7 +70,7 @@ Xoay quanh kinh tế ứng dụng, chủ yếu gồm thương mại quốc tế,
 ## Lịch sử giảng dạy
 
 - `ECO-2251` ([Macroeconomics][eco-2251]): Spring-2024, Spring-2025
-- `ECO-2252` ([Microeconomics][eco-2252]): Fall-2023, Fall-2025
+- `ECO-2252` ([Microeconomics][eco-2252]): Fall-2023, Fall-2025, Fall-2026
 
 ## Đánh giá
 

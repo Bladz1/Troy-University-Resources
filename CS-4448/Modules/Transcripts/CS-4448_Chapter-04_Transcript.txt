@@ -1,0 +1,186 @@
+﻿Byungkwan Jung: Byungkwan Jung started transcription
+[0:06] Byungkwan Jung: Hello, everyone. So, in Chapter Three, we learned about the processes, and we...
+[00:15] Byungkwan Jung: So, we looked into the what were the thread was right?
+[00:21] Byungkwan Jung: So first of all, we define the process as a program and execution. Now we move one level deeper. So a modern operating system rarely executes A1 activity inside a process. Instead, a single process
+[00:40] Byungkwan Jung: Often contains multiple execution paths; these execution paths is called thread.
+[00:49] Byungkwan Jung: So think about the modern web browser. While you're reading any kind of web page, you can do all kinds of activities, like downloading your data, and it can also display the image, execute the JavaScript, it can also play a video, it can respond to the user inputs and such. So
+[01:08] Byungkwan Jung: If the browser only uses only a single execution path, responsive would suffer. So threads solve these kind of problems.
+[01:20] Byungkwan Jung: So, this chapter introduces the concurrent execution and the multi-threading, and it will get into the thread libraries, implicit threadings, and other threading issues, and such as later on.
+[01:36] Byungkwan Jung: Now, of course, we have our objectives. I mean, you can read through this, like understanding the threads, understanding the thread APIs, understanding implicit threading, what are they, and we will just look at to most of them. Now, for the motivation.
+[01:55] Byungkwan Jung: The most modern software applications are all multithreaded. This means that it contains the multiple threads executing the concurrently.
+[02:07] Byungkwan Jung: like a word processor, processing keyboard input, and another that performs a spell checking, and another like saving the files automatically, like in the network server, like where the one just accepts the connections and the others handling the client requests at the same time. But why not simply just create the multiple processes? Because
+[02:29] Byungkwan Jung: Processes of creation is a heavyweight. Creating a process requires you to have a memory allocation, PCB creations, and address space setups, and these are very expensive. Thread creation, however, is a lightweight.
+[02:48] Byungkwan Jung: Threads share resources already belonging to the processes. Therefore, thread creation is faster and thread switching is cheaper. Modern operating system kernel themselves are all multi-threaded. Even operating system uses a thread internally.
+[03:09] Byungkwan Jung: So here we are looking at the figure that demonstrates one of the most common user threads. So we have a server application. So suppose the hundreds of users connected to a web server without the thread that the server processes a request sequentially. That means that one request at a time.
+[03:30] Byungkwan Jung: That results in a poor performance, and users have to wait, but with the thread, each request can be handled independently, so one thread will serve one client, another will serve another client, and another thread will serve another. So, the advantage of this will be the...
+[03:48] Byungkwan Jung: better responsiveness and the higher throughputs and improve the resource utilizations.
+[03:57] Byungkwan Jung: This architecture appears everywhere, in the web servers, database servers, cloud platforms, multiplayer games. So these kind of thread-based servers are the one reason modern internet service scales efficiently.
+[04:15] Byungkwan Jung: Now, we look into the banner.
+[04:18] Byungkwan Jung: Of these multi-threading.
+[04:22] Byungkwan Jung: Responsiveness. Applications remain responsive even if part of the program blocks. And without a thread, entire application may freeze.
+[04:36] Byungkwan Jung: Two, resource sharing. Thread shares process resources, like memory, files, variables. Sharing becomes easier than inter-process communication.
+[04:50] Byungkwan Jung: economy. Thread creation costs less than the process creation. Thread switching cost is less than the process switching. This improves the efficiency.
+[05:03] Byungkwan Jung: Number 4, scalability. Threads can take advantage of the multiple processors. Today, modern day CPUs contain more cores than the single processor.
+[05:17] Byungkwan Jung: That the threads help utilize the available cores, so it can be the four core, 8 core, 16 core, even more. They these threads utilize these multiple cores.
+[05:32] Byungkwan Jung: So these are the four advantages to explain why multi-threading dominates the modern software design.
+[05:41] Byungkwan Jung: Historically, improving performance was simple. Just have the CPU manufacturers increase the clock speed. Then programs will automatically become faster. But today, clock speed improvement has have slowed. Manufacturers instead add multiple CPU cores.
+[06:02] Byungkwan Jung: This creates new opportunities, but also new challenges.
+[06:10] Byungkwan Jung: This slide identifies several challenges, such as dividing activities. How do we divide the work among the threads? And balance, how do we distribute the workload evenly? And data splitting, how do we partition information?
+[06:30] Byungkwan Jung: Data dependency. What if one thread depends on the results from another? Testing and debugging. Parallel programs are often harder to debug.
+[06:45] Byungkwan Jung: And you have to know that there is a parallelism that is that is implying in a system that can perform more than one task simultaneously, where the concurrency supports more than one task making progress.
+[07:05] Byungkwan Jung: We'll be looking into these parallelisms more in detail. There are parallelisms. There are two types of parallelism here. Number one, the data parallelism, which means that it distributes A subset of the same data across multiple cores.
+[07:27] Byungkwan Jung: and the same operations on each.
+[07:30] Byungkwan Jung: And this is a, like, for example, it's like a image processing. Suppose that an image contains 1 million pixels. Multiple threads process different sections of these images simultaneously.
+[07:48] Byungkwan Jung: That would be a data parallelism.
+[07:52] Byungkwan Jung: Task parallelism is where different threads perform the different tasks. So, for example, web browser thread one will be performing networking on network communication, thread two will be working on the user interface, thread three will be working on the video rendering.
+[08:11] Byungkwan Jung: These are the specific threads for these different tasks.
+[08:19] Byungkwan Jung: We also have the ideas of these simultaneous multithreading.
+[08:27] Byungkwan Jung: One physical core may execute multiple hardware threads, like, for instance, like Oracle Spark T4, 8 cores. That means that 8 hardware threads per core, so that will be total 64 hardware threads.
+[08:46] Byungkwan Jung: Hardware increasingly supports hardware increasingly supports the parallel execution, and software must evolve accordingly.
+[08:59] Byungkwan Jung: we have a concurrency versus the parallelisms. So first of all, I know the term concurrency and the parallelisms seems very similar, but there is a difference between them. Concurrency, the multiple tasks make the progress. That means that
+[09:18] Byungkwan Jung: Is not necessarily to make a progress at the same time, like so, for example, in a single core CPU, scheduler repeatedly switches between the tasks and only one task executes at any instant, but multiple tasks appear to be.
+[09:37] Byungkwan Jung: Active, so this is like you are doing like like all caps and accessing like every single program on your monitor, and you're just cycling through them to progress a little by little, but what this concurrency means is that that each...
+[09:57] Byungkwan Jung: one of them are doing that very fast. So they are switching these programs, programs, programs, one at a time, so that it seems like they're working at the almost simultaneous lane, but which is not.
+[10:13] Byungkwan Jung: Parallelism is a more of these actual simultaneous execution. It requires multiple processing units, like multiple cores, and different cores will execute different threads at the same time.
+[10:30] Byungkwan Jung: So this is a more of a simple memory trick here. So the concurrency deals with the many things where the parallelism is doing many things simultaneously.
+[10:46] Byungkwan Jung: So, in the figure, you are looking at these important distinction.
+[10:53] Byungkwan Jung: We have a single-threaded process that contains one program counter, one stack, and one execution path. That means only one activity executes at a time, where multi-threaded process contains multiple program counters and stacks and execution paths, while...
+[11:13] Byungkwan Jung: sharing the code sections, data sections, open files. This sharing provides efficiency. Threads cooperate naturally because they belong to the same process. So like think of this as like a company. Like employees share these buildings, equipment, resources, but each employee performs a different task.
+[11:34] Byungkwan Jung: That is exactly how the thread operates inside the process.
+[11:42] Byungkwan Jung: Elm's law helps to predict the performance improvements from adding additional processing cores. Suppose program contains serial portions, then it cannot be parallelized, and the parallel portions can execute simultaneously.
+[12:02] Byungkwan Jung: Uh...
+[12:04] Byungkwan Jung: So for example, it can have like a 75% parallel and 25% serial. Adding this processor improves the performance, but only up to a point. So the key insight here is that serial portion limits the speed up, no matter.
+[12:23] Byungkwan Jung: how many processors we had, we add, the serial part remains the bottleneck. So imagine, like 1 cashier and there are 10 customers. Then adding more parking space does not help it check out remaining single threaded.
+[12:42] Byungkwan Jung: So this principle remains extremely important when designing a parallel applications.
+[12:52] Byungkwan Jung: Threads can exist at two different levels: one as a user thread that is managed by the user-level libraries, like POSIX threads, Java threads, and the Windows thread libraries. Operating systems may not directly manage these threads.
+[13:12] Byungkwan Jung: Another is kernel threads, which is managed directly by the operating system kernel, like Windows, Linux, Solaris, Mac OS. Kernel threads receive the direct operating system support. They participate in the scheduling, and they may execute on the multiple processors.
+[13:32] Byungkwan Jung: Understanding the relationship between the user and the kernel thread is essential because it leads directly to the multi-threading models.
+[13:45] Byungkwan Jung: We have a multi-threading models here. This, we have the many to one, one to one, and the many to many. Many to one means that many user threads in a one kernel thread. And the one to one is more like a one user thread with a one kernel thread. And the many to many
+[14:03] Byungkwan Jung: is like the many user threads for the many kernel threads. Each model represents the different compromise between the performance, flexibility, and complexity.
+[14:15] Byungkwan Jung: We looking at the many-to-one model here.
+[14:20] Byungkwan Jung: In the many 12 model, many user threads are mapped to the one kernel thread. The advantage is that it is simple, there's low overhead and a fast user level thread management. The major problem is that if the one thread blocks, then all threads block. Because only one kernel thread exists.
+[14:40] Byungkwan Jung: Another limitation is that it cannot achieve the true parallelism, and only one thread may execute in kernel at a time. For this reason, few modern systems use this model. Like a historic example would be like a solar screen and GNU portable threads.
+[15:02] Byungkwan Jung: This model demonstrates that the simplicity sometimes limits the scalability.
+[15:11] Byungkwan Jung: In A one-to-one model, each user thread corresponds to the one kernel thread. The advantage is that if one thread blocks, others continue executing. True parallelism is possible here because multiple threads may execute simultaneously on the multi-core processors. This model provides a significant...
+[15:32] Byungkwan Jung: greater concurrency. However, there is a disadvantages, like creating many threads may become expensive because each user thread requires a kernel thread to the port. And most modern operating systems use this approach, like Windows, Linux, and Solaris Nine Plus.
+[15:53] Byungkwan Jung: This model balances the simplicity and performance effectively.
+[16:00] Byungkwan Jung: Next, we have the many too many.
+[16:04] Byungkwan Jung: In this model, we have the user threads that are mapped into the many kernel threads. Unlike the many-to-one, a blocked thread does not stop all other threads. And unlike the one-to-one model, the operating system does not need a separate kernel thread for every single user thread.
+[16:25] Byungkwan Jung: This provides greater flexibility. The operating system can create only as many kernel threads as necessary. Benefits include, like, improved concurrency, because multiple threads can execute simultaneously.
+[16:41] Byungkwan Jung: and better resource utilizations, because kernel resources are not consumed unnecessarily.
+[16:49] Byungkwan Jung: And scalability, because it supports a large number of user threads. So, think of this model as a transportation system, where many passengers share many buses. Not every passenger requires A dedicated vehicle.
+[17:10] Byungkwan Jung: The two-level model is closely related to the many-to-many model; however, it introduces an additional capability. Normally, user thread maps dynamically onto the kernel threads. The two-level model allows.
+[17:29] Byungkwan Jung: Binding a user thread may permanently associate with a specific kernel thread. Why is it useful? Because certain applications require guaranteed kernel support, like real-time systems and high-priority services and specialized.
+[17:47] Byungkwan Jung: applications. So this model combines the flexibility from the many-to-many with the dedicated execution when needed.
+[18:00] Byungkwan Jung: So, this model tends to achieve the best of both worlds.
+[18:07] Byungkwan Jung: But.
+[18:09] Byungkwan Jung: A threaded library provides the programmers with functions for creating the thread, managing the thread, synchronizing the threads, and terminating the threads. Think of the thread library as a toolkit. Instead of manually implementing a thread management,
+[18:27] Byungkwan Jung: Programmers call library functions. There are two primarily implementation approaches: user-level library that is entirely in a user space, and kernel may not be aware.
+[18:46] Byungkwan Jung: Of the threads, and also in the kernel library, it is supported directly by the operating systems. Kernel manages the thread operations.
+[19:01] Byungkwan Jung: And thread libraries make the multi-threaded programming practical and portable. Without them, thread management would be extremely difficult.
+[19:14] Byungkwan Jung: Pthread stands for the POSIX threads. It is one of the most widely used threading standards. The important point, this Pthread is a specification, it's not a specific implementation. The standard defines...
+[19:33] Byungkwan Jung: how thread functions should behave. Different operating systems may implement them differently.
+[19:42] Byungkwan Jung: Pthread supports thread creation, synchronizations, termination, and coordination.
+[19:50] Byungkwan Jung: Because Pthreads follows a standard, programs often move between the systems with the minimal modification.
+[20:00] Byungkwan Jung: Here, you are seeing a basic thread example. Do not worry about the memorizing the syntax, but the focus on the concepts. The program creates a new thread using the thread create.
+[20:15] Byungkwan Jung: When this function executes, a new thread begins running. Notice the parent thread continues to execute and child thread executes concurrently. This is fundamentally different from the normal function call. Function call executes sequentially.
+[20:34] Byungkwan Jung: Thread creation introduces concurrent execution. This capability forms the basis of the modern multi-threaded applications.
+[20:47] Byungkwan Jung: This example expands of thread management, so that after creating the thread, the program often needs a synchronization. One common operation is joining. Joining means waiting for the thread completion. Why? Suppose the main thread
+[21:06] Byungkwan Jung: A thread needs a result produced by the worker thread. It cannot continue safely until the worker finishes. So the joining provides A coordination. Without a proper synchronization, race condition and incorrect behavior may occur.
+[21:25] Byungkwan Jung: This becomes extremely important in the later chapters.
+[21:32] Byungkwan Jung: This example demonstrates multiple thread creation and thread joining. This program creates 10 threads, and after creation, the program waits for each thread using the P thread join. The join operation ensures that all worker threads complete before the program terminates.
+[21:55] Byungkwan Jung: Imagine assigning 10 students a task, and you do not submit the project until all students finish. Joining serves a similar purpose.
+[22:13] Byungkwan Jung: Microsoft Windows supports A multi-threading through the Windows thread API, conceptually similar to the P threads, but different syntax but the same general goals. Program creates a create threads using the create thread. Operating system allocates the resources and the kernel thread created.
+[22:35] Byungkwan Jung: kernel thread is created and execution begins. The key idea here is that regardless of the operating system, thread creation follows similar principles. Only the programming interface changes.
+[22:54] Byungkwan Jung: This example continues the window threading process, but notice the similarities with the feed P thread. Create the thread, execute the work, wait for the completion, and terminate cleanly. Although APIs differ, the underlying concepts remain universal.
+[23:14] Byungkwan Jung: Here, we have the Java thread. Java handles the thread somewhat a little bit differently.
+[23:21] Byungkwan Jung: Because they are managed by the JVM, the Java Virtual Machine, the JVM then typically maps the Java thread onto underlying operating system threads, and Java provides 2 primary creation methods, extending thread class.
+[23:40] Byungkwan Jung: You think, like...
+[23:42] Byungkwan Jung: And also, I'm sorry, and...
+[23:47] Byungkwan Jung: which is creating a subclass of a thread and override a run method and implementing runnable interfaces. That is providing a run method and a pass object to the thread.
+[24:01] Byungkwan Jung: Today, implementing runnable is generally preferred. It provides a greater flexibility.
+[24:12] Byungkwan Jung: This slide demonstrates the Java thread creation. Note that a class defines the run method, and the run method contains a thread activity. And we have calling the start method creates a thread execution.
+[24:32] Byungkwan Jung: And there is a start method and the run method. Start is what creates the new thread. Run is just an ordinary method.
+[24:48] Byungkwan Jung: And here, we have the multiple threads that is executed simultaneously here. Notice that the several execution paths not exist within the same process.
+[25:01] Byungkwan Jung: This share, so these threads, they share memory, objects, and resources, and this improves efficiencies. However, it also introduces A synchronization challenges. Multiple threads modifying the same object may cause problems. Later chapters will introduce the techniques for solving these kind of issues.
+[25:25] Byungkwan Jung: Here, we have implicit threading. Historically, programmers are explicitly created and managed threads. As systems grew more complex, this becomes increasingly difficult. A newer approach here is the implicit threading, so that instead of the programmers...
+[25:45] Byungkwan Jung: manage thread directly, compiler, runtime library, opera systems, manage much of the complexity automatically. The benefits of the implicit threading is the simpler development, improved reliability, reduced programming errors,
+[26:07] Byungkwan Jung: reduces the programming errors. And this slide enters the three major approaches, thread pools, OpenMP, and Grand Central Dispatch. These techniques are extremely important in the modern software development.
+[26:25] Byungkwan Jung: So, we have the thread pools, one of the most common threading techniques. So, instead of creating a new thread for every task, operating system creates a collection of reusable threads. When work arrives, available thread receives assignments, and after the completion...
+[26:43] Byungkwan Jung: Thread returns to the pool. Now, the advantage of this method is that it is a faster response, because a thread already exists, there's no creation overhead, and also a resource it has a resource control. Maximum thread count remains bounded here.
+[27:04] Byungkwan Jung: and improve the management. So faster response, resource control, improve management.
+[27:14] Byungkwan Jung: This technique appears in everywhere, in the web servers, cloud services, database systems, application servers, and such.
+[27:23] Byungkwan Jung: Modern opera systems and frameworks heavily rely on the thread pools.
+[27:29] Byungkwan Jung: OpenMP is one of the most popular parallel programming frameworks. It supports C, C, and Fortran.
+[27:39] Byungkwan Jung: The programmer identifies these parallel regions using the compiler directives.
+[27:48] Byungkwan Jung: As.
+[27:50] Byungkwan Jung: And you are you are seeing the command there with the pound pragma OMP parallel. The compiler automatically creates a threads, and another common example is going to be the what you see in the below, and this allows a loop iterations to execute concurrently.
+[28:12] Byungkwan Jung: Suppose there are 1000 iterations, then four process cores. OpenMP may distribute to 250 iterations per core. The advantage of this is that it has a very simple syntax. It has reduced the
+[28:30] Byungkwan Jung: reduced programming effort, and automatic parallelization supports. OpenMP is widely used in the scientific computing, engineering simulations, and high-performance computing.
+[28:48] Byungkwan Jung: Grand Central Dispatch.
+[28:52] Byungkwan Jung: It is abbreviated as a GCD.
+[28:56] Byungkwan Jung: It was developed by the Apple for the Mac OS and the iOS. The main goal is simple: allow progress to identify work that can execute concurrently while letting the other operating system manage thread creation and scheduling, instead of manually creating the threads.
+[29:16] Byungkwan Jung: Programmers create blocks; a block is simply a unit of work, so the programmers say this task can execute independently, and the operating system then decides which thread to execute it when it executes.
+[29:35] Byungkwan Jung: on which processor core it executes. This significantly reduces the programming complexity. Think of the GCD, the Grand Central Dispatch, as assigning job to a smart manager. Instead of hiring workers yourself, you simply describe the work.
+[29:55] Byungkwan Jung: And the manager determines who performs it.
+[30:01] Byungkwan Jung: Here, you are looking at the two types of a dispatch queue. Number one, serial queue. The task executes one at a time, the first in, the first out.
+[30:15] Byungkwan Jung: And another is a concurrent queue. So in this queue, tasks are still removed in first in, first out order. However, multiple tasks may execute simultaneously. This enables true parallel execution on multi-core processors.
+[30:37] Byungkwan Jung: Apple provides several system-wide queues, like low priority, default priority, and the high priority queues.
+[30:46] Byungkwan Jung: The operating system automatically assigns a thread from the thread pools, and this is a major example of the implicit threading. Programmer focuses on work, operating system focuses on the execution.
+[31:06] Byungkwan Jung: Multi-threading provides many benefits. However, it also introduces challenges. We have the fork and execution function. How should process creation behave when multiple threads exist?
+[31:24] Byungkwan Jung: We have signal handling.
+[31:28] Byungkwan Jung: Which thread should receive signals thread cancellation?
+[31:34] Byungkwan Jung: How do we safely terminate a threat?
+[31:39] Byungkwan Jung: And then thread local storage. How can a thread maintain a private data? And schedule activation. How do user level and kernel level threads coordinates?
+[31:54] Byungkwan Jung: These problems may appear subtle, however, they become extremely important when building a large-scale software system.
+[32:06] Byungkwan Jung: In chapter, we learned about the fork and execution. Fork being the one that creates a new process, execution replacing the process image.
+[32:16] Byungkwan Jung: But now consider what happens if the process contains multiple threads. Suppose 5 threads currently exist. Thread A calls fork. The question, should the child process receive only thread A?
+[32:36] Byungkwan Jung: Or all five threads.
+[32:40] Byungkwan Jung: Well, different Unix systems historically supported different approaches. The common solution, we duplicate calling thread only, meaning child contains one thread. Or duplicate all threads, child receiving copies of every thread.
+[33:03] Byungkwan Jung: So, for an execution function, behavior is usually simpler: the new program replaces the entire process image, all previous threads disappear, new program begins an execution. Multi-threading complicates operations that...
+[33:21] Byungkwan Jung: were previously straightforward.
+[33:28] Byungkwan Jung: In Unix systems, signals provide notification that an event has occurred.
+[33:34] Byungkwan Jung: Signal processing follow the three steps: number one, signal generated, then signal delivered, and signal handled.
+[33:48] Byungkwan Jung: Signals may be processed by these default handlers, which is provided in operating systems, or user-defined handler, which is program-defined behaviors. For single-threaded processes, signal delivery is relatively simple: only one thread exists.
+[34:08] Byungkwan Jung: There's no ambiguity.
+[34:11] Byungkwan Jung: Suppose processes contain 5 threads, and then we have a signal that arrives. Which thread should receive it?
+[34:22] Byungkwan Jung: Option one, deliver the signal to the thread that caused the event. Option #2, deliver the signal to the every thread. Option #3, deliver signal to the selected subset of threads. And option four, assign a dedicated signal handling thread.
+[34:42] Byungkwan Jung: Different operating systems may use different strategies. The signal handling demonstrates the very important principle that many operating system mechanisms become more complicated once multiple threads exist.
+[34:58] Byungkwan Jung: Thread cancellation.
+[35:01] Byungkwan Jung: Means that is a terminating a thread before its completion.
+[35:06] Byungkwan Jung: The thread being terminated is called target thread. The 2 major approaches exist. Asynchronous cancellation, which means that it terminates immediately. The advantage is that it's fast and simple. Disadvantage is that it's dangerous.
+[35:25] Byungkwan Jung: Because threads may be holding resources and may leave the data structures inconsistent.
+[35:32] Byungkwan Jung: Another one is a deferred cancellation.
+[35:36] Byungkwan Jung: Thread periodically checks should I terminate, and cancellation occurs at a safe location. Most systems prefer deferred cancellation because it is safer.
+[35:49] Byungkwan Jung: For example, imagine stopping a surgeon. Stopping immediately may be dangerous because maybe that surgeon is, you know, dealing with open wide artery.
+[36:05] Byungkwan Jung: So, what would you do? You wait until save point is near, like when the sergeant is not actually in a hurry or not performing the the operations at all, like, so that's these kind of save point is way, way, way better than.
+[36:24] Byungkwan Jung: Just stopping immediately.
+[36:28] Byungkwan Jung: This slide discusses the cancellation states: thread cancellations may be disabled, the cancellation request is ignored temporarily, or deferred. The cancellation occurs at the designated cancellation points.
+[36:47] Byungkwan Jung: And asynchronous being an immediate termination and default, and we have a default cancellation as of more of most of the case of a default. Why? Because of the safety.
+[37:02] Byungkwan Jung: So, you can see that there are, you can see that these modes, these modes exist.
+[37:10] Byungkwan Jung: Linux commonly implements thread cancellations using the signals internally.
+[37:19] Byungkwan Jung: The one challenge in a multi-threaded programming is maintaining the private data. Remember, the threads share process memory. Sometimes this is desirable and sometimes it is not.
+[37:35] Byungkwan Jung: So.
+[37:37] Byungkwan Jung: For example, each thread may need its own copies of the certain variables, so then the solution would be like using the thread local storages, or known as TLS. TLS provides separate copies of data for each thread.
+[37:55] Byungkwan Jung: This is a very important distinction. Local variables exist only during the function execute. Thread local storage persists across function calls, remaining private to the thread. This allows threads to maintain independent state without interfering with.
+[38:15] Byungkwan Jung: With the another.
+[38:22] Byungkwan Jung: Scheduler activation address communication between the user-level thread and the kernel thread. You can recall the many-to-many model maps many user threads onto the many kernel threads. The question here, how many kernel threads should exist then?
+[38:43] Byungkwan Jung: Because too few will mean the performers suffer, and too many means that their resources are wasted.
+[38:51] Byungkwan Jung: The operating system and the thread library must coordinate on this. So the scheduler activation provides up calls. The notification from the kernel through the thread library. This communication allow applications to maintain appropriate number of the kernel threads.
+[39:10] Byungkwan Jung: The goal is the efficient utilization of available processing resources.
+[39:22] Byungkwan Jung: Operating system examples of how we'll be looking into the Windows threads and the Linux threads.
+[39:29] Byungkwan Jung: So first is a window threads.
+[39:33] Byungkwan Jung: Windows implement one-to-one threading model; each user thread maps directly to the kernel thread. Each window thread contains the thread identifier, register sets, which is a current CPU state, user stack, kernel stack.
+[39:52] Byungkwan Jung: and then private storage area. Together, these components form the thread context. When scheduling occurs, Windows saves and restores a thread context during the context switching.
+[40:09] Byungkwan Jung: Window uses the three major thread structures. Ethread, the executive thread block that contains high-level thread information. Kernel thread block contains the scheduling and synchronization information.
+[40:28] Byungkwan Jung: Thread environment block that contains thread ID, user stack, and the thread local storages. Notice a separation between the kernel space structure and the user space structure.
+[40:40] Byungkwan Jung: This organization helps the window efficiently manage the thread executions.
+[40:46] Byungkwan Jung: This figure shows a relationship of the E thread, the K thread, and the TEB.
+[40:52] Byungkwan Jung: Observe how the components interact.
+[40:58] Byungkwan Jung: So this, so the operating system uses these structures to schedule threads, store the context, manage the resources, and support the thread local storages. Although implementation detail vary among the operating systems, all thread systems require similar information.
+[41:18] Byungkwan Jung: Linux does something interesting. Instead of referring to them as threads, Linux often refers them as tasks. Thread creation occurs through the clone, the system clone, unlike fork.
+[41:36] Byungkwan Jung: Clone allows selective sharing.
+[41:39] Byungkwan Jung: This slide lists several flags: clone VM shares memory space file, clone files share open files, clone FS shares file system information, and clone Singh shares signal handlers.
+[42:01] Byungkwan Jung: By selecting different combinations of flags, Linux can create behavior resembling the traditional processes, threads, and hybrid structures.
+[42:13] Byungkwan Jung: So that is all for the Chapter 4. So this concludes this Chapter 4 and understanding of the threads.
+Byungkwan Jung: Byungkwan Jung stopped transcription

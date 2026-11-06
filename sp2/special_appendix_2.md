@@ -1,6 +1,6 @@
 # special appendix: insights from my 10 years
 
-![SSF.webp](/sub_diary/SSF.webp)
+![SSF.webp](sub_diary/SSF.webp)
 
 Giới thiệu lại một lần nữa, tôi là Jonathan Bronstein, người đang viết những dòng này cho các bạn. Tính ở thời điểm này thì tôi đã chính thức tốt nghiệp và đã đi làm trong khoảng một năm. Như vậy cũng có thể gọi là kỷ niệm 1 năm cái repo này chính thức hoạt động và tôi có thể tự hào rằng repo này được nhiều sinh viên biết tới, đó có lẽ là một thành công đủ lớn cho cuộc đời vốn đã mờ nhạt trong nhiều năm. Như tôi có nói về bản chất của cái repo này, ngoài là một nơi lưu trữ tài liệu, thì nếu các bạn cần một nơi mà bạn cảm thấy được lắng nghe, repo này chính là nơi như vậy. Thành ra, tôi, dưới tư cách một người sáng lập, thật sự muốn các bạn và cả chính tôi có thể viết những câu chuyện và tâm sự về những khó khăn trong cuộc sống. Với tôi, repo này chính là ước mơ về một thế giới mà đâu đó, những con người được phép sống như là chính mình, được giúp đỡ, yêu thương nhau và bảo vệ lẫn nhau trong một thế giới nơi khái niệm “nhân văn” chỉ là thứ trong truyện cổ tích. Dù tôi chưa gặp mặt hoặc không biết gì về các bạn, tôi thật lòng cảm ơn các bạn vì ít nhất cũng có thể hiểu cái ước mơ ngây ngô ấy và giúp tôi thực hiện những điều tôi đã không thể làm, kể cả khi những nỗ lực này không thể kéo dài được lâu…
 

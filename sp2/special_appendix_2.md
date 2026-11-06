@@ -82,8 +82,8 @@ Nó có thể sẽ lấy đi nước mắt của mọi người nên xin hãy ch
 # verdict: up to you…
 
 > it’s up to us to stand our ground and say that no matter what happens, our youth will not be taken away from us…
-
-Shawn Mendes
+>
+>Shawn Mendes
 > 
 
 Trước khi khép lại toàn bộ phần phụ lục này, tôi muốn chấp nhận một sự thật rằng: ngành Troy sau này còn tồn tại hay biến mất, phát triển hay dần bị lãng quên, không còn là điều tôi quá quan tâm nữa.
@@ -131,11 +131,11 @@ Hy vọng không đến từ việc giả vờ rằng mọi chuyện rồi sẽ 
 ![youth](sub_diary/youth.png)
 
 > you can’t take my youth away  
-this soul of mine would never break
-as long as i wake up today
-you can’t take my youth away…
-
-Shawn Mendes - “Youth” - “Shawn Mendes”: The Album
+this soul of mine would never break  
+as long as i wake up today  
+you can’t take my youth away…  
+>
+>Shawn Mendes - “Youth” - “Shawn Mendes”: The Album
 > 
 
 Họ có thể lấy đi thời gian, cơ hội và rất nhiều năm tuổi trẻ của chúng ta.

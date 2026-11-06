@@ -621,7 +621,8 @@ Về bài hát, thì đây là bài thứ 11 trong tổng số 12 của album �
 
 Như tôi có kể ở những phần trước đó, là khoảnh khắc “tia sáng ở tuổi 13” đến vào một thời điểm không mấy dễ chịu lắm, đó là những năm tháng tôi mông lung và tự ti nhất ở đời mình khi liên tiếp vỡ mộng và đối diện với những cảm xúc mà trước giờ tôi chưa từng nghiêm túc nhìn nhận trước đây. Ngay cả ở hiện tại, tôi biết là tôi rất muốn đi tiếp, nhưng cái cảm giác mệt mỏi nhất là khi mình cảm thấy bị mắc kẹt trong những hồi ức tệ và không thể nào giải quyết nó để sống thật trọn vẹn cho hiện tại. Nếu bạn đọc ở chap 1 - “long depression”, bạn sẽ thấy cái cuộc sống của tôi từng khủng khiếp thế nào để khiến cho tiến độ viết trở nên chậm một cách đáng sợ. 10 năm mà 8 năm sống trong trầm cảm và hậu quả của nó để lại, rất khó để nói về hy vọng như thể nó là một bức tranh hoàn toàn tươi sáng, nên thành ra tôi phải học cách đối diện với nỗi đau và viết ra những điều mà mình cần phải làm ở hiện tại, để có thể trân trọng niềm vui mình có được. Câu hỏi lớn hơn là:
 
-“nếu tôi quyết định bước tiếp, thì tôi sẽ là ai???”
+> “nếu tôi quyết định bước tiếp, thì tôi sẽ là ai???”
+> 
 
 Thật sự rất khó để trả lời nếu chỉ nói rằng cứ move on, cứ vui vẻ lên trong khi mình còn chưa thể rạch ròi với quá khứ của chính mình. Tôi muốn viết ra điều này để trả lời và phân loại dựa trên 4 câu hỏi mà tôi cảm thấy rõ ràng nhất:
 

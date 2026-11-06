@@ -925,15 +925,15 @@ Tôi viết cho tôi và tôi viết cho các bạn… vậy thôi.
 > 
 > 
 > 
-> “oh, i hope someday I’ll make it out of here
-> even if it takes all night or a hundred years
-> need a place to hide, but i can’t find one near
-> wanna feel alive, outside i can’t fight my fear
+> “oh, i hope someday I’ll make it out of here  
+> even if it takes all night or a hundred years  
+> need a place to hide, but i can’t find one near  
+> wanna feel alive, outside i can’t fight my fear  
 > 
-> isn’t it lovely, all alone?
-> heart made of glass, my mind of stone
-> tear me into pieces, skin to bone
-> hello, welcome home...”
+> isn’t it lovely, all alone?  
+> heart made of glass, my mind of stone  
+> tear me into pieces, skin to bone  
+> hello, welcome home...”  
 > 
 > Billie Eilish, Khalid – “Lovely”
 > 
@@ -1032,12 +1032,12 @@ Và nếu vẫn còn một nơi nào đó cho hy vọng, có lẽ tôi phải b�
 
 ![summit](chap1/summit.jpg)
 
-> i wonder if the sun burnt out tonight…
->would you let me go or hold me tight?
->just one touch could erase the light
->say we’ll be alright
->say we’ll be alright….
->
+> i wonder if the sun burnt out tonight…  
+>would you let me go or hold me tight?  
+>just one touch could erase the light  
+>say we’ll be alright  
+>say we’ll be alright….  
+>  
 >VALORANT ft. Grabbitz, Oli Sykes, Courtney LaPlante - “If The Sun Burns Out Tonight”
 > 
 
@@ -1065,8 +1065,8 @@ Không ai trong số họ có thể sống thay cuộc đời tôi. Họ cũng k
 
 **có lẽ mọi chuyện vẫn chưa kết thúc.**
 
-> *say we’ll be alright…*
-*say we’ll be alright…*
+> *say we’ll be alright…*  
+*say we’ll be alright…*  
 > 
 
 Tôi không biết liệu rồi chúng ta có thật sự ổn hay không.
@@ -1076,15 +1076,15 @@ Nhưng ít nhất, trong khoảnh khắc ấy, tôi vẫn muốn tin rằng mìn
 <details>
     <summary><strong>some nights….</strong></summary>
     
->some nights, i stay up cashing in my bad luck
->some nights, i call it a draw
->some nights, i wish that my lips could build a castle
->some nights, i wish they’d just fall off…
->but i still wake up, i still see your ghost
->oh lord, i’m still not sure what i stand for
->what do i stand for?
->what do i stand for?
->most nights, i don’t know…. anymore
+>some nights, i stay up cashing in my bad luck  
+>some nights, i call it a draw  
+>some nights, i wish that my lips could build a castle  
+>some nights, i wish they’d just fall off…  
+>but i still wake up, i still see your ghost  
+>oh lord, i’m still not sure what i stand for  
+>what do i stand for?  
+>what do i stand for?  
+>most nights, i don’t know…. anymore  
 > Fun. - "Some Nights" - "Some Nights"    
 >
 
@@ -1148,9 +1148,9 @@ Họ là hy vọng trong những đêm đen. Và nếu một ngày nào đó h�
     <summary><strong>la resistance</strong></summary>
 
 
->O bella ciao, bella ciao, bella ciao ciao ciao
->Una mattina mi sono alzato
->E ho trovato l'invasor
+>O bella ciao, bella ciao, bella ciao ciao ciao  
+>Una mattina mi sono alzato  
+>E ho trovato l'invasor  
 >
 >"Bella Ciao" - Anti-fascism song
 

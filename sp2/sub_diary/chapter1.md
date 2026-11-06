@@ -606,15 +606,15 @@ the translation:
 > 
 > 
 > 
-> “em ơi,
-> anh biết chúng ta còn rất nhiều điều muốn thổ lộ…
-> nhưng anh không thể nán lại lâu hơn…
-> vậy hãy để anh ôm chặt em thêm chút nữa.…
+> “em ơi,  
+> anh biết chúng ta còn rất nhiều điều muốn thổ lộ…  
+> nhưng anh không thể nán lại lâu hơn…  
+> vậy hãy để anh ôm chặt em thêm chút nữa.…  
 > 
-> xin hãy nhận lấy tấm chân tình của anh
-> và để chúng là của riêng em
-> dù hai ta mỗi người một ngả
-> em sẽ không bao giờ cô độc một mình.…”
+> xin hãy nhận lấy tấm chân tình của anh  
+> và để chúng là của riêng em  
+> dù hai ta mỗi người một ngả  
+> em sẽ không bao giờ cô độc một mình.…”  
 > 
 
 ---
@@ -658,12 +658,12 @@ est. 2016
 
 ![viktor](chap1/viktor.jpg)
 
-> my body’s on the line now
->i can’t fight this time now
->i can feel the light shine on my face 
->did i disappoint you?
->will they still let me over?
->if i cross the line…
+> my body’s on the line now  
+>i can’t fight this time now  
+>i can feel the light shine on my face   
+>did i disappoint you?  
+>will they still let me over?  
+>if i cross the line…  
 >
 >Twenty One Pilots - “The Line” - “Arcane OST”
 > 
@@ -688,25 +688,25 @@ tôi ước bản thân mình đã có thể nói lời từ biệt ấy và kh�
 
 ![who i am](chap1/whoiam.jpg)
 
-> and it broke my heart
->when i cancelled tour
->had my soul and my head
->going back and forth….
+> and it broke my heart  
+>when i cancelled tour  
+>had my soul and my head  
+>going back and forth….  
 >
->and i don’t know
->how i’m gonna face you now
->sorry, gotta do it, gotta let you down
+>and i don’t know  
+>how i’m gonna face you now  
+>sorry, gotta do it, gotta let you down  
 >
->’cause i don’t really know
->who i am right now
->no i don’t understand
->who i am right now
+>’cause i don’t really know  
+>who i am right now  
+>no i don’t understand  
+>who i am right now  
 >
->so i bought a new place
->in a warmer town
+>so i bought a new place  
+>in a warmer town  
 >
->no i don’t really know
->who i am right now…
+>no i don’t really know  
+>who i am right now…  
 >
 >Shawn Mendes - “Who I Am” - “Shawn”
 > 

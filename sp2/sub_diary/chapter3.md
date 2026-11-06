@@ -307,7 +307,7 @@ Trước trận đấu với EDG tầm 2 ngày, thì erde có nhận được ti
 
 Hoàn cảnh về trận đấu và bài hát là như thế, nhưng nếu xét trên cá nhân tôi thì câu chuyện còn lớn hơn chỉ là một tựa game hay bài hát thông thường. Đáng ra, tôi sẽ không viết riêng phần này, và “begin again” đã có thể dài hơn. Tuy nhiên, có một suy nghĩ nảy ra trong đầu tôi, nó không phải là việc có bắt đầu lại hay không, mà là một câu hỏi rằng chúng ta liệu có dám bắt đầu lại, và nếu mọi thứ không thể thành công thì liệu cố gắng có vô nghĩa, và xa hơn nữa, câu chuyện không dừng lại ở thất bại hay thành công, mà là sau những điều đó, ta sẽ nhìn về câu chuyện của chúng ta theo hướng nào. Nếu như chỉ nói riêng chuyện bắt đầu lại một đam mê thì có lẽ đã đánh giá quá nhẹ tình hình mà quên đi rằng thực tế rất khốc liệt. Thời gian thì như thể cạn kiệt dần, mà việc bắt đầu lại với một tâm lý đầy vết xước giống như cố gắng cứu sống một bệnh nhân mà khả năng sống sót không thực sự cao, hoặc là không thể chữa khỏi hoàn toàn. Buông bỏ kỳ vọng là một chuyện, nhưng liệu rằng, nếu không có kỳ vọng, thứ gì sẽ níu giữ ta??? Tôi trải qua câu hỏi đó trong một khoảng thời gian rất dài, lưu ý là rất dài, tìm kiếm đủ loại ý tưởng và cảm hứng, nhưng phải đến khi trải qua một cú sốc tâm lý ở hiện tại, nhìn về quá khứ, tôi dần thấy một tia sáng khác, cũng là một trong những cốt lõi của “spark of 13”..…
 
-> **“nếu như mọi thứ sụp đổ, tôi sẽ vẫn ở đó, đối diện và chiến đấu tới cùng, dù tôi có thể sẽ chết…”**
+>**“nếu như mọi thứ sụp đổ, tôi sẽ vẫn ở đó, đối diện và chiến đấu tới cùng, dù tôi có thể sẽ chết…”**
 > 
 
 Nhưng, để nó trở thành một phần của “spark of 13”, định hình một tư duy mà tôi muốn hướng tới, hẳn phải có một câu chuyện đằng sau, những cảm hứng đằng sau cái tư duy ấy và cái cách nó thay đổi những suy nghĩ hiện tại của tôi, ngay lúc này. Tôi nghĩ đến lúc để có thể hé lộ nhiều hơn và những phương pháp mà tôi học được trong quá trình đối diện ấy.…
@@ -320,12 +320,12 @@ so, start…
 
 Đối với mọi học sinh THPT, mục tiêu cuối cùng là thi tốt nghiệp và đỗ đại học, những mục tiêu mà dù các bạn tô vẽ nó màu hồng ra sao, thì nó vẫn khốc liệt như vậy. Đối với tôi thì mọi chuyện còn kinh khủng hơn vậy nhiều. Gần như tôi mất sạch tất cả, từ khả năng học tập, crush, những người thân quen và phải bắt đầu trong một trạng thái đơn thương độc mã, khi tôi biết đến thông tin này, thay vì vui mừng, thì tôi chìm vào một áp lực tâm lý lớn khủng khiếp. Bạn cứ tưởng tượng, nó giống như cái cảnh của một chiếc xe bị ngập: một là bạn không thể thoát ra khỏi chiếc xe đó và hai - bạn phải thoát ra khỏi chiếc xe đó khi nó ngập tới nơi rồi. Và nói một kết cục rõ ràng nhất, cái khả năng tôi sống sót và lành lặn, gần như bằng 0, tức là, cái chết hoàn toàn rõ ràng, nhưng kể cả có sống thì cũng thương tật rất nặng. Tôi chìm vào suy nghĩ đó trong nhiều tháng học, áp lực tăng dần và tôi cảm thấy vô định lẫn chán nản, thất bại từ kì thi HSG thành phố, cho đến sự hụt hơi trong chạy đua điểm chuyên đề dần khiến tôi cảm thấy bế tắc khủng khiếp. Một trong số những dự định ngoài lề của việc học, chính là tích trữ tài liệu, tôi buộc phải làm với một trạng thái hết sức bí mật. Một mặt, tôi vẫn phải cố gắng chạy đua thành tích, nhưng mặt khác thì phải tìm hiểu những gì sẽ diễn ra ở đại học và chuẩn bị một đường thoát nếu mọi thứ sụp đổ. Dù không thể chuẩn bị đủ tốt, nhưng sự chuẩn bị ấy vô cùng cần thiết và nó đã chứng minh rất nhiều ở đại học sau này. Nhưng lớn hơn, cái phương pháp thu thập ấy cũng rất đặc biệt. Tôi không có đủ thời gian để đọc toàn bộ tài liệu đó, nhưng có một vài đầu sách mà sau này ở đại học thì tôi đọc, một trong số đó là những cuốn sách về Golang, C# và thuật toán. Một trong số những kiến thức tôi học được là hiểu flow chạy của một chương trình nhất định và tập bám sát những gì diễn ra ở bên trong, và để hiểu điều đó, thì phải đọc thật kĩ cú pháp, kiên nhẫn đọc từng dòng và xem nó tính làm gì. Nhờ việc đó mà tôi thích nghi với ngành học khá nhanh so với những gì tôi đã nghĩ. Nhưng điều lớn nhất, và cũng là câu trả lời đầu tiên:
 
-> **“nếu như thất bại là tất yếu, mọi nỗ lực và sự chuẩn bị không bao giờ thừa, dù chỉ là một ít.…”**
+>**“nếu như thất bại là tất yếu, mọi nỗ lực và sự chuẩn bị không bao giờ thừa, dù chỉ là một ít.…”**
 > 
 
 Nhưng câu chuyện vẫn chưa dừng lại ở đó, một trong những vấn đề lớn ở đại học chính là sự tan vỡ của kỳ vọng và những biến cố cá nhân khiến tôi gặp khó trong việc thực hiện chức vụ của mình. Có rất nhiều lần, tôi chỉ muốn mình có thể buông một điều gì đó để hướng tới điều lớn hơn, rằng tôi không mong cái thời kì đại học phải gặp lắm biến cố cá nhân như vậy. Cuộc sống ở đại học cũng thật sự quá tải, khi tôi phải đối mặt với vấn đề học tập, chuyện trên lớp và cả quá khứ không mấy vui vẻ của mình. Ngay đúng vài ngày đầu tiên khi làm lớp trưởng, tôi gặp một biến cố gia đình và cá nhân cực lớn, đó là chuyện laptop của tôi bị hỏng kèm theo những tài liệu mà đáng ra tôi cần phải hoàn thành. Tôi lúc đó mới nhậm chức, còn chưa kịp biết tình hình ra sao, thì tôi gặp phải một tin dữ tiếp theo, đó là chuyện không kịp bàn giao mail lớp, dẫn đến cả lớp bị mất thông tin trong việc lấy thời khóa biểu, nghiêm trọng tới mức là phải đến khi buổi học đầu tiên, thì tôi mới trắng mắt ra nhìn cái sự nghiêm trọng có thể hại tới một tập thể như thế nào. Thế là trong thời gian đó, tôi chìm trong sợ hãi và dù có nghĩ như thế nào, thì ngoài chuyện từ chức, tôi không thể nghĩ ra cái gì đó khác. Tinh thần khi đó của tôi gần như sụp đổ, vì tôi đã không thể làm tốt đúng như kỳ vọng của mình. Để cứu vớt chút thể diện, tôi từng cố liên lạc với một vài đứa bạn và đề nghị giao chức vụ cho ai đó nếu như có điều gì không ổn, nhưng tôi không chọn được ai cả. Thế là, tôi quyết định nói trung thực về vấn đề tâm lý của mình và nói rằng... tôi không thể làm tốt vì đã không thể quản lý thông tin cho mọi người, và có một quyết định khi đó xoay chuyển tình thế, đó là giao quyền tự quản về mặt thông tin cho tất cả mọi người. Tôi lên một chiến dịch chuyển tiếp mail cá nhân, để đảm bảo rằng nếu tôi không tiếp cận được thông tin, thì ai có được sẽ chuyển tiếp lại cho tất cả mọi người. Nhờ việc này mà gánh nặng từ chức vụ giảm xuống đáng kể. Đó là cách mà tôi vẫn đảm bảo mọi thứ vẫn hoạt động mà không phải đưa ra bất cứ quyết định cực đoan nào và câu trả lời tiếp theo là:
 
-> **“nếu như sau đó là từ chức, thì phải hoàn thành nhiệm vụ đến cuối cùng”**
+>**“nếu như sau đó là từ chức, thì phải hoàn thành nhiệm vụ đến cuối cùng”**
 > 
 
 Chuyện học tập và quá trình trở lại hiện tại của tôi, cũng là một xác nhận đủ lớn cho những gì tôi đã học được. Khoảnh khắc khi tôi nhận ra rằng mình muốn sống và học tập một lần nữa, chính là lúc tôi đi ngang qua crush của mình trong một ngày cuối tháng 6. Trong đầu tôi vẫn loáng thoáng những vỡ mộng của kì VI, VII và VIII, đợt thực tập không lương dài 8 tháng đã bào mòn thời gian, tâm trí và sức lực của mình cho những chuyện không đáng. Và ngày đó, như cái lần thi đại học kia, khiến tôi nhận ra rằng trong nhiều năm, tôi đã không thể làm đúng những gì mà mình thật sự muốn. Mỗi một lần tôi cố gắng, tôi lại không thể làm tốt chuyện của chính mình, tôi không thể có một thành tích mà tôi muốn, tôi không thể thực hiện dự án mà không phải thấy lo âu. Tôi muốn có dũng khí, vì tôi biết trước sau gì cũng thất bại nên tôi cần một dũng khí. Khoảnh khắc ấy đánh dấu việc tôi sẽ hoàn thành dự án của mình nhanh nhất có thể và trình diễn nó ở một thời khắc nhất định. May mắn là dự án ít nhiều thành công, dù quy mô khá nhỏ nhưng ít nhất thì nó cũng giúp tôi giải quyết được rất nhiều nghi ngờ và đưa tôi tỉnh táo trở lại, để kết thúc kì IX và X.
@@ -348,7 +348,7 @@ Nhưng câu chuyện rẽ sang một hướng khác....., tôi thật sự cảm
 
 Nó xuất phát từ một con Xperia, một chiếc máy ảnh và một vài cảm hứng mà tôi chưa từng khám phá nghiêm túc. Tôi tập đi những nơi mà tôi chưa từng đi một mình, tận hưởng những khoảng lặng từ một nơi mà tôi chưa từng biết đến trước kia. Và suy nghĩ khi đó của tôi là:
 
-> **“có lẽ trong nhiều năm, tôi chưa từng thật sự tận hưởng cuộc sống theo cách mà tôi muốn và tôi nên làm...”**
+>**“có lẽ trong nhiều năm, tôi chưa từng thật sự tận hưởng cuộc sống theo cách mà tôi muốn và tôi nên làm...”**
 > 
 
 Những trải nghiệm ấy,dù không thật sự dễ dàng nhưng giúp tôi cởi mở hơn với mọi ý tưởng của mình. Trong thế giới ấy, tôi không đặt ra bất cứ kỳ vọng nào, và nếu tôi có một ý tưởng thì tôi có quyền triển khai, nếu tôi sai và muốn sửa thì cứ việc sửa, và nếu tôi không ổn, thì tôi cũng không ép mình phải đi tiếp vào một sai lầm nào đó. Cùng một bối cảnh, khi tôi phải đối diện với nỗi bất an của một người đã mất tất cả và phải sống với những thứ mà trước sau gì cũng tan vỡ. Tôi thiếu tự tin tới mức mà phải đến khi chụp ảnh và chấp nhận rằng sẽ có những khiếm khuyết và những bức ảnh không thể hoàn hảo, tôi mới dần tự tin và thoải mái hơn. Cũng lúc đó, tôi quyết định nhìn lại quá khứ, nhìn vào những quyết định, những khoảng tối và một chút ánh sáng. Có rất nhiều điều mà tôi nghĩ và tôi học được, tôi thật sự thấy may mắn vì ít nhất có một vài điều tôi có thể nhớ đến.…
@@ -358,11 +358,11 @@ Nhìn lại cả một quãng thời gian qua, tôi nhìn thấy một sự th�
 > 
 > 
 > 
-> **“nếu như có một điều tồi tệ có thể sẽ đến, nó chắc chắn sẽ đến.  
+> **“nếu như có một điều tồi tệ có thể sẽ đến, nó chắc chắn sẽ đến.**  
 > 
-> nếu cái chết có thể sẽ đến, thì đó là nguy cơ rõ ràng nhất.  
+> **nếu cái chết có thể sẽ đến, thì đó là nguy cơ rõ ràng nhất.**  
 > 
-> nếu công việc nó có thời hạn, thì dù có giữ cũng không kéo dài lâu hơn.…”**  
+> **nếu công việc nó có thời hạn, thì dù có giữ cũng không kéo dài lâu hơn.…”**  
 > 
 
 Tôi nhìn từ câu chuyện của cấp II, từ THPT và những đốm sáng ở đại học, những khoảnh khắc nhỏ nhoi ấy dạy tôi rằng ít nhất trong những khoảnh khắc vỡ vụn nhất, tôi đã yêu thương một ai đó thật lòng, dù tôi không thể đi đến cuối cùng. Tôi không kỳ vọng gì ở họ, nhưng họ khiến tôi muốn sống lại, vì họ muốn tôi sống không hối hận và sống theo cách tôi muốn. Trong những khoảnh khắc đó, tôi đối diện với nỗi sợ, được khóc và tự cho mình một nơi bình yên sau hàng tá chuyện tồi tệ. Khi tôi thử làm những dự án nhỏ, không kỳ vọng, chỉ có sáng tạo và niềm vui của việc khám phá, thì tâm trạng đã khá hơn rất nhiều. Tôi hiểu rằng, đôi khi không nhất thiết phải có kỳ vọng, hoặc tốt nhất là không. Thật sự rất khó để nghĩ mọi thứ sẽ tốt hơn chỉ sau một đêm khi những gì xảy ra trước mắt chỉ là tan hoang. Việc kỳ vọng một điều gì đó quá nhiều, khiến ta chìm sâu hơn vào nỗi sợ và những sai lầm khó vãn hồi. Lớn hơn nữa, tôi hiểu rằng, thất bại là điều thật sự rất rõ ràng, đó là điểm đáy nhất mà chúng ta có thể biết, nhưng điều ta có thể biết được là khi chúng ta biết rõ điều đó, ta sẽ luôn phải đối diện cho dù có trốn tránh tới đâu. Câu hỏi không phải là việc chúng ta sẽ thất bại, mà là một câu hỏi trần trụi và cần sự quyết đoán:
@@ -370,9 +370,9 @@ Tôi nhìn từ câu chuyện của cấp II, từ THPT và những đốm sáng
 > 
 > 
 > 
-> “**một, là ta thất bại trong hối hận và nghĩ về chuyện thất bại đó như một nỗi ô nhục.**  
+> **“một, là ta thất bại trong hối hận và nghĩ về chuyện thất bại đó như một nỗi ô nhục.**  
 > 
-> **hai, là ta thất bại, buồn, nhưng có thể nhẹ nhàng nói rằng ta đã làm hết sức và để nó trôi đi.…**”
+> **hai, là ta thất bại, buồn, nhưng có thể nhẹ nhàng nói rằng ta đã làm hết sức và để nó trôi đi.…”**
 > 
 
 Tôi nghĩ không phải ai trong chúng ta suy nghĩ nhẹ nhàng như vậy, ngay cả bản thân tôi cũng chưa thật sự chuẩn bị tâm lý nếu như nhận được thông báo cắt giảm nhân sự hoặc sa thải. Chỉ là giờ, tôi thấy rõ ràng nhất, đó là tôi sẽ thất bại, không thất bại kiểu này thì cũng là kiểu khác, nhưng vấn đề là chuyện tôi sẽ nghĩ về nó, hoặc là nỗi ô nhục, hoặc là một nỗ lực không thành. Tuy nhiên, có một điều mà tôi tin rằng mình phải sống, đó là khi tôi hiểu cái câu nói này:
@@ -416,27 +416,27 @@ Nếu như biết trước thất bại mà vẫn chiến đấu đến cùng, t
 > 
 > 
 > 
-> you crossed my mind
-> it's been a while
-> now i'm sitting in a taxi with his arms around me
-> she just moved out
-> and i don't know why
-> i really wanna call you up and talk about it
+> you crossed my mind  
+> it's been a while  
+> now i'm sitting in a taxi with his arms around me  
+> she just moved out  
+> and i don't know why  
+> i really wanna call you up and talk about it  
 > 
-> soon as one of us is happy
-> the other one gets lonely
-> so sad it's almost funny
-> how off we are
-> should it be this hard?
+> soon as one of us is happy  
+> the other one gets lonely  
+> so sad it's almost funny  
+> how off we are  
+> should it be this hard?  
 > 
-> never took the shot, thought i had to hide it
-> it was stupid, i know
-> never spoke my mind and i blamed the timing
-> every time we got close
-> yeah, we could be great, anybody can see it
-> i'm the last one to know
-> never took the shot, it was dumb, i'm sorry
-> is it over? did we miss the party?
+> never took the shot, thought i had to hide it  
+> it was stupid, i know  
+> never spoke my mind and i blamed the timing  
+> every time we got close  
+> yeah, we could be great, anybody can see it  
+> i'm the last one to know  
+> never took the shot, it was dumb, i'm sorry  
+> is it over? did we miss the party?  
 > 
 > Clara Mae, Maximillian - “Miss The Party” - “Learning Experience” 
 > 
@@ -456,30 +456,30 @@ Câu chuyện ở nửa sau, trong tuyến tình cảm của tôi, không phải
 > 
 > 
 > 
-> i've had space and time to realize the grass
-> ain't greener and i kinda miss my side
-> know i shoulda listened, when you told me the first time
-> "you won't find another like me"
+> i've had space and time to realize the grass  
+> ain't greener and i kinda miss my side  
+> know i shoulda listened, when you told me the first time  
+> "you won't find another like me"  
 > 
-> 'cause i'm sat here in my front room
-> with a girl, who ain't you
-> hoping and praying
-> you're breakin' up with another fool
-> who didn't hear the words
-> that i hear on the same loop
-> you won't find another like me
+> 'cause i'm sat here in my front room  
+> with a girl, who ain't you  
+> hoping and praying  
+> you're breakin' up with another fool  
+> who didn't hear the words  
+> that i hear on the same loop  
+> you won't find another like me  
 > 
-> maybe i should have loved harder
-> put up more of a fight
-> i know i could have been stronger tonight
+> maybe i should have loved harder  
+> put up more of a fight  
+> i know i could have been stronger tonight  
 > 
-> i've looked for love but there's a space inside my mind
-> Where i keep on missing you
-> i keep on missing you
-> if you've seen enough
-> know that i'll be right here
-> not with somebody new
-> i keep on missing you (you, you)
+> i've looked for love but there's a space inside my mind  
+> Where i keep on missing you  
+> i keep on missing you  
+> if you've seen enough  
+> know that i'll be right here  
+> not with somebody new  
+> i keep on missing you (you, you)  
 > 
 > The Vamps - “Missing You” - “Missing You” (EP)
 > 
@@ -510,20 +510,20 @@ Kể từ đó, cuộc sống không có crush lại bắt đầu một lần n�
 > 
 > 
 > 
-> i need to learn how to cope without you
-> i'm tryna protect myself but only you know how to, yeah
-> oh, i know what we're supposed to do
-> oh, but i hate the thought of losing you
-> so, i'm just tryna hold on
+> i need to learn how to cope without you  
+> i'm tryna protect myself but only you know how to, yeah  
+> oh, i know what we're supposed to do  
+> oh, but i hate the thought of losing you  
+> so, i'm just tryna hold on  
 > 
-> hold on
-> i don't wanna know what it's like when you're gone
-> i don't wanna move on
-> i don't wanna know what it's like when you're gone for good
-> you're slipping through my fingertips
-> a little bit by a little bit
-> i didn't know that loving you was the happiest i've ever been
-> so i'm just tryna hold on
+> hold on  
+> i don't wanna know what it's like when you're gone  
+> i don't wanna move on  
+> i don't wanna know what it's like when you're gone for good  
+> you're slipping through my fingertips  
+> a little bit by a little bit  
+> i didn't know that loving you was the happiest i've ever been  
+> so i'm just tryna hold on  
 > 
 > Shawn Mendes - “When You’re Gone”
 > 
@@ -551,12 +551,12 @@ Tôi không hối hận vì đã yêu crush. Tôi đã sống rất nhiệt thà
 > 
 > 
 > 
-> somehow, i don't even know what she does now
-> but do i wish her the best or do i actually miss her?
-> she had hearts in her eyes, she was rootin' for me all the time
-> her love, the type that makes you dedicate your life
-> oh, my cheerleader
-> thought she needed me, but i need her
+> somehow, i don't even know what she does now  
+> but do i wish her the best or do i actually miss her?  
+> she had hearts in her eyes, she was rootin' for me all the time  
+> her love, the type that makes you dedicate your life  
+> oh, my cheerleader  
+> thought she needed me, but i need her  
 > 
 > Porter Robinson - “Cheerleader” - “SMILE :D”
 > 
@@ -582,30 +582,30 @@ well, i miss her so much…. meehhhh
 > 
 > 
 > 
-> rollin', rollin', rollin' right along
-> rollin', rollin', rollin' right along
-> doesn't matter if i'm right or if i'm wrong
-> rollin' right along
+> rollin', rollin', rollin' right along  
+> rollin', rollin', rollin' right along  
+> doesn't matter if i'm right or if i'm wrong  
+> rollin' right along  
+>   
+> i was tryna grow up way too fast  
+> when time's the only thing i can't get back  
+> i'm strapped in for the ride, life goes on  
+> rollin' right along  
 > 
-> i was tryna grow up way too fast
-> when time's the only thing i can't get back
-> i'm strapped in for the ride, life goes on
-> rollin' right along
+> might lose my way  
+> gone, gone, gone  
+> but i'm gonna stay  
+> rollin' right along  
 > 
-> might lose my way
-> gone, gone, gone
-> but i'm gonna stay
-> rollin' right along
+> two years since i held my baby tight  
+> learned my heart can break and that's alright  
+> 'cause i'm not the only one who's movin' on  
+> rollin' right along  
 > 
-> two years since i held my baby tight
-> learned my heart can break and that's alright
-> 'cause i'm not the only one who's movin' on
-> rollin' right along
-> 
-> might lose my way
-> gone, gone, gone
-> but I'm gonna stay
-> rollin' right along
+> might lose my way  
+> gone, gone, gone  
+> but I'm gonna stay  
+> rollin' right along  
 > 
 > Shawn Mendes - “Rollin’ Right Along” - “Shawn”
 > 
@@ -647,22 +647,22 @@ Tôi không có một công thức rằng các bạn khi bước tiếp sẽ tr�
 
 ![in my blood.jpg](./chap3/in_my_blood.jpg)
 
-> “help me
->it’s like the wall are caving in
->sometimes i feel like giving up
->but i just can’t
->it isn’t in my blood”
+> “help me  
+>it’s like the wall are caving in  
+>sometimes i feel like giving up  
+>but i just can’t  
+>it isn’t in my blood”  
 >
 >Shawn Mendes - “In My Blood” - “Shawn Mendes”
 > 
 
 translation:
 
-> “giúp tôi với…
-dường như mọi thứ đang dần sụp đổ rồi
-đôi khi tôi chỉ muốn buông xuôi
-nhưng tôi không thể…
-vì đó không phải là chính tôi.”
+> “giúp tôi với…  
+dường như mọi thứ đang dần sụp đổ rồi  
+đôi khi tôi chỉ muốn buông xuôi  
+nhưng tôi không thể…  
+vì đó không phải là chính tôi.”  
 > 
 
 Tôi xin chính thức thông báo, đây là phần cuối cùng mà tôi viết cho toàn bộ phụ lục này. Để nói về cảm giác hiện tại, lúc tôi chính thức xong phần viết và chuẩn bị đến phần chỉnh lý, tôi có một cảm giác nhẹ nhàng và rõ ràng hơn so với lúc tôi bắt đầu chắp bút. Như tôi có nói ở phần “rollin’ right along”, thì trải nghiệm viết ra những lời này, giống như nhìn lại cuộc đời của mình, có niềm vui tột đỉnh, có những nỗi buồn ám ảnh gần thập kỷ, có cả những đấu tranh và ở hiện tại, đó là một sự bắt đầu - tiếp tục những ước mơ đã từng phải dở dang. Đối với tôi, phần phụ lục này, vừa là tâm sự về những điều chưa thể nói và cũng là thứ chữa lành trái tim mà tôi rất muốn lôi ra đọc đi đọc lại. Dù thật khó để bắt đầu lại, và tôi cũng chưa thể nói rằng mình đã hoàn toàn “move on” khỏi quá khứ, nhưng ít nhất, tôi yêu hiện tại của mình, và đó là lý do của phần kết này - không phải là một kết thúc, mà cho một khởi đầu mới…
@@ -688,9 +688,9 @@ Dù sao cũng là kết bài, khi tôi của tuổi 13 quay lại trong một d�
 
 ![frag or die](./chap3/frag_or_die.jpg)
 
-> “**生死无暇**”
-”**frag or die**”
-”**sinh tử vô hạ**”
+> “**生死无暇**”  
+”**frag or die**”  
+”**sinh tử vô hạ**”  
 >
 >VALORANT Champions Shanghai.
 > 

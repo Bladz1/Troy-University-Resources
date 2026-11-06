@@ -130,7 +130,7 @@ Hy vọng không đến từ việc giả vờ rằng mọi chuyện rồi sẽ 
 
 ![youth](sub_diary/youth.png)
 
-> you can’t take my youth away
+> you can’t take my youth away  
 this soul of mine would never break
 as long as i wake up today
 you can’t take my youth away…

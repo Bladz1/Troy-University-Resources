@@ -31,19 +31,19 @@ Vậy thì, tôi của trước khi trầm cảm là ai, và tại sao nó thay 
 
 ![jesse](chap1/image.png)  
 
-> slow down, things have been a little crazy
-> right now, it's time to get away
-> you can, find out, what it is you're really after
-> time is on our side
-> come on, we're leaving everything behind
+> slow down, things have been a little crazy  
+> right now, it's time to get away  
+> you can, find out, what it is you're really after  
+> time is on our side  
+> come on, we're leaving everything behind  
 > 
-> you know that sun is shining
-> we'll keep driving doesn't matter where
-> 'cause we got that open highway
-> leading our way
-> as long as you are there
-> yeah, we can go anywhere
-> woah, we can go anywhere
+> you know that sun is shining  
+> we'll keep driving doesn't matter where  
+> 'cause we got that open highway  
+> leading our way  
+> as long as you are there  
+> yeah, we can go anywhere  
+> woah, we can go anywhere  
 > 
 > Jesse McCartney - “We Can Go Anywhere” - “Right Where You Want Me”
 > 
@@ -94,11 +94,11 @@ Tôi không biết ở hiện tại sẽ ra sao, nhưng cái lúc tôi nghĩ v�
 > 
 > 
 > 
-> and i'm everything you talk about
-> why should you keep letting yourself be let down?
-> if i'm everything you talk about
-> i'm in the mirror, baby, let it all out
-> knock yourself out
+> and i'm everything you talk about  
+> why should you keep letting yourself be let down?  
+> if i'm everything you talk about  
+> i'm in the mirror, baby, let it all out  
+> knock yourself out  
 > 
 > Porter Robinson - “Knock Yourself Out XD” - “SMILE :D”
 > 
@@ -152,11 +152,11 @@ Tôi nghĩ là mình chỉ nên nói tới đây, vì những phần sau đó ch
 
 ![call my friends](chap1/call_my_friends.png)
     
-> i should call my friends and go get high….
->i need a vacation from my mind….
->i wanna go nobody knows me better than them.
->wanna feel something again
->i should call my friends…
+> i should call my friends and go get high….  
+>i need a vacation from my mind….  
+>i wanna go nobody knows me better than them.  
+>wanna feel something again  
+>i should call my friends…  
 >
 >Shawn Mendes - “Call My Friends” - “Wonder”
 > 
@@ -208,25 +208,25 @@ Tôi không chắc là mình có kể chuẩn xác như thời điểm đó hay 
 > 
 > 
 > 
-> i love it when you just don't care
-> i love it when you dance like there's nobody there
-> so when it gets hard, don't be afraid
-> we don't care what them people say
+> i love it when you just don't care  
+> i love it when you dance like there's nobody there  
+> so when it gets hard, don't be afraid  
+> we don't care what them people say  
 > 
-> i love it when you don't take no
-> i love it when you do what you want 'cause you just said so
-> let them all go home, we out late
-> we don't care what them people say
+> i love it when you don't take no  
+> i love it when you do what you want 'cause you just said so  
+> let them all go home, we out late  
+> we don't care what them people say  
 > 
-> we don't have to be ordinary
-> make your best mistakes
-> 'cause we don't have the time to be sorry
-> so baby, be the life of the party
+> we don't have to be ordinary  
+> make your best mistakes  
+> 'cause we don't have the time to be sorry  
+> so baby, be the life of the party  
 > 
-> i'm tellin' you to take your shot, it might be scary
-> hearts are gonna break
-> 'cause we don't have the time to be sorry
-> so baby, be the life of the party
+> i'm tellin' you to take your shot, it might be scary  
+> hearts are gonna break  
+> 'cause we don't have the time to be sorry  
+> so baby, be the life of the party  
 > 
 > Shawn Mendes - “Life Of The Party” - Handwritten
 > 
@@ -289,12 +289,12 @@ Well, có lẽ ở hiện tại, tôi chọn cách tiếp cận như thế này,
 > 
 > 
 > 
-> if you give me a piece of your heart
-> you'll keep easy when we are a part
-> of two worlds, it could be nothin'
-> maybe it's somethin'
+> if you give me a piece of your heart  
+> you'll keep easy when we are a part  
+> of two worlds, it could be nothin'  
+> maybe it's somethin'  
 > 
-> keep your eyes on me
+> keep your eyes on me  
 > 
 > Madge, VALORANT - “2WORLDS” - Agent Clove…
 > 
@@ -477,14 +477,14 @@ Tôi không cần điểm số hay sự hoàn hảo để nói rằng nó là m�
 
 ![lionhearted](chap1/lionhearted.png)
     
-> they broke the walls we guarded
-but we don't care about it
-we'll finish what we started
-so promise me that
-we'll be the lionhearted
-for we don't care about it
-we'll finish what we started
-so promise me that they'll fall
+> they broke the walls we guarded  
+but we don't care about it  
+we'll finish what we started  
+so promise me that  
+we'll be the lionhearted  
+for we don't care about it  
+we'll finish what we started  
+so promise me that they'll fall  
 > 
 > 
 > Porter Robinson, Urban Cone - “Lionhearted” - “Worlds”

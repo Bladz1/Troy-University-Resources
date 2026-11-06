@@ -549,17 +549,17 @@ s c o r c h e d e a r t h
 > 
 > 
 > 
-> the drinks are gettin' better, 
-> the view is lookin' nice
-> as long as we're together, 
-> no, i can't get much higher, high, high
-> no, i can't get much higher
+> the drinks are gettin' better,  
+> the view is lookin' nice  
+> as long as we're together,   
+> no, i can't get much higher, high, high  
+> no, i can't get much higher  
 > 
-> let's stay like this forever
-> i'll kiss you every night
-> as long as we're together
-> no, i can't get much higher, high, high
-> no, i can't get much higher
+> let's stay like this forever  
+> i'll kiss you every night  
+> as long as we're together  
+> no, i can't get much higher, high, high  
+> no, i can't get much higher  
 > 
 > Shawn Mendes - “Higher” - “Wonder”
 > 
@@ -580,23 +580,23 @@ Thật khó để diễn tả thành lời, nhưng đó là năm ý nghĩa nhấ
     
 ![never be alone](chap1/never_be_alone.jpg)
 
-> i promise that one day i'll be around
->i'll keep you safe
->i'll keep you sound
->right now it's pretty crazy
->and I don't know how to stop
->or slow it down
+> i promise that one day i'll be around  
+>i'll keep you safe  
+>i'll keep you sound  
+>right now it's pretty crazy  
+>and I don't know how to stop  
+>or slow it down  
 >
->hey
->i know there are some things we need to talk about
->but i can't stay
->just let me hold you for a little longer now
+>hey  
+>i know there are some things we need to talk about  
+>but i can't stay  
+>just let me hold you for a little longer now  
 >
->>take a piece of my heart
->and make it all your own
->so when we are apart
->you'll never be alone
->you'll never be alone
+>take a piece of my heart  
+>and make it all your own  
+>so when we are apart  
+>you'll never be alone  
+>you'll never be alone  
 >
 >Shawn Mendes - “Never Be Alone” - “Handwritten”
 > 

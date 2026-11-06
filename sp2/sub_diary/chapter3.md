@@ -5,16 +5,16 @@
 > 
 > 
 > 
-> look at the sky, i'm still here
-> i'll be alive next year
-> i can make something good, oh
-> something good
+> look at the sky, i'm still here  
+> i'll be alive next year  
+> i can make something good, oh  
+> something good  
 > 
-> look at the sky, i'm still here
-> i'll be alive next year
-> i can make something good, oh
-> something good
-> 
+> look at the sky, i'm still here  
+> i'll be alive next year  
+> i can make something good, oh  
+> something good  
+>  
 > Porter Robinson - “Look At The Sky” - “Nurture”
 > 
 
@@ -51,14 +51,14 @@ Có lẽ tôi nên thử khám phá những điều chưa biết về mình, m�
 > 
 > 
 > 
-> “you’re with somebody i can’t be
-> but i can tell that you’re happy
+> “you’re with somebody i can’t be  
+> but i can tell that you’re happy  
 > 
-> it’s time for me to finally meet somebody new
-> take her to all the places that i took us to
-> and she might help me forget
-> but loving her is something i could never do
-> because i had.... because i had you”
+> it’s time for me to finally meet somebody new  
+> take her to all the places that i took us to  
+> and she might help me forget  
+> but loving her is something i could never do  
+> because i had.... because i had you”  
 > 
 > Shawn Mendes - “Because I Had You” - “Shawn Mendes”: The Album
 > 
@@ -93,17 +93,17 @@ Câu chuyện mở đầu là vậy, và nỗi nhớ ấy là điểm xuất ph�
     <summary><strong>a bit of homesickness, mixed feelings…</strong></summary>
 
 
->the sun is out
->the sky is bright
->people come and go with smiles…
->yet i’m still freezing cold in california…
+>the sun is out  
+>the sky is bright  
+>people come and go with smiles…  
+>yet i’m still freezing cold in california…  
 >
->and waves of heat
->from the concrete
->the sand is burning on my feet
->yet i’m still freezing cold in california
+>and waves of heat   
+>from the concrete  
+>the sand is burning on my feet  
+>yet i’m still freezing cold in california  
 >
->without you, i’m freezing cold in california
+>without you, i’m freezing cold in california  
 >
 >Shawn Mendes - “Cold In California” - “Illuminate”
 > 
@@ -143,26 +143,26 @@ Tôi nghĩ về cảm giác nhớ nhà như thế, phải thật sự đi xa, g�
     <summary><strong>the documentary</strong></summary>
 
         
-    ![Shawn on beach](./chap3/in_wonder_2.png)
+![Shawn on beach](./chap3/in_wonder_2.png)
     
-    > “Sự nặng nề của chuyến lưu diễn, theo nhiều cách, khiến tôi muốn lật ngược tình thế và trở nên tích cực hơn. Tôi viết nhiều hơn về sự lo âu như là một người bạn mà tôi phải chịu đựng hơn là một kẻ thù mà tôi cố chống lại….”
+> “Sự nặng nề của chuyến lưu diễn, theo nhiều cách, khiến tôi muốn lật ngược tình thế và trở nên tích cực hơn. Tôi viết nhiều hơn về sự lo âu như là một người bạn mà tôi phải chịu đựng hơn là một kẻ thù mà tôi cố chống lại….”  
+>    
+Shawn Mendes - “In Wonder”
+> 
     
-    Shawn Mendes - “In Wonder”
-    > 
+Một trong những câu chuyện đầu tiên ở đại học mà tôi muốn kể là lần xem “In Wonder” của Shawn Mendes. Bộ phim cho tôi nhìn thấy cuộc sống đằng sau ánh hào quang và những áp lực trong hành trình lưu diễn của anh. Khi nghe album “Wonder” cùng với những gì đã thấy trong phim, tôi cảm nhận rõ hơn một tinh thần có hơi hướng thoát ly một xíu: tự khám phá bản thân, đối diện với những tự ti và thử nghiệm những điều chưa từng thử trước kia. Điều khiến tôi muốn kể lại không chỉ là âm nhạc, mà là cái cảm giác nhận ra một người được coi là thành công vẫn có những nỗi sợ rất bình thường…
     
-    Một trong những câu chuyện đầu tiên ở đại học mà tôi muốn kể là lần xem “In Wonder” của Shawn Mendes. Bộ phim cho tôi nhìn thấy cuộc sống đằng sau ánh hào quang và những áp lực trong hành trình lưu diễn của anh. Khi nghe album “Wonder” cùng với những gì đã thấy trong phim, tôi cảm nhận rõ hơn một tinh thần có hơi hướng thoát ly một xíu: tự khám phá bản thân, đối diện với những tự ti và thử nghiệm những điều chưa từng thử trước kia. Điều khiến tôi muốn kể lại không chỉ là âm nhạc, mà là cái cảm giác nhận ra một người được coi là thành công vẫn có những nỗi sợ rất bình thường…
+Tôi biết đến phim này cũng theo một cách rất tình cờ, đó là lúc tôi bắt đầu những kì học đầu tiên ở đại học. Lúc ấy, có lẽ tôi cũng khá sợ hãi vì tôi chưa từng làm quen với một môi trường mà mình phải tự làm mọi thứ, phải làm quen lại từ đầu và cái ám ảnh về thất bại cứ treo lơ lửng thôi. Lúc ấy thì Netflix vẫn có free tier đối với một vài khu vực để có thể thu hút người dùng, và đây là một trong số đó. Từ lúc tôi bắt đầu xem, tôi biết được khá nhiều chi tiết và cũng tập trung lắng nghe nhiều bài hát trong album “Wonder” khi hiểu được nhiều tầng ý nghĩa hơn, đặc biệt là bài “305”, “Song For No One” hay là “Higher”. Có một vài điều mà tôi muốn nói về những gì mà tôi đã học được…
     
-    Tôi biết đến phim này cũng theo một cách rất tình cờ, đó là lúc tôi bắt đầu những kì học đầu tiên ở đại học. Lúc ấy, có lẽ tôi cũng khá sợ hãi vì tôi chưa từng làm quen với một môi trường mà mình phải tự làm mọi thứ, phải làm quen lại từ đầu và cái ám ảnh về thất bại cứ treo lơ lửng thôi. Lúc ấy thì Netflix vẫn có free tier đối với một vài khu vực để có thể thu hút người dùng, và đây là một trong số đó. Từ lúc tôi bắt đầu xem, tôi biết được khá nhiều chi tiết và cũng tập trung lắng nghe nhiều bài hát trong album “Wonder” khi hiểu được nhiều tầng ý nghĩa hơn, đặc biệt là bài “305”, “Song For No One” hay là “Higher”. Có một vài điều mà tôi muốn nói về những gì mà tôi đã học được…
+Điều đầu tiên mà tôi học được, đó là tính hai mặt trong cuộc sống của con người, nhất là những nghệ sĩ thì càng hiểu rõ điều này và đôi khi, chúng ta chỉ nhìn vào khía cạnh bên ngoài, hơn là nhìn vào toàn cảnh, điều này có thể chứng minh bằng thói quen nghe nhạc và cái cách mà ngành công nghiệp âm nhạc đánh giá mỗi nghệ sĩ. Trong phim, thì ngoài những tour diễn choán hết cả một năm, thì Shawn cũng chỉ như một người bình thường, có một đứa em đi học cấp 3, có bố mẹ và những đứa bạn từ thời thơ ấu vẫn đến ủng hộ. Dù có nổi tiếng tới đâu, thì khi bước ra khỏi ánh đèn sân khấu, thì họ cũng quay về như hầu hết chúng ta thôi. Bộ phim khiến cách tôi quan tâm đến một nghệ sĩ cũng thay đổi: thay vì chỉ tập trung vào sự nổi tiếng hay những bài nhạc hàng tỷ lượt stream, tôi muốn lắng nghe cả những trải nghiệm bình thường, những bài nhạc ít được chú ý và những cuộc nói chuyện giúp mình hiểu thêm về họ. Ai cũng có cuộc sống cá nhân của mình và sẽ thật sự tốt nếu như chúng ta có thể chia sẻ những khía cạnh ấy để học hỏi và phát triển cùng nhau…
     
-    Điều đầu tiên mà tôi học được, đó là tính hai mặt trong cuộc sống của con người, nhất là những nghệ sĩ thì càng hiểu rõ điều này và đôi khi, chúng ta chỉ nhìn vào khía cạnh bên ngoài, hơn là nhìn vào toàn cảnh, điều này có thể chứng minh bằng thói quen nghe nhạc và cái cách mà ngành công nghiệp âm nhạc đánh giá mỗi nghệ sĩ. Trong phim, thì ngoài những tour diễn choán hết cả một năm, thì Shawn cũng chỉ như một người bình thường, có một đứa em đi học cấp 3, có bố mẹ và những đứa bạn từ thời thơ ấu vẫn đến ủng hộ. Dù có nổi tiếng tới đâu, thì khi bước ra khỏi ánh đèn sân khấu, thì họ cũng quay về như hầu hết chúng ta thôi. Bộ phim khiến cách tôi quan tâm đến một nghệ sĩ cũng thay đổi: thay vì chỉ tập trung vào sự nổi tiếng hay những bài nhạc hàng tỷ lượt stream, tôi muốn lắng nghe cả những trải nghiệm bình thường, những bài nhạc ít được chú ý và những cuộc nói chuyện giúp mình hiểu thêm về họ. Ai cũng có cuộc sống cá nhân của mình và sẽ thật sự tốt nếu như chúng ta có thể chia sẻ những khía cạnh ấy để học hỏi và phát triển cùng nhau…
+Điều thứ hai, đó chính là gánh nặng của kỳ vọng và sự nổi tiếng vô tình làm biến dạng những gì đẹp nhất của một nghệ sĩ, cũng như không phải nghệ sĩ nào cũng chấp nhận thoát ra nó để bảo vệ chính mình. Thực tế thì như Shawn kể, anh có một nỗi tự ti và cái tiêu chuẩn hơi cao đối với chính mình, một phần từ đam mê nhưng phần khác là do những kì vọng của ngành công nghiệp âm nhạc. Trong phim, những vấn đề về giọng hát và áp lực biểu diễn khiến tôi chú ý đến cái giá của việc luôn muốn làm mọi thứ thật chuẩn chỉnh. May mắn là hầu hết những người hâm mộ đủ lịch sự và tinh tế để chấp nhận mất đi một tour, còn hơn là hủy hoại thần tượng của mình. Đối với nhiều người, âm nhạc của Shawn giống như một sự chữa lành và họ không muốn anh phải bị tổn thương chỉ vì những kì vọng quá cao. Nhìn sang giai đoạn sau này, khi anh tạm dừng lưu diễn rồi trở lại với album “Shawn” và những buổi diễn “For Friends And Family Only”, tôi lại nghĩ đến bài học ấy. Với tôi, cách biểu diễn đó mang một cảm giác thoải mái hơn, như thể anh đang cho mình không gian để trở về với âm nhạc mà không phải gồng lên như trước. Đôi khi, sự nổi tiếng hay những danh hiệu cá nhân không thể thay thế được những trải nghiệm thực tế và dài hạn, tôi phải nói như vậy. Cũng có lúc, chúng ta nên chấp nhận rằng chúng ta cũng chỉ là người bình thường, chẳng phải bất tử, vì những kì vọng quá cao ấy sẽ khiến chúng ta quên mất những mục tiêu đầu tiên của mình. Có một chi tiết trong phim mà tôi thích: khi anh không thể tiếp tục một buổi diễn vì vấn đề sức khỏe, những người hâm mộ tụ tập bên dưới tòa nhà và chúc anh khỏe mạnh. Điều đó nói rằng, thật tốt khi có những người biết đến mình, không đến từ kì vọng hay định kiến, mà bằng một trái tim chân thành mong mình ổn hơn. Với tôi, đó cũng là điều mình từng thiếu: một sự quan tâm không bắt đầu bằng câu hỏi tôi đã làm tốt đến đâu, mà là tôi có đang ổn hay không…
     
-    Điều thứ hai, đó chính là gánh nặng của kỳ vọng và sự nổi tiếng vô tình làm biến dạng những gì đẹp nhất của một nghệ sĩ, cũng như không phải nghệ sĩ nào cũng chấp nhận thoát ra nó để bảo vệ chính mình. Thực tế thì như Shawn kể, anh có một nỗi tự ti và cái tiêu chuẩn hơi cao đối với chính mình, một phần từ đam mê nhưng phần khác là do những kì vọng của ngành công nghiệp âm nhạc. Trong phim, những vấn đề về giọng hát và áp lực biểu diễn khiến tôi chú ý đến cái giá của việc luôn muốn làm mọi thứ thật chuẩn chỉnh. May mắn là hầu hết những người hâm mộ đủ lịch sự và tinh tế để chấp nhận mất đi một tour, còn hơn là hủy hoại thần tượng của mình. Đối với nhiều người, âm nhạc của Shawn giống như một sự chữa lành và họ không muốn anh phải bị tổn thương chỉ vì những kì vọng quá cao. Nhìn sang giai đoạn sau này, khi anh tạm dừng lưu diễn rồi trở lại với album “Shawn” và những buổi diễn “For Friends And Family Only”, tôi lại nghĩ đến bài học ấy. Với tôi, cách biểu diễn đó mang một cảm giác thoải mái hơn, như thể anh đang cho mình không gian để trở về với âm nhạc mà không phải gồng lên như trước. Đôi khi, sự nổi tiếng hay những danh hiệu cá nhân không thể thay thế được những trải nghiệm thực tế và dài hạn, tôi phải nói như vậy. Cũng có lúc, chúng ta nên chấp nhận rằng chúng ta cũng chỉ là người bình thường, chẳng phải bất tử, vì những kì vọng quá cao ấy sẽ khiến chúng ta quên mất những mục tiêu đầu tiên của mình. Có một chi tiết trong phim mà tôi thích: khi anh không thể tiếp tục một buổi diễn vì vấn đề sức khỏe, những người hâm mộ tụ tập bên dưới tòa nhà và chúc anh khỏe mạnh. Điều đó nói rằng, thật tốt khi có những người biết đến mình, không đến từ kì vọng hay định kiến, mà bằng một trái tim chân thành mong mình ổn hơn. Với tôi, đó cũng là điều mình từng thiếu: một sự quan tâm không bắt đầu bằng câu hỏi tôi đã làm tốt đến đâu, mà là tôi có đang ổn hay không…
+Và cuối cùng, là một sự tự do trong phong cách làm nhạc. Sau cái khoảng thời gian ốm bệnh ấy, thay vì suy sụp thì anh tiếp tục hành trình của mình, cũng hoàn thành tour và tâm trí cũng đỡ áp lực hơn. Khi kể về quá trình tạo ra album “Wonder”, anh cảm thấy khá thoải mái vì không phải dồn ép mình vào những đề tài quá “công nghiệp” mà tập trung vào những đề tài của chính mình, những cảm giác của chính mình và sự bay bổng thật sự. Tôi thích cái ý tưởng chấp nhận sự không hoàn hảo ấy, vì chúng ta không ngừng khám phá những ý tưởng cho mình, và để khám phá, chấp nhận sự không hoàn hảo là điều nên làm. Sau này, với album “Shawn” thì tôi càng thấy điều này rõ ràng hơn khi anh quyết định làm đúng như những gì đã nói, đó là bỏ đi ánh hào quang và trở về với giá trị âm nhạc thường thấy của mình. Thay vì chạy đua những con số lượt stream, thì tập trung về âm nhạc, về lời hát và tận hưởng quá trình tạo ra album ấy. Phần nào, tôi cực kì thích những album của anh cũng vì những điều chân thật mà anh muốn truyền tải. 
     
-    Và cuối cùng, là một sự tự do trong phong cách làm nhạc. Sau cái khoảng thời gian ốm bệnh ấy, thay vì suy sụp thì anh tiếp tục hành trình của mình, cũng hoàn thành tour và tâm trí cũng đỡ áp lực hơn. Khi kể về quá trình tạo ra album “Wonder”, anh cảm thấy khá thoải mái vì không phải dồn ép mình vào những đề tài quá “công nghiệp” mà tập trung vào những đề tài của chính mình, những cảm giác của chính mình và sự bay bổng thật sự. Tôi thích cái ý tưởng chấp nhận sự không hoàn hảo ấy, vì chúng ta không ngừng khám phá những ý tưởng cho mình, và để khám phá, chấp nhận sự không hoàn hảo là điều nên làm. Sau này, với album “Shawn” thì tôi càng thấy điều này rõ ràng hơn khi anh quyết định làm đúng như những gì đã nói, đó là bỏ đi ánh hào quang và trở về với giá trị âm nhạc thường thấy của mình. Thay vì chạy đua những con số lượt stream, thì tập trung về âm nhạc, về lời hát và tận hưởng quá trình tạo ra album ấy. Phần nào, tôi cực kì thích những album của anh cũng vì những điều chân thật mà anh muốn truyền tải. 
+Lý do mà tôi muốn nói về phim tài liệu không chỉ là vì tôi thích Shawn hay album “Wonder”. Nhìn lại, ba điều ấy cũng là những gì tôi cần để bắt đầu lại: nhìn mình như một con người thay vì một bảng thành tích, không để kỳ vọng lấy đi toàn bộ cuộc sống cá nhân, và cho mình quyền thử nghiệm dù chưa hoàn hảo. Bộ phim không khiến những nỗi sợ của tôi biến mất ngay lập tức, nhưng nó cho tôi một cách khác để nghĩ về chúng. Ở hiện tại, khi trở lại với nhiếp ảnh và những dự án lập trình của mình, tôi càng hiểu rằng điều mình muốn không chỉ là làm thật tốt, mà còn là được tận hưởng quá trình làm những điều ấy như chính mình….
     
-    Lý do mà tôi muốn nói về phim tài liệu không chỉ là vì tôi thích Shawn hay album “Wonder”. Nhìn lại, ba điều ấy cũng là những gì tôi cần để bắt đầu lại: nhìn mình như một con người thay vì một bảng thành tích, không để kỳ vọng lấy đi toàn bộ cuộc sống cá nhân, và cho mình quyền thử nghiệm dù chưa hoàn hảo. Bộ phim không khiến những nỗi sợ của tôi biến mất ngay lập tức, nhưng nó cho tôi một cách khác để nghĩ về chúng. Ở hiện tại, khi trở lại với nhiếp ảnh và những dự án lập trình của mình, tôi càng hiểu rằng điều mình muốn không chỉ là làm thật tốt, mà còn là được tận hưởng quá trình làm những điều ấy như chính mình….
-    
-    Tôi rất háo hức được vui vẻ trở lại, chỉ là tôi muốn mình vững chắc hơn một chút thôi…
+Tôi rất háo hức được vui vẻ trở lại, chỉ là tôi muốn mình vững chắc hơn một chút thôi…
 </details>
     
 <details>
@@ -170,18 +170,18 @@ Tôi nghĩ về cảm giác nhớ nhà như thế, phải thật sự đi xa, g�
     
 ![get your wish](./chap3/get_your_wish.jpg)
 
-> when the glory tries to tempt you
->it may seem like what you need
->but if glory makes you happy 
->why are you so broken up???
+> when the glory tries to tempt you  
+>it may seem like what you need  
+>but if glory makes you happy   
+>why are you so broken up???  
 >
->so tell me how it felt
->when you walked on water
->did you get your wish?
->floating to the surface
->quicker than you sank
->idol, idol…
->
+>so tell me how it felt  
+>when you walked on water  
+>did you get your wish?  
+>floating to the surface  
+>quicker than you sank  
+>idol, idol…  
+>  
 >Porter Robinson - “Get Your Wish” - “Nurture”
 > 
 
@@ -230,14 +230,14 @@ thật ra, chính tôi cũng mới hiểu gần đây thôi và… tôi nên vi�
 > 
 > 
 > 
-> i stepped off the stage with nothin' left
-> all the lights were fuckin' with my head
-> but here i am, singin' songs again
-> why, why, why? ease my mind
+> i stepped off the stage with nothin' left  
+> all the lights were fuckin' with my head  
+> but here i am, singin' songs again  
+> why, why, why? ease my mind  
 > 
-> i don’t know why…
-> i don’t know, don’t know why…
-> why why why, why why why????
+> i don’t know why…  
+> i don’t know, don’t know why…  
+> why why why, why why why????  
 > 
 > Shawn Mendes - “Why Why Why” - “Shawn”
 > 
@@ -268,9 +268,9 @@ Bạn cứ tưởng tượng rằng, việc viết lại một thứ dở dang h
 
 Bản thân việc lập trình, chụp ảnh hay viết lách, với tôi cũng chỉ là những nỗ lực nhỏ để nói rằng mình phải bắt đầu lại, nhưng thiết nghĩ, có một vài vấn đề mà tôi muốn mình bỏ ngỏ như một dụng ý:
 
-> “bạn có thực sự bắt đầu lại hay đang cố gắng làm một thứ gì đó với một tâm trạng đã cũ…”
-“và nếu mọi thứ chẳng thành, ngày tươi sáng chẳng tới, liệu bạn có hối hận.…”
-“nếu như mặt trời vụt tắt…”
+> “bạn có thực sự bắt đầu lại hay đang cố gắng làm một thứ gì đó với một tâm trạng đã cũ…”  
+“và nếu mọi thứ chẳng thành, ngày tươi sáng chẳng tới, liệu bạn có hối hận.…”  
+“nếu như mặt trời vụt tắt…”  
 > 
 
 Lớn hơn chỉ là câu nói bắt đầu lại một thứ gì đó, tôi cần các bạn hướng tới những điều sâu nhất khi chúng ta quyết định làm điều gì đó: dũng khí, quyết tâm, nghị lực và sự kiên định…
@@ -285,12 +285,12 @@ Lớn hơn chỉ là câu nói bắt đầu lại một thứ gì đó, tôi c�
 > 
 > 
 > 
-> “now the void calls out my name
-> it gets louder everyday
-> and in the darkness, all i need is you
-> if the sun burns out tonight”
+> “now the void calls out my name  
+> it gets louder everyday  
+> and in the darkness, all i need is you  
+> if the sun burns out tonight”  
 > 
-> Grabbitz, Oli Sykes, Courney LaPlante - “If The Sun Burns Out Tonight” 
+> Grabbitz, Oli Sykes, Courney LaPlante - “If The Sun Burns Out Tonight”   
 > VALORANT Champions Shanghai 2026.
 > 
 
@@ -358,11 +358,11 @@ Nhìn lại cả một quãng thời gian qua, tôi nhìn thấy một sự th�
 > 
 > 
 > 
-> **“nếu như có một điều tồi tệ có thể sẽ đến, nó chắc chắn sẽ đến.
+> **“nếu như có một điều tồi tệ có thể sẽ đến, nó chắc chắn sẽ đến.  
 > 
-> nếu cái chết có thể sẽ đến, thì đó là nguy cơ rõ ràng nhất.
+> nếu cái chết có thể sẽ đến, thì đó là nguy cơ rõ ràng nhất.  
 > 
-> nếu công việc nó có thời hạn, thì dù có giữ cũng không kéo dài lâu hơn.…”**
+> nếu công việc nó có thời hạn, thì dù có giữ cũng không kéo dài lâu hơn.…”**  
 > 
 
 Tôi nhìn từ câu chuyện của cấp II, từ THPT và những đốm sáng ở đại học, những khoảnh khắc nhỏ nhoi ấy dạy tôi rằng ít nhất trong những khoảnh khắc vỡ vụn nhất, tôi đã yêu thương một ai đó thật lòng, dù tôi không thể đi đến cuối cùng. Tôi không kỳ vọng gì ở họ, nhưng họ khiến tôi muốn sống lại, vì họ muốn tôi sống không hối hận và sống theo cách tôi muốn. Trong những khoảnh khắc đó, tôi đối diện với nỗi sợ, được khóc và tự cho mình một nơi bình yên sau hàng tá chuyện tồi tệ. Khi tôi thử làm những dự án nhỏ, không kỳ vọng, chỉ có sáng tạo và niềm vui của việc khám phá, thì tâm trạng đã khá hơn rất nhiều. Tôi hiểu rằng, đôi khi không nhất thiết phải có kỳ vọng, hoặc tốt nhất là không. Thật sự rất khó để nghĩ mọi thứ sẽ tốt hơn chỉ sau một đêm khi những gì xảy ra trước mắt chỉ là tan hoang. Việc kỳ vọng một điều gì đó quá nhiều, khiến ta chìm sâu hơn vào nỗi sợ và những sai lầm khó vãn hồi. Lớn hơn nữa, tôi hiểu rằng, thất bại là điều thật sự rất rõ ràng, đó là điểm đáy nhất mà chúng ta có thể biết, nhưng điều ta có thể biết được là khi chúng ta biết rõ điều đó, ta sẽ luôn phải đối diện cho dù có trốn tránh tới đâu. Câu hỏi không phải là việc chúng ta sẽ thất bại, mà là một câu hỏi trần trụi và cần sự quyết đoán:
@@ -370,7 +370,7 @@ Tôi nhìn từ câu chuyện của cấp II, từ THPT và những đốm sáng
 > 
 > 
 > 
-> “**một, là ta thất bại trong hối hận và nghĩ về chuyện thất bại đó như một nỗi ô nhục.**
+> “**một, là ta thất bại trong hối hận và nghĩ về chuyện thất bại đó như một nỗi ô nhục.**  
 > 
 > **hai, là ta thất bại, buồn, nhưng có thể nhẹ nhàng nói rằng ta đã làm hết sức và để nó trôi đi.…**”
 > 

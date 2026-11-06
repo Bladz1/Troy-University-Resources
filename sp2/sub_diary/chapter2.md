@@ -8,20 +8,20 @@ Yah, đáng ra sẽ có một intro rất dài phải không. Dĩ nhiên là kh�
 
 ![heart of gold](./chap2/heart_of_gold_live.jpg)
 
-> honestly, it’s been a while since i’ve thought of you…
->in the end, we didn’t talk much
->i didn’t know what you were going through
->i’m sorry that i wasn’t there
->to hug your mama at your funeral
->brian said he broke down
->but he promised it was beautiful
+> honestly, it’s been a while since i’ve thought of you…  
+>in the end, we didn’t talk much  
+>i didn’t know what you were going through  
+>i’m sorry that i wasn’t there  
+>to hug your mama at your funeral  
+>brian said he broke down  
+>but he promised it was beautiful  
 >
->when we were young
->we didn’t care
->we shot for the stars
->i see you up there
+>when we were young  
+>we didn’t care  
+>we shot for the stars  
+>i see you up there  
 >
->you had a heart of gold….
+>you had a heart of gold….  
 >
 >Shawn Mendes - “Heart of Gold” - “Shawn”
 > 
@@ -42,9 +42,9 @@ Thôi thì một chút cô đơn, nhưng cũng không đến mức nhàm chán, 
 > 
 > 
 > 
-> you carve into the bridge
-> "it might not be so bad to die"
-> believing in a lie that we'll leave behind
+> you carve into the bridge  
+> "it might not be so bad to die"  
+> believing in a lie that we'll leave behind  
 > 
 > Porter Robinson ft. Amy Millan - “Hollowheart” - “Worlds 10th Anniversary Edition”
 > 
@@ -86,16 +86,16 @@ Có thể cách làm ấy không mềm mỏng, nhưng vào thời điểm đó, 
 
 # another world…
 
-> if i had a choice…
->i’d be somebody else…
->if i had a voice
->i’d speak if no one tells
+> if i had a choice…  
+>i’d be somebody else…  
+>if i had a voice  
+>i’d speak if no one tells  
 >
->’cause it’s lately my own kind
->who’s breaking me inside
+>’cause it’s lately my own kind  
+>who’s breaking me inside  
 >
->if i had a choice…
->i’d be somebody else…
+>if i had a choice…  
+>i’d be somebody else…  
 >
 >Michael Clifford - “if i had a choice” - “SIDEQUEST”
 > 
@@ -111,15 +111,15 @@ Tôi nghĩ là, nếu không có sự giúp đỡ của các bạn, thì khó m�
    
 ![heavy](./chap2/heavy.jpg)
     
-> it’s been so heavy…
->it’s been so long…
->running from everything…
->and nothing at all…
+> it’s been so heavy…  
+>it’s been so long…  
+>running from everything…  
+>and nothing at all…  
 >
->you’ve been rock steady
->tryna help me through
->now i’m finally ready…
->to let you…
+>you’ve been rock steady  
+>tryna help me through  
+>now i’m finally ready…  
+>to let you…  
 >
 >Shawn Mendes - “Heavy” - “Shawn”
 > 

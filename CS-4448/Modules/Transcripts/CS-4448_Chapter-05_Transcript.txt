@@ -1,0 +1,303 @@
+=== Part 01 ===
+
+[0:06] Byungkwan Jung: Hello, everyone. So this week is our 4th week. We'll be progressing the chapter 5. For this week, we'll be only going over the chapter 5 here. We'll be doing 1/2 today, and then I'll be doing the part 2
+[00:26] Byungkwan Jung: on the later date, well, into the next lecture, so that you will be finishing up this chapter 5 only this week. This means that next week's midterm exam will be consisting of the contents from the chapter one through the chapter 5.
+[00:47] Byungkwan Jung: So, please note that you will need to study very hard on the Chapter 1 through 5.
+[00:56] Byungkwan Jung: Since there is no any notes available for the proctored exam, you will need to study very hard for the midterm.
+[01:09] Byungkwan Jung: So, let's get to it.
+[01:11] Byungkwan Jung: So.
+[01:13] Byungkwan Jung: In previous chapters, we studied the processes, threads, concurrencies. We learned that the multiple processes and threads may exist simultaneously in a computer system. Then the question is, which process should run next? The CPU is the most valuable resource on a computer.
+[01:36] Byungkwan Jung: So, at any point, many processors may...
+[01:40] Byungkwan Jung: It may be waiting for the CPU time.
+[01:46] Byungkwan Jung: The operating system must decide who runs now and who waits and how long they have to run. This decision-making process is called CPU scheduling.
+[01:59] Byungkwan Jung: CPU scheduling is one of the most important responsibilities of an operating system because it directly affects performance, responsiveness, throughput, user experience. By the end of the chapter, you will be understanding how the systems allocate the CPU time fairly and efficiently.
+[02:23] Byungkwan Jung: So, we'll be looking into these concepts, and there are lots of them, including the basics of the theory of thread scheduling with these operating system examples and algorithm evaluations. So, by the end of the so for this chapter that you will be learning the
+[02:42] Byungkwan Jung: You'll be learning about what is the CPU scheduling and look into the scheduling algorithms and even be able to compare the algorithms and analyze the performance. And then we'll be looking into the understanding the real operating systems like Linux, Windows, and Solaris.
+[03:01] Byungkwan Jung: The implementations later on.
+[03:04] Byungkwan Jung: So let's have a look into the basics of our CPU scheduling.
+[03:10] Byungkwan Jung: The primary goal of the multi-programming is the maximum CPU utilization.
+[03:17] Byungkwan Jung: the operating system attempts to keep the CPU busy as much as possible. Suppose a process requests disk input-output. During that time, CPU would otherwise sit idle. So instead, the operating system switches to another process.
+[03:36] Byungkwan Jung: Process execution generally follows the pattern called the CPU input-output burst cycle, which is a process alternates between the CPU burst, which means executing instructions, and input-output burst, which means it
+[03:55] Byungkwan Jung: Waiting for the input-output operations. So, for example, when you read a file and then you perform a computation, you write a file and perform a computation and read network packets and perform computations. So, all of these, each of the instructions.
+[04:14] Byungkwan Jung: Are performing the performing alternation of the CPU burst CPU burst and the input output bursts. This pattern continues throughout the process execution. Understanding the CPU burst is essential because scheduling decision focuses primarily.
+[04:34] Byungkwan Jung: On the CPU burst.
+[04:37] Byungkwan Jung: Here, we are looking at the graph that illustrates important observation about the process. Most of the CPU bursts are short.
+[04:48] Byungkwan Jung: There are only few bursts or long. This means that many processes frequently perform input-output operations, like web browsing, text editing, email applications. These applications perform small computations followed by input-output requests.
+[05:08] Byungkwan Jung: So a smaller number of processes have these long CPU bursts, like scientific simulations, video rendering, machine learning trainings. These are often called as CPU bounded processes. The distinction between the CPU bound and the input-output bound
+[05:26] Byungkwan Jung: Processes greatly influence this scheduling behavior.
+[05:33] Byungkwan Jung: The CPU scheduler, which is also known as the short-term scheduler, selects which process receives a CPU access next. The scheduler chooses among the processes in the ready queue.
+[05:50] Byungkwan Jung: Scheduling decisions occur when processes change from the running to the waiting states, like requesting disk access. Running to the ready means that preempted by the scheduler, waiting to be waiting to ready change is when the input-output completes.
+[06:10] Byungkwan Jung: Running to the terminated is a when the process finish.
+[06:18] Byungkwan Jung: We also have these schedulers. They are all non-preemptive. This non-preemptive scheduling means that processor voluntarily releases the CPU.
+[06:33] Byungkwan Jung: Preemptive scheduling means that operating system forcibly removes a processor from the CPU.
+[06:41] Byungkwan Jung: Most of the modern operating systems use the preemptive scheduling because it improves the responsiveness. However, preemption introduces challenges such as shared data protections, synchronizations, and interrupt handling.
+[07:03] Byungkwan Jung: The dispatcher gives control of CPU to a process selected by the scheduler. Think of the scheduler as a making decision and dispatcher performs an action. Dispatcher responsibilities includes context switching, which is saving current process states and loading the next process state.
+[07:24] Byungkwan Jung: And then user mode transition, which means that switching from the kernel mode to the user mode and vice versa.
+[07:32] Byungkwan Jung: and program restart, which is jumping to the correct instructions. And also it introduces a dispatch latency here.
+[07:44] Byungkwan Jung: which is at the time request required to stop one process and start another. Lower dispatch latency means that better system responsiveness. Operating system designers tend to minimize the dispatch latency because it contributes to the pure overhead.
+[08:07] Byungkwan Jung: How do we determine whether a scheduler a scheduling algorithm is effective?
+[08:13] Byungkwan Jung: Well, the criteria is CPU utilizations, of course. The percentage of time CPU that remains busy, which is higher, is better.
+[08:26] Byungkwan Jung: throughput, the number of completed process per unit time. This also, higher is better.
+[08:34] Byungkwan Jung: Turnaround time, total time from process submission until completion.
+[08:41] Byungkwan Jung: In this case, lower is better.
+[08:45] Byungkwan Jung: Waiting time, the time spent waiting in the ready queue, which is lower, is better.
+[08:53] Byungkwan Jung: Response time: the time until the first response is produced.
+[08:59] Byungkwan Jung: And it is important in the interactive system. Lower is better.
+[09:05] Byungkwan Jung: Different environments emphasize a different criteria. Batch systems often prioritize a throughput, interactive system often prioritize response time.
+[09:20] Byungkwan Jung: When designing the scheduling algorithm, we generally want to maximize these CPU utilizations of throughputs and minimize the turnaround time, waiting time, and the response time. Unfortunately, improving 1 metric may worsen another.
+[09:38] Byungkwan Jung: For example, an algorithm optimized for response time might slightly reduce the throughput. Operating system designs often involves balancing competing objectives. No single scheduling algorithm is perfect for every environment.
+[09:59] Byungkwan Jung: The simplest scheduling algorithm is first come, first serve, or known as FCFS. The principle behind this is that the first process arriving receives the CPU first.
+[10:13] Byungkwan Jung: This resembles the waiting in a grocery store line. The first customer entering the line receives the service first. The example shows a process one has a burst time of the 24, and the process two and three they have the three each. The arrival order is the P1.
+[10:34] Byungkwan Jung: P2 and P3. The Gantt chart shows that P1 executes completely, then the P2 and then P3. The waiting time for the process one will be 0, because it is the first process in the queue, and then...
+[10:53] Byungkwan Jung: Process 2 needs to wait the burst time of 24 to get executed. And that goes the 27 for the P3. So the average waiting time will be 0 plus 24 plus 27 divided by 3, that is 17 milliseconds here.
+[11:16] Byungkwan Jung: Notice that the short process of waiting a long time behind the large process.
+[11:25] Byungkwan Jung: Now, consider a different arriving order. Let's say that if we are having a P2, P3, P1 in that order, then Gantt chart changes dramatically because now short jobs are executed first and the long jobs are executed last.
+[11:45] Byungkwan Jung: The waiting time for the P2 will be now 0, P3 will be 3, and the P1 will be 6. The average waiting time is definitely much lower than the previous example. By 6 + 0, now we have the so we have a 0 + a 3 + 6.
+[12:04] Byungkwan Jung: Divided by three, which is 3 milliseconds now.
+[12:08] Byungkwan Jung: This demonstrates the weakness of the first come, first serve. Performance heavily depends on the arrival order.
+[12:18] Byungkwan Jung: This slide introduces the convoy effect. A long process causes a many short process to wait behind it. This often leads to the poor system performance, particularly when one CPU bound process delay many input-output bound processes.
+[12:42] Byungkwan Jung: So, to overcome the first come, first serve, we now have one of the most famous scheduling algorithms known as Shortest Job First, or SJF. The basic idea is that execute the shortest CPU burst first, instead of arrival order.
+[13:02] Byungkwan Jung: So, the scheduler must examine the burst length. The shortest job receives a CPU, then the next shortest, and then next. Remarkably, SJF is mathematically optimal for minimizing average waiting time. However, there is a problem.
+[13:21] Byungkwan Jung: How do we know the future CPU burst link? Operating systems cannot see the future.
+[13:30] Byungkwan Jung: Now, in this case, the possible solution would be to estimate the future behavior based on the past behavior.
+[13:41] Byungkwan Jung: So, here we have an example of the shortest job first. The process one, two, three, 4 has a burst time of a six, 8, 7, and three. The order will be the P4, P1, P3, and then P2.
+[13:59] Byungkwan Jung: You see that the shortest process executed first and the longest that are executed last. The waiting time for this case will be P4 will be 0, P1 will be 3, P3 will be 9, and P2 will be 16. So the average will be total 7 milliseconds.
+[14:19] Byungkwan Jung: This is significantly better than the first come first serve. This example demonstrates why shortest job first is considered optimal for the waiting time reduction.
+[14:33] Byungkwan Jung: Since operating systems cannot predict the future perfectly, they estimate the CPU burst length. This slide introduces the exponential averaging, which is a formula used to predict the future burst. The idea here is that recent CPU behavior often resembles
+[14:54] Byungkwan Jung: the future CPU behavior. So the prediction combines the previous estimates and the actual recent bursts. The parameter alpha controls the weights. Large alpha is a recent behavior emphasized. Small alpha is a historical behavior emphasized.
+[15:16] Byungkwan Jung: This allows a scheduler to estimate the upcoming CPU bursts and approximate the shortest job burst behavior.
+[15:26] Byungkwan Jung: The preemptive version of the shortest job first is called shortest remaining time burst, or known as SRTF.
+[15:38] Byungkwan Jung: This graph illustrates the CPU burst of prediction using the exponential averaging. Note that the predicted values gradually
+[15:49] Byungkwan Jung: Edit and adapt as an actual CPU burst changes.
+[15:56] Byungkwan Jung: Predictions do not jump dramatically. Instead, they smoothly follow the historical trends. This helps the stabilizing these scheduling decisions. Prediction techniques allow operating systems to approximate short drop first, even though the future bursts
+[16:14] Byungkwan Jung: Time are unknown.
+[16:16] Byungkwan Jung: This concludes our introductions to the first come, first serve, and the shortest job first scheduling.
+[16:27] Byungkwan Jung: Now, we are going to look into the examples of exponential averaging. We look into the exponential averaging in the previous slide, which allows the operating system to estimate the future CPU bursts. In case of the alpha is 0,
+[16:45] Byungkwan Jung: which the formula becomes the future prediction depends entirely on the previous estimate. The recent CPU activity has no influence at all. This means the scheduler ignores the new information, predictions change very slowly.
+[17:03] Byungkwan Jung: In case of alpha is 1, the prediction depends entirely on the most recent CPU burst. Historic information is completely ignored. This causes the predictions to react quickly. However, they may fluctuate significantly.
+[17:21] Byungkwan Jung: Operating systems choose a value somewhere between zero to 1 to balance the stability and the responsiveness.
+[17:32] Byungkwan Jung: We also can see that the expansion of the exponential averaging equation, which the recent births have received a greater weights and older births have received a progressively smaller weights. This is why the technique is called exponential averaging, because older information decays exponentially.
+[17:51] Byungkwan Jung: over time.
+[17:55] Byungkwan Jung: You can recall the shortest remaining time first is the preemptive version of the shortest job first.
+[18:05] Byungkwan Jung: Unlike the SGL shortest job first, the schedule may interrupt a running process. So processes that we have in order as a P1, P2, P3, and P4, that is arriving in the zero, one, two, three in order. And then we have the
+[18:24] Byungkwan Jung: first time for the each as an 8495. Note that this is the preemptive versions means that as one gets to run, we can stop it, the operating system can stop it and change the process. So initially, P1 begins execution because
+[18:45] Byungkwan Jung: That's the first thing that arrives at the time of 0. And then P2 arrives, and then the P2 bursts the four for the four cycles, and the P1 remains the seven. Since 7 is greater than the four, P2 preempts the P1.
+[19:05] Byungkwan Jung: The scheduler always chooses a process with the smallest remaining time. This generally improves the waiting time compared to the non-preemptive SJF. However, most context switches occur, and this illustrates the classic scheduling trade-offs.
+[19:25] Byungkwan Jung: The better responsiveness and the more overhead.
+[19:31] Byungkwan Jung: In priority scheduling, each process receives a priority value. The CPU is assigned to the process with the highest priority. Typically, small numerical value means the higher priority. Priority scheduling can be...
+[19:50] Byungkwan Jung: Preemptive highly priority processes immediately takes the CPU, or it can be also non-preemptive. Higher priority process waits until the current process finish. Interestingly, shortest job first can be viewed as a special form of a priority scheduling.
+[20:10] Byungkwan Jung: Priority is simply the inverse of the predicted CPU burst, which means that shorter burst means that higher priorities. A major problem exists, though. We have a problem called starvation, which means that low priority processor may never.
+[20:29] Byungkwan Jung: Execute.
+[20:31] Byungkwan Jung: For this kind of a problem, the solution is called aging, which is gradually increasing the priority as the waiting time increases, so that eventually every process receives a service. Like, for example, a customer waiting in line for hours will eventually move.
+[20:51] Byungkwan Jung: Tours to the front, regardless of the original priority.
+[20:59] Byungkwan Jung: So, here we have the example of a priority scheduling.
+[21:04] Byungkwan Jung: We have a process of 1 through 5 with the burst time of the 101215 with the priority of the 31452. Remember, smaller priority numbers means the higher priority here. So the execution order becomes P2, P5, P1.
+[21:23] Byungkwan Jung: P3 and the P4. Note that the priority determines the scheduling order rather than the arrival time or the burst length. So the average waiting time in this case will be the 8.2 milliseconds here. This example demonstrates how scheduling decisions.
+[21:44] Byungkwan Jung: Change dramatically when priority information is introduced.
+[21:50] Byungkwan Jung: Next one is called Round Robin, which is perhaps the most famous scheduling algorithm for the time sharing system. The basic idea is that each process receives a small amount of CPU time called time quantum or
+[22:08] Byungkwan Jung: known as time slice. Typically, the value is about 10 to 100 milliseconds. Process executes for at most one quantum. If it is unfinished, then process returns to the end of the ready queue. And the next process will receive the CPU.
+[22:29] Byungkwan Jung: And the cycle repeats continuously. The advantage of this round robin is the fairness that every process receives the CPU regularly and responsiveness, which is important for the interactive systems. There is a disadvantages also.
+[22:49] Byungkwan Jung: too many context switches if the quantum becomes very small. If it is very, very small, then think of it this way. So let's say there is a classroom presentation, and each student receives exactly 5 minutes. When the time expires,
+[23:07] Byungkwan Jung: Then the next student presents.
+[23:11] Byungkwan Jung: So if we, so if you have this kind of a transition from one student to the one student, that one student has to set up over and over and over, time consumed in the preparation is going to be much larger than actual execution.
+[23:30] Byungkwan Jung: The presentation.
+[23:36] Byungkwan Jung: Let's have a look at the example of the round robin with the time quantum of four process with the 20 first time of the 24 and three and three. The quantum is 4 milliseconds. Then execution proceeds with a P1 that executes for four.
+[23:56] Byungkwan Jung: And then P2 executes and finishes because the burst time is 3, which is less than the time quantum of four. And the P3 also finishes, and the P1 continues the remaining work. Note that the shortest job completes quickly. If you compare it to first come, first serve,
+[24:15] Byungkwan Jung: Response time improves significantly; however, turnaround time may increase slightly.
+[24:24] Byungkwan Jung: Round Robin, therefore, favors the interactive performance rather than the absolute turnaround optimization.
+[24:34] Byungkwan Jung: Time up.
+[24:37] Byungkwan Jung: This graph illustrates the relationship between the time quantum and the context switch overhead. If quantum becomes a very small, the frequent context switch will occur, resulting a large percentage of the CPU time wasted on the overhead. If quantum becomes a very large, round robin becomes to behave
+[24:58] Byungkwan Jung: as a first come, first serve.
+[25:01] Byungkwan Jung: and the interactive responsiveness will suffer. Therefore, operating systems designers must choose quantums carefully. A good quantum is the large relative to the context switch calls.
+[25:16] Byungkwan Jung: It is small enough to maintain the responsiveness.
+[25:24] Byungkwan Jung: This graph demonstrates another important scheduling observation here.
+[25:29] Byungkwan Jung: We have in a very small, in a very small quantum, large context switch overheads and there's turnaround increases. Very large quantum will behave as a first come, first serve and turnaround will also increase. And somewhere between
+[25:48] Byungkwan Jung: Somewhere between these extreme lies a optimal range. This illustrates the recurring operating system theme, the balance. Neither extreme produces the best performance. Practical system typically chooses value that provides good responsiveness without.
+[26:08] Byungkwan Jung: Excessive overhead.
+[26:16] Byungkwan Jung: Suppose a system can suppose that.
+[26:23] Byungkwan Jung: Okay, so suppose a system contains a very different process types, like interactive processes and a batch processes. Interactive processes like a user expect like quick response, batch processes like long running background jobs, should both receive ID.
+[26:42] Byungkwan Jung: identical treatment. Often, the answer is no. So in these kind of cases, then we have solution called the multi-level queue scheduling, where ready queue is divided into the separate queues, like foreground queues for the interactive processes and background queues for
+[27:03] Byungkwan Jung: those batch processes and such. Each queue may use different scheduling algorithm, like foreground use like round robin and background will use like a first come first serve. Then scheduling must then occur between the queues as well as within the queues.
+[27:26] Byungkwan Jung: This figure illustrates multiple ready queues, and note that the interactive process occupy 1 queue and batch process occupy another, and each queue maintains its own scheduling policies. The operating system then decides which queue receives the CPU access.
+[27:45] Byungkwan Jung: In 2 common approach, it exists: one is the fixed priority, where foreground always preferred.
+[27:55] Byungkwan Jung: And we have a time slicing where like we can have like 80% the CPU for LK for the foreground and 20% for the background and such. This structure provides the flexibility and different workloads receive different treatments.
+[28:17] Byungkwan Jung: The problem with the ordinary multilevel queue is the process remains permanently assigned. What if process behavior changes? The solution is the multilevel feedback queue.
+[28:32] Byungkwan Jung: process may move between the cues. And this has some advantage. One is like adaptability, improved responsiveness, and reduced starvation.
+[28:46] Byungkwan Jung: Scheduler determines the number of queues, scheduling algorithm per queue, promotion rules, demotion rules, and initial queue assignment.
+[28:56] Byungkwan Jung: Multi-level feedback queue is one of the most sophisticated scheduling techniques studied in the operating system.
+[29:06] Byungkwan Jung: Let's have a look at the example.
+[29:09] Byungkwan Jung: Q0 will be using the round robin with the time quantum of 8 milliseconds, which is for the highest priority. Q1 will use the round robin with the quantum of 16 milliseconds with the medium priority. Q2 will be using the first come first serve with the lowest priority.
+[29:32] Byungkwan Jung: New processes enter the queue zero. If the process finishes quickly, it remains in the high priority queue. If the process requires more CPU, then it moves downwards. From the queue zero, it cannot finish in the queue one, then it moves.
+[29:50] Byungkwan Jung: Goes down to the queue two; this naturally favors the short interactive jobs, while still supporting long-running jobs. Here, many modern operating systems use the concepts inspired by the multi-level feedback queue.
+[30:10] Byungkwan Jung: In Chapter 4, we learned the process may contain multiple threads. When threads exist, the operating systems schedule threads rather than processes. This slide introduces the PCS, the Process Contention Scope,
+[30:30] Byungkwan Jung: And SCS, the system contention scope.
+[30:35] Byungkwan Jung: The PCS, the Process Contention Scope, is a user-level thread competes with the same process, and thread library performs scheduling. SCS, the System Contention Scope, the kernel thread competes across the entire system.
+[30:54] Byungkwan Jung: An operating system performs the scheduling. Understanding the distinction is important when studying modern threading models.
+[31:09] Byungkwan Jung: POSIX threads provide APIs for selecting the scheduling scope. Pthread scope process uses the process contention scope. Pthread scope system uses the system contention scope. However, operating system support varies.
+[31:28] Byungkwan Jung: Linux and Mac OS generally support the P-thread scope system only.
+[31:33] Byungkwan Jung: This demonstrates that how operating system implements the details affect the application behavior.
+[31:42] Byungkwan Jung: We have these P thread scheduling API example here. It shows the sample P thread scheduling program. The first program, the program first initializes the thread attributes, then retrieves the current scheduling scope using the P thread attribute get scope. The code determines whether this is the piece
+[32:03] Byungkwan Jung: A P-thread scope process or the P-thread scope system; this information allows a programmer to understand about how threads compete for CPU resources. The key lesson is not memorize the syntax; instead, understanding the thread scheduling policy.
+[32:22] Byungkwan Jung: can often be configured programmatically.
+
+=== Part 02 ===
+
+[0:06] Byungkwan Jung: Hello, everyone. Today, we're going to proceed to the part two of the Chapter Five. As we have done in our last recording, we went over the positive threat scheduling, right? We look into the example of the
+[00:26] Byungkwan Jung: Example of the P thread scheduling, and we are looking at the example that demonstrates how the program modified the thread scheduling attributes. The code first retrieves the current scheduling scope, then it attempts to set a new scope using the...
+[00:47] Byungkwan Jung: Pthread attribute setscope function.
+[00:51] Byungkwan Jung: The possible values, they include the P thread scope process, the thread competes within the same process. P thread scope system, the thread will compete with all vulnerable threads in the system. The purpose of this example is to show that the thread scheduling behavior can often be configured programmatically.
+[01:12] Byungkwan Jung: For most application developers, the operating system default scheduling policy is sufficient. However, high-performance applications sometimes require a fine-grained control over scheduling behavior.
+[01:31] Byungkwan Jung: In the early days of the computing, most computers, most computer systems contained only one CPU. Scheduling was relatively straightforward.
+[01:45] Byungkwan Jung: Today, most computers contain multiple cores, multiple processors, multiple threads, I'm sorry, multiple cores, multiple processors, and hardware threads, like quad-core CPUs, octa-core CPUs, multi-socket servers, or the cloud computing.
+[02:04] Byungkwan Jung: clusters. Scheduling becomes more complex. The operating systems must answer questions such as which processors should execute a process or should a process migrate between the processors.
+[02:23] Byungkwan Jung: How should the workload be balanced?
+[02:28] Byungkwan Jung: Asymmetric, asymmetric multi-processing is a when one processor performs scheduling and other processor execute other processes. Like in this design,
+[02:47] Byungkwan Jung: The advantage is that it's a very simple design and less scheduling complexity is needed. The disadvantage, though, is the master processor may become a bottleneck when the master processor is in a busy status.
+[03:06] Byungkwan Jung: The other slave processors cannot proceed because the master is not scheduling them these processes. Symmetric multi-processing is when every processor participate.
+[03:26] Byungkwan Jung: Equally, they each processor performs a scheduling; also, the advantage is that this is having a better scalability.
+[03:36] Byungkwan Jung: And, of course, a higher performance.
+[03:40] Byungkwan Jung: And no single scheduling bottleneck is like the asymmetric multiprocessing. Modern operating systems are primarily use the single symmetric multiprocessing this like in the Linux, Windows, and the Mac OS because.
+[03:59] Byungkwan Jung: The modern, multi-cloud systems require scalability.
+[04:04] Byungkwan Jung: At the bottom, we also see the processor's affinity. One major concern in the multiprocessor scheduling is this processor affinity. Suppose that the process execute on CPU one and its data becomes stored in a CPU one cache.
+[04:25] Byungkwan Jung: If scheduler later moves a process to the CPU 2, the cache content must be rebuilt.
+[04:34] Byungkwan Jung: The result, the performance loss.
+[04:38] Byungkwan Jung: Processor affinity tends to keep processes on the same processor whenever possible, so the benefit of this processor affinity is that the better cache utilization and fewer cache misses, because you will be always finding the data that...
+[04:57] Byungkwan Jung: The data for the processor in the same same CPU caches.
+[05:04] Byungkwan Jung: and, of course, improve the performance. Operating systems often try to maintain affinity while still balancing the workload.
+[05:15] Byungkwan Jung: Example, like imagine returning to the same classroom every day. Your material is already there. So moving to a different classroom each hour would create an inefficiency.
+[05:32] Byungkwan Jung: So, we have that soft affinity and hard affinity, and this soft affinity is where operating systems attempts to keep process on a same processor. However, this migration remains possible.
+[05:50] Byungkwan Jung: This is the default behavior in a many operating system. Hard affinity is a process explicitly restricted to the specific processor. Applications or administrators may specify allow CPUs. Advantage is, like we discussed.
+[06:11] Byungkwan Jung: predictable performance, improved cache utilizations. Disadvantage is reduced flexibility and a potential load imbalance. Many high-performance applications use affinity controls to maximize the performance.
+[06:31] Byungkwan Jung: Here, we are seeing the NUMA system with the CPU scheduling. NUMA stands for Non-Uniform Memory Access. In traditional systems, all processors access memory equally. In NUMA systems, memory is physically distributed.
+[06:50] Byungkwan Jung: So, each processor has a local memory, which is for the fast access, and remote memory for the slower access. Access time depends on the memory location, therefore scheduling decisions should consider both process.
+[07:08] Byungkwan Jung: The processor placement, or the end memory placement, good NUMA-aware scheduling improves performance significantly; poor scheduling may dramatically increase memory access latency.
+[07:30] Byungkwan Jung: Suppose processor one has 50 processes and process 2 has two processes. This creates load imbalance. One CPU becomes overloaded and another remain underutilized.
+[07:48] Byungkwan Jung: The operating system, therefore, performs load balancing. The goal is to distribute work evenly among processors. Two common approaches exist, known as push migration, where operating system actively moves.
+[08:08] Byungkwan Jung: processes.
+[08:10] Byungkwan Jung: Next is a pull migration, where idle processor requests additional work. Modern operating systems often combine both approaches.
+[08:23] Byungkwan Jung: Modern CPUs typically contain these multiple cores inside a single physical chip. Each core behaves like an independent processor. The benefit of these cores is that it improves the performance and reduces the power consumption.
+[08:43] Byungkwan Jung: And greater scalability; however, multi-core systems introduce scheduling challenges like cache sharing, processor affinity, and load balancing. Operating systems must carefully coordinate execution.
+[09:02] Byungkwan Jung: across all cores. Virtually every desktop, laptop, smartphones, and server today relies on the multi-core technology.
+[09:14] Byungkwan Jung: This slide, we are looking at the hardware multi-threading.
+[09:20] Byungkwan Jung: A processor core may support multiple hardware execution contacts.
+[09:28] Byungkwan Jung: Example like inter hyper threading and like.
+[09:32] Byungkwan Jung: IBM Power processors or Oracle Spark processors. Like benefit of this hardware multi-threading is that it improves resource utilizations.
+[09:45] Byungkwan Jung: and reduced idle execution units. When one hardware thread stalls, another thread may continue its execution. Operating system view these hardware threads as logical processors. Scheduling, therefore, becomes even more complex.
+[10:06] Byungkwan Jung: In most of the desktops, occasional delays are acceptable, like when the web page loading is slightly slower, it's not really a big of an issue, but it's still it can be a problem, but it's not really a significant.
+[10:25] Byungkwan Jung: problem. It is usually acceptable.
+[10:29] Byungkwan Jung: Real-time systems are different because timing becomes the part of the correctness, like aircraft control systems, medical devices, industrial robots, and autonomous vehicles. Missing deadlines may cause a system failure.
+[10:47] Byungkwan Jung: equipment damages or loss of life.
+[10:51] Byungkwan Jung: Therefore, real-time scheduling focuses heavily on the deadlines.
+[10:57] Byungkwan Jung: There is a soft real-time system and hard real-time systems. Soft real-time systems attempts to meet the deadlines, however, occasional misses are tolerated.
+[11:13] Byungkwan Jung: Like multimedia streaming, video conferencing, and gaming systems.
+[11:20] Byungkwan Jung: Missing these deadlines reduces the quality, like a lag that's happening in the multimedia streamings, or a loss of the video quality in the video conferencing, and some of these lags in the actual gaming systems, but system continues functioning.
+[11:39] Byungkwan Jung: That's what matters.
+[11:41] Byungkwan Jung: Operating systems often support soft real-time scheduling by giving higher priority to time-sensitive tasks, like audio playbacks, video rendering, interactive applications.
+[11:59] Byungkwan Jung: In hard, real-time systems, deadlines must be met. Missing deadline is considered as a system failure, like airbag deployment. Deploying 5 seconds late is useless. I mean, you got in a crash.
+[12:18] Byungkwan Jung: and your bag, your airbag just pops up after you're dead is something that is not acceptable, right? Pacemakers. If the pacemakers, if the signals must occur precisely, right, they need to be working precisely.
+[12:38] Byungkwan Jung: If there is a lag happening in a pacemaker, what would happen? So that's one of those machineries that requires this hard real-time system.
+[12:50] Byungkwan Jung: What about flight control system?
+[12:54] Byungkwan Jung: You have a system that is a timing that needs to be guaranteed, and it is a mandatory.
+[13:05] Byungkwan Jung: So, these hard real-time systems often require predictable scheduling, bounded latencies, and guaranteed resource availability.
+[13:17] Byungkwan Jung: These systems are among the most challenging operating systems to design.
+[13:33] Byungkwan Jung: So, so this is the schedules, this is a more of a response intervals response intervals that you can think of a from those real-time real-time systems. So, preemption.
+[13:51] Byungkwan Jung: Of the any process running on a kernel mode, the mode and the release by the low priority process of a resource needed by high priority processes, they are all they are all need to be considered in the conflict phases of the dispatch latencies.
+[14:16] Byungkwan Jung: Now that we will be looking at the priority-based scheduling.
+[14:22] Byungkwan Jung: Hey.
+[14:23] Byungkwan Jung: For real-time scheduling, schedulers must support the preemptive priority-based scheduling, but only guarantees solved real-time though. For hard real-time, you must also provide ability to meet the deadlines. Processes have new characteristics now.
+[14:43] Byungkwan Jung: Like periodic ones requiring CPU at the constant intervals.
+[14:51] Byungkwan Jung: Virtualization software schedules multiple guests onto CPUs. Now, it's not known, not knowing it doesn't own the CPU and can result in a poor response time and can affect the time of the day clocks in guests.
+[15:14] Byungkwan Jung: It can do, you can undo good scheduling algorithm effort of guests.
+[15:19] Byungkwan Jung: Now, we'll be looking into one of the real classic real-time algorithm rate monotonic scheduling.
+[15:29] Byungkwan Jung: So.
+[15:31] Byungkwan Jung: Uh, this RMS is a is assigned a priority based on the period length.
+[15:39] Byungkwan Jung: Processes with shorter periods receive higher priority.
+[15:45] Byungkwan Jung: So, the example we have a process one that executes every 20 milliseconds.
+[15:58] Byungkwan Jung: And we have like a process two that is happening for, that is one, that is, I know that there is one, two, three, and four, right? One, two, three, and five. So that's a 35 milliseconds.
+[16:16] Byungkwan Jung: For you first, you first do the process one first, because it has a higher priority, and then once the process two begins, and then once it process one is over, that you will see that process to take.
+[16:36] Byungkwan Jung: Over the takeover, and the once a once there is a no, when once the I'm sorry, once there is a because of that, because it's the process one is now returning and.
+[16:56] Byungkwan Jung: is now it's taking over the job and that the process two was doing and you will be continuing with the process one again. So you're basically having these deadlines, deadlines, and once the deadline is over that you're repeating the process is over.
+[17:14] Byungkwan Jung: So, for the deadline for the process two, process one is 50 here, and process two is 100. That means that every 50 milliseconds, then you will be needing to redo the process one, but since the...
+[17:33] Byungkwan Jung: Process one is having a higher priority than the process two. What would have happened is that, even though the process two has only 5 milliseconds to get the rest of the job done, it will be passing on to the process one to do so, so that's why you are seeing that process one taking.
+[17:54] Byungkwan Jung: Over right after that, it is repeated after the deadline.
+[18:01] Byungkwan Jung: So once that you are finished with the process one, then you'll be finishing up the process two. You can see that that you will have an idle time of 25 milliseconds, and you will see that it's all repeating over again. That includes the process two, because the deadline is for the process two is 100 milliseconds. So
+[18:21] Byungkwan Jung: All of those jobs within the 100 milliseconds, you've seen that the process one is finished two times, and the process two is finished one time.
+[18:33] Byungkwan Jung: So this real time, I'm sorry, this rate monotonic scheduling uses these fixed priorities. This where the priorities remain constant. And it is widely, this is widely studied because it's a mathematical properties that are well understood.
+[18:57] Byungkwan Jung: Here, we are looking at an example when we missed the deadline. So here, we are seeing now a changed, we have changed the number of a time, time that is needed for these process one, process one.
+[19:16] Byungkwan Jung: Process one now needs 25 milliseconds, and you are also seeing the deadlines have changed. Also, process 2 has changed from 100 milliseconds to the 80 now. Now, in this situation, that you are seeing the process one is finished first, right?
+[19:37] Byungkwan Jung: And then you are seeing that process two take over, just like what we saw earlier. After the 50 milliseconds, now the process one needs to repeat again, so that it will be taking over just like before. However, once you are finished with the process one for the twenty-five milliseconds.
+[19:59] Byungkwan Jung: Then, what you are left with is the process to, however, that you are looking at the process to not finish within the deadline.
+[20:09] Byungkwan Jung: Because the process to deadline is 80 now, and you can see that the five milliseconds is needed to complete that, but it has missed the deadline.
+[20:26] Byungkwan Jung: So the next one that you'll be looking here is the earliest deadline first, or known as an EDF. The basic idea behind this is that the process with the earliest deadline receives the CPU first. Unlike the rate monotonic scheduling, priorities
+[20:47] Byungkwan Jung: Change dynamically as deadlines approaches, priority increases. The advantage of this is that it's excellent processor utilizations. It can achieve higher schedulable workloads than rate monotonic scheduling.
+[21:06] Byungkwan Jung: This earliest deadline-first scheduling is widely used in the real-time systems, embedded systems, and industrial control systems. Many researchers consider the EDF one of the most powerful deadline-based scheduling algorithms. If you look at that example,
+[21:26] Byungkwan Jung: Now you're seeing the same thing, but it's a little bit different now. We are looking at the process 1 finishing up because of that it is starting with the highest priority. Now the process to take over. Now the processor take over and you are looking at, oh, yes, it finishes up to 50, right?
+[21:47] Byungkwan Jung: And but process one, now the deadline for the process one is finished. Now that you will be seeing that repeated in the process one. However, since process two's deadline is near, now the process remaining process two is having a more of a higher priority.
+[22:07] Byungkwan Jung: So, it continues to finish off what's left over first, then then then proceed with the process one.
+[22:16] Byungkwan Jung: You can see that, after it ends with the process two's deadline of the 80, you can see that process one's deadline is at the 100. Therefore, priorities also change back, so the remaining process one takes over.
+[22:36] Byungkwan Jung: And you will see that process two comes next after the process remaining process one is finished.
+[22:45] Byungkwan Jung: You can see this alternates, you can see this alternates over and over and over, and try to reduce the idle time of the CPU.
+[23:01] Byungkwan Jung: Another scheduling philosophy is proportional share scheduling. Instead of assigning priorities directly, processes receive shares.
+[23:15] Byungkwan Jung: of the CPU time. So for instance, like process A receiving 70 shares, process B getting the 30 shares. So the result, A receives the approximately the 70% of the CPU and B receiving the approximate 30% of the CPU.
+[23:37] Byungkwan Jung: This approach is often viewed as fairness-based scheduling strategy. Lottery scheduling is one of the famous implementation. Processes receive lottery tickets, scheduler randomly select the winning tickets, and over time,
+[23:56] Byungkwan Jung: CPU allocation approaches assigned proportions.
+[24:06] Byungkwan Jung: The next that we are looking at deposits real-time scheduling, and this is where the API provides the functions for managing real-time threads.
+[24:19] Byungkwan Jung: There are two scheduling classes for real-time threads. The schedule of the first in, first out, and then you will see that the schedule of round robin, similar to the first in, first out, except time slicing occurs a thread of equal priorities.
+[24:39] Byungkwan Jung: So those examples, I'll leave it to you guys for a have a look, but let's have a look at the operating system examples.
+[24:50] Byungkwan Jung: The first example that we will be looking here for the operating real operating system scheduling is the Linux scheduling. Linux has evolved through several scheduling algorithms over years. Modern Linux uses the complete
+[25:11] Byungkwan Jung: completely fair scheduler, known as CFS. The primary goal of the CFS is the fair CPU allocation.
+[25:25] Byungkwan Jung: Instead of the rigid priority levels alone, Linux attempts to ensure every runnable process receives fair shares of CPU time.
+[25:37] Byungkwan Jung: So, the scheduler maintains a structure called red-black tree. The processes are organized according to the virtual runtime. Virtual runtimes measure how much
+[25:56] Byungkwan Jung: How much CPU time is process CPU time a process has already received? Processes that have received less CPU time are favored. Processes that have received more CPU time move lower.
+[26:15] Byungkwan Jung: in a priority.
+[26:17] Byungkwan Jung: The scheduler continuously attempts to balance the CPU access fairly among runnable processes. This design helps Linux support desk system, server, cloud environments, and embedded devices using the same scheduling framework.
+[26:40] Byungkwan Jung: So this, we are looking at the completely fair scheduler attempts approximate and ideal system. Imagine every runnable process that executes simultaneously, each receiving an equal fraction of the CPU time. Of course, real CPUs
+[27:00] Byungkwan Jung: Cannot execute unlimited processes simultaneously, so CFS therefore simulates fairness using virtual runtime. Each process accumulates over V runtime while executing, and the process with the smallest V runtime receives a CPU.
+[27:27] Byungkwan Jung: Next is a window scheduling.
+[27:31] Byungkwan Jung: Microsoft Window uses the priority-based scheduling. It maintains thirty-two priority levels through levels 0 to thirty-one. Priority 0 would be reserved for the special system tasks. Levels one through 15 are for the variable priorities and normal user applications.
+[27:52] Byungkwan Jung: Level 16 and 3031 is the real-time priorities and time-critical operations. Windows use the preemptive scheduling, a higher priority thread that can immediately preempt the lower priority thread.
+[28:10] Byungkwan Jung: Scheduling decisions occur frequently to maintain responsiveness. These designs work well for desktop systems, office environments, and interactive applications.
+[28:31] Byungkwan Jung: One challenge is strictly strict with the strict priority scheduling is the starvation. Lower priorities, so...
+[28:43] Byungkwan Jung: For the lower priorities, the threads may never execute. Window addresses this using the dynamic priority boosting.
+[28:55] Byungkwan Jung: a thread waiting for the keyboard input will, like once a input arrives, a priority will temporarily increase because the user interaction should feel responsive. After receiving CPU service, priority will gradually decrease. This approach balances the fairness and the responsiveness.
+[29:21] Byungkwan Jung: Next, we are looking at the Solaris. Solaris traditionally supports multiple scheduling classes. Different process categories use different scheduling policies, like for time-sharing classes, it is more of general users, interactive classes like user interface task, and
+[29:43] Byungkwan Jung: Real-time class is a deadline-sensitive tasks. Each class maintained its own scheduling behaviors. Advantage is that it is for the specialized optimization, and the different workloads receive the appropriate retreatments. This design illustrates how...
+[30:03] Byungkwan Jung: Operating systems often combine multiple scheduling strategies.
+[30:16] Byungkwan Jung: Designing A scheduling algorithm is a only part of the challenge. We also must evaluate the performance. This slide introduces several evaluation techniques, such as deterministic modeling and queuing models, simulations, and implementations in the later slide.
+[30:38] Byungkwan Jung: Each approach offers different advantages and limitations.
+[30:44] Byungkwan Jung: Now, we look into the deterministic modeling. It uses the fixed workload to compare the algorithm. Like, suppose that we know the process burst length. We calculate the waiting time, turnaround time, and the throughput for multiple algorithms.
+[31:05] Byungkwan Jung: Advantages are that it is simple, easy to understand, and is a quick comparison. The disadvantage, though, is that the workload may not represent the real system. Real-world environment contains unpredictable behavior.
+[31:25] Byungkwan Jung: Therefore, deterministic modeling provides insights, but not a complete answer. So, like, that's why we we use this burst, we use that burst burst model.
+[31:44] Byungkwan Jung: We use the words of a person to look into.
+[31:50] Byungkwan Jung: Look into the use of the, look into the, look, I'm sorry, we looked at, we looked at them at the vendor first come, first serve, and we saw that how it happens with the shortest first job, and then of course in the round robin, so we are all using the first time to do the evaluations.
+[32:11] Byungkwan Jung: Next is the queuing models. Queuing theory treats a computer system as a mathematical cues. So the probability for processes, when they come, they arrive, and then wait, and then receive a service, and then leave. Using probability models,
+[32:30] Byungkwan Jung: We estimate the average waiting time, average queue length, average queue length, and then utilizations. The advantage of this queuing model is that it provides analytical results and can model large systems. This advantage, though, is that it...
+[32:49] Byungkwan Jung: It requires assumptions, and real systems may not perfectly match mathematical models, so query theory remains extremely important in operating systems, networking, cloud computing, and performance engineering.
+[33:09] Byungkwan Jung: Here, we are looking at the little sub formula that where the average queue length, average waiting, timing queue, and average arrival rate in a queue comes to play. It is in a steady state and a process of leaving queue must equal the processing arriving processes arriving.
+[33:28] Byungkwan Jung: So, I know that there is a...
+[33:33] Byungkwan Jung: There is a question mark there. I think that has a broken out the broken out the mathematical equation. Please look this into the in the in the textbook, please. It is valid for scheduling algorithm and arrival distributions. Like for example,
+[33:52] Byungkwan Jung: If an average is 7 processors, a processor arrives per second, and normally 14 processors are in a queue, then average wait time for a process per process is 2 seconds. So this is an example of a queuing model. So simulation.
+[34:10] Byungkwan Jung: is a, this is the third one, right? Simulation is a, it creates a software model of the system behavior because queuing models are very limited. So the simulations itself is a very more accurate than the queuing model. So the inputs.
+[34:30] Byungkwan Jung: like what kind of inputs that we can have, like process arrival times, burst lengths, priorities, and scheduling policies. The simulator executes thousands of events, then measures the waiting times, throughputs, and utilizations. So the overall advantage is that this is more realistic than the mathematical models. And this
+[34:52] Byungkwan Jung: And this advantage is that it requires significant data and development effort. The many operating system studies rely heavily on simulations before the real implementation.
+[35:08] Byungkwan Jung: Examples like flight simulators help evaluate aircraft behaviors before constructing real systems.
+[35:16] Byungkwan Jung: And so, scheduling simulation serves a similar purpose.
+[35:23] Byungkwan Jung: So this is an example of how the evaluation of CPU schedulers by the simulation. You can see that you can trace the takes and for the simulation. So for the first come, first serve, and shortest job first, and the round robins, you can get the performance statistics up.
+[35:42] Byungkwan Jung: Out of each.
+[35:45] Byungkwan Jung: Next, we have the most reliable evaluation method, the real implementation. Implement an algorithm inside an operating system measures the actual performance. The advantage is that it has a highest accuracy and real workloads in real hardwares.
+[36:07] Byungkwan Jung: But disadvantage is that it is very expensive and most time consuming and potentially it can be disrupted. Because of these challenges, researchers often progress through the stages, first with from the theory to the modeling.
+[36:26] Byungkwan Jung: To the simulations, to the implementations, this gradual approach reduces the risk.
+[36:38] Byungkwan Jung: So, I think that we covered the all of the all of these chapters. I know that this chapter has been really lengthy, but it also contains a really, really important information. So, let me give you a little bit hints about the midterm.
+[36:58] Byungkwan Jung: So for the midterm, please work on those. Okay, so first of all, there will be no multiple choice questions. This is all going to be critical thinking essay questions, meaning that all the answers need to be written
+[37:19] Byungkwan Jung: carefully.
+[37:20] Byungkwan Jung: So, you also need to study hard, and then you might ask, then, how should you study right? How should you study for this kind of for for the exam? My...
+[37:40] Byungkwan Jung: My, uh, my.
+[37:47] Byungkwan Jung: My advice is look into the exercise questions. If you look at the textbook that you will see those exercise questions, right? So please look into those and try to work on those. And this is a one thing that you must know for all the chapters. Terms.
+[38:05] Byungkwan Jung: Definitions.
+[38:08] Byungkwan Jung: advantages and disadvantages.
+[38:11] Byungkwan Jung: The, and also the steps, like you know that the first come first serve, the shortest job first, and then they all those all of those examples and steps that we look into this chapter similarly in the previous chapters and also all of those step by steps.
+[38:31] Byungkwan Jung: how it is executed, how it works, they all needs to be studied well. You have a week, right? You still have a, it starts with the next Monday, but you have a time. Study well. Before taking the exam, please study well.
+[38:50] Byungkwan Jung: Look into the textbook, make your own notes, and please work on those carefully.
+[38:58] Byungkwan Jung: So once you are finished, then you will be ready. And don't just look at one time, then you think that you're ready, because in the midterm, this is a proctored exam, right? There's no materials that you can bring into the proctored exam. So that means it's you and...
+[39:17] Byungkwan Jung: Only you, OK? There's no notes; only thing is what you have studied within you, so please study well and...
+[39:28] Byungkwan Jung: I hope you do well in your midterm. Thank you all, and I'll see you guys next week with the Chapter Six.

@@ -656,7 +656,7 @@ est. 2016
 
 # the downfall…
 
-![gris](chap1/20261113_090422-ANIMATION.gif)
+![gris](chap1/gris_intro_crying.jpg)
 
 
 đó có lẽ là buổi bế giảng cuối cùng khi tôi còn thấy crush, bạn bè và thầy cô….

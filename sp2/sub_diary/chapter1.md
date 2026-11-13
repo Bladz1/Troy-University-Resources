@@ -656,19 +656,8 @@ est. 2016
 
 # the downfall…
 
-![viktor](chap1/viktor.jpg)
+![gris](chap1/20261113_090422-ANIMATION.gif)
 
-> my body’s on the line now  
->i can’t fight this time now  
->i can feel the light shine on my face   
->did i disappoint you?  
->will they still let me over?  
->if i cross the line…  
->
->Twenty One Pilots - “The Line” - “Arcane OST”
-> 
-
-ít nhất, thì Viktor còn có thể nói lời tạm biệt…., còn tôi thì không.
 
 đó có lẽ là buổi bế giảng cuối cùng khi tôi còn thấy crush, bạn bè và thầy cô….
 

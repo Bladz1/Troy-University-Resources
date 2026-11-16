@@ -1,7 +1,7 @@
 # Lê Chí Anh
 
-> "Perhaps the archives are incomplete."  
-> — **Obi-Wan Kenobi**
+> "Các bạn chả chăm hỏi anh Chí Anh gì cả. Mấy công ty người ta còn muốn thuê anh ấy về training cho đội intern mà anh ấy còn từ chối kia kìa."  
+> — **TS. Nguyễn Đình Văn**, *chia sẻ*
 
 **Lê Chí Anh** là sinh viên **chương trình tiên tiến Truyền thông số và Kỹ thuật đa phương tiện (ET-E16), K67** tại **Đại học Bách khoa Hà Nội**. Anh được [TS. Nguyễn Đình Văn][nguyen-dinh-van] giới thiệu là chuyên về "thực chiến" và các "bài toán lớn".
 

@@ -52,4 +52,3 @@
 [academic-profile]: https://sem.hust.edu.vn/lecturers/ts-nguyen-thanh-huong
 [facebook-profile]: https://www.facebook.com/profile.php?id=1304216319
 [mgt-3300]: ../MGT-3300/
-[contributing]: ../CONTRIBUTING.md

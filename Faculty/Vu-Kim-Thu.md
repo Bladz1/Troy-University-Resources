@@ -81,7 +81,6 @@ Chill, nhẹ nhàng, không kiểm tra, chỉ có nhiệt huyết và nghệ thu
 [ueb_profile]: https://cite.ueb.edu.vn/article-ThS.-Vu-Kim-Thu-18868-2351.html
 [facebook_profile]: https://www.facebook.com/profile.php?id=612112166
 [art-1133]: ../ART-1133/
-[contributing]: ../CONTRIBUTING.md
 [ueb_admissions_2023]: https://images.tuyensinh247.com/picture/2023/0516/de-an-dai-hoc-kinh-te-dhqghn-2023.pdf#page=26
 [manzi_bio]: https://vi.manziart.space/inventory-1/v%C5%A9-kim-th%C6%B0
 [mmca_bio]: https://www.mmca.go.kr/artStudio/artistDetail.do?cinArtId=201311100000672

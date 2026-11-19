@@ -98,4 +98,3 @@ Thầy Hải chill, không lo lắng, kê cao gối, học vui vẻ, môn thì d
 [vifin-gen]: https://doi.org/10.1109/ATC63255.2024.10908340
 [ia-ratd-2026]: https://jst.vn/index.php/etsd/article/view/1105
 [is-2241]: ../IS-2241/
-[contributing]: ../CONTRIBUTING.md

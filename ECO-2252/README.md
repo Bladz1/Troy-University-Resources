@@ -23,4 +23,3 @@ someone who is good at the economy please help me budget this. my family is dyin
 [eco-2251-danh-gia]: ../ECO-2251/README.md#%C4%91%C3%A1nh-gi%C3%A1
 [nguyen-tai-vuong]: ../Faculty/Nguyen-Tai-Vuong.md
 [nguyen-thi-thu-thuy]: ../Faculty/Nguyen-Thi-Thu-Thuy.md
-[contributing]: ../CONTRIBUTING.md

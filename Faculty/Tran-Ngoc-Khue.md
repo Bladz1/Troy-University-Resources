@@ -55,4 +55,3 @@
 [facebook-profile]: https://www.facebook.com/profile.php?id=100001568158119
 [stat-2210]: ../STAT-2210/
 [professor-leonard-statistics]: https://www.youtube.com/playlist?list=PL5102DFDC6790F3D0
-[contributing]: ../CONTRIBUTING.md

@@ -17,4 +17,3 @@
 [csi-ny-2004]: https://www.youtube.com/watch?v=hkDD03yeLnU
 [cs-3323]: ../CS-3323/
 [du-dinh-vien]: ../Faculty/Du-Dinh-Vien.md
-[contributing]: ../CONTRIBUTING.md

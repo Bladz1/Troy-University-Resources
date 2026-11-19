@@ -18,4 +18,3 @@
 
 [mob-psycho-100]: https://youtu.be/P0Pw9WvQuHU?t=340
 [nguyen-tai-vuong]: ../Faculty/Nguyen-Tai-Vuong.md
-[contributing]: ../CONTRIBUTING.md

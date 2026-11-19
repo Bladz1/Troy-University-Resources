@@ -43,11 +43,11 @@ Bên cạnh vai trò đầu mối của chương trình TROY, công việc đư�
   - Độ lệch chuẩn: 9.75
   
   - Tỉ lệ được A: 30.77% (12/39)
-    
-    <details>
-    <summary><i>Lịch sử điểm tổng kết</i></summary>
-    <blockquote markdown="1">
-  
+
+  <details>
+  <summary><i>Lịch sử điểm tổng kết</i></summary>
+  <blockquote markdown="1">
+
   - ENG-1102 - Spring-2026
     
     - **Điểm tổng kết trung bình:** `83.81/100`
@@ -65,9 +65,9 @@ Bên cạnh vai trò đầu mối của chương trình TROY, công việc đư�
     - **Điểm tổng kết trung bình:** `67.80/100`
       - Độ lệch chuẩn: 14.22
       - Tỉ lệ được A: 4.55% (3/66)
-        
-        </blockquote>
-        </details>
+
+  </blockquote>
+  </details>
 
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   

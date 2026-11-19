@@ -19,15 +19,11 @@
 
 ## Học vấn
 
-<div align="center">
-
 | Văn bằng                                                   | Cơ sở đào tạo                     | Năm tốt nghiệp         |
 |:---------------------------------------------------------- |:--------------------------------- |:----------------------:|
 | Cử nhân, chuyên ngành [Kế toán – Thuế][ttu-seminar]        | Kyung Hee University, Hàn Quốc    | 2010                   |
 | [Thạc sĩ Khoa học máy tính (M.S.)][troy-cybersecurity]     | South Dakota State University, Mĩ | [2014][sdstate-thesis] |
 | [Tiến sĩ Khoa học máy tính (Ph.D.)][ttu-commencement-2019] | Texas Tech University, Mĩ         | 2019                   |
-
-</div>
 
 Luận văn thạc sĩ của thầy mang tên [*Shape Based Breast Medical Image Retrieval System using Arc Difference Rate*][sdstate-thesis], do **Sung Y. Shin** hướng dẫn. Công trình nghiên cứu cách tìm kiếm các ảnh nhũ ảnh có hình dạng khối u tương tự, sử dụng phương pháp *Arc Difference Ratio* (ADR).
 
@@ -35,15 +31,11 @@ Luận án tiến sĩ của thầy là [*Region-aware Querying Strategies in Inf
 
 ## Quá trình công tác
 
-<div align="center">
-
 | Giai đoạn          | Công việc                                                                                                                      |
 |:------------------:|:------------------------------------------------------------------------------------------------------------------------------ |
 | Khi học tiến sĩ    | [Trợ lí nghiên cứu tại Institute for Measurement, Methodology, Analysis & Policy (IMMAP), Texas Tech University][ttu-seminar]. |
 | Trước khi đến Troy | [Nghiên cứu viên sau tiến sĩ tại Baylor University, Waco, Texas][troy-cybersecurity].                                          |
 | Từ 2020            | [Công tác tại Đại học Troy, ban đầu với chức danh Assistant Professor][troy-catalog-2023].                                     |
-
-</div>
 
 ## Hoạt động học thuật
 
@@ -66,39 +58,53 @@ Một số công trình của thầy và các đồng nghiệp:
 
 ## Đánh giá
 
-### CS-4448 - Operating Systems
+### Chung
 
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Chỉ số và sức mạnh
 
-- **Điểm tổng kết trung bình:** `?/100`
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+- **Điểm tổng kết trung bình gần nhất:** `?/100`
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA` (TBA/TBA)
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+  <details>
+  <summary><i>Lịch sử điểm tổng kết</i></summary>
+  <blockquote markdown="1">
+
+  - CS-4448 - Fall-2024
+    - **Điểm tổng kết trung bình:** `?/100`
+      - Độ lệch chuẩn: `TBA`
+      - Tỉ lệ được A: `TBA` (TBA/TBA)
+      > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+  </blockquote>
+  </details>
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
-  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ bám sát bài học của đề thi:** `?/10`
-  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ hợp lí, cân bằng của khối lượng bài vở và sức khỏe tinh thần:** `?/10`
-  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Khả năng truyền đạt kiến thức và chuyên môn sư phạm:** `?/10`
-  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Tác phong, tính cách và mức độ hỗ trợ sinh viên:** `?/10`
-  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Cơ chế trông thi
+
+### Chung
+
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ### CS-4448 - Operating Systems
 
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Tips
+
+### Chung
+
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ### CS-4448 - Operating Systems
 

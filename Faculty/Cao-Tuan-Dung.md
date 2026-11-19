@@ -1,11 +1,12 @@
 # PGS. TS. Cao Tuấn Dũng
 
->"Perhaps the archives are incomplete."  
-— **Obi-Wan Kenobi**
+> "Perhaps the archives are incomplete."  
+> — **Obi-Wan Kenobi**
 
 **PGS. TS. Cao Tuấn Dũng** hiện là [**Hiệu trưởng Trường Công nghệ Thông tin và Truyền thông (SoICT)**][soict-leadership], Đại học Bách khoa Hà Nội, đồng thời là **Phó Giáo sư, Giảng viên cao cấp** thuộc [Khoa Khoa học Máy tính][soict-cs-dept]. Thầy được Đại học Bách khoa Hà Nội công bố quyết định bổ nhiệm giữ chức vụ Hiệu trưởng trong buổi lễ sáng ngày **18/11/2026**, sau khi từng giữ các vị trí Trưởng Bộ môn Công nghệ Phần mềm, Phó Viện trưởng Viện CNTT&TT và Phó Hiệu trưởng Trường CNTT&TT ([hồ sơ SoICT][soict-profile], [tin bổ nhiệm][soict-appointment-news]).
 
-## Thông tin giảng viên
+## Thông tin cơ bản
+
 - **Ngoại hình**: [Cao Tuấn Dũng][profile-image]
 - **Lý lịch**: [SOICT - Cao Tuấn Dũng][soict-profile]
 - **Hồ sơ nghiên cứu**: [Research HUST][research-profile]
@@ -63,12 +64,15 @@ Một số công trình tiêu biểu:
 - **2018** — *Hot Topic Detection on Newspaper*, SoICT 2018, ACM, tr. 114–121 (đồng tác giả).
 
 ## Lịch sử giảng dạy
+
 - `CS-2250` ([Computer Science I][cs-2250]): Fall-2021
 - `CS-3332` ([Software Engineering I][cs-3332]): Spring-2025, Spring-2026
 - `CS-3360` ([Concepts of Object Oriented Programming I][cs-3360]): Fall-2024, Fall-2025
 
 ## Đánh giá
+
 ### CS-3360 - Concepts of Object Oriented Programming I
+
 - Về thầy Dũng, câu chuyện bắt đầu từ hồi tôi mới vào cấp 3. Lúc đó tôi đã bắt đầu suy nghĩ về một trường đại học nào đó. Một đêm nọ, tôi tình cờ xem được talkshow của [Bomman nói về Bách Khoa][youtube-bomman]. Đó là lần đầu tiên tôi nghe đến cái tên Cao Tuấn Dũng. Hắn kể về thầy trong bối cảnh bảo vệ đồ án: ổng phản biện rất gắt, nhưng chấm điểm thì lại rất cao. Đại khái, đó là những gì tôi còn nhớ.
 
 - Sau 5 năm thì tôi gặp lại ổng trong môn OOP, cảm xúc cũng khá đặc biệt. Nếu phải nói thì sau khi học xong môn này, tôi đã hiểu và lí giải được nhiều điều về con người ông.
@@ -84,10 +88,37 @@ Một số công trình tiêu biểu:
 ![cao-tuan-dung-soict-image]
 
 ## Chỉ số và sức mạnh
-- **Điểm tổng kết trung bình:** `?/100`
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+
+- **Điểm tổng kết trung bình gần nhất:** `?/100`
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA` (TBA/TBA)
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+  <details>
+  <summary><i>Lịch sử điểm tổng kết</i></summary>
+  <blockquote markdown="1">
+
+  - CS-3332 - Spring-2026
+    - **Điểm tổng kết trung bình:** `?/100`
+      - Độ lệch chuẩn: `TBA`
+      - Tỉ lệ được A: `TBA` (TBA/TBA)
+      > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+  - CS-3360 - Fall-2025
+    - **Điểm tổng kết trung bình:** `?/100`
+      - Độ lệch chuẩn: `TBA`
+      - Tỉ lệ được A: `TBA` (TBA/TBA)
+      > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+  - CS-3360 - Fall-2024
+    - **Điểm tổng kết trung bình:** `?/100`
+      - Độ lệch chuẩn: `TBA`
+      - Tỉ lệ được A: `TBA` (TBA/TBA)
+      > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+  - CS-2250 - Fall-2021
+    - **Điểm tổng kết trung bình:** `?/100`
+      - Độ lệch chuẩn: `TBA`
+      - Tỉ lệ được A: `TBA` (TBA/TBA)
+      > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+  </blockquote>
+  </details>
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ bám sát bài học của đề thi:** `?/10`
@@ -100,26 +131,43 @@ Một số công trình tiêu biểu:
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Cơ chế trông thi
+
+### Chung
+
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 ### CS-2250 - Computer Science I
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ### CS-3332 - Software Engineering I
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ### CS-3360 - Concepts of Object Oriented Programming I
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Tips
+
+### Chung
+
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 ### CS-2250 - Computer Science I
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ### CS-3332 - Software Engineering I
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ### CS-3360 - Concepts of Object Oriented Programming I
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Trivia
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 [profile-image]: https://soict.hust.edu.vn/wp-content/uploads/dungct.jpg

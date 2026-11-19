@@ -491,6 +491,9 @@ Như tôi có kể chuyện ở trường, nếu nói về áp lực học tập
 Tôi nhận được hàng tá những ánh nhìn phán xét, những câu rì rào, và cả chuyện tôi là “idol” nào đó, khiến tôi cảm thấy xa lạ với chính mình. Người ta mổ xẻ hàng tá câu chuyện của một kẻ học giỏi nhưng hành xử kiêu ngạo, cái cảm giác mà bị lôi ra để người ta bàn tán rồi bị gia đình chỉ trích bởi những lời bàn tán mà ngay cả nạn nhân cũng cảm thấy xa lạ trước những chỉ trích đó. Cả chuyện tình cảm cũng vớ vẩn, hàng tá lời mời gọi từ mấy đứa học sinh khác, nhưng thái độ của họ cũng chẳng nghiêm túc. Không một lời hỏi thăm nào đàng hoàng, cứ áp cái quan điểm rằng tôi phải thích một ai đó, thích họ và phải chú ý tới khiến tôi có cảm giác như thể cuộc sống của mình bị mang ra làm trò tiêu khiển. Cái cảm giác mà bạn phải cố gắng sống trong một vòng tròn của những chuyện tình cảm lãng nhách mà bạn đã hoàn toàn biết trước kết cục đầy mệt mỏi của nó…. thật tồi tệ khi tôi sống gần 10 năm như thế rồi…
 
 ---
+> **Trình Trình, nhiều lúc anh thực sự ước gì, ước gì em không phải là con gái của Phùng Kính Nghiêu, chúng ta cũng không phải ở bến Thượng Hải mà là ở một nơi rất xa, rất xa...., một nơi không có những chuyện phiền não này. Em biết không, anh rất muốn suốt đời này cũng giống như bây giờ, nhè nhẹ nắm lấy tay của em như vậy, cho tới mãi mãi, cho tới lúc chúng ta già, cho tới lúc con cháu đầy đàn, anh vẫn có thể nắm lấy tay của em giống như lúc này vậy.....**  
+>
+> Hứa Văn Cường - "Bến Thượng Hải" (2007)
 
 Nhưng nếu chỉ là câu chuyện về một thanh niên vỡ mộng về hiện thực, và câu hỏi kiểu: “**thế thì tại sao m không đi kiếm lại crush m ấy mà phải buồn vậy???**”, thì đây là lúc tôi bắt đầu nhìn ra một sự thật còn đau đớn hơn nhiều, và cũng từ những góc nhìn đau đớn ấy, tôi đã phải đưa ra rất nhiều lựa chọn không mấy dễ dàng, bao gồm cả việc từ chối thẳng thừng những lời mai mối thực dụng và dối trá…
 

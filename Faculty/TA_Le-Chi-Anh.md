@@ -1,22 +1,25 @@
-# Lê Chí Anh
+# CN. Lê Chí Anh
 
 > "Các bạn chả chăm hỏi anh Chí Anh gì cả. Mấy công ty người ta còn muốn thuê anh ấy về training cho đội intern mà anh ấy còn từ chối kia kìa."  
 > — **TS. Nguyễn Đình Văn**, *chia sẻ*
 
-**Lê Chí Anh** là sinh viên **chương trình tiên tiến Truyền thông số và Kỹ thuật đa phương tiện (ET-E16), K67** tại **Đại học Bách khoa Hà Nội**. Anh được [TS. Nguyễn Đình Văn][nguyen-dinh-van] giới thiệu là chuyên về "thực chiến" và các "bài toán lớn".
+**CN. Lê Chí Anh** tốt nghiệp Cử nhân **chương trình tiên tiến Truyền thông số và Kỹ thuật đa phương tiện (ET-E16), K67** tại **Đại học Bách khoa Hà Nội**. Anh được [TS. Nguyễn Đình Văn][nguyen-dinh-van] giới thiệu là chuyên về "thực chiến" và các "bài toán lớn".
 
 ## Thông tin trợ giảng
 
+- **Ngày sinh**: 01/09/2004
+- **Học vị cao nhất**: Cử nhân
 - **Khoa/Bộ môn**: [Khoa Kỹ thuật truyền thông][department]
 - **Trường/Đơn vị**: Trường Điện - Điện tử, Đại học Bách khoa Hà Nội
 - **Email sinh viên**: anh.lc224296@sis.hust.edu.vn
 
 ## Học vấn
 
-- **Từ năm 2022**: Bắt đầu học chương trình **Truyền thông số và Kỹ thuật đa phương tiện (ET-E16)**, Đại học Bách khoa Hà Nội.
+- **2022–2026**: Cử nhân **Truyền thông số và Kỹ thuật đa phương tiện (ET-E16)**, Đại học Bách khoa Hà Nội.
   - Khóa: **K67**
   - MSSV: **20224296**
   - Lớp/chương trình: **CTTT TTS & KT đa phương tiện 01-K67**
+  - Xếp loại: **Khá**
 
 ## Chuyên môn và kỹ năng
 

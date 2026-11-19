@@ -11,7 +11,7 @@
 
 ## Lịch sử giảng dạy
 
-- [PGS. TS. Cao Tuấn Dũng][cao-tuan-dung]: `Spring-2026`
+- [PGS. TS. Cao Tuấn Dũng][cao-tuan-dung]: `Spring-2025`, `Spring-2026`
 - [TS. Dư Đình Viên][du-dinh-vien]: `Spring-2026`
 
 

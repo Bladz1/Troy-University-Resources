@@ -8,6 +8,7 @@
 ## Thông tin trợ giảng
 - **Ngoại hình**: [Nguyễn Thu Hương][profile-image]
 - **Lý lịch**: [Nguyễn Thu Hương][academic-profile]
+- **Ngày sinh**: 25/12/2003
 - **Học vị cao nhất**: Cử nhân
 - **Khoa/Bộ môn**: [Khoa Kỹ thuật truyền thông][department]
 - **Trường/Đơn vị**: Trường Điện - Điện tử, Đại học Bách khoa Hà Nội
@@ -21,6 +22,7 @@
   - Khóa: **K66**
   - MSSV: **20210423**
   - Lớp/chương trình: **CTTT TTS & KT đa phương tiện 01-K66**
+  - Xếp loại: **Xuất sắc**
 - **2025–nay**: **Thạc sĩ Khoa học**, Đại học Bách khoa Hà Nội.
   - Khóa: **K2025B**
   - MSHV: **20252713M**

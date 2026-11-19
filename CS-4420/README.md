@@ -13,7 +13,7 @@
 
 - [TS. Nguyễn Đình Văn][nguyen-dinh-van]: `Fall-2024`, `Fall-2025`, `Fall-2026`
   - [CN. Nguyễn Thu Hương][ta-nguyen-thu-huong]: `Fall-2025`, `Fall-2026`
-  - [Lê Chí Anh][ta-le-chi-anh]: `Fall-2026`
+  - [CN. Lê Chí Anh][ta-le-chi-anh]: `Fall-2026`
 
 
 [xkcd-327]: https://xkcd.com/327

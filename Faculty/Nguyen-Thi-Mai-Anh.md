@@ -13,7 +13,7 @@
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Quản lý
 - **Trường**: Kinh tế
-- **Email**: anh.nguyenthimai@hust.edu.vn
+- **Email**: [anh.nguyenthimai@hust.edu.vn](mailto:anh.nguyenthimai@hust.edu.vn)
 
 ## Lịch sử giảng dạy
 - `MKT-3300` ([Principles of Marketing][mkt-3300]): Summer-2025

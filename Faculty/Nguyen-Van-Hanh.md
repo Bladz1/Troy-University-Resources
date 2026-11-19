@@ -12,7 +12,7 @@
 - **Năm sinh**: 1983
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Toán-Tin
-- **Email**: hanh.nguyenvan1@hust.edu.vn
+- **Email**: [hanh.nguyenvan1@hust.edu.vn](mailto:hanh.nguyenvan1@hust.edu.vn)
 - **Facebook**: [Facebook - Nguyễn Văn Hạnh][facebook-profile]
 
 ## Lịch sử giảng dạy

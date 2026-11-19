@@ -10,7 +10,7 @@
 - **Lý lịch**: [VNU - Trần Thị Lan Hương][vnu-profile]
 - **Giới tính**: Nữ
 - **Học vị cao nhất**: Thạc sĩ
-- **Email**: huongttl@vnuis.edu.vn
+- **Email**: [huongttl@vnuis.edu.vn](mailto:huongttl@vnuis.edu.vn)
 
 ## Lịch sử giảng dạy
 - `ENG-1101` ([Composition And Modern English I][eng-1101]): Fall-2024, Fall-2025

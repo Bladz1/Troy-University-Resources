@@ -15,16 +15,16 @@ Bên cạnh vai trò đầu mối của chương trình TROY, công việc đư�
 - **Ngày sinh**: 10/09/1978
 - **Đơn vị**: Ban Đào tạo
 - **Phòng**: 315-C1 - Bàn số 02
-- **Email**: anh.nguyenkieu@hust.edu.vn
+- **Email**: [anh.nguyenkieu@hust.edu.vn](mailto:anh.nguyenkieu@hust.edu.vn)
 - **Số điện thoại**: (84) 912.383.754
-- **Học vị**: Thạc sĩ
+- **Học vị cao nhất**: Thạc sĩ
 - **Facebook**: [Nguyễn Kiều Anh][facebook-profile]
 
 ## Lịch sử giảng dạy
 
 - `ENG-1101` ([Composition And Modern English I][eng-1101]): Fall-2024, Fall-2025
 - `ENG-1102` ([Composition and Modern English II][eng-1102]): Spring-2025, Spring-2026
-- `TROY-1101`([The University Experience][troy-1101]): Summer-2025, Summer-2026
+- `TROY-1101` ([The University Experience][troy-1101]): Summer-2025, Summer-2026
 
 ## Đánh giá
 

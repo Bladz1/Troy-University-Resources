@@ -14,7 +14,7 @@
 - **Học vị cao nhất**: Tiến sĩ Tin học
 - **Chức vụ**: Hiệu trưởng, Trường Công nghệ Thông tin và Truyền thông
 - **Khoa**: Khoa học Máy tính
-- **Email**: dung.caotuan@hust.edu.vn; dungct@soict.hust.edu.vn
+- **Email**: [dung.caotuan@hust.edu.vn](mailto:dung.caotuan@hust.edu.vn); [dungct@soict.hust.edu.vn](mailto:dungct@soict.hust.edu.vn)
 - **Số điện thoại**: 0983359425
 - **Facebook**: [Facebook - Cao Tuấn Dũng][facebook-profile]
 

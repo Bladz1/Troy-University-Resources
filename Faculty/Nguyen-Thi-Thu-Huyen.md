@@ -13,7 +13,7 @@
 - **Giới tính**: Nữ
 - **Dân tộc**: Kinh
 - **Học vị cao nhất**: Tiến sĩ
-- **Email**: ntthuyen@vnuis.edu.vn
+- **Email**: [ntthuyen@vnuis.edu.vn](mailto:ntthuyen@vnuis.edu.vn)
 - **Địa chỉ**: Trường Quốc tế – ĐHQGHN, nhà E5, 144 Xuân Thủy, Cầu Giấy, Hà Nội
 
 ## Lịch sử giảng dạy

@@ -13,7 +13,7 @@
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Quản lý
 - **Trường**: Kinh tế
-- **Email**: cuong.duongmanh@hust.edu.vn
+- **Email**: [cuong.duongmanh@hust.edu.vn](mailto:cuong.duongmanh@hust.edu.vn)
 - **Facebook**: [Facebook - Dương Mạnh Cường][facebook-profile]
 
 ## Lịch sử giảng dạy

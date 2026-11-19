@@ -12,7 +12,7 @@
 - **Ngày sinh**: 20/08/1989
 - **Học vị cao nhất**: Tiến sĩ
 - **Trường**: Kinh tế
-- **Email**: huong.nguyenthanh4@hust.edu.vn
+- **Email**: [huong.nguyenthanh4@hust.edu.vn](mailto:huong.nguyenthanh4@hust.edu.vn)
 - **Facebook**: [Facebook - Nguyễn Thanh Hương][facebook-profile]
 
 ## Lịch sử giảng dạy

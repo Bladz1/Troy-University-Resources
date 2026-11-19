@@ -14,7 +14,7 @@
 - **Nơi sinh**: Hà Nội
 - **Học vị cao nhất**: Thạc sĩ Mỹ thuật (Master of Fine Arts – MFA)
 - **Chuyên môn**: Hội họa, vẽ nét, điêu khắc giấy và sắp đặt ánh sáng
-- **Email**: tvuartist@gmail.com
+- **Email**: [tvuartist@gmail.com](mailto:tvuartist@gmail.com)
 - **Facebook**: [Facebook - Vũ Kim Thư][facebook_profile]
 - **Website**: https://thukimvu.dphoto.com/
 

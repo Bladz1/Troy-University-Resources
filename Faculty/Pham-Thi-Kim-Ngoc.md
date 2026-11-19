@@ -13,7 +13,7 @@
 - **Quê quán**: Quế Sơn, Quảng Nam
 - **Học vị cao nhất**: Tiến sĩ
 - **Trường**: Kinh tế
-- **Email**: ngoc.phamthikim@hust.edu.vn
+- **Email**: [ngoc.phamthikim@hust.edu.vn](mailto:ngoc.phamthikim@hust.edu.vn)
 
 ## Lịch sử giảng dạy
 - `MGT-3300` ([Principles of Management][mgt-3300]): Spring-2024, Spring-2025, Spring-2026

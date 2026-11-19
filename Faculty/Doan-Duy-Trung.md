@@ -12,7 +12,7 @@
 - **Ngày sinh**: 30/06/1984
 - **Nơi sinh**: Hải Phòng
 - **Học vị cao nhất**: Tiến sĩ (Dr. rer. nat.), TU Bergakademie Freiberg, Đức, năm 2018.
-- **Email**: trung.doanduy@hust.edu.vn
+- **Email**: [trung.doanduy@hust.edu.vn](mailto:trung.doanduy@hust.edu.vn)
 - **Facebook**: [Facebook - Đoàn Duy Trung][facebook-profile]
 - **Hồ sơ nghiên cứu**: [ResearchGate - Trung Duy Doan][researchgate-profile]
 

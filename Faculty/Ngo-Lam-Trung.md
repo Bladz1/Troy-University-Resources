@@ -12,7 +12,7 @@
 - **Ngày sinh**: 03/11/1981
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Kỹ thuật Máy tính
-- **Email**: trung.ngolam@hust.edu.vn
+- **Email**: [trung.ngolam@hust.edu.vn](mailto:trung.ngolam@hust.edu.vn)
 
 ## Lịch sử giảng dạy
 - `CS-3365` ([Introduction to Computer Organization and Architecture][cs-3365]): Spring-2024

@@ -14,7 +14,7 @@
 - **Nơi sinh**: Hưng Yên
 - **Học vị cao nhất**: Tiến sĩ
 - **Phòng làm việc**: Phòng 104, nhà D3
-- **Email**: han.nguyendinh@hust.edu.vn
+- **Email**: [han.nguyendinh@hust.edu.vn](mailto:han.nguyendinh@hust.edu.vn)
 - **Điện thoại công tác**: 02438692137
 - **Điện thoại cá nhân**: 0915046320
 - **DBLP**: [Nguyen Dinh Han][dblp-profile]

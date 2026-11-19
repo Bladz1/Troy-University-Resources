@@ -15,7 +15,7 @@
 - **Giới tính**: Nam
 - **Học vị cao nhất**: Tiến sĩ Lịch sử Thế giới
 - **Ngoại ngữ**: [Tiếng Anh, tiếng Hàn; đọc hiểu tiếng Hán][academic-cv]
-- **Email**: Linhussh@gmail.com
+- **Email**: [Linhussh@gmail.com](mailto:Linhussh@gmail.com)
 - **Facebook**: [Facebook - Nguyễn Nhật Linh][facebook-profile]
 
 ## Học vấn

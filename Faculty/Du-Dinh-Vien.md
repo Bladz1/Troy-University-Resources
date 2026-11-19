@@ -14,7 +14,7 @@
 - **Giới tính**: Nam
 - **Ngày sinh**: 02/09/1962
 - **Học vị cao nhất**: Tiến sĩ
-- **Email**: ddvien@daihochoabinh.edu.vn; viendd@haui.edu.vn
+- **Email**: [ddvien@daihochoabinh.edu.vn](mailto:ddvien@daihochoabinh.edu.vn); [viendd@haui.edu.vn](mailto:viendd@haui.edu.vn)
 
 ## Học vấn và quá trình công tác
 

@@ -13,7 +13,7 @@
 - **Hồ sơ tác giả**: [IEEE Xplore][ieee-profile]
 - **Giới tính**: Nam
 - **Học vị cao nhất**: Tiến sĩ
-- **Email**: bjung@troy.edu
+- **Email**: [bjung@troy.edu](mailto:bjung@troy.edu)
 - **Facebook**: [Facebook - Byungkwan Jung][facebook-profile]
 - **Rate My Professors**: [Rate My Professors - Byungkwan Jung][rate-my-professors-profile]
 
@@ -22,7 +22,7 @@
 <div align="center">
 
 | Văn bằng                                                   | Cơ sở đào tạo                     | Năm tốt nghiệp         |
-|:---------------------------------------------------------- |:--------------------------------- |:----------------------:|
+| :--------------------------------------------------------- | :-------------------------------- | :--------------------: |
 | Cử nhân, chuyên ngành [Kế toán – Thuế][ttu-seminar]        | Kyung Hee University, Hàn Quốc    | 2010                   |
 | [Thạc sĩ Khoa học máy tính (M.S.)][troy-cybersecurity]     | South Dakota State University, Mĩ | [2014][sdstate-thesis] |
 | [Tiến sĩ Khoa học máy tính (Ph.D.)][ttu-commencement-2019] | Texas Tech University, Mĩ         | 2019                   |
@@ -38,7 +38,7 @@ Luận án tiến sĩ của thầy là [*Region-aware Querying Strategies in Inf
 <div align="center">
 
 | Giai đoạn          | Công việc                                                                                                                      |
-|:------------------:|:------------------------------------------------------------------------------------------------------------------------------ |
+| :----------------: | :----------------------------------------------------------------------------------------------------------------------------- |
 | Khi học tiến sĩ    | [Trợ lí nghiên cứu tại Institute for Measurement, Methodology, Analysis & Policy (IMMAP), Texas Tech University][ttu-seminar]. |
 | Trước khi đến Troy | [Nghiên cứu viên sau tiến sĩ tại Baylor University, Waco, Texas][troy-cybersecurity].                                          |
 | Từ 2020            | [Công tác tại Đại học Troy, ban đầu với chức danh Assistant Professor][troy-catalog-2023].                                     |

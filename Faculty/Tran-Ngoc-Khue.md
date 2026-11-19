@@ -12,7 +12,7 @@
 - **Năm sinh**: 1984
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Toán-Tin
-- **Email**: khue.tranngoc@hust.edu.vn
+- **Email**: [khue.tranngoc@hust.edu.vn](mailto:khue.tranngoc@hust.edu.vn)
 - **Facebook**: [Facebook - Trần Ngọc Khuê][facebook-profile]
 
 ## Lịch sử giảng dạy

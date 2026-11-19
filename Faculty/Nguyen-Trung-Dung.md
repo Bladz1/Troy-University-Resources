@@ -13,7 +13,7 @@
 - **Ngày sinh**: 14/12/1986
 - **Học vị cao nhất**: Tiến sĩ
 - **Nhóm chuyên môn**: [Tối ưu hóa và Tính toán khoa học][research-group]
-- **Email**: dung.nguyentrung2@hust.edu.vn
+- **Email**: [dung.nguyentrung2@hust.edu.vn](mailto:dung.nguyentrung2@hust.edu.vn)
 
 ## Học vấn và mối quan tâm
 

@@ -13,7 +13,7 @@
 - **Giới tính**: Nam
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Toán-Tin
-- **Email**: ngoc.lechi@hust.edu.vn
+- **Email**: [ngoc.lechi@hust.edu.vn](mailto:ngoc.lechi@hust.edu.vn)
 - **Facebook**: [Facebook - Lê Chí Ngọc][facebook_profile]
 - **Cân nặng**: 150 kg
 

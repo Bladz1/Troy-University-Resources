@@ -9,11 +9,12 @@
 
 - **Ngoại hình**: [Nguyễn Nhất Hải][profile-image]
 - **Lý lịch**: [SoICT - Nguyễn Nhất Hải][academic-profile]
+- **Hồ sơ nghiên cứu**: [Research HUST][research-profile]
 - **Giới tính**: Nam
 - **Ngày sinh**: 10/04/1982
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Khoa học Máy tính
-- **Email**: [hai.nguyennhat@hust.edu.vn][research-profile]; [hainn@soict.hust.edu.vn][academic-profile]
+- **Email**: [hai.nguyennhat@hust.edu.vn](mailto:hai.nguyennhat@hust.edu.vn); [hainn@soict.hust.edu.vn](mailto:hainn@soict.hust.edu.vn)
 
 ## Học vấn
 

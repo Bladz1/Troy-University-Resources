@@ -9,7 +9,7 @@
 - **Lý lịch**: [VNU - Nguyễn Quỳnh Uyển][vnu-profile]
 - **Giới tính**: Nữ
 - **Học vị cao nhất**: Tiến sĩ
-- **Email**: uyennq@vnu.edu.vn
+- **Email**: [uyennq@vnu.edu.vn](mailto:uyennq@vnu.edu.vn)
 
 ## Lịch sử giảng dạy
 - `BIO-1100` ([Principles of Biology & Lab][bio-1100]): Fall-2025

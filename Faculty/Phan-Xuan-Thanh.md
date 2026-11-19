@@ -12,7 +12,7 @@
 - **Giới tính**: Nam
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Toán - Tin
-- **Email**: thanh.phanxuan@hust.edu.vn; pxthanh.hust@gmail.com
+- **Email**: [thanh.phanxuan@hust.edu.vn](mailto:thanh.phanxuan@hust.edu.vn); [pxthanh.hust@gmail.com](mailto:pxthanh.hust@gmail.com)
 - **Facebook**: [Facebook - Phan Xuân Thành][facebook-profile]
 - **Website**: https://sites.google.com/view/phanxuanthanh
 

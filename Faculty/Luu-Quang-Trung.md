@@ -13,10 +13,10 @@
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Kỹ thuật Truyền thông (HUST, 2023–2025)
 - **Đơn vị hiện tại**: Phòng thí nghiệm Tín hiệu và Hệ thống (L2S), Đại học Paris-Saclay
-- **Email**: trung.luuquang@hust.edu.vn; luuquangtrung.vn@gmail.com
+- **Email**: [trung.luuquang@hust.edu.vn](mailto:trung.luuquang@hust.edu.vn); [luuquangtrung.vn@gmail.com](mailto:luuquangtrung.vn@gmail.com)
 - **Facebook**: [Facebook - Lưu Quang Trung][facebook-profile]
 - **Website**: https://luuquangtrung.github.io/
-- **Github**: [Github - Lưu Quang Trung][github-profile]
+- **GitHub**: [GitHub - Lưu Quang Trung][github-profile]
 
 ## Lịch sử giảng dạy
 - `CS-3310` ([Foundations of Computer Science][cs-3310]): Fall-2023

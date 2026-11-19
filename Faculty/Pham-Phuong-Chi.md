@@ -1,9 +1,9 @@
-# PGS.TS. Phạm Phương Chi
+# PGS. TS. Phạm Phương Chi
 
 > **“Em thế nào, cứ thế mà đến. Chớ loay hoay sửa soạn áo quần.”**  
 > — **Rabindranath Tagore**, *The Gardener*, XI
 
-**PGS.TS. Phạm Phương Chi (Chi P. Pham)** là Nghiên cứu viên chính tại **Viện Văn học, Viện Hàn lâm Khoa học xã hội Việt Nam (VASS)**, phụ trách **Phòng Văn học nước ngoài**. Cô có hai bằng tiến sĩ: **Tiến sĩ Lý luận văn học** tại Học viện Khoa học xã hội Việt Nam (2011) và **Ph.D. Văn học so sánh** tại University of California, Riverside (2016). Cô từng nghiên cứu sau tiến sĩ tại **University of Hamburg** với **học bổng Georg Forster của Quỹ Alexander von Humboldt**; theo CV cá nhân, thời gian nghiên cứu tại Hamburg được ghi là **03/2019–04/2023**. Cô được công nhận đạt tiêu chuẩn chức danh **Phó Giáo sư ngành Văn học năm 2023**.
+**PGS. TS. Phạm Phương Chi (Chi P. Pham)** là Nghiên cứu viên chính tại **Viện Văn học, Viện Hàn lâm Khoa học xã hội Việt Nam (VASS)**, phụ trách **Phòng Văn học nước ngoài**. Cô có hai bằng tiến sĩ: **Tiến sĩ Lý luận văn học** tại Học viện Khoa học xã hội Việt Nam (2011) và **Ph.D. Văn học so sánh** tại University of California, Riverside (2016). Cô từng nghiên cứu sau tiến sĩ tại **University of Hamburg** với **học bổng Georg Forster của Quỹ Alexander von Humboldt**; theo CV cá nhân, thời gian nghiên cứu tại Hamburg được ghi là **03/2019–04/2023**. Cô được công nhận đạt tiêu chuẩn chức danh **Phó Giáo sư ngành Văn học năm 2023**.
 
 ## Thông tin cơ bản
 
@@ -13,7 +13,7 @@
 - **Giới tính**: Nữ 
 - **Quê quán**: Văn Lang - Phú Thọ
 - **Học vị cao nhất**: Tiến sĩ
-- **Email**: chiphamvvh@gmail.com; phamphuongchi@gmail.com; cpham012@ucr.edu; cpham257554@troy.edu
+- **Email**: [chiphamvvh@gmail.com](mailto:chiphamvvh@gmail.com); [phamphuongchi@gmail.com](mailto:phamphuongchi@gmail.com); [cpham012@ucr.edu](mailto:cpham012@ucr.edu); [cpham257554@troy.edu](mailto:cpham257554@troy.edu)
 - **Số điện thoại**: 0869903979
 - **Zalo**: +4915211311099
 - **Facebook**: [Facebook - Phạm Phương Chi][facebook-profile]
@@ -23,26 +23,26 @@
 
 Các hướng nghiên cứu chính của cô gồm:
 
-* **Văn học Việt Nam và Đông Nam Á**
-* **Văn học so sánh**
-* **Phê bình hậu thuộc địa và các cách tiếp cận giải thực dân trong văn học so sánh**
-* **Quan hệ giữa văn học, chủ nghĩa dân tộc và quá trình kiến tạo quốc gia**
-* **Văn học và lý luận văn học Ấn Độ**, đặc biệt là sử thi, mỹ học cổ điển, văn học Anh ngữ và sự tiếp nhận văn học Ấn Độ tại Việt Nam
-* **Phê bình sinh thái (ecocriticism) và nhân văn môi trường (environmental humanities)**
-* **Nghiên cứu động vật (animal studies), quan hệ giữa con người và thế giới phi nhân loại**
-* **Dịch thuật và nghiên cứu dịch thuật**
+- **Văn học Việt Nam và Đông Nam Á**
+- **Văn học so sánh**
+- **Phê bình hậu thuộc địa và các cách tiếp cận giải thực dân trong văn học so sánh**
+- **Quan hệ giữa văn học, chủ nghĩa dân tộc và quá trình kiến tạo quốc gia**
+- **Văn học và lý luận văn học Ấn Độ**, đặc biệt là sử thi, mỹ học cổ điển, văn học Anh ngữ và sự tiếp nhận văn học Ấn Độ tại Việt Nam
+- **Phê bình sinh thái (ecocriticism) và nhân văn môi trường (environmental humanities)**
+- **Nghiên cứu động vật (animal studies), quan hệ giữa con người và thế giới phi nhân loại**
+- **Dịch thuật và nghiên cứu dịch thuật**
 
 ### Một số công trình tiêu biểu
 
-* ***Literature and Nation-Building in Vietnam: The Invisibilization of the Indians*** — Routledge, 2021  
+- ***Literature and Nation-Building in Vietnam: The Invisibilization of the Indians*** — Routledge, 2021  
 Chuyên khảo của **Chi P. Pham**.
-* ***Reading South Vietnam's Writers: The Reception of Western Thought in Journalism and Literature*** — Springer, 2023  
+- ***Reading South Vietnam's Writers: The Reception of Western Thought in Journalism and Literature*** — Springer, 2023  
 Sách đồng biên tập với **Thomas Engelbert**.
-* ***Environment and Narrative in Vietnam*** — Palgrave Macmillan, 2024  
+- ***Environment and Narrative in Vietnam*** — Palgrave Macmillan, 2024  
 Sách đồng biên tập với **Ursula K. Heise**.
-* ***Humans and Other Animals: Animal Fiction from Vietnam*** — Penguin Random House SEA, 2024  
+- ***Humans and Other Animals: Animal Fiction from Vietnam*** — Penguin Random House SEA, 2024  
 Đồng tác giả với **Chitra Sankaran**; tuyển tập gồm phần dẫn nhập phê bình và bản dịch chín truyện ngắn Việt Nam về động vật.
-* ***Decolonizing Comparative Literature: Reading Across Southeast Asian Literatures*** — Springer, 2025  
+- ***Decolonizing Comparative Literature: Reading Across Southeast Asian Literatures*** — Springer, 2025  
 Sách đồng biên tập với **Jose Monfred C. Sy** và **Nguyễn Thị Như Trang**.
 
 ## Lịch sử giảng dạy

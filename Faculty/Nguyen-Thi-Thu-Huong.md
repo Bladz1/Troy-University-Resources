@@ -12,7 +12,7 @@
 - **Ngày sinh**: 07/09/1964
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Công nghệ thông tin và truyền thông
-- **Email**: huongnt@soict.hust.edu.vn
+- **Email**: [huongnt@soict.hust.edu.vn](mailto:huongnt@soict.hust.edu.vn)
 
 ## Lịch sử giảng dạy
 - `CS-3372` ([Formal Languages and the Theory of Computation][cs-3372]): Fall-2023, Summer-2026

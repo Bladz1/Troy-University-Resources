@@ -11,7 +11,7 @@
 - **Giới tính**: Nữ
 - **Học vị cao nhất**: Thạc sĩ
 - **Trường**: Đại học Kinh tế, ĐHQGHN
-- **Email**: pnguyen59272@troy.edu
+- **Email**: [pnguyen59272@troy.edu](mailto:pnguyen59272@troy.edu)
 
 ## Lịch sử giảng dạy
 - `TROY-1101` ([The University Experience][troy-1101]): Summer-2025

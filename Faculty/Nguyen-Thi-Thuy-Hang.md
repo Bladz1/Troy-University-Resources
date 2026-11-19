@@ -12,7 +12,7 @@
 - **Ngày sinh**: 01/05/1986
 - **Học vị cao nhất**: Thạc sĩ
 - **Trường**: Kinh Tế
-- **Email**: hang.nguyenthithuy@hust.edu.vn
+- **Email**: [hang.nguyenthithuy@hust.edu.vn](mailto:hang.nguyenthithuy@hust.edu.vn)
 
 ## Lịch sử giảng dạy
 - `LAW-2221` ([Legal Environment of Business][law-2221]): Fall-2024

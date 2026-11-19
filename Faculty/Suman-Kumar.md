@@ -15,7 +15,7 @@
 - **Học vị cao nhất**: Tiến sĩ Khoa học Máy tính
 - **Chức vụ**: Graduate Coordinator – Điều phối viên chương trình sau đại học
 - **Đơn vị công tác**: Department of Computer Science, Troy University
-- **Email**: skumar@troy.edu
+- **Email**: [skumar@troy.edu](mailto:skumar@troy.edu)
 - **Rate My Professors**: [Rate My Professors – Suman Kumar][rate-my-professors-profile]
 
 ## Học vấn

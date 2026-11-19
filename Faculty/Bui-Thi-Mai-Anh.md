@@ -9,11 +9,12 @@
 
 - **Ngoại hình**: [Bùi Thị Mai Anh][profile-image]
 - **Lý lịch**: [SoICT – Bùi Thị Mai Anh][soict_profile]
+- **Hồ sơ nghiên cứu**: [Research HUST][hust-profile]
 - **Giới tính**: Nữ
 - **Ngày sinh**: 13/10/1984
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Khoa học Máy tính
-- **Email**: anhbtm@soict.hust.edu.vn; [anh.buithimai@hust.edu.vn][hust-profile]
+- **Email**: [anhbtm@soict.hust.edu.vn](mailto:anhbtm@soict.hust.edu.vn); [anh.buithimai@hust.edu.vn](mailto:anh.buithimai@hust.edu.vn)
 
 ## Học vấn
 
@@ -122,7 +123,7 @@ Từ **10/2023 đến 03/2025**, cô chủ trì [đề tài ứng dụng học s
 
 ## Trivia
 
-- **TS. Bùi Thị Mai Anh** được các sinh viên K69 đánh giá rất thấp ('F tier'). Trong một bài khảo sát chất lượng, giảng viên đã được sinh viên đánh giá với con số 4,94/10.
+- **TS. Bùi Thị Mai Anh** được các sinh viên K69 đánh giá rất thấp ('F tier'). Trong một bài khảo sát chất lượng, giảng viên đã được sinh viên đánh giá với con số 4.94/10.
 
 [profile-image]: https://soict.hust.edu.vn/wp-content/uploads/2019/06/B%C3%B9i-Th%E1%BB%8B-Mai-Anh.jpg
 [soict_profile]: https://soict.hust.edu.vn/ts-bui-thi-mai-anh.html

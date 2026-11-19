@@ -13,7 +13,7 @@
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Khoa học máy tính
 - **Trường**: Công nghệ Thông tin và truyền thông
-- **Email**: haipv@soict.hust.edu.vn
+- **Email**: [haipv@soict.hust.edu.vn](mailto:haipv@soict.hust.edu.vn)
 - **Website**: https://users.soict.hust.edu.vn/haipv/
 
 ## Lịch sử giảng dạy

@@ -12,7 +12,7 @@
 - **Công bố khoa học**: [Google Scholar - Bernard Chen][gg_scholar_profile]
 - **Giới tính**: Nam
 - **Học vị cao nhất**: Tiến sĩ
-- **Email**: chenb@troy.edu
+- **Email**: [chenb@troy.edu](mailto:chenb@troy.edu)
 - **Rate My Professors**: [Rate My Professors - Bernard Chen][rate-my-professors-profile]
 
 ## Học vấn
@@ -20,7 +20,7 @@
 <div align="center">
 
 | Học vị                                                                        | Cơ sở đào tạo                                                     | Năm tốt nghiệp        |
-|:----------------------------------------------------------------------------- |:----------------------------------------------------------------- |:---------------------:|
+| :---------------------------------------------------------------------------- | :---------------------------------------------------------------- | :-------------------: |
 | [Cử nhân Khoa học máy tính và Kĩ thuật thông tin (B.S.)][uca-profile]         | Fu Jen Catholic University (Đại học Công giáo Phụ Nhân), Đài Loan | [2002][chen-2008-bio] |
 | [Thạc sĩ (M.S.)][troy-faculty]                                                | Georgia State University, Mĩ                                      | —                     |
 | [Tiến sĩ Khoa học máy tính, hướng Tin sinh học (Ph.D.)][wineinformatics-book] | Georgia State University, Mĩ                                      | 2008                  |
@@ -36,7 +36,7 @@ Trong thời gian học tiến sĩ, thầy nhận hỗ trợ từ [chương trì
 <div align="center">
 
 | Năm  | Dấu mốc                                                                                                                             |
-|:----:|:----------------------------------------------------------------------------------------------------------------------------------- |
+| :--: | :---------------------------------------------------------------------------------------------------------------------------------- |
 | 2008 | [Gia nhập Khoa Khoa học máy tính, University of Central Arkansas][uca-appointment-2008].                                            |
 | 2014 | [Được thăng chức danh Associate Professor và nhận tenure tại UCA][uca-promotion-2014].                                              |
 | 2025 | [Gia nhập Đại học Troy với chức danh Professor][troy-new-faculty-2025]; [giữ vị trí Trưởng khoa Khoa học máy tính][troy-hack-2025]. |

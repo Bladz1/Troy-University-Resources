@@ -11,7 +11,7 @@
 - **Học vị cao nhất**: Cử nhân
 - **Khoa/Bộ môn**: [Khoa Kỹ thuật truyền thông][department]
 - **Trường/Đơn vị**: Trường Điện - Điện tử, Đại học Bách khoa Hà Nội
-- **Email sinh viên**: anh.lc224296@sis.hust.edu.vn
+- **Email sinh viên**: [anh.lc224296@sis.hust.edu.vn](mailto:anh.lc224296@sis.hust.edu.vn)
 
 ## Học vấn
 

@@ -10,7 +10,7 @@
 - **Giới tính**: Nữ
 - **Học vị cao nhất**: Thạc sĩ
 - **Khoa**: Tiếng Anh chuyên ngành
-- **Email**: hoaltk@hanu.edu.vn
+- **Email**: [hoaltk@hanu.edu.vn](mailto:hoaltk@hanu.edu.vn)
 
 ## Lịch sử giảng dạy
 - `COM-2241` ([Fundamentals of Speech][com-2241]): Summer-2024, Summer-2025, Summer-2026

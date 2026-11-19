@@ -13,7 +13,7 @@
 - **Ngày sinh**: 07/03/1977
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Công nghệ thông tin
-- **Email**: tunghx@vnu.edu.vn
+- **Email**: [tunghx@vnu.edu.vn](mailto:tunghx@vnu.edu.vn)
 - **VNUdocs Hub**: [Hoàng Xuân Tùng][vnu-docs-hub]
 
 ## Lịch sử giảng dạy

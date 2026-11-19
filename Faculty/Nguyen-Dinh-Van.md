@@ -15,7 +15,7 @@
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Kỹ thuật truyền thông
 - **Văn phòng**: E809 - C7
-- **Email**: van.nguyendinh@hust.edu.vn
+- **Email**: [van.nguyendinh@hust.edu.vn](mailto:van.nguyendinh@hust.edu.vn)
 - **YouTube**: [Nguyen Van][youtube-channel]
 - **Công tác Đoàn**:
   - Bí thư BCH Đoàn Trường Điện - Điện tử

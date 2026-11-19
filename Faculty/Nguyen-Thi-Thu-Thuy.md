@@ -1,9 +1,9 @@
-# PGS.TS. Nguyễn Thị Thu Thủy
+# PGS. TS. Nguyễn Thị Thu Thủy
 
 > "Perhaps the archives are incomplete."  
 > — **Obi-Wan Kenobi**
 
-**PGS.TS. Nguyễn Thị Thu Thủy** là [Trưởng Khoa Kinh doanh, giảng viên cao cấp][academic-profile] thuộc Trường Kinh tế, Đại học Bách khoa Hà Nội.
+**PGS. TS. Nguyễn Thị Thu Thủy** là [Trưởng Khoa Kinh doanh, giảng viên cao cấp][academic-profile] thuộc Trường Kinh tế, Đại học Bách khoa Hà Nội.
 
 ## Thông tin giảng viên
 
@@ -16,7 +16,7 @@
 - **Nhóm chuyên môn**: Kinh tế học
 - **Khoa**: Kinh doanh
 - **Trường**: Kinh tế
-- **Email**: thuy.nguyenthithu@hust.edu.vn
+- **Email**: [thuy.nguyenthithu@hust.edu.vn](mailto:thuy.nguyenthithu@hust.edu.vn)
 
 ## Học vấn và chức danh
 

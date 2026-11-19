@@ -11,14 +11,14 @@
 - **Giới tính**: Nữ
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Kỹ thuật máy tính
-- **Email**: lydth@soict.hust.edu.vn
+- **Email**: [lydth@soict.hust.edu.vn](mailto:lydth@soict.hust.edu.vn)
 
 ## Học vấn
 
 <div align="center">
 
 | Học vị / Văn bằng                    | Cơ sở đào tạo                                            | Năm tốt nghiệp |
-|:------------------------------------ |:-------------------------------------------------------- |:--------------:|
+| :----------------------------------- | :------------------------------------------------------- | :------------: |
 | Kỹ sư Công nghệ thông tin (khóa K55) | Đại học Bách khoa Hà Nội                                 | 2015           |
 | Thạc sĩ Công nghệ thông tin          | Đại học Bách khoa Hà Nội                                 | 2017           |
 | Tiến sĩ Tin học (Informatics)        | Viện Tin học Quốc gia (NII) / Đại học SOKENDAI, Nhật Bản | 2022           |

@@ -15,7 +15,7 @@
 - **Học vị cao nhất**: Tiến sĩ Lịch sử
 - **Khoa**: Lịch sử và Văn hóa
 - **Ngoại ngữ**: [Tiếng Anh, tiếng Hà Lan, tiếng Indonesia][academic-profile]
-- **Email**: Thuypv@vnu.edu.vn
+- **Email**: [Thuypv@vnu.edu.vn](mailto:Thuypv@vnu.edu.vn)
 
 ## Học vấn
 

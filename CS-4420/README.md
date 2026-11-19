@@ -11,7 +11,7 @@
 
 ## Lịch sử giảng dạy
 
-- [TS. Nguyễn Đình Văn][nguyen-dinh-van]: `Fall-2024`, `Fall-2025`, `Fall-2026`
+- [TS. Nguyễn Đình Văn][nguyen-dinh-van]: `Fall-2023`, `Fall-2024`, `Fall-2025`, `Fall-2026`
   - [CN. Nguyễn Thu Hương][ta-nguyen-thu-huong]: `Fall-2025`, `Fall-2026`
   - [CN. Lê Chí Anh][ta-le-chi-anh]: `Fall-2026`
 

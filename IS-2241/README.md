@@ -13,7 +13,7 @@ Môn này cơ bản là ngồi kể lể linh tinh về mấy thứ tin học, p
 
 - [TS. Nguyễn Trung Dũng][nguyen-trung-dung]: `Fall-2025`, `Fall-2026`
 - [TS. Nguyễn Nhất Hải][nguyen-nhat-hai] ![fair-badge]: `Fall-2023`, `Fall-2024`
-- [TS. Bùi Thị Mai Anh][bui-thi-mai-anh] ![suck-badge]: `Fall-2024`
+- [TS. Bùi Thị Mai Anh][bui-thi-mai-anh] ![suck-badge]: `Spring-2024`, `Fall-2024`
 
 
 [nguyen-trung-dung]: ../Faculty/Nguyen-Trung-Dung.md

@@ -30,37 +30,16 @@ Xoay quanh kinh tế ứng dụng, chủ yếu gồm thương mại quốc tế,
 
 ### Một số công bố
 
-<table>
-  <thead>
-    <tr>
-      <th>Năm</th>
-      <th>Công trình / chủ đề</th>
-      <th>Nơi công bố</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2020</td>
-      <td>Các nhân tố tác động tới thương mại Việt Nam với Hàn Quốc và Singapore</td>
-      <td>Tạp chí Kinh tế Châu Á – Thái Bình Dương; HUST ghi Nguyễn Tài Vượng là tác giả, ngày 25/02/2020, ISSN <code>0868-3808</code>. <a href="https://www.hust.edu.vn/uploads/sys/nghien-cuu/2021/01/2019-2020-tn.175321.25242.pdf#page=22">Nguồn</a></td>
-    </tr>
-    <tr>
-      <td>2022</td>
-      <td><em>Research on Vietnamese Consumer Behaviour Towards Organic Products at Mini Supermarkets</em></td>
-      <td>Đồng tác giả, kỷ yếu <strong>APMRC 2022</strong>, tr. 553–567, Atlantis Press; đăng online 12/12/2022. <a href="https://www.atlantis-press.com/proceedings/apmrc-22/125978043">Nguồn</a></td>
-    </tr>
-    <tr>
-      <td>2023</td>
-      <td>Sự sẵn sàng chuyển đổi số của người lao động tại doanh nghiệp nhỏ và vừa</td>
-      <td>Đồng tác giả, <strong>Tạp chí Công Thương</strong>, số 13, tháng 5/2023. <a href="https://ojs.tapchicongthuong.vn/vi/ojs-post/san-sang-voi-chuyen-doi-so-cua-nguoi-lao-dong-trong-cac-doanh-nghiep-nho-va-vua--smes--thuc-trang-va-giai-phap-108996.htm">Nguồn</a></td>
-    </tr>
-    <tr>
-      <td>Kỷ yếu ICECH 2024</td>
-      <td><em>The Influence of Provincial Competitiveness on Economic Output: A Panel Data Analysis of Vietnam</em></td>
-      <td>HUST ghi Nguyễn Tài Vượng là tác giả chính, hội nghị quốc tế có phản biện, ISBN <code>978-604-357-355-8</code>. <a href="https://hust.edu.vn/uploads/sys/nghien-cuu/2025_10/cbkh-nam-hoc-2024-2025-qt.pdf#page=35">Nguồn</a></td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+
+| Năm               | Công trình / chủ đề                                                                                | Nơi công bố                                                                                                                          |
+| :---------------: | :------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
+| 2020              | Các nhân tố tác động tới thương mại Việt Nam với Hàn Quốc và Singapore                             | Tạp chí Kinh tế Châu Á – Thái Bình Dương; HUST ghi Nguyễn Tài Vượng là tác giả, ngày 25/02/2020, ISSN `0868-3808`. [Nguồn][pub-2020] |
+| 2022              | *Research on Vietnamese Consumer Behaviour Towards Organic Products at Mini Supermarkets*          | Đồng tác giả, kỷ yếu **APMRC 2022**, tr. 553–567, Atlantis Press; đăng online 12/12/2022. [Nguồn][pub-2022]                          |
+| 2023              | Sự sẵn sàng chuyển đổi số của người lao động tại doanh nghiệp nhỏ và vừa                           | Đồng tác giả, **Tạp chí Công Thương**, số 13, tháng 5/2023. [Nguồn][pub-2023]                                                        |
+| Kỷ yếu ICECH 2024 | *The Influence of Provincial Competitiveness on Economic Output: A Panel Data Analysis of Vietnam* | HUST ghi Nguyễn Tài Vượng là tác giả chính, hội nghị quốc tế có phản biện, ISBN `978-604-357-355-8`. [Nguồn][pub-2024]               |
+
+</div>
 
 ### Học liệu và hoạt động học thuật
 
@@ -128,6 +107,10 @@ Xoay quanh kinh tế ứng dụng, chủ yếu gồm thương mại quốc tế,
 [profile-image]: https://sem.hust.edu.vn/wp-content/uploads/2023/10/1-16.png
 [sem-profile]: https://sem.hust.edu.vn/lecturers/ths-nguyen-tai-vuong
 [hust-project]: https://hust.edu.vn/vi/nghien-cuu/de-tai-nghien-cuu-khoa-hoc/de-tai-nghien-cuu-cap-co-so-phan-cap-nam-2023-650118.html
+[pub-2020]: https://www.hust.edu.vn/uploads/sys/nghien-cuu/2021/01/2019-2020-tn.175321.25242.pdf#page=22
+[pub-2022]: https://www.atlantis-press.com/proceedings/apmrc-22/125978043
+[pub-2023]: https://ojs.tapchicongthuong.vn/vi/ojs-post/san-sang-voi-chuyen-doi-so-cua-nguoi-lao-dong-trong-cac-doanh-nghiep-nho-va-vua--smes--thuc-trang-va-giai-phap-108996.htm
+[pub-2024]: https://hust.edu.vn/uploads/sys/nghien-cuu/2025_10/cbkh-nam-hoc-2024-2025-qt.pdf#page=35
 [hust-northampton]: https://hust.edu.vn/vi/news/tuyen-sinh-dao-tao-cong-tac-sinh-vien/giao-luu-sinh-vien-dh-northampton-va-sinh-vien-truong-dhbk-ha-noi-34672.html
 [eco-2251]: ../ECO-2251/
 [eco-2252]: ../ECO-2252/

@@ -89,7 +89,7 @@
   - Điểm rèn luyện: **96**
 
 ## Lịch sử giảng dạy và hỗ trợ học phần
-- `CS-4420` ([Introduction to Database Systems][cs-4420]): Fall-2026
+- `CS-4420` ([Introduction to Database Systems][cs-4420]): Fall-2025, Fall-2026
   - **Vai trò**: Trợ giảng
   - **Giảng viên phụ trách**: [TS. Nguyễn Đình Văn][nguyen-dinh-van]
 

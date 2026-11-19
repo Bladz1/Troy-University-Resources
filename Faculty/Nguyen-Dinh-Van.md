@@ -39,7 +39,7 @@ Gần đây, các công trình của thầy mở rộng sang trí tuệ nhân t�
 
 - `CS-2255` ([Computer Science II][cs-2255]): Spring-2025
 - `CS-3360` ([Concepts of Object Oriented Programming I][cs-3360]): Spring-2023, Spring-2024
-- `CS-4420` ([Introduction to Database Systems][cs-4420]): Fall-2023, Fall-2024, Fall-2025
+- `CS-4420` ([Introduction to Database Systems][cs-4420]): Fall-2023, Fall-2024, Fall-2025, Fall-2026
 
 ## Đánh giá
 

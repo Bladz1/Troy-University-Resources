@@ -22,7 +22,7 @@
 | Học vị                                                                        | Cơ sở đào tạo                                                     | Năm tốt nghiệp        |
 | :---------------------------------------------------------------------------- | :---------------------------------------------------------------- | :-------------------: |
 | [Cử nhân Khoa học máy tính và Kỹ thuật thông tin (B.S.)][uca-profile]         | Fu Jen Catholic University (Đại học Công giáo Phụ Nhân), Đài Loan | [2002][chen-2008-bio] |
-| [Thạc sĩ (M.S.)][troy-faculty]                                                | Georgia State University, Mỹ                                      | —                     |
+| [Thạc sĩ (M.S.)][troy-faculty]                                                | Georgia State University, Mỹ                                      | 2006                  |
 | [Tiến sĩ Khoa học máy tính, hướng Tin sinh học (Ph.D.)][wineinformatics-book] | Georgia State University, Mỹ                                      | 2008                  |
 
 </div>

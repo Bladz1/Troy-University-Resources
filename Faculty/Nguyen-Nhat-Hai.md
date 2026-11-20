@@ -66,7 +66,7 @@ Thầy Hải chill, không lo lắng, kê cao gối, học vui vẻ, môn thì d
 - **Độ bám sát bài học của đề thi:** `3/10`
   - Gần như không liên quan.
 - **Độ hợp lí, cân bằng của khối lượng bài vở và sức khỏe tinh thần:** `9/10`
-  - Hợp lý.
+  - Hợp lí.
 - **Khả năng truyền đạt kiến thức và chuyên môn sư phạm:** `3/10`
   - Giảng viên gần như không giảng, chỉ bật slide cho sinh viên tự đọc.
 - **Tác phong, tính cách và mức độ hỗ trợ sinh viên:** `5.5/10`

@@ -40,7 +40,7 @@ Same as PHY/L-2252
 - **Độ bám sát bài học của đề thi:** `7/10`
   - Không quá tệ.
 - **Độ hợp lí, cân bằng của khối lượng bài vở và sức khỏe tinh thần:** `8/10`
-  - Hợp lý.
+  - Hợp lí.
 - **Khả năng truyền đạt kiến thức và chuyên môn sư phạm:** `4/10`
   - Không tốt.
 - **Tác phong, tính cách và mức độ hỗ trợ sinh viên:** `6/10`

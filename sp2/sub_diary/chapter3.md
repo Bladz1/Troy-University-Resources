@@ -491,12 +491,14 @@ Như tôi có kể chuyện ở trường, nếu nói về áp lực học tập
 Tôi nhận được hàng tá những ánh nhìn phán xét, những câu rì rào, và cả chuyện tôi là “idol” nào đó, khiến tôi cảm thấy xa lạ với chính mình. Người ta mổ xẻ hàng tá câu chuyện của một kẻ học giỏi nhưng hành xử kiêu ngạo, cái cảm giác mà bị lôi ra để người ta bàn tán rồi bị gia đình chỉ trích bởi những lời bàn tán mà ngay cả nạn nhân cũng cảm thấy xa lạ trước những chỉ trích đó. Cả chuyện tình cảm cũng vớ vẩn, hàng tá lời mời gọi từ mấy đứa học sinh khác, nhưng thái độ của họ cũng chẳng nghiêm túc. Không một lời hỏi thăm nào đàng hoàng, cứ áp cái quan điểm rằng tôi phải thích một ai đó, thích họ và phải chú ý tới khiến tôi có cảm giác như thể cuộc sống của mình bị mang ra làm trò tiêu khiển. Cái cảm giác mà bạn phải cố gắng sống trong một vòng tròn của những chuyện tình cảm lãng nhách mà bạn đã hoàn toàn biết trước kết cục đầy mệt mỏi của nó…. thật tồi tệ khi tôi sống gần 10 năm như thế rồi…
 
 ---
-> mình hãy cứ sống thế đi. 
-> em cứ mãi ước mơ.       
-> em cứ luôn mong chờ điều tuyệt vời nhé em.    
-> và anh sẽ mãi bước đi.   
-> sẽ cố gắng mỉm cười. 
-> cố gắng quên đi bao nhiêu tình yêu tan vỡ như là giấc mơ...   
+>
+>
+> mình hãy cứ sống thế đi  
+> em cứ mãi ước mơ  
+> em cứ luôn mong chờ điều tuyệt vời nhé em  
+> và anh sẽ mãi bước đi  
+> sẽ cố gắng mỉm cười  
+> cố gắng quên đi bao nhiêu tình yêu tan vỡ như là giấc mơ....  
 >
 > 365 - "no love no life"
 

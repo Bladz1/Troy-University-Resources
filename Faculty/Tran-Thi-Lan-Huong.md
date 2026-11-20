@@ -5,12 +5,12 @@
 
 **ThS. Trần Thị Lan Hương** là giảng viên Khoa Ngôn ngữ ứng dụng, Trường Quốc tế – Đại học Quốc gia Hà Nội (VNU-IS).
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Ngoại hình**: [Trần Thị Lan Hương][profile-image]
 - **Lý lịch**: [VNU - Trần Thị Lan Hương][vnu-profile]
 - **Giới tính**: Nữ
 - **Học vị cao nhất**: Thạc sĩ
-- **Email**: huongttl@vnuis.edu.vn
+- **Email**: [huongttl@vnuis.edu.vn](mailto:huongttl@vnuis.edu.vn)
 
 ## Lịch sử giảng dạy
 - `ENG-1101` ([Composition And Modern English I][eng-1101]): Fall-2024, Fall-2025

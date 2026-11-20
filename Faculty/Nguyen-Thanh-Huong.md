@@ -5,14 +5,14 @@
 
 **TS. Nguyễn Thanh Hương** là giảng viên trường Kinh tế, ĐHBKHN.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Ngoại hình**: [Nguyễn Thanh Hương][profile-image]
 - **Lý lịch**: [SEM - Nguyễn Thanh Hương][academic-profile]
 - **Giới tính**: Nữ
 - **Ngày sinh**: 20/08/1989
 - **Học vị cao nhất**: Tiến sĩ
 - **Trường**: Kinh tế
-- **Email**: huong.nguyenthanh4@hust.edu.vn
+- **Email**: [huong.nguyenthanh4@hust.edu.vn](mailto:huong.nguyenthanh4@hust.edu.vn)
 - **Facebook**: [Facebook - Nguyễn Thanh Hương][facebook-profile]
 
 ## Lịch sử giảng dạy
@@ -52,4 +52,3 @@
 [academic-profile]: https://sem.hust.edu.vn/lecturers/ts-nguyen-thanh-huong
 [facebook-profile]: https://www.facebook.com/profile.php?id=1304216319
 [mgt-3300]: ../MGT-3300/
-[contributing]: ../CONTRIBUTING.md

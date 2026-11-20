@@ -15,4 +15,3 @@ Trở lại môn này lần thứ hai, mục tiêu của tôi không gì khác n
 
 
 [nguyen-hoang-thoan]: ../Faculty/Nguyen-Hoang-Thoan.md
-[contributing]: ../CONTRIBUTING.md

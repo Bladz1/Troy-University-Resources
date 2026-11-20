@@ -5,14 +5,14 @@
 
 **TS. Nguyễn Thị Thu Hương** là giảng viên bộ môn Khoa học Máy tính.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Ngoại hình**: [Nguyễn Thị Thu Hương][profile-image]
 - **Lý lịch**: [SOICT - Nguyễn Thị Thu Hương][soict-profile]
 - **Giới tính**: Nữ
 - **Ngày sinh**: 07/09/1964
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Công nghệ thông tin và truyền thông
-- **Email**: huongnt@soict.hust.edu.vn
+- **Email**: [huongnt@soict.hust.edu.vn](mailto:huongnt@soict.hust.edu.vn)
 
 ## Lịch sử giảng dạy
 - `CS-3372` ([Formal Languages and the Theory of Computation][cs-3372]): Fall-2023, Summer-2026
@@ -23,8 +23,8 @@
 
 ## Chỉ số và sức mạnh
 - **Điểm tổng kết trung bình:** `?/100`
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*

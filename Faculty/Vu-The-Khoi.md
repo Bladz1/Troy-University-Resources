@@ -12,7 +12,7 @@
 - **Giới tính**: Nam
 - **Năm sinh**: 1974
 - **Học vị cao nhất**: Tiến sĩ
-- **Email**: vtkhoi@gmail.com; vtkhoi@math.ac.vn
+- **Email**: [vtkhoi@gmail.com](mailto:vtkhoi@gmail.com); [vtkhoi@math.ac.vn](mailto:vtkhoi@math.ac.vn)
 - **Website**: https://viasm.edu.vn/nhan-su/chi-tiet/vu-the-khoi
 - **Facebook**: [Facebook - Vũ Thế Khôi][facebook-profile]
 

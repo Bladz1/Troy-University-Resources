@@ -5,7 +5,7 @@
 
 **TS. Lưu Quang Trung** bảo vệ thành công luận án Tiến sĩ về Mạng thông tin và truyền thông ngày 07/06/2021 tại Đại học Paris-Saclay, Cộng hòa Pháp và có thời gian làm nghiên cứu sau tiến sĩ tại Trung tâm Nghiên cứu Khoa học Quốc gia Pháp (LAAS-CNRS) tại Toulouse. Thầy từng là giảng viên tại Khoa Kỹ thuật Truyền thông, Trường Điện - Điện tử, Đại học Bách khoa Hà Nội giai đoạn 2023–2025, trước khi đảm nhiệm vị trí tại Phòng thí nghiệm Tín hiệu và Hệ thống (L2S), Đại học Paris-Saclay từ ngày 01/09/2025.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Ngoại hình**: [Lưu Quang Trung][profile-image]
 - **Lý lịch**: [SEEE - Lưu Quang Trung][academic-profile]
 - **Giới tính**: Nam
@@ -13,10 +13,10 @@
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Kỹ thuật Truyền thông (HUST, 2023–2025)
 - **Đơn vị hiện tại**: Phòng thí nghiệm Tín hiệu và Hệ thống (L2S), Đại học Paris-Saclay
-- **Email**: trung.luuquang@hust.edu.vn; luuquangtrung.vn@gmail.com
+- **Email**: [trung.luuquang@hust.edu.vn](mailto:trung.luuquang@hust.edu.vn); [luuquangtrung.vn@gmail.com](mailto:luuquangtrung.vn@gmail.com)
 - **Facebook**: [Facebook - Lưu Quang Trung][facebook-profile]
 - **Website**: https://luuquangtrung.github.io/
-- **Github**: [Github - Lưu Quang Trung][github-profile]
+- **GitHub**: [GitHub - Lưu Quang Trung][github-profile]
 
 ## Lịch sử giảng dạy
 - `CS-3310` ([Foundations of Computer Science][cs-3310]): Fall-2023
@@ -28,8 +28,8 @@
 
 ## Chỉ số và sức mạnh
 - **Điểm tổng kết trung bình:** `?/100`
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*

@@ -5,7 +5,7 @@
 
 **PGS. TS. Nguyễn Đình Hân** là giảng viên Khoa Toán - Tin, Đại học Bách khoa Hà Nội và hiện là Trưởng nhóm chuyên môn Cơ sở toán học cho tin học và Hệ thống thông tin.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 
 - **Ngoại hình**: [Nguyễn Đình Hân][profile-image]
 - **Lý lịch**: [FAMI - Nguyễn Đình Hân][fami-profile]
@@ -14,7 +14,7 @@
 - **Nơi sinh**: Hưng Yên
 - **Học vị cao nhất**: Tiến sĩ
 - **Phòng làm việc**: Phòng 104, nhà D3
-- **Email**: han.nguyendinh@hust.edu.vn
+- **Email**: [han.nguyendinh@hust.edu.vn](mailto:han.nguyendinh@hust.edu.vn)
 - **Điện thoại công tác**: 02438692137
 - **Điện thoại cá nhân**: 0915046320
 - **DBLP**: [Nguyen Dinh Han][dblp-profile]
@@ -59,7 +59,7 @@ Khi cơ thể chết đi mà ta tự cảm thấy được, thì đó là một 
 
 **Ngành mình đang chết.**
 
-Không phải cứ tự nhiên như một chiều thu, mà là nhờ từng sự trôi dạt nhỏ. Ví dụ như cách ông thầy dạy chẳng hạn. Tôi cảm tưởng như là đang trong một màn trình diễn, mà ông thầy cứ diễn đi diễn lại từ môn này qua môn khác, nghĩa là giả sử tay thợ hát (Mr. H) biết rằng các khán giả (Mr. Students) sẽ khó mà có thể hiểu được hết ý nghĩa của màn trình diễn của họ, nên họ sẽ cố gắng thể hiện theo một cái manner trông có vẻ hợp lí với lớp. Mọi thứ trông rất chuyên nghiệp, chuẩn chỉ, và về phía khán giả, đương nhiên khi đã trong nhà hát, ai cũng muốn tỏ ra mình thật sang chảnh, giữ một cái phong thái trông có vẻ là họ thật sự hiểu hết màn trình diễn lố bịch, và cũng tỏ ra họ là "những" người phong cách, uyên bác.
+Không phải cứ tự nhiên như một chiều thu, mà là nhờ từng sự trôi dạt nhỏ. Ví dụ như cách ông thầy dạy chẳng hạn. Tôi cảm tưởng như là đang trong một màn trình diễn, mà ông thầy cứ diễn đi diễn lại từ môn này qua môn khác, nghĩa là giả sử tay thợ hát (Mr. H) biết rằng các khán giả (Mr. Students) sẽ khó mà có thể hiểu được hết ý nghĩa của màn trình diễn của họ, nên họ sẽ cố gắng thể hiện theo một cái manner trông có vẻ hợp lý với lớp. Mọi thứ trông rất chuyên nghiệp, chuẩn chỉ, và về phía khán giả, đương nhiên khi đã trong nhà hát, ai cũng muốn tỏ ra mình thật sang chảnh, giữ một cái phong thái trông có vẻ là họ thật sự hiểu hết màn trình diễn lố bịch, và cũng tỏ ra họ là "những" người phong cách, uyên bác.
 
 Chắc chắn là ba courses mà ông thầy dạy khá quan trọng, tuy nhiên chúng đều bị cái hiện tượng đó mà tiếng Anh người ta có hẳn một danh từ để chỉ, đó là [dumbing-down][noun], nghĩa là cả hai bên, học sinh và ông thầy, đều cố tỏ ra chuyên nghiệp nhằm giữ bản sắc cho môn học. Ông thầy cố truyền đạt lượng kiến thức tối thiểu vừa đủ cái syllabus, nhưng âm thầm làm nó dễ đến mức tối thiểu để sinh viên trông có vẻ học được gì đó. Sinh viên cũng cố adapt bằng cách tỏ ra "điệu nghệ" như các học giả, nhưng đằng sau là những câu trả lời sáo rỗng đến từ những các LLM. Hiện tượng này mệt mỏi đến mức nó dài lê thê qua cả ba courses, sinh viên thì phần đa rất thích vì không phải học nhiều 😝.
 
@@ -93,9 +93,9 @@ Tôi phải nói như nào nhỉ, nó cực kì ngột ngạt, hai bên cứ di�
 
 - **Điểm tổng kết trung bình:** `?/100`
   
-  - Độ lệch chuẩn: TBA
+  - Độ lệch chuẩn: `TBA`
   
-  - Tỉ lệ được A: TBA
+  - Tỉ lệ được A: `TBA`
     
     > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 

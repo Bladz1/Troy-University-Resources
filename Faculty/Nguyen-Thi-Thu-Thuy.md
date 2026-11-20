@@ -1,11 +1,11 @@
-# PGS.TS. Nguyễn Thị Thu Thủy
+# PGS. TS. Nguyễn Thị Thu Thủy
 
 > "Perhaps the archives are incomplete."  
 > — **Obi-Wan Kenobi**
 
-**PGS.TS. Nguyễn Thị Thu Thủy** là [Trưởng Khoa Kinh doanh, giảng viên cao cấp][academic-profile] thuộc Trường Kinh tế, Đại học Bách khoa Hà Nội.
+**PGS. TS. Nguyễn Thị Thu Thủy** là [Trưởng Khoa Kinh doanh, giảng viên cao cấp][academic-profile] thuộc Trường Kinh tế, Đại học Bách khoa Hà Nội.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 
 - **Ngoại hình**: [Nguyễn Thị Thu Thủy][profile-image]
 - **Lý lịch**: [SEM - Nguyễn Thị Thu Thủy][academic-profile]
@@ -16,7 +16,7 @@
 - **Nhóm chuyên môn**: Kinh tế học
 - **Khoa**: Kinh doanh
 - **Trường**: Kinh tế
-- **Email**: thuy.nguyenthithu@hust.edu.vn
+- **Email**: [thuy.nguyenthithu@hust.edu.vn](mailto:thuy.nguyenthithu@hust.edu.vn)
 
 ## Học vấn và chức danh
 
@@ -44,8 +44,8 @@ Cô giảng dạy [Kinh tế học vi mô và Kinh tế học vĩ mô][academic-
 ## Chỉ số và sức mạnh
 
 - **Điểm tổng kết trung bình:** `?/100`
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   

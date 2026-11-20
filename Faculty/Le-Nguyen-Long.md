@@ -6,7 +6,7 @@
 
 **ThS. NCS. Lê Nguyên Long** là giảng viên Bộ môn Văn học nước ngoài và Nghiên cứu so sánh, Khoa Văn học, Trường Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia Hà Nội.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 
 - **Ngoại hình**: [Lê Nguyên Long][profile-image]
 - **Lý lịch khoa học**: [USSH - Lê Nguyên Long][academic-profile]
@@ -22,20 +22,20 @@
 
 ## Mối quan tâm
 
-* Văn học so sánh
-* Văn học Mỹ, đặc biệt Edgar Allan Poe
-* Văn học di dân và nghiên cứu xuyên quốc gia
-* Văn học Việt Nam thuộc địa và hậu thuộc địa
-* Lí thuyết văn học và nghiên cứu dịch thuật
+- Văn học so sánh
+- Văn học Mỹ, đặc biệt Edgar Allan Poe
+- Văn học di dân và nghiên cứu xuyên quốc gia
+- Văn học Việt Nam thuộc địa và hậu thuộc địa
+- Lý thuyết văn học và nghiên cứu dịch thuật
 
 ## Một số công trình tiêu biểu
 
-* *The Politics of Travel Writing: Pham Quynh’s National Project and the Landscape of the Imperial Capital at Hue, Vietnam*. **Landscapes**, 2023. *(Scopus Q3)*
-* *Văn chương nghệ thuật và thiết chế văn hoá: Những tiếp cận liên ngành*. **NXB Thế giới**, 2017. *(đồng chủ biên)*
-* *In ấn, quyền lực và quốc gia - dân tộc: Lí thuyết về quốc gia - dân tộc của Benedict Anderson trong nghiên cứu nhân văn*. **Nghiên cứu Văn học**, 2019.
-* *Trung tâm và ngoại biên: Từ hệ hình cấu trúc luận đến hệ hình hậu cấu trúc luận*. **Nghiên cứu Văn học**, 2013.
-* *Dịch và lí thuyết dịch như một hệ hình lí luận, phê bình mới*. **Nghiên cứu Văn học**, 2009. *(với Phạm Quốc Lộc)*
-* *Về khái niệm cái kì ảo và văn học kì ảo trong nghiên cứu văn học*. **Nghiên cứu Văn học**, 2006.
+- *The Politics of Travel Writing: Pham Quynh’s National Project and the Landscape of the Imperial Capital at Hue, Vietnam*. **Landscapes**, 2023. *(Scopus Q3)*
+- *Văn chương nghệ thuật và thiết chế văn hoá: Những tiếp cận liên ngành*. **NXB Thế giới**, 2017. *(đồng chủ biên)*
+- *In ấn, quyền lực và quốc gia - dân tộc: Lí thuyết về quốc gia - dân tộc của Benedict Anderson trong nghiên cứu nhân văn*. **Nghiên cứu Văn học**, 2019.
+- *Trung tâm và ngoại biên: Từ hệ hình cấu trúc luận đến hệ hình hậu cấu trúc luận*. **Nghiên cứu Văn học**, 2013.
+- *Dịch và lí thuyết dịch như một hệ hình lí luận, phê bình mới*. **Nghiên cứu Văn học**, 2009. *(với Phạm Quốc Lộc)*
+- *Về khái niệm cái kì ảo và văn học kì ảo trong nghiên cứu văn học*. **Nghiên cứu Văn học**, 2006.
 
 ## Lịch sử giảng dạy
 
@@ -108,7 +108,7 @@ Bảng điểm cho thấy bức tranh phân hóa khá rõ (tính trên toàn kh�
 
 #### Tóm lược
 
-Phải luôn tỉnh táo, chú ý lời Long nói, nghe kĩ từng chi tiết ông nói ra (vì ông hiếm khi chia sẻ ý niệm của ông), phối hợp chặt chẽ với các lớp ENG của ông ở VNU và lớp A/B, chuẩn bị kĩ tinh thần để chiến đấu. 
+Phải luôn tỉnh táo, chú ý lời Long nói, nghe kỹ từng chi tiết ông nói ra (vì ông hiếm khi chia sẻ ý niệm của ông), phối hợp chặt chẽ với các lớp ENG của ông ở VNU và lớp A/B, chuẩn bị kỹ tinh thần để chiến đấu. 
 
 Triển vọng cheat: có, nhưng tôi sẽ không đề cập, nếu muốn hãy liên lạc với tôi ở đâu đó.
 

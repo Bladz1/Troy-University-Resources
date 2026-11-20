@@ -6,7 +6,7 @@
 
 **TS. Dư Đình Viên** hiện là **Trưởng khoa Công nghệ thông tin và Điện tử – Viễn thông, Trường Đại học Hòa Bình** (**Trường Đại học Victoria Hòa Bình**). Thông tin thầy là Giám đốc Trung tâm Đào tạo Sau đại học, Trường Đại học Công nghiệp Hà Nội (HaUI), thuộc giai đoạn công tác trước. [Nguồn: giới thiệu khoa năm 2026][hbu-faculty], [thông báo nhân sự HaUI tháng 01/2023][haui-appointment].
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 
 - **Ngoại hình**: [Dư Đình Viên][profile-image]
 - **Hồ sơ chính thức**: [Bài giới thiệu của Đại học Hòa Bình][hbu-profile].
@@ -14,7 +14,7 @@
 - **Giới tính**: Nam
 - **Ngày sinh**: 02/09/1962
 - **Học vị cao nhất**: Tiến sĩ
-- **Email**: ddvien@daihochoabinh.edu.vn; viendd@haui.edu.vn
+- **Email**: [ddvien@daihochoabinh.edu.vn](mailto:ddvien@daihochoabinh.edu.vn); [viendd@haui.edu.vn](mailto:viendd@haui.edu.vn)
 
 ## Học vấn và quá trình công tác
 
@@ -90,9 +90,9 @@ That’s all!!!!
 
 - **Điểm tổng kết trung bình:** `?/100`
   
-  - Độ lệch chuẩn: TBA
+  - Độ lệch chuẩn: `TBA`
   
-  - Tỉ lệ được A: TBA
+  - Tỉ lệ được A: `TBA`
     
     > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 

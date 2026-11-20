@@ -5,13 +5,13 @@
 
 **TS. Alberto Arteta** (*tên đầy đủ: Alberto Arteta Albert*) là Phó Giáo sư (Associate Professor) tại Khoa Khoa học Máy tính của Đại học Troy, Hoa Kỳ.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Ngoại hình**: [Alberto Arteta][profile-image]
 - **Lý lịch**: [TROY - Alberto Arteta][academic-profile]
 - **Giới tính**: Nam
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Computer Science
-- **Email**: aarteta@troy.edu
+- **Email**: [aarteta@troy.edu](mailto:aarteta@troy.edu)
 - **Facebook**: [Facebook - Alberto Arteta][facebook-profile]
 - **Rate My Professors**: [Rate My Professors - Alberto Arteta][rate-my-professors-profile]
 
@@ -20,7 +20,7 @@
 <div align="center">
 
 | Học vị / Văn bằng                                   | Cơ sở đào tạo                                  | Năm tốt nghiệp |
-|:--------------------------------------------------- |:---------------------------------------------- |:--------------:|
+| :-------------------------------------------------- | :--------------------------------------------- | :------------: |
 | Chương trình 5 năm về Toán học và Khoa học máy tính | Universidad Complutense de Madrid, Tây Ban Nha | 2000           |
 | Tiến sĩ Khoa học máy tính (Ph.D.)                   | Universidad Politécnica de Madrid, Tây Ban Nha | 2010           |
 | Thạc sĩ Trí tuệ nhân tạo (M.S.)                     | Universidad Politécnica de Madrid, Tây Ban Nha | 2011           |
@@ -37,8 +37,8 @@
 
 ## Chỉ số và sức mạnh
 - **Điểm tổng kết trung bình:** `?/100`
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
@@ -52,10 +52,16 @@
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Cơ chế trông thi
+### CS-4410 - Introduction to Machine Learning
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 ### CS-4448 - Operating Systems
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Tips
+### CS-4410 - Introduction to Machine Learning
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 ### CS-4448 - Operating Systems
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 

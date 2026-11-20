@@ -5,14 +5,14 @@
 
 **TS. Ngô Lam Trung** là phó Trưởng Bộ môn khoa Kỹ thuật Máy tính.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Ngoại hình**: [Ngô Lam Trung][profile-image]
 - **Lý lịch**: [SOICT - Ngô Lam Trung][soict-profile]
 - **Giới tính**: Nam
 - **Ngày sinh**: 03/11/1981
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Kỹ thuật Máy tính
-- **Email**: trung.ngolam@hust.edu.vn
+- **Email**: [trung.ngolam@hust.edu.vn](mailto:trung.ngolam@hust.edu.vn)
 
 ## Lịch sử giảng dạy
 - `CS-3365` ([Introduction to Computer Organization and Architecture][cs-3365]): Spring-2024
@@ -23,8 +23,8 @@
 
 ## Chỉ số và sức mạnh
 - **Điểm tổng kết trung bình:** `?/100`
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*

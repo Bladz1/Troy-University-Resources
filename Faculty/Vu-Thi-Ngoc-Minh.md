@@ -5,14 +5,14 @@
 
 **TS. Vũ Thị Ngọc Minh** là giảng viên Khoa Kỹ thuật Hóa học.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Ngoại hình**: [Vũ Thị Ngọc Minh][profile-image]
 - **Lý lịch**: [SCLS - Vũ Thị Ngọc Minh][scls_profile]
 - **Giới tính**: Nữ
 - **Ngày sinh**: 12/11/1978
 - **Học vị cao nhất**: Tiến sĩ
 - **Trường**: Hóa và Khoa học sự sống
-- **Email**: minh.vuthingoc@hust.edu.vn
+- **Email**: [minh.vuthingoc@hust.edu.vn](mailto:minh.vuthingoc@hust.edu.vn)
 
 ## Lịch sử giảng dạy
 - `CHM-1142` ([General Chemistry and Lab I][chm-1142]): Summer-2024, Summer-2025, Summer-2026

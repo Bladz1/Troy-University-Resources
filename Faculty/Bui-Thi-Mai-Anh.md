@@ -9,11 +9,12 @@
 
 - **Ngoại hình**: [Bùi Thị Mai Anh][profile-image]
 - **Lý lịch**: [SoICT – Bùi Thị Mai Anh][soict_profile]
+- **Hồ sơ nghiên cứu**: [Research HUST][hust-profile]
 - **Giới tính**: Nữ
 - **Ngày sinh**: 13/10/1984
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Khoa học Máy tính
-- **Email**: anhbtm@soict.hust.edu.vn; [anh.buithimai@hust.edu.vn][hust-profile]
+- **Email**: [anhbtm@soict.hust.edu.vn](mailto:anhbtm@soict.hust.edu.vn); [anh.buithimai@hust.edu.vn](mailto:anh.buithimai@hust.edu.vn)
 
 ## Học vấn
 
@@ -21,7 +22,7 @@
 
 | Năm   | Cơ sở đào tạo                                    | Văn bằng – Chuyên ngành                    |
 | :---: | :----------------------------------------------- | :----------------------------------------- |
-| 2007  | Đại học Bách khoa Hà Nội, Việt Nam               | [Kĩ sư Công nghệ thông tin][soict_profile] |
+| 2007  | Đại học Bách khoa Hà Nội, Việt Nam               | [Kỹ sư Công nghệ thông tin][soict_profile] |
 | 2011  | Université de La Rochelle, Pháp                  | [Thạc sĩ Khoa học máy tính][soict_profile] |
 | 2016  | Université Pierre et Marie Curie (Paris 6), Pháp | [Tiến sĩ Khoa học máy tính][soict_profile] |
 
@@ -33,7 +34,7 @@ Cô bảo vệ luận án [*Séparation des Préoccupations en Épidémiologie*]
 
 Cô là [trưởng nhóm nghiên cứu **RISE** về Công nghệ phần mềm thông minh thuộc Trung tâm BK-AI][soict_profile]. Các hướng nghiên cứu của cô gồm:
 
-- **AI và công nghệ phần mềm**: [phân tích mã nguồn bằng mô hình ngôn ngữ, phát hiện nợ kĩ thuật và tự động sinh ca kiểm thử][soict_profile].
+- **AI và công nghệ phần mềm**: [phân tích mã nguồn bằng mô hình ngôn ngữ, phát hiện nợ kỹ thuật và tự động sinh ca kiểm thử][soict_profile].
 - **Mô hình hóa hệ thống phức tạp**: xây dựng ngôn ngữ chuyên biệt, trong đó [Kendrick][kendrick-2019] hỗ trợ mô hình hóa và mô phỏng sự lan truyền của bệnh truyền nhiễm.
 - **Vận trù học và phân tích dữ liệu**: [rời rạc hóa dữ liệu và chấm điểm tín dụng][soict_profile].
 
@@ -122,7 +123,7 @@ Từ **10/2023 đến 03/2025**, cô chủ trì [đề tài ứng dụng học s
 
 ## Trivia
 
-- **TS. Bùi Thị Mai Anh** được các sinh viên K69 đánh giá rất thấp ('F tier'). Trong một bài khảo sát chất lượng, giảng viên đã được sinh viên đánh giá với con số 4,94/10.
+- **TS. Bùi Thị Mai Anh** được các sinh viên K69 đánh giá rất thấp ('F tier'). Trong một bài khảo sát chất lượng, giảng viên đã được sinh viên đánh giá với con số 4.94/10.
 
 [profile-image]: https://soict.hust.edu.vn/wp-content/uploads/2019/06/B%C3%B9i-Th%E1%BB%8B-Mai-Anh.jpg
 [soict_profile]: https://soict.hust.edu.vn/ts-bui-thi-mai-anh.html

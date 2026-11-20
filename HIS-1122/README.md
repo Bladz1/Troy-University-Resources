@@ -30,4 +30,3 @@
 [youtube-link]: https://youtu.be/jxTaydBnwIg
 [pham-van-thuy]: ../Faculty/Pham-Van-Thuy.md
 [nguyen-nhat-linh]: ../Faculty/Nguyen-Nhat-Linh.md
-[contributing]: ../CONTRIBUTING.md

@@ -23,4 +23,3 @@
 
 
 [do-kien-cuong]: ../Faculty/Do-Kien-Cuong.md
-[contributing]: ../CONTRIBUTING.md

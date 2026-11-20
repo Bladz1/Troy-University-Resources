@@ -24,4 +24,3 @@ Có lẽ đây là 1 trong những môn được offer trong kì đầu tiên t�
 
 
 [doan-duy-trung]: ../Faculty/Doan-Duy-Trung.md
-[contributing]: ../CONTRIBUTING.md

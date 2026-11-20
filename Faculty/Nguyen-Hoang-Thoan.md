@@ -5,14 +5,14 @@
 
 **PGS. TS. Nguyễn Hoàng Thoan** là giảng viên bộ môn Quang học và Quang điện tử, ĐHBKHN.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Ngoại hình**: [Nguyễn Hoàng Thoan][profile-image]
 - **Lý lịch**: [SEP - Nguyễn Hoàng Thoan][academic-profile]
 - **Giới tính**: Nữ
 - **Ngày sinh**: 01/02/1981
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Vật lý kỹ thuật
-- **Email**: thoan.nguyenhoang@hust.edu.vn
+- **Email**: [thoan.nguyenhoang@hust.edu.vn](mailto:thoan.nguyenhoang@hust.edu.vn)
 - **Facebook**: [Facebook - Nguyễn Hoàng Thoan][facebook-profile]
 
 ## Lịch sử giảng dạy

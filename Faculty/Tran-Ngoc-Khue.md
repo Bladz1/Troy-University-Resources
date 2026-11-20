@@ -5,14 +5,14 @@
 
 **TS. Trần Ngọc Khuê** là giảng viên khoa Toán-Tin, ĐHBKHN.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Ngoại hình**: [Trần Ngọc Khuê][profile-image]
 - **Lý lịch**: [FAMI - Trần Ngọc Khuê][academic-profile]
 - **Giới tính**: Nam
 - **Năm sinh**: 1984
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Toán-Tin
-- **Email**: khue.tranngoc@hust.edu.vn
+- **Email**: [khue.tranngoc@hust.edu.vn](mailto:khue.tranngoc@hust.edu.vn)
 - **Facebook**: [Facebook - Trần Ngọc Khuê][facebook-profile]
 
 ## Lịch sử giảng dạy
@@ -55,4 +55,3 @@
 [facebook-profile]: https://www.facebook.com/profile.php?id=100001568158119
 [stat-2210]: ../STAT-2210/
 [professor-leonard-statistics]: https://www.youtube.com/playlist?list=PL5102DFDC6790F3D0
-[contributing]: ../CONTRIBUTING.md

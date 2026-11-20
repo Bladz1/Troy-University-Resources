@@ -3,7 +3,7 @@
 > "That's why I'm saying study hard, play hard..."  
 > — **TS. Bernard Chen**, [*Inside Troy’s Computer Science Program*][youtube-link-1]
 
-**TS. Bernard Chen** là [giáo sư kiêm Trưởng khoa Khoa học máy tính, Đại học Troy, Mĩ][troy-faculty]. Trước khi đến Troy, thầy từng giảng dạy và nghiên cứu tại University of Central Arkansas (UCA).
+**TS. Bernard Chen** là [giáo sư kiêm Trưởng khoa Khoa học máy tính, Đại học Troy, Mỹ][troy-faculty]. Trước khi đến Troy, thầy từng giảng dạy và nghiên cứu tại University of Central Arkansas (UCA).
 
 ## Thông tin cơ bản
 
@@ -12,7 +12,7 @@
 - **Công bố khoa học**: [Google Scholar - Bernard Chen][gg_scholar_profile]
 - **Giới tính**: Nam
 - **Học vị cao nhất**: Tiến sĩ
-- **Email**: chenb@troy.edu
+- **Email**: [chenb@troy.edu](mailto:chenb@troy.edu)
 - **Rate My Professors**: [Rate My Professors - Bernard Chen][rate-my-professors-profile]
 
 ## Học vấn
@@ -20,10 +20,10 @@
 <div align="center">
 
 | Học vị                                                                        | Cơ sở đào tạo                                                     | Năm tốt nghiệp        |
-|:----------------------------------------------------------------------------- |:----------------------------------------------------------------- |:---------------------:|
-| [Cử nhân Khoa học máy tính và Kĩ thuật thông tin (B.S.)][uca-profile]         | Fu Jen Catholic University (Đại học Công giáo Phụ Nhân), Đài Loan | [2002][chen-2008-bio] |
-| [Thạc sĩ (M.S.)][troy-faculty]                                                | Georgia State University, Mĩ                                      | —                     |
-| [Tiến sĩ Khoa học máy tính, hướng Tin sinh học (Ph.D.)][wineinformatics-book] | Georgia State University, Mĩ                                      | 2008                  |
+| :---------------------------------------------------------------------------- | :---------------------------------------------------------------- | :-------------------: |
+| [Cử nhân Khoa học máy tính và Kỹ thuật thông tin (B.S.)][uca-profile]         | Fu Jen Catholic University (Đại học Công giáo Phụ Nhân), Đài Loan | [2002][chen-2008-bio] |
+| [Thạc sĩ (M.S.)][troy-faculty]                                                | Georgia State University, Mỹ                                      | 2006                  |
+| [Tiến sĩ Khoa học máy tính, hướng Tin sinh học (Ph.D.)][wineinformatics-book] | Georgia State University, Mỹ                                      | 2008                  |
 
 </div>
 
@@ -36,7 +36,7 @@ Trong thời gian học tiến sĩ, thầy nhận hỗ trợ từ [chương trì
 <div align="center">
 
 | Năm  | Dấu mốc                                                                                                                             |
-|:----:|:----------------------------------------------------------------------------------------------------------------------------------- |
+| :--: | :---------------------------------------------------------------------------------------------------------------------------------- |
 | 2008 | [Gia nhập Khoa Khoa học máy tính, University of Central Arkansas][uca-appointment-2008].                                            |
 | 2014 | [Được thăng chức danh Associate Professor và nhận tenure tại UCA][uca-promotion-2014].                                              |
 | 2025 | [Gia nhập Đại học Troy với chức danh Professor][troy-new-faculty-2025]; [giữ vị trí Trưởng khoa Khoa học máy tính][troy-hack-2025]. |
@@ -47,7 +47,7 @@ Trong thời gian học tiến sĩ, thầy nhận hỗ trợ từ [chương trì
 
 Thầy nghiên cứu [khoa học dữ liệu, khai phá dữ liệu, tin sinh học, logic mờ và tính toán hạt (*granular computing*)][uca-profile]. Các công trình ban đầu chú trọng khai thác thông tin từ chuỗi và cấu trúc protein; những nghiên cứu gần đây còn liên quan đến [phân loại tội phạm mạng và các phương pháp phát hiện, phòng ngừa, ứng phó][strike-plus-2025].
 
-Một hướng nghiên cứu thầy phát triển từ **2014** là [**Wineinformatics** — ứng dụng khoa học dữ liệu để phân tích dữ liệu về rượu vang][wineinformatics-book]. Thầy và các cộng sự sử dụng công cụ *Computational Wine Wheel* để chuyển các mô tả cảm quan trong bài đánh giá rượu thành dữ liệu có thể xử lí bằng máy tính, từ đó nghiên cứu điểm số, giá cả và sự nhất quán của người đánh giá.
+Một hướng nghiên cứu thầy phát triển từ **2014** là [**Wineinformatics** — ứng dụng khoa học dữ liệu để phân tích dữ liệu về rượu vang][wineinformatics-book]. Thầy và các cộng sự sử dụng công cụ *Computational Wine Wheel* để chuyển các mô tả cảm quan trong bài đánh giá rượu thành dữ liệu có thể xử lý bằng máy tính, từ đó nghiên cứu điểm số, giá cả và sự nhất quán của người đánh giá.
 
 Một số công trình:
 
@@ -70,9 +70,9 @@ Như phần lớn sinh viên Mẽo đã đánh giá trong RateMyProfessors, Chen
 
 - **Điểm tổng kết trung bình gần nhất:** `?/100`
   
-  - Độ lệch chuẩn: TBA
+  - Độ lệch chuẩn: `TBA`
   
-  - Tỉ lệ được A: TBA
+  - Tỉ lệ được A: `TBA`
     
     > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
     
@@ -83,8 +83,8 @@ Như phần lớn sinh viên Mẽo đã đánh giá trong RateMyProfessors, Chen
   - CS-2220 - Spring-2026
     
     - **Điểm tổng kết trung bình:** `?/100`
-      - Độ lệch chuẩn: TBA
-      - Tỉ lệ được A: TBA
+      - Độ lệch chuẩn: `TBA`
+      - Tỉ lệ được A: `TBA`
         
         > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
         

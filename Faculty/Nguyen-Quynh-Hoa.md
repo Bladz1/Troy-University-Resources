@@ -14,7 +14,7 @@
 - **Học vị cao nhất**: Thạc sĩ
 - **Khoa**: Quản lý
 - **Trường**: Kinh tế
-- **Email**: hoa.nguyenquynh@hust.edu.vn
+- **Email**: [hoa.nguyenquynh@hust.edu.vn](mailto:hoa.nguyenquynh@hust.edu.vn)
 
 ## Lịch sử giảng dạy
 

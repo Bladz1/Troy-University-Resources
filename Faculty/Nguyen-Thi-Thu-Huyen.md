@@ -13,7 +13,7 @@
 - **Giới tính**: Nữ
 - **Dân tộc**: Kinh
 - **Học vị cao nhất**: Tiến sĩ
-- **Email**: ntthuyen@vnuis.edu.vn
+- **Email**: [ntthuyen@vnuis.edu.vn](mailto:ntthuyen@vnuis.edu.vn)
 - **Địa chỉ**: Trường Quốc tế – ĐHQGHN, nhà E5, 144 Xuân Thủy, Cầu Giấy, Hà Nội
 
 ## Lịch sử giảng dạy
@@ -33,7 +33,7 @@ Tỉ lệ được A trong 2 kì đầu tiên cô dạy y hệt nhau (24%), ngh�
 ## Chỉ số và sức mạnh
 
 - **Điểm tổng kết trung bình gần nhất:** `?/100`
-  - Độ lệch chuẩn: TBA
+  - Độ lệch chuẩn: `TBA`
   - Tỉ lệ được A: 24% (6/25)
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
   <details>
@@ -42,12 +42,12 @@ Tỉ lệ được A trong 2 kì đầu tiên cô dạy y hệt nhau (24%), ngh�
 
   - ENG-1102 - Spring-2026
     - **Điểm tổng kết trung bình:** `?/100`
-      - Độ lệch chuẩn: TBA
+      - Độ lệch chuẩn: `TBA`
       - Tỉ lệ được A: 24% (6/25)
       > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
   - ENG-1101 - Fall-2025
     - **Điểm tổng kết trung bình:** `?/100`
-      - Độ lệch chuẩn: TBA
+      - Độ lệch chuẩn: `TBA`
       - Tỉ lệ được A: 24% (6/25)
       > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
   </blockquote>
@@ -59,7 +59,7 @@ Tỉ lệ được A trong 2 kì đầu tiên cô dạy y hệt nhau (24%), ngh�
 - **Độ bám sát bài học của đề thi:** `8/10`
   - Slide thì chỉ nói qua khá là bề mặt, không thực sự giúp ích nhiều lắm.
 - **Độ hợp lí, cân bằng của khối lượng bài vở và sức khỏe tinh thần:** `9/10`
-  - Vừa phải, hợp lý
+  - Vừa phải, hợp lí
 - **Khả năng truyền đạt kiến thức và chuyên môn sư phạm:** `8.6/10`
   - Lớp của cô khá vui, dễ học nhưng cô cũng không hẳn là có kỹ năng sư phạm tốt lắm.
 - **Tác phong, tính cách và mức độ hỗ trợ sinh viên:** `9/10`

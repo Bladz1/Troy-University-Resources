@@ -13,7 +13,7 @@
 - **Ngày sinh**: 03/10/1997
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Toán-Tin
-- **Email**: tu.danghuu@hust.edu.vn
+- **Email**: [tu.danghuu@hust.edu.vn](mailto:tu.danghuu@hust.edu.vn)
 - **Facebook**: [Facebook - Đặng Hữu Tú][facebook_profile]
 
 ## Lịch sử giảng dạy

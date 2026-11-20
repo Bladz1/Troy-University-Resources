@@ -5,20 +5,20 @@
 
 **TS. Đinh Thị Hà Ly** là giảng viên trường Công Nghệ Thông Tin và Truyền Thông.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Ngoại hình**: [Đinh Thị Hà Ly][profile-image]
 - **Lý lịch**: [SOICT -  Đinh Thị Hà Ly][soict_profile]
 - **Giới tính**: Nữ
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Kỹ thuật máy tính
-- **Email**: lydth@soict.hust.edu.vn
+- **Email**: [lydth@soict.hust.edu.vn](mailto:lydth@soict.hust.edu.vn)
 
 ## Học vấn
 
 <div align="center">
 
 | Học vị / Văn bằng                    | Cơ sở đào tạo                                            | Năm tốt nghiệp |
-|:------------------------------------ |:-------------------------------------------------------- |:--------------:|
+| :----------------------------------- | :------------------------------------------------------- | :------------: |
 | Kỹ sư Công nghệ thông tin (khóa K55) | Đại học Bách khoa Hà Nội                                 | 2015           |
 | Thạc sĩ Công nghệ thông tin          | Đại học Bách khoa Hà Nội                                 | 2017           |
 | Tiến sĩ Tin học (Informatics)        | Viện Tin học Quốc gia (NII) / Đại học SOKENDAI, Nhật Bản | 2022           |
@@ -34,8 +34,8 @@ Khá ít thông tin nhưng có vẻ thi đơn giản chép được.
 
 ## Chỉ số và sức mạnh
 - **Điểm tổng kết trung bình:** `?/100`
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*

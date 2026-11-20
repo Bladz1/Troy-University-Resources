@@ -5,15 +5,16 @@
 
 **TS. Nguyễn Nhất Hải** là [giảng viên Khoa Khoa học Máy tính][academic-profile], Trường Công nghệ Thông tin và Truyền thông (SoICT), Đại học Bách khoa Hà Nội.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 
 - **Ngoại hình**: [Nguyễn Nhất Hải][profile-image]
 - **Lý lịch**: [SoICT - Nguyễn Nhất Hải][academic-profile]
+- **Hồ sơ nghiên cứu**: [Research HUST][research-profile]
 - **Giới tính**: Nam
 - **Ngày sinh**: 10/04/1982
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Khoa học Máy tính
-- **Email**: [hai.nguyennhat@hust.edu.vn][research-profile]; [hainn@soict.hust.edu.vn][academic-profile]
+- **Email**: [hai.nguyennhat@hust.edu.vn](mailto:hai.nguyennhat@hust.edu.vn); [hainn@soict.hust.edu.vn](mailto:hainn@soict.hust.edu.vn)
 
 ## Học vấn
 
@@ -98,4 +99,3 @@ Thầy Hải chill, không lo lắng, kê cao gối, học vui vẻ, môn thì d
 [vifin-gen]: https://doi.org/10.1109/ATC63255.2024.10908340
 [ia-ratd-2026]: https://jst.vn/index.php/etsd/article/view/1105
 [is-2241]: ../IS-2241/
-[contributing]: ../CONTRIBUTING.md

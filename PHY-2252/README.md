@@ -16,4 +16,3 @@ Môn này là môn Vật lý đại cương 1 đó, nhưng mà dễ hơn 😋.
 
 [nguyen-hoang-thoan]: ../Faculty/Nguyen-Hoang-Thoan.md
 [mth-1114]: ../MTH-1114/
-[contributing]: ../CONTRIBUTING.md

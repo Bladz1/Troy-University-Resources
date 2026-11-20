@@ -34,4 +34,3 @@ Theo tôi, một phần giá trị của các môn ENG chính là cho sinh viên
 [le-nguyen-long]: ../Faculty/Le-Nguyen-Long.md
 [pham-phuong-chi]: ../Faculty/Pham-Phuong-Chi.md
 [dinh-minh-hang]: ../Faculty/Dinh-Minh-Hang.md
-[contributing]: ../CONTRIBUTING.md

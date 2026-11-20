@@ -5,7 +5,7 @@
 
 **PGS. TS. Phạm Thị Kim Ngọc** là Phó Hiệu trưởng Trường Kinh tế, ĐHBKHN.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Ngoại hình**: [Phạm Thị Kim Ngọc][profile-image]
 - **Lý lịch**: [SEM - Phạm Thị Kim Ngọc][academic-profile]
 - **Giới tính**: Nữ
@@ -13,7 +13,7 @@
 - **Quê quán**: Quế Sơn, Quảng Nam
 - **Học vị cao nhất**: Tiến sĩ
 - **Trường**: Kinh tế
-- **Email**: ngoc.phamthikim@hust.edu.vn
+- **Email**: [ngoc.phamthikim@hust.edu.vn](mailto:ngoc.phamthikim@hust.edu.vn)
 
 ## Lịch sử giảng dạy
 - `MGT-3300` ([Principles of Management][mgt-3300]): Spring-2024, Spring-2025, Spring-2026
@@ -25,8 +25,8 @@
 
 ## Chỉ số và sức mạnh
 - **Điểm tổng kết trung bình:** `?/100`
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*

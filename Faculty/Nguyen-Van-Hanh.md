@@ -5,14 +5,14 @@
 
 **TS. Nguyễn Văn Hạnh** là trưởng nhóm chuyên môn Xác suất thống kê và ứng dụng, ĐHBKHN.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Ngoại hình**: [Nguyễn Văn Hạnh][profile-image]
 - **Lý lịch**: [FAMI - Nguyễn Văn Hạnh][academic-profile]
 - **Giới tính**: Nam
 - **Năm sinh**: 1983
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Toán-Tin
-- **Email**: hanh.nguyenvan1@hust.edu.vn
+- **Email**: [hanh.nguyenvan1@hust.edu.vn](mailto:hanh.nguyenvan1@hust.edu.vn)
 - **Facebook**: [Facebook - Nguyễn Văn Hạnh][facebook-profile]
 
 ## Lịch sử giảng dạy
@@ -24,8 +24,8 @@
 
 ## Chỉ số và sức mạnh
 - **Điểm tổng kết trung bình:** `?/100`
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*

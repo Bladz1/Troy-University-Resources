@@ -5,19 +5,19 @@
 
 **ThS. Lê Thị Khánh Hòa** là giảng viên Khoa Tiếng Anh chuyên ngành, Trường Đại học Hà Nội (HANU).
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Lý lịch**: [HANU - Lê Thị Khánh Hòa][hanu_profile]
 - **Giới tính**: Nữ
 - **Học vị cao nhất**: Thạc sĩ
 - **Khoa**: Tiếng Anh chuyên ngành
-- **Email**: hoaltk@hanu.edu.vn
+- **Email**: [hoaltk@hanu.edu.vn](mailto:hoaltk@hanu.edu.vn)
 
 ## Lịch sử giảng dạy
 - `COM-2241` ([Fundamentals of Speech][com-2241]): Summer-2024, Summer-2025, Summer-2026
 
 ## Đánh giá
 ### COM-2241 - Fundamentals of Speech
-Môn này là môn học về thuyết trình, nhưng quyết định được A hay không không phải là nhờ thuyết trình, mà phải vượt qua bài thi lí thuyết giấy (không tài liệu, phone), càng viết được nhiều (dĩ nhiên phải sát kiến thức trong slide), thì càng được điểm cao, các khóa gần đây chỉ có 1 con A là nhiều nhất.
+Môn này là môn học về thuyết trình, nhưng quyết định được A hay không không phải là nhờ thuyết trình, mà phải vượt qua bài thi lý thuyết giấy (không tài liệu, phone), càng viết được nhiều (dĩ nhiên phải sát kiến thức trong slide), thì càng được điểm cao, các khóa gần đây chỉ có 1 con A là nhiều nhất.
 
 ## Chỉ số và sức mạnh
 - **Điểm tổng kết trung bình:** `70.51/100`

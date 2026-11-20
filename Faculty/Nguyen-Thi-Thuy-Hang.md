@@ -5,14 +5,14 @@
 
 **ThS. Nguyễn Thị Thúy Hằng** là giảng viên trường kinh tế, ĐHBKHN.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Ngoại hình**: [Nguyễn Thị Thúy Hằng][profile-image]
 - **Lý lịch**: [SEM - Nguyễn Thị Thúy Hằng][academic-profile]
 - **Giới tính**: Nữ
 - **Ngày sinh**: 01/05/1986
 - **Học vị cao nhất**: Thạc sĩ
 - **Trường**: Kinh Tế
-- **Email**: hang.nguyenthithuy@hust.edu.vn
+- **Email**: [hang.nguyenthithuy@hust.edu.vn](mailto:hang.nguyenthithuy@hust.edu.vn)
 
 ## Lịch sử giảng dạy
 - `LAW-2221` ([Legal Environment of Business][law-2221]): Fall-2024
@@ -23,8 +23,8 @@
 
 ## Chỉ số và sức mạnh
 - **Điểm tổng kết trung bình:** `?/100`
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*

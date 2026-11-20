@@ -26,4 +26,3 @@ Theo tôi, một phần giá trị của các môn ENG chính là cho sinh viên
 
 [eng-1102]: ../ENG-1102/
 [le-nguyen-long]: ../Faculty/Le-Nguyen-Long.md
-[contributing]: ../CONTRIBUTING.md

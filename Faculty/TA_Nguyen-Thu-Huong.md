@@ -12,8 +12,8 @@
 - **Học vị cao nhất**: Cử nhân
 - **Khoa/Bộ môn**: [Khoa Kỹ thuật truyền thông][department]
 - **Trường/Đơn vị**: Trường Điện - Điện tử, Đại học Bách khoa Hà Nội
-- **Email công tác**: huong.nguyenthu4@hust.edu.vn
-- **Email học viên**: huong.nt252713m@sis.hust.edu.vn
+- **Email công tác**: [huong.nguyenthu4@hust.edu.vn](mailto:huong.nguyenthu4@hust.edu.vn)
+- **Email học viên**: [huong.nt252713m@sis.hust.edu.vn](mailto:huong.nt252713m@sis.hust.edu.vn)
 - **Đang theo học**: **Thạc sĩ Khoa học - K2025B**
 - **GitHub**: [GitHub - nguyenthuhuog][github-profile]
 
@@ -26,7 +26,7 @@
 - **2025–nay**: **Thạc sĩ Khoa học**, Đại học Bách khoa Hà Nội.
   - Khóa: **K2025B**
   - MSHV: **20252713M**
-  - Email học viên: **huong.nt252713m@sis.hust.edu.vn**
+  - Email học viên: **[huong.nt252713m@sis.hust.edu.vn](mailto:huong.nt252713m@sis.hust.edu.vn)**
   - Đơn vị đào tạo: **Trường Điện - Điện tử**
   - Lớp: **Môi trường Cảm thụ, đa PT và TT (KH)** — tên đầy đủ của chương trình là **Môi trường cảm thụ, đa phương tiện và tương tác** (*Ambient Computing, Multimedia and Interaction*). [Chương trình thạc sĩ][master-program]
   - Chương trình được HUST xếp trong ngành **Khoa học máy tính**, mã ngành **8480101**, định hướng **nghiên cứu**, bằng tốt nghiệp **Thạc sĩ khoa học**. [Danh mục đào tạo sau đại học][graduate-program-list]
@@ -89,7 +89,7 @@
   - Điểm rèn luyện: **96**
 
 ## Lịch sử giảng dạy và hỗ trợ học phần
-- `CS-4420` ([Introduction to Database Systems][cs-4420]): Fall-2026
+- `CS-4420` ([Introduction to Database Systems][cs-4420]): Fall-2025, Fall-2026
   - **Vai trò**: Trợ giảng
   - **Giảng viên phụ trách**: [TS. Nguyễn Đình Văn][nguyen-dinh-van]
 

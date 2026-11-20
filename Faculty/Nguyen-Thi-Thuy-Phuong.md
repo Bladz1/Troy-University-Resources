@@ -5,13 +5,13 @@
 
 **ThS. Nguyễn Thị Thùy Phương** là điều phối viên chương trình Cử nhân Quản trị Kinh doanh (BSBA) của Đại học Troy tại Việt Nam, công tác tại Viện Đào tạo Quốc tế (SITE), Trường Đại học Kinh tế – Đại học Quốc gia Hà Nội.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Ngoại hình**: [Nguyễn Thị Thùy Phương][profile-image]
 - **Lý lịch**: [UEB - Nguyễn Thị Thùy Phương][academic-profile]
 - **Giới tính**: Nữ
 - **Học vị cao nhất**: Thạc sĩ
 - **Trường**: Đại học Kinh tế, ĐHQGHN
-- **Email**: pnguyen59272@troy.edu
+- **Email**: [pnguyen59272@troy.edu](mailto:pnguyen59272@troy.edu)
 
 ## Lịch sử giảng dạy
 - `TROY-1101` ([The University Experience][troy-1101]): Summer-2025
@@ -22,8 +22,8 @@
 
 ## Chỉ số và sức mạnh
 - **Điểm tổng kết trung bình:** `?/100`
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*

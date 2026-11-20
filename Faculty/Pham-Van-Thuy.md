@@ -5,7 +5,7 @@
 
 **PGS. TS. Phạm Văn Thủy** là [giảng viên cao cấp tại Khoa Lịch sử và Văn hóa, Trường Đại học Khoa học Xã hội và Nhân văn, Đại học Quốc gia Hà Nội][academic-profile].
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 
 - **Ngoại hình**: [Phạm Văn Thủy][profile-image]
 - **Lý lịch**: [VNU - Phạm Văn Thủy][academic-profile]
@@ -15,7 +15,7 @@
 - **Học vị cao nhất**: Tiến sĩ Lịch sử
 - **Khoa**: Lịch sử và Văn hóa
 - **Ngoại ngữ**: [Tiếng Anh, tiếng Hà Lan, tiếng Indonesia][academic-profile]
-- **Email**: Thuypv@vnu.edu.vn
+- **Email**: [Thuypv@vnu.edu.vn](mailto:Thuypv@vnu.edu.vn)
 
 ## Học vấn
 

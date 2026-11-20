@@ -19,7 +19,7 @@ Tiếp theo, thực tế chương trình học, thì tôi phải đánh giá b�
 Cuối cùng, nói như vậy có phải chương trình này tệ??? Câu trả lời là không. Thực tế rằng, dù thiếu sự hỗ trợ từ phía quản lý, những sinh viên vẫn cho thấy khả năng thích nghi tốt với môi trường học tập hỗn loạn và có rất nhiều người có tài năng học ở đây, cũng như các sinh viên có khả năng tự học và hợp tác rất tốt (trừ vài bạn học siêuuuuu tốt nào đó đến mức có thể làm một mình…). Dưới 8 kì làm lớp trưởng của tôi, thì mặc dù không thực sự dễ dàng để cố gắn kết mọi người vì ai ai cũng có những mục tiêu riêng, nhưng trên hết, họ đều hiểu rằng chỉ có sự hợp tác mới là cách duy nhất để vượt qua sóng gió và chỉ có sự thấu hiểu - tôn trọng lẫn nhau mới làm nên sự hợp tác kéo dài trong suốt 2 năm. Như điệp viên [Phạm Xuân Ẩn](https://vi.wikipedia.org/wiki/Ph%E1%BA%A1m_Xu%C3%A2n_%E1%BA%A8n) nhận định: 
 
 > "Communism teaches you to love each other, not kill each other. **The only way to do this is for everyone to become brothers**, which may take a million years. It’s utopian, but it’s beautiful."  
-> — [*Thomas Alden Bass, The Spy Who Loved Us*, chap. Baptism by Fire](./Assets/Books/The_Spy_Who_Loved_Us_The_Vietnam_War_and_Pham_Xuan..._----_(Baptism_by_Fire).pdf)
+> — [*Thomas Alden Bass, The Spy Who Loved Us*, chap. Baptism by Fire](./Assets/Books/The_Spy_Who_Loved_Us_The_Vietnam_War_and_Pham_Xuan..._----_%28Baptism_by_Fire%29.pdf)
 
 Thực lòng, tôi muốn tri ân lớp của mình thông qua nỗ lực này để đảm bảo cho khóa sau giữ được tinh thần này, dù thực sự rất khó khăn. Dù không hiện hữu, nhưng tư duy đấy chính là tư duy chủ nghĩa xã hội mà ở phần cuối tôi sẽ đề cập sau.
 

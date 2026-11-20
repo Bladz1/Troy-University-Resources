@@ -5,7 +5,7 @@
 
 **TS. Nguyễn Nhật Linh** là [giảng viên Khoa Lịch sử và Văn hóa, Trường Đại học Khoa học Xã hội và Nhân văn, Đại học Quốc gia Hà Nội][academic-profile].
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 
 - **Ngoại hình**: [Nguyễn Nhật Linh][profile-image]
 - **Lý lịch**: [VNU - Nguyễn Nhật Linh][academic-profile]
@@ -15,7 +15,7 @@
 - **Giới tính**: Nam
 - **Học vị cao nhất**: Tiến sĩ Lịch sử Thế giới
 - **Ngoại ngữ**: [Tiếng Anh, tiếng Hàn; đọc hiểu tiếng Hán][academic-cv]
-- **Email**: Linhussh@gmail.com
+- **Email**: [Linhussh@gmail.com](mailto:Linhussh@gmail.com)
 - **Facebook**: [Facebook - Nguyễn Nhật Linh][facebook-profile]
 
 ## Học vấn

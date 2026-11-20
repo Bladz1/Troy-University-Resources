@@ -20,4 +20,3 @@ Môn này là môn để biết về quy chế ngành - nothing special.
 
 [nguyen-kieu-anh]: ../Faculty/Nguyen-Kieu-Anh.md
 [nguyen-thi-thuy-phuong]: ../Faculty/Nguyen-Thi-Thuy-Phuong.md
-[contributing]: ../CONTRIBUTING.md

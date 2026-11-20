@@ -5,7 +5,7 @@
 
 **TS. GVC. Nguyễn Thị Mai Anh** là giảng viên trường Kinh tế, ĐHBKHN.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Ngoại hình**: [Nguyễn Thị Mai Anh][profile-image]
 - **Lý lịch**: [SEM - Nguyễn Thị Mai Anh][academic-profile]
 - **Giới tính**: Nữ
@@ -13,7 +13,7 @@
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Quản lý
 - **Trường**: Kinh tế
-- **Email**: anh.nguyenthimai@hust.edu.vn
+- **Email**: [anh.nguyenthimai@hust.edu.vn](mailto:anh.nguyenthimai@hust.edu.vn)
 
 ## Lịch sử giảng dạy
 - `MKT-3300` ([Principles of Marketing][mkt-3300]): Summer-2025
@@ -24,8 +24,8 @@
 
 ## Chỉ số và sức mạnh
 - **Điểm tổng kết trung bình:** `?/100`
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*

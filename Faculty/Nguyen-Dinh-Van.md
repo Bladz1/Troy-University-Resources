@@ -5,7 +5,7 @@
 
 **TS. Nguyễn Đình Văn** là giảng viên Trường Điện - Điện tử, Đại học Bách khoa Hà Nội. Hiện thầy được liệt kê trong đội ngũ thành viên Viện Nghiên cứu công nghệ không gian và dưới nước.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 
 - **Ngoại hình**: [Nguyễn Đình Văn][profile-image]
 - **Hồ sơ SEEE**: [Nguyễn Đình Văn][seee-profile]
@@ -15,7 +15,7 @@
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Kỹ thuật truyền thông
 - **Văn phòng**: E809 - C7
-- **Email**: van.nguyendinh@hust.edu.vn
+- **Email**: [van.nguyendinh@hust.edu.vn](mailto:van.nguyendinh@hust.edu.vn)
 - **YouTube**: [Nguyen Van][youtube-channel]
 - **Công tác Đoàn**:
   - Bí thư BCH Đoàn Trường Điện - Điện tử
@@ -39,7 +39,7 @@ Gần đây, các công trình của thầy mở rộng sang trí tuệ nhân t�
 
 - `CS-2255` ([Computer Science II][cs-2255]): Spring-2025
 - `CS-3360` ([Concepts of Object Oriented Programming I][cs-3360]): Spring-2023, Spring-2024
-- `CS-4420` ([Introduction to Database Systems][cs-4420]): Fall-2023, Fall-2024, Fall-2025
+- `CS-4420` ([Introduction to Database Systems][cs-4420]): Fall-2023, Fall-2024, Fall-2025, Fall-2026
 
 ## Đánh giá
 
@@ -67,9 +67,9 @@ Gần đây, các công trình của thầy mở rộng sang trí tuệ nhân t�
 
 - **Điểm tổng kết trung bình:** `?/100`
   
-  - Độ lệch chuẩn: TBA
+  - Độ lệch chuẩn: `TBA`
   
-  - Tỉ lệ được A: TBA
+  - Tỉ lệ được A: `TBA`
     
     > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 

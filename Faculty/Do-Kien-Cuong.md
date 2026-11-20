@@ -5,7 +5,7 @@
 
 **ThS. Đỗ Kiên Cường** là giảng viên bộ môn hòa tấu - Học viện Âm nhạc Quốc gia Việt Nam.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Ngoại hình**: [Đỗ Kiên Cường][profile-image]
 - **Lý lịch**: [UEB - Đỗ Kiên Cường][academic-profile]
 - **Giới tính**: Nam
@@ -13,8 +13,8 @@
 - **Nơi sinh**: Hà Nội
 - **Học vị cao nhất**: Thạc sĩ
 - **Trường**: Đại Học Kinh tế, ĐHQGHN
-- **Email**: Lecturer.TROY4@hust.edu.vn
-- **Youtube**: [Youtube - Đỗ Kiên Cường][youtube-channel]
+- **Email**: [Lecturer.TROY4@hust.edu.vn](mailto:Lecturer.TROY4@hust.edu.vn)
+- **YouTube**: [YouTube - Đỗ Kiên Cường][youtube-channel]
 - **Website**: https://dokiencuong.wordpress.com/
 
 ## Lịch sử giảng dạy

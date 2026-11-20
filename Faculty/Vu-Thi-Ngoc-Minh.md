@@ -5,7 +5,7 @@
 
 **TS. Vũ Thị Ngọc Minh** là giảng viên Khoa Kỹ thuật Hóa học.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Ngoại hình**: [Vũ Thị Ngọc Minh][profile-image]
 - **Lý lịch**: [SCLS - Vũ Thị Ngọc Minh][scls_profile]
 - **Giới tính**: Nữ

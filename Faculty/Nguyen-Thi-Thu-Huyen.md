@@ -33,7 +33,7 @@ Tỉ lệ được A trong 2 kì đầu tiên cô dạy y hệt nhau (24%), ngh�
 ## Chỉ số và sức mạnh
 
 - **Điểm tổng kết trung bình gần nhất:** `?/100`
-  - Độ lệch chuẩn: TBA
+  - Độ lệch chuẩn: `TBA`
   - Tỉ lệ được A: 24% (6/25)
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
   <details>
@@ -42,12 +42,12 @@ Tỉ lệ được A trong 2 kì đầu tiên cô dạy y hệt nhau (24%), ngh�
 
   - ENG-1102 - Spring-2026
     - **Điểm tổng kết trung bình:** `?/100`
-      - Độ lệch chuẩn: TBA
+      - Độ lệch chuẩn: `TBA`
       - Tỉ lệ được A: 24% (6/25)
       > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
   - ENG-1101 - Fall-2025
     - **Điểm tổng kết trung bình:** `?/100`
-      - Độ lệch chuẩn: TBA
+      - Độ lệch chuẩn: `TBA`
       - Tỉ lệ được A: 24% (6/25)
       > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
   </blockquote>

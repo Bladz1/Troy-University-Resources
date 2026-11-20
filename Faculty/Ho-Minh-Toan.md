@@ -65,7 +65,7 @@ Solid A tier.
 - **Độ bám sát bài học của đề thi:** `8.75/10`
   - Bài tập giao không 100% giống dạng đề thi, nhưng đủ gần. Không tệ.
 - **Độ hợp lí, cân bằng của khối lượng bài vở và sức khỏe tinh thần:** `8.75/10`
-  - Bài tập giao khá là hợp lí, không nhảm như Khôi. Thời gian làm bài thì cho khá là dễ chịu, nộp ở buổi thi giữa kì và cuối kì.
+  - Bài tập giao khá là hợp lý, không nhảm như Khôi. Thời gian làm bài thì cho khá là dễ chịu, nộp ở buổi thi giữa kì và cuối kì.
 - **Khả năng truyền đạt kiến thức và chuyên môn sư phạm:** `8.5/10`
   - Không có gì nổi bật, nhưng tốt hơn Khôi. 
 - **Tác phong, tính cách và mức độ hỗ trợ sinh viên:** `9.0/10`

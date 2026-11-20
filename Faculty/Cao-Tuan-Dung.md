@@ -5,7 +5,7 @@
 
 **PGS. TS. Cao Tuấn Dũng** hiện là [**Hiệu trưởng Trường Công nghệ Thông tin và Truyền thông (SoICT)**][soict-leadership], Đại học Bách khoa Hà Nội, đồng thời là **Phó Giáo sư, Giảng viên cao cấp** thuộc [Khoa Khoa học Máy tính][soict-cs-dept]. Thầy được Đại học Bách khoa Hà Nội công bố quyết định bổ nhiệm giữ chức vụ Hiệu trưởng trong buổi lễ sáng ngày **18/11/2026**, sau khi từng giữ các vị trí Trưởng Bộ môn Công nghệ Phần mềm, Phó Viện trưởng Viện CNTT&TT và Phó Hiệu trưởng Trường CNTT&TT ([hồ sơ SoICT][soict-profile], [tin bổ nhiệm][soict-appointment-news]).
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Ngoại hình**: [Cao Tuấn Dũng][profile-image]
 - **Lý lịch**: [SOICT - Cao Tuấn Dũng][soict-profile]
 - **Hồ sơ nghiên cứu**: [Research HUST][research-profile]
@@ -71,7 +71,7 @@ Một số công trình tiêu biểu:
 ### CS-3360 - Concepts of Object Oriented Programming I
 - Về thầy Dũng, câu chuyện bắt đầu từ hồi tôi mới vào cấp 3. Lúc đó tôi đã bắt đầu suy nghĩ về một trường đại học nào đó. Một đêm nọ, tôi tình cờ xem được talkshow của [Bomman nói về Bách Khoa][youtube-bomman]. Đó là lần đầu tiên tôi nghe đến cái tên Cao Tuấn Dũng. Hắn kể về thầy trong bối cảnh bảo vệ đồ án: ổng phản biện rất gắt, nhưng chấm điểm thì lại rất cao. Đại khái, đó là những gì tôi còn nhớ.
 
-- Sau 5 năm thì tôi gặp lại ổng trong môn OOP, cảm xúc cũng khá đặc biệt. Nếu phải nói thì sau khi học xong môn này, tôi đã hiểu và lí giải được nhiều điều về con người ông.
+- Sau 5 năm thì tôi gặp lại ổng trong môn OOP, cảm xúc cũng khá đặc biệt. Nếu phải nói thì sau khi học xong môn này, tôi đã hiểu và lý giải được nhiều điều về con người ông.
   
   - Đầu tiên là về “profile”. Thầy là cựu học sinh Trường THPT chuyên Hà Nội – Amsterdam, lên đại học thì học Bách Khoa. Lý lịch kiểu rất chuẩn chỉnh, dạng người ham học hỏi, hơi nerd. Thường thì giai đoạn cấp 3 và đại học sẽ định hình tính cách một người cho cả cuộc đời, nên đến giờ tôi vẫn thấy ông làm việc vẫn rất chỉn chu: giảng dạy đàng hoàng, đi đứng, nói chuyện với sinh viên khá thoải mái.
   
@@ -85,8 +85,8 @@ Một số công trình tiêu biểu:
 
 ## Chỉ số và sức mạnh
 - **Điểm tổng kết trung bình:** `?/100`
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*

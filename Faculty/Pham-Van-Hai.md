@@ -5,7 +5,7 @@
 
 **PGS. TS. Phạm Văn Hải** là Phó Giáo sư Công nghệ thông tin, chuyên ngành chuyên sâu trí tuệ nhân tạo (ứng dụng trí tuệ nhân tạo thực tiễn, tính toán mềm – fuzzy system, học máy và phân tích dữ liệu lớn) giảng dạy và nghiên cứu tại khoa Khoa học máy tính, Trường Công nghệ Thông tin và truyền thông, Đại học Bách khoa Hà Nội
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Ngoại hình**: [Phạm Văn Hải][profile-image]
 - **Lý lịch**: [SOICT - Phạm Văn Hải][academic-profile]
 - **Giới tính**: Nam
@@ -25,8 +25,8 @@
 
 ## Chỉ số và sức mạnh
 - **Điểm tổng kết trung bình:** `?/100`
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*

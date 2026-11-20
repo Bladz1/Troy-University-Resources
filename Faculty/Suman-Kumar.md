@@ -102,8 +102,8 @@ Chuyện trên là một chuyện, cái nữa là Kumar dạy rất kiểu Ấn,
 
 - **Điểm tổng kết trung bình:** `?/100`
 
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA`
 
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 

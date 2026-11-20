@@ -5,7 +5,7 @@
 
 **TS. Đoàn Duy Trung** là **Phó Trưởng khoa Toán - Tin, Đại học Bách khoa Hà Nội**.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Ngoại hình**: [Đoàn Duy Trung][profile-image]
 - **Lý lịch**: [FAMI - Đoàn Duy Trung][academic-profile]
 - **Giới tính**: Nam
@@ -46,7 +46,7 @@ Thầy nghiên cứu **toán rời rạc, đặc biệt là lý thuyết đồ t
 ## Đánh giá
 
 ### MTH-1112 - Pre-Calculus Algebra
-- Thầy Trung là Phó Trưởng Khoa Toán - Tin, ĐHBKHN. Profile của anh như là quá trình 'forge a knife' sắc lẹm, bé học chuyên Toán, lớn học ở BK, Nga, Đức, một loạt môi trường phải nói là gay gắt vì thế nên con người anh kĩ tính, rành mạch như người Nga vậy, lí do bao nhiêu năm nay ngành ta bắt đầu với môn Toán của anh là vì anh như một biểu tượng, nhắc nhở chúng ta phải cố gắng học hành, đừng cố gắng cheat, tất cả đều đang được quản lí bởi BK, và trong context lớp học chính là anh, cách thi của anh mang đậm chất BK, chuẩn chỉ, nhấn mạnh vào kiến thức, trình độ, nói thẳng là 'KHÔNG HỌC THÌ CÚT', lầm lì, một chú 'gấu Nga' đúng nghĩa ngay trong lớp học. 🐻
+- Thầy Trung là Phó Trưởng Khoa Toán - Tin, ĐHBKHN. Profile của anh như là quá trình 'forge a knife' sắc lẹm, bé học chuyên Toán, lớn học ở BK, Nga, Đức, một loạt môi trường phải nói là gay gắt vì thế nên con người anh kỹ tính, rành mạch như người Nga vậy, lý do bao nhiêu năm nay ngành ta bắt đầu với môn Toán của anh là vì anh như một biểu tượng, nhắc nhở chúng ta phải cố gắng học hành, đừng cố gắng cheat, tất cả đều đang được quản lý bởi BK, và trong context lớp học chính là anh, cách thi của anh mang đậm chất BK, chuẩn chỉ, nhấn mạnh vào kiến thức, trình độ, nói thẳng là 'KHÔNG HỌC THÌ CÚT', lầm lì, một chú 'gấu Nga' đúng nghĩa ngay trong lớp học. 🐻
 
 - Chính vì sự chặt chẽ của anh mà đây là môn Toán mà anh chị em Troy tạch nhiều nhất (một phần cũng vì mới vào ĐH ham chơi), hằng kì hay có những lớp xin mở thêm của môn này vì môn này đen cái là điều kiện tiên quyết của rất nhiều môn ở cả Troy CS và Troy BA.
 

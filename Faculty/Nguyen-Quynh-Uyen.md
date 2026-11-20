@@ -5,7 +5,7 @@
 
 **TS. Nguyễn Quỳnh Uyển** là giảng viên, nghiên cứu viên tại Viện Vi sinh vật và Công nghệ Sinh học, Đại học Quốc gia Hà Nội.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Lý lịch**: [VNU - Nguyễn Quỳnh Uyển][vnu-profile]
 - **Giới tính**: Nữ
 - **Học vị cao nhất**: Tiến sĩ
@@ -20,8 +20,8 @@
 
 ## Chỉ số và sức mạnh
 - **Điểm tổng kết trung bình:** `?/100`
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*

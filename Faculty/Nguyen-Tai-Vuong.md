@@ -5,7 +5,7 @@
 
 **ThS. Nguyễn Tài Vượng** là giảng viên chính Trường Kinh tế, ĐHBKHN, thuộc nhóm chuyên môn Kinh tế học.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 
 - **Ngoại hình**: [Nguyễn Tài Vượng][profile-image]
 - **Lý lịch**: [SEM - Nguyễn Tài Vượng][sem-profile]
@@ -55,7 +55,7 @@ Xoay quanh kinh tế ứng dụng, chủ yếu gồm thương mại quốc tế,
 
 ### ECO-2251 - Macroeconomics
 
-- Thầy Vượng là một nhân vật khá gây tranh cãi, 1 mặt anh là người dạy nhiệt huyết, tư duy, thực sự phải nói kiến thức anh truyền tải khá là đáng 'đồng tiền', nhưng mặt còn lại của anh... Chính là khi nghịch lí trong các sinh viên CS dâng trào, 'filler course', đâm ra ghen ghét anh Vượng, nghiêm túc thì không thầy cô nào thích sinh viên đến chơi và làm việc riêng không nghe giảng, đặc biệt khi đã bỏ công sức giảng kĩ lưỡng, nên anh khá khắt khe trong việc điểm danh, kỉ luật trong chính lớp học, câu nói đáng nhớ nhất của anh:
+- Thầy Vượng là một nhân vật khá gây tranh cãi, 1 mặt anh là người dạy nhiệt huyết, tư duy, thực sự phải nói kiến thức anh truyền tải khá là đáng 'đồng tiền', nhưng mặt còn lại của anh... Chính là khi nghịch lý trong các sinh viên CS dâng trào, 'filler course', đâm ra ghen ghét anh Vượng, nghiêm túc thì không thầy cô nào thích sinh viên đến chơi và làm việc riêng không nghe giảng, đặc biệt khi đã bỏ công sức giảng kỹ lưỡng, nên anh khá khắt khe trong việc điểm danh, kỉ luật trong chính lớp học, câu nói đáng nhớ nhất của anh:
   
   > "Không học thì sao không tìm 1 cái ngành nào mà chỉ đóng tiền có điểm ấy."
 

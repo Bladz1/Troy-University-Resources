@@ -6,7 +6,7 @@
 
 **ThS. NCS. Lê Nguyên Long** là giảng viên Bộ môn Văn học nước ngoài và Nghiên cứu so sánh, Khoa Văn học, Trường Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia Hà Nội.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 
 - **Ngoại hình**: [Lê Nguyên Long][profile-image]
 - **Lý lịch khoa học**: [USSH - Lê Nguyên Long][academic-profile]
@@ -26,7 +26,7 @@
 - Văn học Mỹ, đặc biệt Edgar Allan Poe
 - Văn học di dân và nghiên cứu xuyên quốc gia
 - Văn học Việt Nam thuộc địa và hậu thuộc địa
-- Lí thuyết văn học và nghiên cứu dịch thuật
+- Lý thuyết văn học và nghiên cứu dịch thuật
 
 ## Một số công trình tiêu biểu
 
@@ -108,7 +108,7 @@ Bảng điểm cho thấy bức tranh phân hóa khá rõ (tính trên toàn kh�
 
 #### Tóm lược
 
-Phải luôn tỉnh táo, chú ý lời Long nói, nghe kĩ từng chi tiết ông nói ra (vì ông hiếm khi chia sẻ ý niệm của ông), phối hợp chặt chẽ với các lớp ENG của ông ở VNU và lớp A/B, chuẩn bị kĩ tinh thần để chiến đấu. 
+Phải luôn tỉnh táo, chú ý lời Long nói, nghe kỹ từng chi tiết ông nói ra (vì ông hiếm khi chia sẻ ý niệm của ông), phối hợp chặt chẽ với các lớp ENG của ông ở VNU và lớp A/B, chuẩn bị kỹ tinh thần để chiến đấu. 
 
 Triển vọng cheat: có, nhưng tôi sẽ không đề cập, nếu muốn hãy liên lạc với tôi ở đâu đó.
 

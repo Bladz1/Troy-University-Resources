@@ -3,7 +3,7 @@
 > "잡스님이 돌아가셨음......헐........"  
 > — **TS. Byungkwan Jung**, *Facebook, 6/10/2011*
 
-**TS. Byungkwan Jung** là [Associate Professor (Phó giáo sư) tại Khoa Khoa học máy tính, Đại học Troy, Mĩ][troy-faculty]. Thầy có nền tảng đào tạo [Kế toán – Thuế tại Đại học Kyung Hee, Hàn Quốc][ttu-seminar], sau đó [học thạc sĩ và tiến sĩ Khoa học máy tính tại Mĩ][troy-cybersecurity].
+**TS. Byungkwan Jung** là [Associate Professor (Phó giáo sư) tại Khoa Khoa học máy tính, Đại học Troy, Mỹ][troy-faculty]. Thầy có nền tảng đào tạo [Kế toán – Thuế tại Đại học Kyung Hee, Hàn Quốc][ttu-seminar], sau đó [học thạc sĩ và tiến sĩ Khoa học máy tính tại Mỹ][troy-cybersecurity].
 
 ## Thông tin cơ bản
 
@@ -24,8 +24,8 @@
 | Văn bằng                                                   | Cơ sở đào tạo                     | Năm tốt nghiệp         |
 | :--------------------------------------------------------- | :-------------------------------- | :--------------------: |
 | Cử nhân, chuyên ngành [Kế toán – Thuế][ttu-seminar]        | Kyung Hee University, Hàn Quốc    | 2010                   |
-| [Thạc sĩ Khoa học máy tính (M.S.)][troy-cybersecurity]     | South Dakota State University, Mĩ | [2014][sdstate-thesis] |
-| [Tiến sĩ Khoa học máy tính (Ph.D.)][ttu-commencement-2019] | Texas Tech University, Mĩ         | 2019                   |
+| [Thạc sĩ Khoa học máy tính (M.S.)][troy-cybersecurity]     | South Dakota State University, Mỹ | [2014][sdstate-thesis] |
+| [Tiến sĩ Khoa học máy tính (Ph.D.)][ttu-commencement-2019] | Texas Tech University, Mỹ         | 2019                   |
 
 </div>
 
@@ -39,7 +39,7 @@ Luận án tiến sĩ của thầy là [*Region-aware Querying Strategies in Inf
 
 | Giai đoạn          | Công việc                                                                                                                      |
 | :----------------: | :----------------------------------------------------------------------------------------------------------------------------- |
-| Khi học tiến sĩ    | [Trợ lí nghiên cứu tại Institute for Measurement, Methodology, Analysis & Policy (IMMAP), Texas Tech University][ttu-seminar]. |
+| Khi học tiến sĩ    | [Trợ lý nghiên cứu tại Institute for Measurement, Methodology, Analysis & Policy (IMMAP), Texas Tech University][ttu-seminar]. |
 | Trước khi đến Troy | [Nghiên cứu viên sau tiến sĩ tại Baylor University, Waco, Texas][troy-cybersecurity].                                          |
 | Từ 2020            | [Công tác tại Đại học Troy, ban đầu với chức danh Assistant Professor][troy-catalog-2023].                                     |
 
@@ -47,12 +47,12 @@ Luận án tiến sĩ của thầy là [*Region-aware Querying Strategies in Inf
 
 ## Hoạt động học thuật
 
-- **TROY Hack**: Thầy [tham gia tổ chức cuộc thi lập trình 24 giờ cùng Suman Kumar, các giảng viên trong khoa và Câu lạc bộ Khoa học máy tính][troy-hack-2023]. Thầy [chú trọng đưa các bài toán công nghệ mới vào cuộc thi để sinh viên rèn kĩ năng thực tế trước khi đi làm][troy-hack-2025].
+- **TROY Hack**: Thầy [tham gia tổ chức cuộc thi lập trình 24 giờ cùng Suman Kumar, các giảng viên trong khoa và Câu lạc bộ Khoa học máy tính][troy-hack-2023]. Thầy [chú trọng đưa các bài toán công nghệ mới vào cuộc thi để sinh viên rèn kỹ năng thực tế trước khi đi làm][troy-hack-2025].
 - **ACMSE 2026**: Thầy và Suman Kumar là [đồng chủ trì ban tổ chức hội nghị ACM Southeast 2026][acmse-organizing].
 
 ## Hướng nghiên cứu
 
-Thầy nghiên cứu [mạng không dây và điện toán di động, an ninh mạng, xử lí ảnh và học máy][troy-cybersecurity].
+Thầy nghiên cứu [mạng không dây và điện toán di động, an ninh mạng, xử lý ảnh và học máy][troy-cybersecurity].
 
 Một số công trình của thầy và các đồng nghiệp:
 
@@ -73,8 +73,8 @@ Một số công trình của thầy và các đồng nghiệp:
 ## Chỉ số và sức mạnh
 
 - **Điểm tổng kết trung bình:** `?/100`
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   

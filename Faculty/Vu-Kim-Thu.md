@@ -5,7 +5,7 @@
 
 **ThS. Vũ Kim Thư** là nghệ sĩ thị giác sống và làm việc tại Hà Nội, đồng thời là [giảng viên thỉnh giảng trong các chương trình liên kết quốc tế][ueb_admissions_2023] của **Trường Đại học Kinh tế – Đại học Quốc gia Hà Nội**. Trong hoạt động nghệ thuật quốc tế, cô sử dụng tên **Thu Kim Vu**.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 
 - **Ngoại hình**: [Vũ Kim Thư][profile-image]
 - **Lý lịch**: [UEB - Vũ Kim Thư][ueb_profile]

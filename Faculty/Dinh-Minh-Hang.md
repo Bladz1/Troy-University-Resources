@@ -31,8 +31,8 @@
 ## Chỉ số và sức mạnh
 
 - **Điểm tổng kết trung bình gần nhất:** `?/100`
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
   <details>
@@ -41,8 +41,8 @@
 
   - ENG-2206 - Summer-2026
     - **Điểm tổng kết trung bình:** `?/100`
-      - Độ lệch chuẩn: TBA
-      - Tỉ lệ được A: TBA
+      - Độ lệch chuẩn: `TBA`
+      - Tỉ lệ được A: `TBA`
       > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
   </blockquote>

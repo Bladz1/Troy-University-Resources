@@ -5,7 +5,7 @@
 
 **TS. Nguyễn Đình Văn** là giảng viên Trường Điện - Điện tử, Đại học Bách khoa Hà Nội. Hiện thầy được liệt kê trong đội ngũ thành viên Viện Nghiên cứu công nghệ không gian và dưới nước.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 
 - **Ngoại hình**: [Nguyễn Đình Văn][profile-image]
 - **Hồ sơ SEEE**: [Nguyễn Đình Văn][seee-profile]
@@ -67,9 +67,9 @@ Gần đây, các công trình của thầy mở rộng sang trí tuệ nhân t�
 
 - **Điểm tổng kết trung bình:** `?/100`
   
-  - Độ lệch chuẩn: TBA
+  - Độ lệch chuẩn: `TBA`
   
-  - Tỉ lệ được A: TBA
+  - Tỉ lệ được A: `TBA`
     
     > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 

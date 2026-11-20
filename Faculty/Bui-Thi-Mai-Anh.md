@@ -22,7 +22,7 @@
 
 | Năm   | Cơ sở đào tạo                                    | Văn bằng – Chuyên ngành                    |
 | :---: | :----------------------------------------------- | :----------------------------------------- |
-| 2007  | Đại học Bách khoa Hà Nội, Việt Nam               | [Kĩ sư Công nghệ thông tin][soict_profile] |
+| 2007  | Đại học Bách khoa Hà Nội, Việt Nam               | [Kỹ sư Công nghệ thông tin][soict_profile] |
 | 2011  | Université de La Rochelle, Pháp                  | [Thạc sĩ Khoa học máy tính][soict_profile] |
 | 2016  | Université Pierre et Marie Curie (Paris 6), Pháp | [Tiến sĩ Khoa học máy tính][soict_profile] |
 
@@ -34,7 +34,7 @@ Cô bảo vệ luận án [*Séparation des Préoccupations en Épidémiologie*]
 
 Cô là [trưởng nhóm nghiên cứu **RISE** về Công nghệ phần mềm thông minh thuộc Trung tâm BK-AI][soict_profile]. Các hướng nghiên cứu của cô gồm:
 
-- **AI và công nghệ phần mềm**: [phân tích mã nguồn bằng mô hình ngôn ngữ, phát hiện nợ kĩ thuật và tự động sinh ca kiểm thử][soict_profile].
+- **AI và công nghệ phần mềm**: [phân tích mã nguồn bằng mô hình ngôn ngữ, phát hiện nợ kỹ thuật và tự động sinh ca kiểm thử][soict_profile].
 - **Mô hình hóa hệ thống phức tạp**: xây dựng ngôn ngữ chuyên biệt, trong đó [Kendrick][kendrick-2019] hỗ trợ mô hình hóa và mô phỏng sự lan truyền của bệnh truyền nhiễm.
 - **Vận trù học và phân tích dữ liệu**: [rời rạc hóa dữ liệu và chấm điểm tín dụng][soict_profile].
 

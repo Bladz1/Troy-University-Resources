@@ -5,7 +5,7 @@
 
 **TS. Trần Ngọc Khuê** là giảng viên khoa Toán-Tin, ĐHBKHN.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Ngoại hình**: [Trần Ngọc Khuê][profile-image]
 - **Lý lịch**: [FAMI - Trần Ngọc Khuê][academic-profile]
 - **Giới tính**: Nam

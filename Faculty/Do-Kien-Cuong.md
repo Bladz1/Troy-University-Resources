@@ -5,7 +5,7 @@
 
 **ThS. Đỗ Kiên Cường** là giảng viên bộ môn hòa tấu - Học viện Âm nhạc Quốc gia Việt Nam.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Ngoại hình**: [Đỗ Kiên Cường][profile-image]
 - **Lý lịch**: [UEB - Đỗ Kiên Cường][academic-profile]
 - **Giới tính**: Nam

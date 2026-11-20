@@ -5,7 +5,7 @@
 
 **TS. Đinh Thị Hà Ly** là giảng viên trường Công Nghệ Thông Tin và Truyền Thông.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Ngoại hình**: [Đinh Thị Hà Ly][profile-image]
 - **Lý lịch**: [SOICT -  Đinh Thị Hà Ly][soict_profile]
 - **Giới tính**: Nữ
@@ -34,8 +34,8 @@ Khá ít thông tin nhưng có vẻ thi đơn giản chép được.
 
 ## Chỉ số và sức mạnh
 - **Điểm tổng kết trung bình:** `?/100`
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*

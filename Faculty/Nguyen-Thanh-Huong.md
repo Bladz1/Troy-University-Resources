@@ -5,7 +5,7 @@
 
 **TS. Nguyễn Thanh Hương** là giảng viên trường Kinh tế, ĐHBKHN.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 - **Ngoại hình**: [Nguyễn Thanh Hương][profile-image]
 - **Lý lịch**: [SEM - Nguyễn Thanh Hương][academic-profile]
 - **Giới tính**: Nữ
@@ -31,7 +31,7 @@
 - **Độ bám sát bài học của đề thi:** `9.5/10`
   - Khá sát.
 - **Độ hợp lí, cân bằng của khối lượng bài vở và sức khỏe tinh thần:** `9/10`
-  - Khối lượng hợp lí.
+  - Khối lượng hợp lý.
 - **Khả năng truyền đạt kiến thức và chuyên môn sư phạm:** `8.75/10`
   - Tốt.
 - **Tác phong, tính cách và mức độ hỗ trợ sinh viên:** `9.5/10`

@@ -5,7 +5,7 @@
 
 **TS. Nguyễn Trung Dũng** là giảng viên Khoa Toán–Tin, Đại học Bách khoa Hà Nội.
 
-## Thông tin giảng viên
+## Thông tin cơ bản
 
 - **Ngoại hình**: [Nguyễn Trung Dũng][profile-image]
 - **Lý lịch**: [FAMI - Nguyễn Trung Dũng][academic-profile]
@@ -36,8 +36,8 @@ Thầy nghiên cứu [bài toán ngược và mô phỏng sóng địa chấn đ
 ## Chỉ số và sức mạnh
 
 - **Điểm tổng kết trung bình:** `?/100`
-  - Độ lệch chuẩn: TBA
-  - Tỉ lệ được A: TBA
+  - Độ lệch chuẩn: `TBA`
+  - Tỉ lệ được A: `TBA`
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
   

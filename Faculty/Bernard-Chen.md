@@ -1,9 +1,9 @@
-# TS. Bernard Chen
+# GS. TS. Bernard Chen
 
 > "That's why I'm saying study hard, play hard..."  
-> — **TS. Bernard Chen**, [*Inside Troy’s Computer Science Program*][youtube-link-1]
+> — **GS. TS. Bernard Chen**, [*Inside Troy’s Computer Science Program*][youtube-link-1]
 
-**TS. Bernard Chen** là [giáo sư kiêm Trưởng khoa Khoa học máy tính, Đại học Troy, Mỹ][troy-faculty]. Trước khi đến Troy, thầy từng giảng dạy và nghiên cứu tại University of Central Arkansas (UCA).
+**GS. TS. Bernard Chen** là [giáo sư kiêm Trưởng khoa Khoa học máy tính, Đại học Troy, Mỹ][troy-faculty]. Trước khi đến Troy, thầy từng giảng dạy và nghiên cứu tại University of Central Arkansas (UCA).
 
 ## Thông tin cơ bản
 
@@ -135,8 +135,8 @@ Như phần lớn sinh viên Mẽo đã đánh giá trong RateMyProfessors, Chen
 
 ## Trivia
 
-- **TS. Bernard Chen** được nhìn thấy mang theo một chai nước có nhãn của khách sạng 5 sao JW Marriott, gợi ý rằng giảng viên là khách hàng của khách sạn này trong vòng 2 tuần giảng viên ở Hà Nội kì Spring 2026.
-  - Giá phòng 2 tuần của khách sạn JW Marriot nằm loanh quanh 60 triệu VND, chưa tính thuế và các phí khác.
+- **GS. TS. Bernard Chen** được nhìn thấy mang theo một chai nước có nhãn của khách sạn 5 sao JW Marriott, gợi ý rằng giảng viên là khách hàng của khách sạn này trong vòng 2 tuần giảng viên ở Hà Nội kì Spring 2026.
+  - Giá phòng 2 tuần của khách sạn JW Marriott nằm loanh quanh 60 triệu VND, chưa tính thuế và các phí khác.
 
 [youtube-link-1]: https://www.youtube.com/watch?v=RNgK4CCOEXI
 [profile-image]: https://www.troy.edu/_assets/college-arts-sciences/departments/computer-science/_images/chen-bernard.jpg
@@ -147,7 +147,7 @@ Như phần lớn sinh viên Mẽo đã đánh giá trong RateMyProfessors, Chen
 [contributing]: ../CONTRIBUTING.md
 
 [troy-faculty]: https://www.troy.edu/academics/colleges-schools/college-science-engineering/departments/computer-science/faculty-staff.html
-[uca-profile]: https://faculty.uca.edu/bchen/
+[uca-profile]: https://web.archive.org/web/20251208072749/https://faculty.uca.edu/bchen/
 [chen-2008-bio]: https://www.researchgate.net/publication/220132006_Efficient_Super_Granular_SVM_Feature_Elimination_Super_GSVM-FE_Model_for_Protein_Sequence_Motif_Information_Extraction
 [chen-dissertation]: https://doi.org/10.57709/1059452
 [uca-appointment-2008]: https://uca.edu/cose/files/2014/10/2008-Council-of-Chairs-Minutes.pdf

@@ -29,7 +29,7 @@
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `10/10`
   - Xuất sắc.
 - **Độ bám sát bài học của đề thi:** `9/10`
-  - Rât sát
+  - Rất sát
 - **Độ hợp lí, cân bằng của khối lượng bài vở và sức khỏe tinh thần:** `9/10`
   - Tốt.
 - **Khả năng truyền đạt kiến thức và chuyên môn sư phạm:** `6.25/10`

@@ -6,7 +6,7 @@
 **TS. Nguyễn Quỳnh Uyển** là giảng viên, nghiên cứu viên tại Viện Vi sinh vật và Công nghệ Sinh học, Đại học Quốc gia Hà Nội.
 
 ## Thông tin cơ bản
-- **Lý lịch**: [VNU - Nguyễn Quỳnh Uyển][vnu-profile]
+- **Lý lịch**: [VNU Scholar - Nguyễn Quỳnh Uyển][vnu-scholar]; [IMBT - Phòng Sinh học Phân tử Ứng dụng][imbt-profile]
 - **Giới tính**: Nữ
 - **Học vị cao nhất**: Tiến sĩ
 - **Email**: [uyennq@vnu.edu.vn](mailto:uyennq@vnu.edu.vn)
@@ -45,6 +45,7 @@
 ## Trivia
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
-[vnu-profile]: https://vnu.edu.vn/ly-lich-khoa-hoc-cua-can-bo-vien-vi-sinh-vat-va-cong-nghe-sinh-hoc-post252.html
+[vnu-scholar]: https://scholar.vnu.edu.vn/entities/person/29af904d-fc2a-4875-b214-5b891ced5b67
+[imbt-profile]: https://imbt.vnu.edu.vn/phong-sinh-hoc-phan-tu-ung-dung/
 [bio-1100]: ../BIO-1100/
 [contributing]: ../CONTRIBUTING.md

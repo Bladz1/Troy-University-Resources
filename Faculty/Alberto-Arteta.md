@@ -9,6 +9,7 @@
 - **Ngoại hình**: [Alberto Arteta][profile-image]
 - **Lý lịch**: [TROY - Alberto Arteta][academic-profile]
 - **Giới tính**: Nam
+- **Ngày sinh**: 31/05/1975
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Computer Science
 - **Email**: [aarteta@troy.edu](mailto:aarteta@troy.edu)

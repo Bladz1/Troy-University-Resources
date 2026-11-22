@@ -9,6 +9,7 @@
 - **Ngoại hình**: [Trần Thị Lan Hương][profile-image]
 - **Lý lịch**: [VNU - Trần Thị Lan Hương][vnu-profile]
 - **Giới tính**: Nữ
+- **Ngày sinh**: 09/11/1984
 - **Học vị cao nhất**: Thạc sĩ
 - **Email**: [huongttl@vnuis.edu.vn](mailto:huongttl@vnuis.edu.vn)
 

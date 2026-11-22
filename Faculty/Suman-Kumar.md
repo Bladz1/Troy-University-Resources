@@ -12,6 +12,7 @@
 - **Ngoại hình**: [Suman Kumar][profile-image]
 - **Lý lịch**: [Troy – Suman Kumar][troy-profile]
 - **Giới tính**: Nam
+- **Ngày sinh**: 05/07/1981
 - **Học vị cao nhất**: Tiến sĩ Khoa học Máy tính
 - **Chức vụ**: Graduate Coordinator – Điều phối viên chương trình sau đại học
 - **Đơn vị công tác**: Department of Computer Science, Troy University

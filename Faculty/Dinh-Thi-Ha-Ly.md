@@ -9,6 +9,7 @@
 - **Ngoại hình**: [Đinh Thị Hà Ly][profile-image]
 - **Lý lịch**: [SOICT -  Đinh Thị Hà Ly][soict_profile]
 - **Giới tính**: Nữ
+- **Ngày sinh**: 25/05/1992
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Kỹ thuật máy tính
 - **Email**: [lydth@soict.hust.edu.vn](mailto:lydth@soict.hust.edu.vn)

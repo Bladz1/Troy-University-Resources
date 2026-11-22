@@ -1,14 +1,15 @@
-# TS. Alberto Arteta
+# GS. TS. Alberto Arteta
 
 >"Perhaps the archives are incomplete."  
 — **Obi-Wan Kenobi**
 
-**TS. Alberto Arteta** (*tên đầy đủ: Alberto Arteta Albert*) là Phó Giáo sư (Associate Professor) tại Khoa Khoa học Máy tính của Đại học Troy, Hoa Kỳ.
+**GS. TS. Alberto Arteta** (*tên đầy đủ: Alberto Arteta Albert*) là Giáo sư (Professor) tại Khoa Khoa học Máy tính của Đại học Troy, Hoa Kỳ.
 
 ## Thông tin cơ bản
 - **Ngoại hình**: [Alberto Arteta][profile-image]
 - **Lý lịch**: [TROY - Alberto Arteta][academic-profile]
 - **Giới tính**: Nam
+- **Ngày sinh**: 31/05/1975
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Computer Science
 - **Email**: [aarteta@troy.edu](mailto:aarteta@troy.edu)

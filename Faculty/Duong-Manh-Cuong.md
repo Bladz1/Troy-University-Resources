@@ -3,7 +3,7 @@
 >"Perhaps the archives are incomplete."  
 — **Obi-Wan Kenobi**
 
-**TS. Dương Mạnh Cường** là Phó Trưởng Khoa Quản lý, Trưởng Bộ môn Quản lý Công nghiệp, ĐHBKHN.
+**TS. Dương Mạnh Cường** là Phó Trưởng khoa Quản lý, Trường Kinh tế, ĐHBKHN.
 
 ## Thông tin cơ bản
 - **Ngoại hình**: [Dương Mạnh Cường][profile-image]

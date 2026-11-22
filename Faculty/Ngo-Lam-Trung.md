@@ -3,7 +3,7 @@
 >"Perhaps the archives are incomplete."  
 — **Obi-Wan Kenobi**
 
-**TS. Ngô Lam Trung** là phó Trưởng Bộ môn khoa Kỹ thuật Máy tính.
+**TS. Ngô Lam Trung** là Phó Trưởng khoa Kỹ thuật Máy tính, Trường Công nghệ Thông tin và Truyền thông, Đại học Bách khoa Hà Nội.
 
 ## Thông tin cơ bản
 - **Ngoại hình**: [Ngô Lam Trung][profile-image]

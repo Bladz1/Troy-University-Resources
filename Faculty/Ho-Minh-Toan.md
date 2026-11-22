@@ -3,7 +3,7 @@
 >"Yalo."  
 — **TS. Hồ Minh Toàn**
 
-**TS. Hồ Minh Toàn** là giảng viên phòng Hình học và Tôpô, Viện Toán Học, VHLKHVCNVN.
+**TS. Hồ Minh Toàn** là nghiên cứu viên Phòng Hình học và Tôpô, Viện Toán học, VHLKHCNVN.
 
 ## Thông tin cơ bản
 

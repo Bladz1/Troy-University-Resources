@@ -10,6 +10,7 @@
 - **Ngoại hình**: [Hyung Jae (Chris) Chang][profile-image]
 - **Lý lịch**: [Troy - Hyung Jae (Chris) Chang][troy_profile]
 - **Giới tính**: Nam
+- **Năm sinh**: 1979
 - **Học vị cao nhất**: Tiến sĩ
 - **Email**: [hjchang@troy.edu](mailto:hjchang@troy.edu)
 - **Rate My Professors**: [Rate My Professors - Hyung Jae Chang][rate-my-professors-profile]

@@ -8,6 +8,7 @@
 ## Thông tin cơ bản
 - **Lý lịch**: [HANU - Lê Thị Khánh Hòa][hanu_profile]
 - **Giới tính**: Nữ
+- **Ngày sinh**: 16/12/1985
 - **Học vị cao nhất**: Thạc sĩ
 - **Khoa**: Tiếng Anh chuyên ngành
 - **Email**: [hoaltk@hanu.edu.vn](mailto:hoaltk@hanu.edu.vn)

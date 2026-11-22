@@ -9,12 +9,11 @@
 - **Ngoại hình**: [Phó Đức Tài][profile-image]
 - **Lý lịch**: [VNU - Phó Đức Tài][academic-profile]
 - **Giới tính**: Nam
-- **Năm sinh**: 1972
+- **Ngày sinh**: 23/02/1972
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Toán – Cơ – Tin học
 - **Trường**: Đại học Khoa học Tự nhiên
 - **Email**: [taipd@vnu.edu.vn](mailto:taipd@vnu.edu.vn); [phoductai@hus.edu.vn](mailto:phoductai@hus.edu.vn)
-- **Website**: https://sites.google.com/site/phoductai/
 
 ## Lịch sử giảng dạy
 - `MTH-1114` ([Pre-Calculus Trigonometry][mth-1114]): Spring-2022

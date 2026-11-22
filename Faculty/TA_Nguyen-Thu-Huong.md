@@ -102,7 +102,7 @@
 ## Trivia
 - Nguyễn Thu Hương thuộc **K66 ET-E16**; SEEE ghi chương trình **ET-E16 bắt đầu từ năm 2021**, vì vậy K66 là **khóa đầu tiên** của chương trình này. [ET-E16][et-e16]
 
-[profile-image]: https://research.hust.edu.vn/huong.nguyenthu4
+[profile-image]: https://storage.googleapis.com/hust-files/2025-08-31/1756631556472/4562035186597889/avatars/anh_the_nen_trang_1.0m.png
 [academic-profile]: https://research.hust.edu.vn/huong.nguyenthu4
 [department]: https://seee.hust.edu.vn/vi/gioi-thieu/don-vi/khoa-kttt/
 [et-e16]: https://seee.hust.edu.vn/en/dao-tao/et-e16/

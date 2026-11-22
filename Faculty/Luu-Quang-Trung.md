@@ -3,16 +3,16 @@
 > "Ad meliora et ad maiora semper."  
 — *Towards better and greater things, always.*
 
-**TS. Lưu Quang Trung** bảo vệ thành công luận án Tiến sĩ về Mạng thông tin và truyền thông ngày 07/06/2021 tại Đại học Paris-Saclay, Cộng hòa Pháp và có thời gian làm nghiên cứu sau tiến sĩ tại Trung tâm Nghiên cứu Khoa học Quốc gia Pháp (LAAS-CNRS) tại Toulouse. Thầy từng là giảng viên tại Khoa Kỹ thuật Truyền thông, Trường Điện - Điện tử, Đại học Bách khoa Hà Nội giai đoạn 2023–2025, trước khi đảm nhiệm vị trí tại Phòng thí nghiệm Tín hiệu và Hệ thống (L2S), Đại học Paris-Saclay từ ngày 01/09/2025.
+**TS. Lưu Quang Trung** bảo vệ thành công luận án Tiến sĩ về Mạng thông tin và truyền thông ngày 07/06/2021 tại Đại học Paris-Saclay, Cộng hòa Pháp và có thời gian làm nghiên cứu sau tiến sĩ tại Trung tâm Nghiên cứu Khoa học Quốc gia Pháp (LAAS-CNRS) tại Toulouse. Thầy từng là giảng viên tại Khoa Kỹ thuật Truyền thông, Trường Điện - Điện tử, Đại học Bách khoa Hà Nội giai đoạn 2023–2025, trước khi đảm nhiệm vị trí Associate Professor (*Maître de conférences*) tại Phòng thí nghiệm Tín hiệu và Hệ thống (L2S), CentraleSupélec, Đại học Paris-Saclay từ ngày 01/09/2025.
 
 ## Thông tin cơ bản
 - **Ngoại hình**: [Lưu Quang Trung][profile-image]
 - **Lý lịch**: [SEEE - Lưu Quang Trung][academic-profile]
 - **Giới tính**: Nam
-- **Năm sinh**: 1990
+- **Ngày sinh**: 12/04/1990
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Kỹ thuật Truyền thông (HUST, 2023–2025)
-- **Đơn vị hiện tại**: Phòng thí nghiệm Tín hiệu và Hệ thống (L2S), Đại học Paris-Saclay
+- **Đơn vị hiện tại**: Phòng thí nghiệm Tín hiệu và Hệ thống (L2S), CentraleSupélec, Đại học Paris-Saclay (Associate Professor / *Maître de conférences*)
 - **Email**: [trung.luuquang@hust.edu.vn](mailto:trung.luuquang@hust.edu.vn); [luuquangtrung.vn@gmail.com](mailto:luuquangtrung.vn@gmail.com)
 - **Facebook**: [Facebook - Lưu Quang Trung][facebook-profile]
 - **Website**: https://luuquangtrung.github.io/

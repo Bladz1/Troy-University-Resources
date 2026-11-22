@@ -3,7 +3,7 @@
 >"Perhaps the archives are incomplete."  
 — **Obi-Wan Kenobi**
 
-**PGS. TS. Nguyễn Hoàng Thoan** là giảng viên bộ môn Quang học và Quang điện tử, ĐHBKHN.
+**PGS. TS. Nguyễn Hoàng Thoan** là giảng viên Nhóm chuyên môn Quang học và Quang điện tử, Khoa Vật lý kỹ thuật, ĐHBKHN.
 
 ## Thông tin cơ bản
 - **Ngoại hình**: [Nguyễn Hoàng Thoan][profile-image]

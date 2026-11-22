@@ -3,7 +3,7 @@
 >"Perhaps the archives are incomplete."  
 — **Obi-Wan Kenobi**
 
-**TS. Phan Xuân Thành** là Phó Trường Bộ môn Toán cơ bản, Khoa Toán - Tin, ĐHBKHN.
+**TS. Phan Xuân Thành** là Giảng viên cao cấp (hạng I) Khoa Toán - Tin, ĐHBKHN.
 
 ## Thông tin cơ bản
 - **Ngoại hình**: [Phan Xuân Thành][profile-image]

@@ -9,7 +9,7 @@
 - **Ngoại hình**: [Trần Ngọc Khuê][profile-image]
 - **Lý lịch**: [FAMI - Trần Ngọc Khuê][academic-profile]
 - **Giới tính**: Nam
-- **Năm sinh**: 1984
+- **Ngày sinh**: 12/11/1984
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Toán-Tin
 - **Email**: [khue.tranngoc@hust.edu.vn](mailto:khue.tranngoc@hust.edu.vn)

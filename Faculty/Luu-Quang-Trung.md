@@ -9,7 +9,7 @@
 - **Ngoại hình**: [Lưu Quang Trung][profile-image]
 - **Lý lịch**: [SEEE - Lưu Quang Trung][academic-profile]
 - **Giới tính**: Nam
-- **Năm sinh**: 1990
+- **Ngày sinh**: 12/04/1990
 - **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Kỹ thuật Truyền thông (HUST, 2023–2025)
 - **Đơn vị hiện tại**: Phòng thí nghiệm Tín hiệu và Hệ thống (L2S), Đại học Paris-Saclay

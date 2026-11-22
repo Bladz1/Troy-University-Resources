@@ -1,9 +1,9 @@
-# TS. GVC. Nguyễn Thị Mai Anh
+# TS. GVCC. Nguyễn Thị Mai Anh
 
 >"Perhaps the archives are incomplete."  
 — **Obi-Wan Kenobi**
 
-**TS. GVC. Nguyễn Thị Mai Anh** là giảng viên trường Kinh tế, ĐHBKHN.
+**TS. GVCC. Nguyễn Thị Mai Anh** là Giảng viên cao cấp (hạng I) Trường Kinh tế, ĐHBKHN.
 
 ## Thông tin cơ bản
 - **Ngoại hình**: [Nguyễn Thị Mai Anh][profile-image]
@@ -47,7 +47,7 @@
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Trivia
-- **TS. GVC. Nguyễn Thị Mai Anh** được nhận xét là có ngoại hình khá tương đồng với [một thí sinh trùng tên][wwtbam-nguyen-thi-mai-anh] từng tham gia chương trình Ai là triệu phú vào năm 2017.
+- **TS. GVCC. Nguyễn Thị Mai Anh** được nhận xét là có ngoại hình khá tương đồng với [một thí sinh trùng tên][wwtbam-nguyen-thi-mai-anh] từng tham gia chương trình Ai là triệu phú vào năm 2017.
 
 [profile-image]: https://sem.hust.edu.vn/wp-content/uploads/2023/09/bWl2_Nguyen-Thi-Mai-Anh.jpg
 [academic-profile]: https://sem.hust.edu.vn/lecturers/ts-nguyen-thi-mai-anh

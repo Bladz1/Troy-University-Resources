@@ -3,7 +3,7 @@
 >"Perhaps the archives are incomplete."  
 — **Obi-Wan Kenobi**
 
-**TS. Alberto Arteta** (*tên đầy đủ: Alberto Arteta Albert*) là Phó Giáo sư (Associate Professor) tại Khoa Khoa học Máy tính của Đại học Troy, Hoa Kỳ.
+**TS. Alberto Arteta** (*tên đầy đủ: Alberto Arteta Albert*) là Giáo sư (Professor) tại Khoa Khoa học Máy tính của Đại học Troy, Hoa Kỳ.
 
 ## Thông tin cơ bản
 - **Ngoại hình**: [Alberto Arteta][profile-image]

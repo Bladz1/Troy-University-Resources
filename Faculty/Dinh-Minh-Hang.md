@@ -3,7 +3,7 @@
 >"Perhaps the archives are incomplete."  
 — **Obi-Wan Kenobi**
 
-**TS. Đinh Minh Hằng** là giảng viên bộ môn Văn học Việt Nam hiện đại. Hướng nghiên cứu chính của cô bao gồm Văn học Việt Nam hiện đại; thơ Việt Nam hiện đại trong tương quan so sánh với thơ Anh, Mỹ hiện đại; thơ Việt Nam hiện đại nhìn từ góc độ tiếp nhận một số lý thuyết văn học hiện đại.
+**TS. Đinh Minh Hằng** là giảng viên Nhóm chuyên môn Văn học Việt Nam và Văn học so sánh, Khoa Ngữ văn, đồng thời là Trưởng phòng Hành chính – Đối ngoại, Trường Đại học Sư phạm Hà Nội. Hướng nghiên cứu chính của cô bao gồm Văn học Việt Nam hiện đại; thơ Việt Nam hiện đại trong tương quan so sánh với thơ Anh, Mỹ hiện đại; thơ Việt Nam hiện đại nhìn từ góc độ tiếp nhận một số lý thuyết văn học hiện đại.
 
 ## Thông tin cơ bản
 
@@ -12,6 +12,7 @@
 - **Ngày sinh**: 07/12/1986
 - **Giới tính**: Nữ
 - **Học vị cao nhất**: Tiến sĩ
+- **Chức vụ**: Trưởng phòng Hành chính – Đối ngoại
 - **Khoa**: Ngữ Văn
 - **Trường**: Đại học Sư phạm Hà Nội
 - **Quê quán**: Bắc Ninh

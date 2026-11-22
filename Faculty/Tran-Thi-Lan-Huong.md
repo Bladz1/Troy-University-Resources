@@ -1,9 +1,9 @@
-# ThS. Trần Thị Lan Hương
+# NCS. ThS. Trần Thị Lan Hương
 
 >"Perhaps the archives are incomplete."  
 — **Obi-Wan Kenobi**
 
-**ThS. Trần Thị Lan Hương** là giảng viên Khoa Ngôn ngữ ứng dụng, Trường Quốc tế – Đại học Quốc gia Hà Nội (VNU-IS).
+**NCS. ThS. Trần Thị Lan Hương** là giảng viên Khoa Ngôn ngữ ứng dụng, Trường Quốc tế – Đại học Quốc gia Hà Nội (VNU-IS).
 
 ## Thông tin cơ bản
 - **Ngoại hình**: [Trần Thị Lan Hương][profile-image]
@@ -51,7 +51,7 @@ Nếu bạn học cô Lan Hương thì xin chúc mừng, bạn sắp bước và
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Trivia
-- Trong một bài khảo sát chất lượng, **ThS. Trần Thị Lan Hương** đã được sinh viên đánh giá xếp hạng 'S tier'.
+- Trong một bài khảo sát chất lượng, **NCS. ThS. Trần Thị Lan Hương** đã được sinh viên đánh giá xếp hạng 'S tier'.
 
 [profile-image]: https://www.is.vnu.edu.vn/wp-content/uploads/2023/10/Huong-min-255x382.jpg
 [vnu-profile]: https://www.is.vnu.edu.vn/ths-tran-thi-lan-huong/

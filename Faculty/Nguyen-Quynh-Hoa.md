@@ -1,9 +1,9 @@
-# ThS. Nguyễn Quỳnh Hoa
+# TS. Nguyễn Quỳnh Hoa
 
 >"Perhaps the archives are incomplete."  
 — **Obi-Wan Kenobi**
 
-**ThS. Nguyễn Quỳnh Hoa** là giảng viên trường Kinh Tế, Đại Học Bách Khoa Hà Nội.
+**TS. Nguyễn Quỳnh Hoa** là giảng viên Trường Kinh tế, Đại học Bách khoa Hà Nội.
 
 ## Thông tin cơ bản
 
@@ -11,7 +11,7 @@
 - **Lý lịch**: [Nguyễn Quỳnh Hoa][academic-profile]
 - **Giới tính**: Nữ
 - **Ngày sinh**: 17/03/1980
-- **Học vị cao nhất**: Thạc sĩ
+- **Học vị cao nhất**: Tiến sĩ
 - **Khoa**: Quản lý
 - **Trường**: Kinh tế
 - **Email**: [hoa.nguyenquynh@hust.edu.vn](mailto:hoa.nguyenquynh@hust.edu.vn)
@@ -79,6 +79,6 @@
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 [profile-image]: https://sem.hust.edu.vn/wp-content/uploads/2023/12/z4973870381535_6f59c7a554d3fb1c38831f6b6773936b.jpg
-[academic-profile]: https://sem.hust.edu.vn/lecturers/ths-nguyen-quynh-hoa
+[academic-profile]: https://sem.hust.edu.vn/lecturers/ts-nguyen-quynh-hoa
 [mkt-3300]: ../MKT-3300/
 [contributing]: ../CONTRIBUTING.md

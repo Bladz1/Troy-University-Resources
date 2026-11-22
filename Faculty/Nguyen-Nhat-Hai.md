@@ -3,7 +3,7 @@
 > "Perhaps the archives are incomplete."  
 > — **Obi-Wan Kenobi**
 
-**TS. Nguyễn Nhất Hải** là [giảng viên Khoa Khoa học Máy tính][academic-profile], Trường Công nghệ Thông tin và Truyền thông (SoICT), Đại học Bách khoa Hà Nội.
+**TS. Nguyễn Nhất Hải** là [giảng viên Khoa Khoa học Máy tính][academic-profile], Trường Công nghệ Thông tin và Truyền thông (SoICT), đồng thời là [Phó Viện trưởng Viện Công nghệ Năng lượng][research-profile], Đại học Bách khoa Hà Nội.
 
 ## Thông tin cơ bản
 
@@ -13,6 +13,7 @@
 - **Giới tính**: Nam
 - **Ngày sinh**: 10/04/1982
 - **Học vị cao nhất**: Tiến sĩ
+- **Chức vụ**: Phó Viện trưởng Viện Công nghệ Năng lượng
 - **Khoa**: Khoa học Máy tính
 - **Email**: [hai.nguyennhat@hust.edu.vn](mailto:hai.nguyennhat@hust.edu.vn); [hainn@soict.hust.edu.vn](mailto:hainn@soict.hust.edu.vn)
 
@@ -34,7 +35,9 @@ Luận án tiến sĩ của thầy mang tên [*Développement de méthodes intel
 
 Thầy từng có [một năm nghiên cứu sau tiến sĩ tại France Télécom, Grenoble, Pháp][profile-en]. Tại Bách khoa Hà Nội, thầy giảng dạy và nghiên cứu trong lĩnh vực công nghệ thông tin, đồng thời tham gia các hoạt động chuyển đổi số trong giáo dục đại học.
 
-Tháng **12/2023**, thầy được [bổ nhiệm làm Giám đốc Trung tâm Chuyển đổi số, Đại học Bách khoa Hà Nội][director-appointment].
+Tháng **12/2023**, thầy được [bổ nhiệm làm Giám đốc Trung tâm Chuyển đổi số, Đại học Bách khoa Hà Nội][director-appointment]. 
+
+Ngày **16/11/2026**, thầy được [bổ nhiệm giữ chức vụ Phó Viện trưởng Viện Công nghệ Năng lượng, Đại học Bách khoa Hà Nội][research-profile].
 
 ## Nghiên cứu khoa học
 

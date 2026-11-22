@@ -3,7 +3,7 @@
 >"Perhaps the archives are incomplete."  
 — **Obi-Wan Kenobi**
 
-**TS. Nguyễn Thị Thu Hương** là giảng viên bộ môn Khoa học Máy tính.
+**TS. Nguyễn Thị Thu Hương** là giảng viên Khoa Khoa học Máy tính, Trường Công nghệ Thông tin và Truyền thông, ĐHBKHN.
 
 ## Thông tin cơ bản
 - **Ngoại hình**: [Nguyễn Thị Thu Hương][profile-image]
@@ -11,7 +11,8 @@
 - **Giới tính**: Nữ
 - **Ngày sinh**: 07/09/1964
 - **Học vị cao nhất**: Tiến sĩ
-- **Khoa**: Công nghệ thông tin và truyền thông
+- **Khoa**: Khoa học Máy tính
+- **Trường**: Công nghệ Thông tin và Truyền thông
 - **Email**: [huongnt@soict.hust.edu.vn](mailto:huongnt@soict.hust.edu.vn)
 
 ## Lịch sử giảng dạy

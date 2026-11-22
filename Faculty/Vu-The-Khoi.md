@@ -3,7 +3,7 @@
 >"Ai không thích học thì cứ tự nhiên ra về nhé, tôi không điểm danh đâu nên anh chị cứ đi về thoải mái."  
 — **PGS. TS Vũ Thế Khôi**, *ít phút trước khi lôi danh sách ra điểm danh*
 
-**PGS. TS Vũ Thế Khôi** là Giám đốc Trung tâm Đào tạo sau đại học - Viện Toán học, VHLKHVCNVN.
+**PGS. TS. Vũ Thế Khôi** là Nghiên cứu viên cao cấp, Trưởng phòng Hình học – Tôpô kiêm Giám đốc Trung tâm Đào tạo sau đại học, Viện Toán học, VHLKHCNVN.
 
 ## Thông tin cơ bản 
 

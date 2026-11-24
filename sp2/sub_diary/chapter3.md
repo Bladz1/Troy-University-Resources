@@ -769,7 +769,7 @@ Tôi muốn nhấn mạnh là, cái ngành học Troy này, có sống chết ra
 
 ---
 
-Chắc chắn là tôi không ép các bạn phải gồng mình lên, tỏ ra mạnh mẽ khi các bạn chưa hoàn toàn thông suốt để đối diện, tôi hoàn toàn hiểu và chính tôi cũng chưa thể sẵn sàng ngay. Nhưng hãy nhớ rằng, trước sau gì những khoảnh khắc “sinh tử” ấy trước sau gì cũng đến, và nếu có một quyết định gì khiến bạn không thấy hối hận, thì hãy mạnh dạn mà bước tới, chiên đấu tới cùng vì tương lai của các bạn. Đừng cố gắng ôm một kỳ vọng mà các bạn biết chắc chắn sẽ tan vỡ, vì chính cái nỗi sợ và kỳ vọng ấy sẽ tước đi khả năng của chính các bạn sau này….
+Chắc chắn là tôi không ép các bạn phải gồng mình lên, tỏ ra mạnh mẽ khi các bạn chưa hoàn toàn thông suốt để đối diện, tôi hoàn toàn hiểu và chính tôi cũng chưa thể sẵn sàng ngay. Nhưng hãy nhớ rằng, trước sau gì những khoảnh khắc “sinh tử” ấy trước sau gì cũng đến, và nếu có một quyết định gì khiến bạn không thấy hối hận, thì hãy mạnh dạn mà bước tới, chiến đấu tới cùng vì tương lai của các bạn. Đừng cố gắng ôm một kỳ vọng mà các bạn biết chắc chắn sẽ tan vỡ, vì chính cái nỗi sợ và kỳ vọng ấy sẽ tước đi khả năng của chính các bạn sau này….
 
 Tôi sẽ giải nghĩa cho câu nói ấy như là kết bài: **trước lằn ranh sinh tử, không còn chỗ cho hối hận — chỉ còn chiến đấu đến cùng.**
 

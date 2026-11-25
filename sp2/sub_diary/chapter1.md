@@ -22,6 +22,24 @@ Nhưng… thời kì này nó cũng có một sự tiếc nuối, chính là vì
 
 Vậy thì, tôi của trước khi trầm cảm là ai, và tại sao nó thay đổi cuộc sống của tôi sau này….???
 
+> i wonder  
+> if i’m being real  
+> do i speak my truth or do i filter to how i feel  
+> i wonder  
+> wouldn’t it be nice to live inside a world that isn’t black and white  
+> i wonder  
+> what it’s like to be my friends  
+> hope that they don’t think i forget about them  
+> i wonder  
+> i wonder...  
+>
+> right before i close my eyes  
+> the only thing that’s on my mind  
+> been dreaming that you feel it too  
+> i wonder what it’s like to be loved by you  
+>
+> Shawn Mendes - "Wonder" - "Wonder" (2020)
+
 ![the wonder intro](chap1/intro_wonder.jpg)
 
 ---

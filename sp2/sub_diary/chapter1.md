@@ -807,6 +807,24 @@ Thực tế, tôi nói với các bạn là tôi rất ghét bị nhớ tới, v
 
 ---
 
+> you put me on a pedestal and tell me i'm the best...  
+> raise me up into the sky until i'm short of breath  
+> fill me up with confidence, i say what's in my chest  
+> spill my words and tear me down until there's nothing left  
+> rearrange the pieces just to fit me with the rest  
+> 
+> but what if i, what if i trip?  
+> what if i, what if i fall???  
+> then am i a monster?  
+> just let me know..  
+>
+> and what if i, what if i sin?  
+> what if i, what if i break?  
+> then am i a monster  
+> just let me know...  
+>
+> Shawn Mendes - "Monster" - "Wonder"
+
 Cuối cùng, sống trong một thế giới không chấp nhận sự khác biệt, kể cả có là vua chúa cũng chẳng khác gì một nhà tù. Nó giống như kiểu: “**vì vị vua này quá khác biệt so với các vị vua trước, nên hắn là một bạo quân…**”. Thực lòng, tôi rất muốn một cuộc sống bình thường như bao người, kể cả nếu như không ai thích những gì tôi quan tâm thì tôi cũng mong người ta không nhìn vào những cái chuyện đó mà chửi rủa liên tục. Tôi mang một hình ảnh chán nản như thế, người ta chỉ thích câu chuyện về điểm số, muốn tôi phải điên đầu sống bằng điểm số, còn cái cuộc sống cá nhân của tôi, thì tôi ném hết vào học thêm rồi, tôi còn gì cho tôi nữa… Cảm giác mà mỗi khi mình muốn nói điều gì, chẳng một ai lắng nghe, có khóc đến sưng cả mắt cũng không ai nghe thấy, có chứng minh năng lực cũng chẳng thay đổi cái nhìn của họ. Cái số của tôi là vậy…, càng chứng minh năng lực, người ta càng thích tô vẽ. Tôi không mong rằng người khác phải ưa tôi hoàn toàn hay chấp nhận toàn bộ quan điểm sống, nhưng tôi cảm thấy cái việc người ta mang những khác biệt ấy, vẽ cho nó đủ thứ xấu xa, chính là biểu hiện kinh khủng nhất của một xã hội vận hành bằng định kiến, cũng như không hề có bất cứ sự tôn trọng nào cả….
 
 Tôi nói về một thế giới chán nản như vậy…. để khi tôi làm lớp trưởng, tôi hoàn toàn có những quan điểm của mình và bảo vệ cái thế giới mà mình là một phần trong đó…

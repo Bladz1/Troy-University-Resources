@@ -22,6 +22,24 @@ Nhưng… thời kì này nó cũng có một sự tiếc nuối, chính là vì
 
 Vậy thì, tôi của trước khi trầm cảm là ai, và tại sao nó thay đổi cuộc sống của tôi sau này….???
 
+> i wonder  
+> if i’m being real  
+> do i speak my truth or do i filter to how i feel  
+> i wonder  
+> wouldn’t it be nice to live inside a world that isn’t black and white  
+> i wonder  
+> what it’s like to be my friends  
+> hope that they don’t think i forget about them  
+> i wonder  
+> i wonder...  
+>
+> right before i close my eyes  
+> the only thing that’s on my mind  
+> been dreaming that you feel it too  
+> i wonder what it’s like to be loved by you  
+>
+> Shawn Mendes - "Wonder" - "Wonder" (2020)
+
 ![the wonder intro](chap1/intro_wonder.jpg)
 
 ---
@@ -308,7 +326,7 @@ Qua một vài 'tai mắt' thám thính cộng với những gì tự mình cả
 
 Thông thường, mỗi khi đến trường, tôi luôn có thói quen đánh mắt nhìn xung quanh để quan sát. Năm lớp 8 phòng tôi ở tầng hai, lên lớp 9 thì dời lên tầng ba. Tôi cứ nhìn một cách vô thức như để xem có sự thay đổi gì không, cho đến một ngày, tôi bắt gặp một điều bất thường phá vỡ sự tĩnh lặng thường nhật. Đó là ánh mắt của ả.
 
-Ban đầu, một hai lần bắt gặp tôi nghĩ chỉ là tình cờ, nhưng tần suất của nó bắt đầu dày lên một cách đáng báo ngờ. ả nhìn tôi bằng một ánh mắt vô cùng bí hiểm, nở một nụ cười ẩn ý nào đó rồi nhanh chóng chuồn thẳng vào lớp, bỏ lại tôi đứng trơ trọi với một dấu hỏi chấm to đùng trong đầu. Lúc ấy, tôi vẫn là một thằng 'cụ non' chỉ muốn tận hưởng cuộc sống bình thường nên chẳng buồn bận tâm. Thế nhưng, tận sâu trong lòng, tôi dần có một dự cảm mơ hồ rằng: sắp có một cơn bão đổ bộ và thay đổi hoàn toàn quỹ đạo cuộc đời mình.
+Ban đầu, một hai lần bắt gặp tôi nghĩ chỉ là tình cờ, nhưng tần suất của nó bắt đầu dày lên một cách đáng ngờ. Ả nhìn tôi bằng một ánh mắt vô cùng bí hiểm, nở một nụ cười ẩn ý nào đó rồi nhanh chóng chuồn thẳng vào lớp, bỏ lại tôi đứng trơ trọi với một dấu hỏi chấm to đùng trong đầu. Lúc ấy, tôi vẫn là một thằng 'cụ non' chỉ muốn tận hưởng cuộc sống bình thường nên chẳng buồn bận tâm. Thế nhưng, tận sâu trong lòng, tôi dần có một dự cảm mơ hồ rằng: sắp có một cơn bão đổ bộ và thay đổi hoàn toàn quỹ đạo cuộc đời mình.
 
 Dự cảm ấy bắt đầu hữu hình hóa qua những buổi sáng tôi đi trực nhật sớm. Người ta bảo kẻ dậy sớm thì không bao giờ lãng phí đời mình, và tôi đã được kiểm chứng điều đó theo cách lãng mạn nhất. Ả luôn đi xe đạp và là đứa đến sớm nhất lớp. Cái hình ảnh ả dắt xe vào cổng trường dần trở thành một phần quen thuộc trong ngày của tôi. Từ sự xa lạ ban đầu, tôi thấy mình bắt đầu... 'nghiện' cảm giác này. Tôi tìm mọi cách để đến trường sớm nhất có thể, chỉ để đổi lấy vài phút ngắn ngủi được nhìn thấy ả trước khi bắt tay vào việc. Tôi thầm đánh giá ả là một người có khả năng vận động rất tốt và cực kỳ đúng giờ (chẳng biết bây giờ ả có còn giữ được thói quen đó không). Nhưng chính cái ấn tượng từ những lần chạm mặt sớm tinh mơ ấy đã thúc đẩy tôi tự lập cho mình một chế độ sinh hoạt lành mạnh hơn – một cái cớ hoàn hảo để được gặp ả nhiều hơn.
 
@@ -316,7 +334,7 @@ Bước ngoặt thực sự đến vào những buổi học chuyên biệt. Ban
 
 Nghĩ lại vẫn thấy mình ngây ngô vô cùng. Thời đó, chẳng hiểu sao tôi rất hay dùng ké đồ của mẹ, ví như một cái mũ có phần hơi nữ tính mang đến trường, và nó ngay lập tức trở thành tâm điểm gây cười của ả. Kể cả những lúc tôi mệt mỏi, bày ra cái bản mặt thảm hại nhất, ả nhìn thấy cũng có thể bật cười giòn giã. Tôi thề là lúc đó tôi chỉ muốn tìm một cái lỗ để chui xuống, chết trân tại chỗ vì cự ly giữa hai đứa quá gần, có muốn né tránh ánh mắt của ả cũng là điều bất khả thi. Nhưng chính cái nụ cười sảng khoái trước sự ngốc nghếch của tôi lại khiến tôi nhận ra: ở bên ả, tôi không cần phải gồng mình lên nữa.
 
-Thế nhưng, trò đùa của số phận chưa dừng lại ở đó. Có một bí mật từ hồi đầu năm lớp 8 mà tôi luôn giấu kín và đinh ninh rằng nó đã chìm vào quên lãng: tôi từng vô tình buông những lời không mấy hay ho, nếu không muốn nói là khá thô lỗ với một đứa con gái. Một buổi sáng nọ, tôi đi học muộn và chạm trán đúng ả ở cổng trường. Bản tính sợ con gái khiến tôi có chút né tránh, nhưng mọi chuyện vẫn diễn ra bằng vài câu tán gẫu bình thường cho đến khi ả bất ngờ hỏi ngược lại tôi về vụ việc năm xưa – cái 'phốt' mà tôi luôn cầu nguyện cho nó biến mất khỏi Trái Đất.
+Thế nhưng, trò đùa của số phận chưa dừng lại ở đó. Có một bí mật từ hồi đầu năm lớp 8 mà tôi luôn giấu kín và đinh ninh rằng nó đã chìm vào quên lãng: tôi từng vô tình buông những lời không mấy hay ho, nếu không muốn nói là khá thô lỗ với một đứa con gái. Một buổi sáng nọ, tôi đi học thêm muộn và chạm trán đúng ả ở bến xe. Bản tính sợ con gái khiến tôi có chút né tránh, nhưng mọi chuyện vẫn diễn ra bằng vài câu tán gẫu bình thường cho đến khi ả bất ngờ hỏi ngược lại tôi về vụ việc năm xưa – cái 'phốt' mà tôi luôn cầu nguyện cho nó biến mất khỏi Trái Đất.
 
 Giây phút ấy, cảm giác ngại ngùng xen lẫn sợ hãi dâng lên đỉnh điểm. Tôi đứng hình khi nhận ra một sự thật phũ phàng: cô gái bí ẩn có ánh nhìn kỳ lạ hàng ngày, người khiến tôi mến mỗi buổi sáng sớm, và cái kẻ 'nặc nô' mà tôi từng ghét cay ghét đắng vì vụ va chạm trong quá khứ... hóa ra lại cùng là một người. Đến lúc này, tôi mới hoàn toàn hiểu được tại sao mình lại luôn có cảm giác bất an và bị thu hút. Cái bẫy đã sập, và tôi chính thức đầu hàng trước sự sắp đặt bi hài của định mệnh.
 
@@ -467,7 +485,7 @@ Kể từ khi thấu hiểu những giới hạn của chính mình, tôi chưa 
 
 Khi chọn cho mình một cách học khác, một cách sống khác, tôi học cách chấp nhận những khiếm khuyết một cách nhẹ nhàng. Tôi chọn thái độ bao dung để giữ cho mình sự tỉnh táo nhằm sửa chữa sai lầm, thay vì cố ép mình vào một cái khuôn hoàn hảo để rồi đánh mất luôn khả năng tự chữa lành….
 
-Cuối cùng, điều diệu kỳ từ những khiếm khuyết, đó là sự tự tin và tính sáng tạo. Người ta chấp nhận sự không hoàn hảo là một chuyện, còn xử lý nó như thế nào là một chuyện khác. Những khuyết điểm dạy tôi về tính trung thực trong đánh giá, và khi mình phát ngôn những nhận xét đó thì phải là những nhận xét công tâm và có tính xây dựng. Để có thể dám phát biểu, tôi cần học cách đối diện với những quan điểm và thái độ khác nhau bằng một thái độ chân thành, và đó chính là cơ sở của tự tin. Có một nguyên tắc mà giúp tôi tự tin, đó là trong chừng mực cho phép, tôi gói gọn điều tôi nói trong đó và cho phép mình lắng nghe thật nhiều quan điểm để gọt rũa lại nó. Dám nghe và dám nhận chỉ trích mà không cảm thấy quá dao động. Tôi biết mình không thể hài lòng tất cả mọi người, và do đó, một lời nói thật mà mọi người đều hiểu, còn hơn là trăm lời nịnh hót mà người ta thấy khinh bỉ. Tôi tự tin bởi vì tôi biết mình sẽ phải nhận chỉ trích và tôi thoải mái, không thù oán hay suy nghĩ quá nhiều. Hơn nữa, sự tự tin ấy cũng đi đôi với tính sáng tạo. Tôi chấp nhận việc có thể bị chê về mặt phương pháp, nhưng nếu tôi thấy nó hiệu quả thì tôi vẫn sẽ thử. Sự sáng tạo, dù trong bất cứ việc gì, phải đến từ một tâm lý bền bỉ đi tìm thật nhiều ý tưởng, hơn là để mình bị đóng cứng trong một phương pháp cứng nhắc, ngắn hạn và dễ bị lỗi thời trước thời cuộc. Nhờ sự sáng tạo đó mà việc học của tôi được cải thiện hơn nhiều, khi tôi không cần phải kỳ vọng về điểm số, mà chỉ tập trung vào việc học tập và sống sao cho có ý nghĩa…
+Cuối cùng, điều diệu kỳ từ những khiếm khuyết, đó là sự tự tin và tính sáng tạo. Người ta chấp nhận sự không hoàn hảo là một chuyện, còn xử lý nó như thế nào là một chuyện khác. Những khuyết điểm dạy tôi về tính trung thực trong đánh giá, và khi mình phát ngôn những nhận xét đó thì phải là những nhận xét công tâm và có tính xây dựng. Để có thể dám phát biểu, tôi cần học cách đối diện với những quan điểm và thái độ khác nhau bằng một thái độ chân thành, và đó chính là cơ sở của tự tin. Có một nguyên tắc mà giúp tôi tự tin, đó là trong chừng mực cho phép, tôi gói gọn điều tôi nói trong đó và cho phép mình lắng nghe thật nhiều quan điểm để gọt rũa lại nó, dám nghe và dám nhận chỉ trích mà không cảm thấy quá dao động. Tôi biết mình không thể hài lòng tất cả mọi người, và do đó, một lời nói thật mà mọi người đều hiểu, còn hơn là trăm lời nịnh hót mà người ta thấy khinh bỉ. Tôi tự tin bởi vì tôi biết mình sẽ phải nhận chỉ trích và tôi thoải mái, không thù oán hay suy nghĩ quá nhiều. Hơn nữa, sự tự tin ấy cũng đi đôi với tính sáng tạo. Tôi chấp nhận việc có thể bị chê về mặt phương pháp, nhưng nếu tôi thấy nó hiệu quả thì tôi vẫn sẽ thử. Sự sáng tạo, dù trong bất cứ việc gì, phải đến từ một tâm lý bền bỉ đi tìm thật nhiều ý tưởng, hơn là để mình bị đóng cứng trong một phương pháp cứng nhắc, ngắn hạn và dễ bị lỗi thời trước thời cuộc. Nhờ sự sáng tạo đó mà việc học của tôi được cải thiện hơn nhiều, khi tôi không cần phải kỳ vọng về điểm số, mà chỉ tập trung vào việc học tập và sống sao cho có ý nghĩa…
 
 Tôi không cần điểm số hay sự hoàn hảo để nói rằng nó là mình, tôi chỉ biết mình là một người đàn ông thôi, đó là điều duy nhất tôi biết và tôi tự hào về chính mình ở tuổi 13 ấy....
 </details>
@@ -788,6 +806,24 @@ Thực tế, tôi nói với các bạn là tôi rất ghét bị nhớ tới, v
 Để có được sự tôn trọng của những kẻ định kiến, tôi cố bán mạng để học giỏi, mà nghĩ lại, tôi thấy khá hối hận. Nói như vậy không có nghĩa là tôi thích học kém, chỉ là tôi thấy cuộc sống khi ấy quá vô nghĩa để học tốt, vì việc học giỏi ấy không đem lại cho tôi một cuộc sống bình yên. Bạn biết đấy, ban đầu, tôi thật sự rất cố gắng học, vì thời điểm ấy, tôi tin rằng chỉ có việc chứng minh thành tích học tập mới giúp người ta thật sự thay đổi quan điểm về mình. Và, thế là tôi lao đầu vào học, học trên lớp và học thêm điên cuồng, cố chứng minh bản thân bằng mọi cách rằng người ta ít nhất nên nhìn vào cái chuyện học tập mà cẩn thận cái miệng của họ lại. Thế nhưng, có một vài chuyện khiến tôi nhận ra một thực tế: “**càng cố chứng minh rằng mình phù hợp với ai đó vốn chẳng để bạn vào mắt, thì cái nhận được thường ít khi là lòng biết ơn và sự tôn trọng…**”. Điều đầu tiên, chính là dù tôi cố gắng học tới đâu, thì cái thái độ kiên nhẫn ấy rất xung khắc với mục tiêu thành tích mà nhà trường cố nhồi vào đầu, nên sau đó, ở các kì thi khảo sát thì có nhiều người học tốt hơn và cao hơn. Với họ, việc đạt điểm cao là nghĩa vụ phải làm, muốn học tốt và lớp tốt chỉ có đạt điểm cao trong kì thi khảo sát, và tôi nhìn thấy điều đó trong cái áp lực điểm số mà tôi từng phải trải qua, “peer-pressure” như vậy đấy. Điều thứ hai, có lẽ đau đớn hơn, chính là việc tôi nhận ra nếu như tôi đã mang một tiếng xấu, thì người ta sẽ nghĩ đủ mọi thứ để khớp với cái tiếng xấu ấy và đinh ninh là nó đúng, dù bạn rất cố gắng để khiến cái hình ảnh về bạn trở nên tích cực hơn. Và bạn biết cái gì không, người ta tuyên truyền đủ thứ và vẽ đủ hình ảnh mà tới mức, khi tôi cố gắng gần một ai đó, làm bạn với ai đó, cái khiến tôi phát tức chính là cái hình ảnh bị tiêm nhiễm về tôi khi ấy. Họ nói rằng: “anh là một quái vật, một kẻ lập dị, chỉ có học giỏi mà thôi”. Tôi vô cùng thấy không vui vẻ trước cái hình ảnh bị thêu dệt ấy, vì đến cả tôi cũng chả nghĩ được cái cố gắng để học giỏi, hóa ra với họ không khác gì một trò đùa để họ thích xào nấu theo cách họ muốn. Đó chính là câu nhận xét cay đắng nhất ở đầu đề: **hóa ra học giỏi cũng không khiến người khác tôn trọng bạn hơn, và thật sự vô nghĩa khi phải sống với một hình ảnh chết tiệt như thế**…
 
 ---
+
+> you put me on a pedestal and tell me i'm the best...  
+> raise me up into the sky until i'm short of breath  
+> fill me up with confidence, i say what's in my chest  
+> spill my words and tear me down until there's nothing left  
+> rearrange the pieces just to fit me with the rest  
+> 
+> but what if i, what if i trip?  
+> what if i, what if i fall???  
+> then am i a monster?  
+> just let me know..  
+>
+> and what if i, what if i sin?  
+> what if i, what if i break?  
+> then am i a monster  
+> just let me know...  
+>
+> Shawn Mendes - "Monster" - "Wonder"
 
 Cuối cùng, sống trong một thế giới không chấp nhận sự khác biệt, kể cả có là vua chúa cũng chẳng khác gì một nhà tù. Nó giống như kiểu: “**vì vị vua này quá khác biệt so với các vị vua trước, nên hắn là một bạo quân…**”. Thực lòng, tôi rất muốn một cuộc sống bình thường như bao người, kể cả nếu như không ai thích những gì tôi quan tâm thì tôi cũng mong người ta không nhìn vào những cái chuyện đó mà chửi rủa liên tục. Tôi mang một hình ảnh chán nản như thế, người ta chỉ thích câu chuyện về điểm số, muốn tôi phải điên đầu sống bằng điểm số, còn cái cuộc sống cá nhân của tôi, thì tôi ném hết vào học thêm rồi, tôi còn gì cho tôi nữa… Cảm giác mà mỗi khi mình muốn nói điều gì, chẳng một ai lắng nghe, có khóc đến sưng cả mắt cũng không ai nghe thấy, có chứng minh năng lực cũng chẳng thay đổi cái nhìn của họ. Cái số của tôi là vậy…, càng chứng minh năng lực, người ta càng thích tô vẽ. Tôi không mong rằng người khác phải ưa tôi hoàn toàn hay chấp nhận toàn bộ quan điểm sống, nhưng tôi cảm thấy cái việc người ta mang những khác biệt ấy, vẽ cho nó đủ thứ xấu xa, chính là biểu hiện kinh khủng nhất của một xã hội vận hành bằng định kiến, cũng như không hề có bất cứ sự tôn trọng nào cả….
 
